@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-15T00:39:34.808Z</id>
+    <id>urn:2021-07-15T06:25:41.843Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T00:39:34.808Z</updated>
+    <updated>2021-07-15T06:25:41.843Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www.freecodecamp.org/news/stop-email-tracking-pixel-disable-images-gmail/"/>
         <updated>2021-07-14T17:51:43.000Z</updated>
         <summary type="html"><![CDATA[Did you know that marketers (and even hackers) can use images to track you in your email inbox? Here's how so-called tracking pixels work: Someone creates an image and host it on their server. Often a transparent 1x1 "tracking pixel" that you don't even see.They send you an email]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We&#x27;re Building a Data Science Curriculum with Advanced Mathematics and Machine Learning]]></title>
+        <id>5ff5461e7af2371468bb7ece</id>
+        <link href="https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/"/>
+        <updated>2021-07-14T16:27:00.000Z</updated>
+        <summary type="html"><![CDATA[We're expanding freeCodeCamp's Python section into a full-blown data science curriculum. Currently, these data science skills are only taught at a few universities around the world. Our goal is for anyone, anywhere to be able to learn these advanced mathematics and machine learning concepts and that data scientists use in]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -215,16 +225,6 @@ The post Using the Specificity of :where() as a CSS Reset appeared first on CSS-
         <link href="https://www.freecodecamp.org/news/ai-vs-ml-whats-the-difference/"/>
         <updated>2021-07-12T11:46:56.000Z</updated>
         <summary type="html"><![CDATA[Artificial intelligence and machine learning are two popular and often hyped terms these days. And people often use them interchangeably to describe an intelligent software or system.  But even though both AI and ML are based on statistics and mathematics, they are not the same thing. In this article, you]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google BigQuery Beginner&#x27;s Guide – How to Analyze Large Datasets]]></title>
-        <id>60e76d88134ad707be00f347</id>
-        <link href="https://www.freecodecamp.org/news/google-bigquery-beginners-guide/"/>
-        <updated>2021-07-12T11:26:39.000Z</updated>
-        <summary type="html"><![CDATA[Gone are the days of storing your data in a CSV file or an Excel spreadsheet. If you want to quickly analyze millions of data rows in seconds, BigQuery is the way to go. In this getting started guide, we'll learn about BigQuery and how we can use it to]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

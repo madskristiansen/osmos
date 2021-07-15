@@ -54,7 +54,7 @@
           "description": "Starting with Version 15, Safari supports the theme-color <meta> tag both on macOS and iOS. That’s exciting news because now the first desktop browser supports this <meta> tag and it also supports the media attribute and the prefers-color-scheme media feature.…\nThe post Meta Theme Color and Trickery appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/meta-theme-color-and-trickery/",
           "publishedOn": "2021-07-13T14:58:33.000Z",
-          "wordCount": 2679,
+          "wordCount": 2735,
           "title": "Meta Theme Color and Trickery"
         },
         {
@@ -72,7 +72,7 @@
           "description": "The reasons that are often cited that make container queries difficult or impossible is things like infinite loops—e.g. changing the width of an element, invalidating a container query, which changes the width again, which makes the container query take effect, …\nThe post Meet `:has`, A Native CSS Parent Selector appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-07-12T19:45:00.000Z",
-          "wordCount": 2795,
+          "wordCount": 2793,
           "title": "Meet `:has`, A Native CSS Parent Selector"
         },
         {
@@ -169,7 +169,7 @@
           "description": "Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.",
           "link": "https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
           "publishedOn": "2021-07-14T13:30:00.000Z",
-          "wordCount": 5289,
+          "wordCount": 5285,
           "title": "Frustrating Design Patterns: Broken Filters",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0c5f2df3-3d78-4563-a599-8c924604e84a/7-frustrating-design-patterns.png",
@@ -183,7 +183,7 @@
           "description": "In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.",
           "link": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
           "publishedOn": "2021-07-13T12:00:00.000Z",
-          "wordCount": 3269,
+          "wordCount": 3273,
           "title": "Building A Dynamic Header With Intersection Observer",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67cc7303-3dc9-4d67-b0f4-b6f77783380f/dynamic-header-intersection-observer.jpg",
@@ -211,7 +211,7 @@
           "description": "CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.",
           "link": "https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/",
           "publishedOn": "2021-07-12T13:30:00.000Z",
-          "wordCount": 3621,
+          "wordCount": 3623,
           "title": "Refactoring CSS: Introduction (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8b722a7-791f-433e-8d76-f0382d387e82/refactoring-css-introduction-part1.jpg",
@@ -225,7 +225,7 @@
           "description": "Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.",
           "link": "https://smashingmagazine.com/2021/07/strong-case-for-accessibility/",
           "publishedOn": "2021-07-09T10:30:00.000Z",
-          "wordCount": 2956,
+          "wordCount": 2968,
           "title": "Making A Strong Case For Accessibility",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c226eaa-3251-4d02-9ade-96a88ad759fc/strong-case-for-accessibility.jpg",
@@ -239,7 +239,7 @@
           "description": "Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.",
           "link": "https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
           "publishedOn": "2021-07-08T11:00:00.000Z",
-          "wordCount": 4787,
+          "wordCount": 4792,
           "title": "Tools And Practices To Speed Up The Vue.js Development Process",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83768020-8004-41f2-b9a9-14b86c18eb4d/tools-practices-speed-up-vuejs-development-process.jpg",
@@ -253,7 +253,7 @@
           "description": "Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.",
           "link": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
           "publishedOn": "2021-07-07T11:00:00.000Z",
-          "wordCount": 4065,
+          "wordCount": 4069,
           "title": "An Introduction To Figma Interactive Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a8390d0-26c0-4476-bc00-19e8c89b60c5/introduction-figma-interactive-components.jpg",
@@ -281,7 +281,7 @@
           "description": "In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.",
           "link": "https://smashingmagazine.com/2021/07/hsl-colors-css/",
           "publishedOn": "2021-07-05T10:30:00.000Z",
-          "wordCount": 1596,
+          "wordCount": 1600,
           "title": "Using HSL Colors In CSS",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/73607a1e-fe7f-47ea-aada-df79342d823a/hsl-colors-css.jpg",
@@ -295,7 +295,7 @@
           "description": "With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.",
           "link": "https://smashingmagazine.com/2021/07/email-testing-flow/",
           "publishedOn": "2021-07-02T10:30:00.000Z",
-          "wordCount": 4219,
+          "wordCount": 4222,
           "title": "Email Testing Flow As It Should Be",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57a53d31-9651-4d88-b2fe-f8de70c08da1/email-testing-flow.jpg",
@@ -323,7 +323,7 @@
           "description": "The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!",
           "link": "https://smashingmagazine.com/2021/06/web-workers-2021/",
           "publishedOn": "2021-06-30T12:00:00.000Z",
-          "wordCount": 4757,
+          "wordCount": 4754,
           "title": "The State Of Web Workers In 2021",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/379e4510-b4ab-4fde-9a5d-122738be19b2/web-workers-2021.jpg",
@@ -337,7 +337,7 @@
           "description": "Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
           "publishedOn": "2021-06-30T09:30:00.000Z",
-          "wordCount": 3717,
+          "wordCount": 3726,
           "title": "The Many Shades Of July (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/814b3b6e-1510-4c12-8504-433157173355/july-21-against-the-current-preview-opt.png",
@@ -379,7 +379,7 @@
           "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
           "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
           "publishedOn": "2021-06-28T10:30:00.000Z",
-          "wordCount": 2525,
+          "wordCount": 2544,
           "title": "Creating Custom Emmet Snippets In VS Code",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
@@ -393,7 +393,7 @@
           "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
           "link": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
           "publishedOn": "2021-06-25T11:30:00.000Z",
-          "wordCount": 5468,
+          "wordCount": 5454,
           "title": "Creating A Multi-Author Blog With Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28d0f286-9b01-4f8d-aede-01248ba3491d/creating-multi-author-blog-nextjs.jpg",
@@ -407,7 +407,7 @@
           "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
           "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
           "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 3549,
+          "wordCount": 3545,
           "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
@@ -421,7 +421,7 @@
           "description": "In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.",
           "link": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
           "publishedOn": "2021-06-24T14:00:00.000Z",
-          "wordCount": 4188,
+          "wordCount": 4184,
           "title": "The Rise Of Design Thinking As A Problem Solving Strategy",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e5ea9274-2ff4-49d8-b259-a5f0904cec77/design-thinking-problem-solving-strategy.jpg",
@@ -477,7 +477,7 @@
           "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
           "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
           "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5367,
+          "wordCount": 5378,
           "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
@@ -491,7 +491,7 @@
           "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
           "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
           "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3441,
+          "wordCount": 3427,
           "title": "An Alternative Voice UI To Voice Assistants",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
@@ -505,7 +505,7 @@
           "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
           "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
           "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3983,
+          "wordCount": 3985,
           "title": "Client-Side Routing In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
@@ -533,7 +533,7 @@
           "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
           "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4108,
+          "wordCount": 4111,
           "title": "A Complete Guide To Accessibility Tooling",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
@@ -556,6 +556,15 @@
           "publishedOn": "2021-07-14T17:51:43.000Z",
           "wordCount": 577,
           "title": "How to Stop Email Tracking in Gmail – Disable Images by Default"
+        },
+        {
+          "id": "5ff5461e7af2371468bb7ece",
+          "author": null,
+          "description": "We're expanding freeCodeCamp's Python section into a full-blown data science curriculum. Currently, these data science skills are only taught at a few universities around the world. Our goal is for anyone, anywhere to be able to learn these advanced mathematics and machine learning concepts and that data scientists use in",
+          "link": "https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/",
+          "publishedOn": "2021-07-14T16:27:00.000Z",
+          "wordCount": 1575,
+          "title": "We&#x27;re Building a Data Science Curriculum with Advanced Mathematics and Machine Learning"
         },
         {
           "id": "60ebb55be8ee9b08300ed731",
@@ -628,15 +637,6 @@
           "publishedOn": "2021-07-12T11:46:56.000Z",
           "wordCount": 899,
           "title": "AI vs ML – What’s the Difference Between Artificial Intelligence and Machine Learning?"
-        },
-        {
-          "id": "60e76d88134ad707be00f347",
-          "author": null,
-          "description": "Gone are the days of storing your data in a CSV file or an Excel spreadsheet. If you want to quickly analyze millions of data rows in seconds, BigQuery is the way to go. In this getting started guide, we'll learn about BigQuery and how we can use it to",
-          "link": "https://www.freecodecamp.org/news/google-bigquery-beginners-guide/",
-          "publishedOn": "2021-07-12T11:26:39.000Z",
-          "wordCount": 1208,
-          "title": "Google BigQuery Beginner&#x27;s Guide – How to Analyze Large Datasets"
         }
       ]
     }
