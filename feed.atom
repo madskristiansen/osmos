@@ -1,267 +1,268 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-15T06:30:26.449Z</id>
+    <id>urn:2021-07-16T00:52:00.663Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T06:30:26.449Z</updated>
+    <updated>2021-07-16T00:52:00.663Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[The Well-Tempered Traveler]]></title>
-        <id>https://news.ycombinator.com/item?id=27841209</id>
-        <link href="https://www.google.com/welltemperedtraveler/"/>
-        <updated>2021-07-15T03:50:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.google.com/welltemperedtraveler/
-Comments URL: https://news.ycombinator.com/item?id=27841209
-Points: 165
-# Comments: 61]]></summary>
-        <author>
-            <name>nvahalik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poetry as a Surveillance Survival Guide]]></title>
-        <id>https://news.ycombinator.com/item?id=27840902</id>
-        <link href="https://pursuit.unimelb.edu.au/articles/poetry-as-a-surveillance-survival-guide"/>
-        <updated>2021-07-15T02:41:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pursuit.unimelb.edu.au/articles/poetry-as-a-surveillance-survival-guide
-Comments URL: https://news.ycombinator.com/item?id=27840902
-Points: 8
+        <title type="html"><![CDATA[Too Smart]]></title>
+        <id>https://news.ycombinator.com/item?id=27851439</id>
+        <link href="https://www.collaborativefund.com/blog/too-smart/"/>
+        <updated>2021-07-15T23:44:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.collaborativefund.com/blog/too-smart/
+Comments URL: https://news.ycombinator.com/item?id=27851439
+Points: 6
 # Comments: 0]]></summary>
         <author>
-            <name>enme</name>
+            <name>enigmatic02</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The biological basis for sex differences in autoimmune diseases]]></title>
-        <id>https://news.ycombinator.com/item?id=27840860</id>
-        <link href="https://www.nature.com/articles/d41586-021-01836-9"/>
-        <updated>2021-07-15T02:33:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01836-9
-Comments URL: https://news.ycombinator.com/item?id=27840860
-Points: 24
-# Comments: 8]]></summary>
-        <author>
-            <name>sohkamyung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft exec: “Summary of meeting with Steve Jobs"]]></title>
-        <id>https://news.ycombinator.com/item?id=27840752</id>
-        <link href="https://twitter.com/TechEmails/status/1412448981574209537"/>
-        <updated>2021-07-15T02:09:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/TechEmails/status/1412448981574209537
-Comments URL: https://news.ycombinator.com/item?id=27840752
-Points: 109
+        <title type="html"><![CDATA[Intel in talks to buy GlobalFoundries for about $30B]]></title>
+        <id>https://news.ycombinator.com/item?id=27851314</id>
+        <link href="https://www.reuters.com/business/intel-talks-buy-globalfoundries-about-30-billion-wsj-2021-07-15/"/>
+        <updated>2021-07-15T23:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/intel-talks-buy-globalfoundries-about-30-billion-wsj-2021-07-15/
+Comments URL: https://news.ycombinator.com/item?id=27851314
+Points: 125
 # Comments: 39]]></summary>
         <author>
-            <name>ent101</name>
+            <name>hi5eyes</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An industry that unmasks people at scale]]></title>
-        <id>https://news.ycombinator.com/item?id=27840603</id>
-        <link href="https://www.vice.com/en/article/epnmvz/industry-unmasks-at-scale-maid-to-pii"/>
-        <updated>2021-07-15T01:40:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/epnmvz/industry-unmasks-at-scale-maid-to-pii
-Comments URL: https://news.ycombinator.com/item?id=27840603
-Points: 23
-# Comments: 3]]></summary>
+        <title type="html"><![CDATA[Canada to donate 17.7M AstraZeneca doses]]></title>
+        <id>https://news.ycombinator.com/item?id=27851296</id>
+        <link href="https://www.cbc.ca/news/politics/covax-donations-astrazeneca-surplus-1.6099072"/>
+        <updated>2021-07-15T23:28:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cbc.ca/news/politics/covax-donations-astrazeneca-surplus-1.6099072
+Comments URL: https://news.ycombinator.com/item?id=27851296
+Points: 13
+# Comments: 1]]></summary>
         <author>
-            <name>walterbell</name>
+            <name>colinprince</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Michael, Dwight and Andy: The Three Aesthetics of the Creative Class]]></title>
-        <id>https://news.ycombinator.com/item?id=27839347</id>
-        <link href="https://alexdanco.com/2021/07/08/michael-dwight-and-andy-the-three-aesthetics-of-the-creative-class/"/>
-        <updated>2021-07-14T22:38:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://alexdanco.com/2021/07/08/michael-dwight-and-andy-the-three-aesthetics-of-the-creative-class/
-Comments URL: https://news.ycombinator.com/item?id=27839347
-Points: 17
+        <title type="html"><![CDATA[My take on the study from MIT that predicts “societal collapse”]]></title>
+        <id>https://news.ycombinator.com/item?id=27850860</id>
+        <link href="https://dana11235.medium.com/my-take-on-the-study-from-mit-that-predicts-societal-collapse-b351d8fbd4c2"/>
+        <updated>2021-07-15T22:28:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dana11235.medium.com/my-take-on-the-study-from-mit-that-predicts-societal-collapse-b351d8fbd4c2
+Comments URL: https://news.ycombinator.com/item?id=27850860
+Points: 62
+# Comments: 68]]></summary>
+        <author>
+            <name>dlevine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the evilness of feature branching]]></title>
+        <id>https://news.ycombinator.com/item?id=27850385</id>
+        <link href="https://thinkinglabs.io/articles/2021/07/14/on-the-evilness-of-feature-branching-a-tale-of-two-teams.html"/>
+        <updated>2021-07-15T21:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thinkinglabs.io/articles/2021/07/14/on-the-evilness-of-feature-branching-a-tale-of-two-teams.html
+Comments URL: https://news.ycombinator.com/item?id=27850385
+Points: 52
+# Comments: 52]]></summary>
+        <author>
+            <name>sam345</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to unlearn a disease]]></title>
+        <id>https://news.ycombinator.com/item?id=27850277</id>
+        <link href="https://nautil.us/issue/103/healthy-communication/how-to-unlearn-a-disease-rp"/>
+        <updated>2021-07-15T21:20:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nautil.us/issue/103/healthy-communication/how-to-unlearn-a-disease-rp
+Comments URL: https://news.ycombinator.com/item?id=27850277
+Points: 60
 # Comments: 2]]></summary>
         <author>
-            <name>jger15</name>
+            <name>dnetesn</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Art of the Romanian Haystack]]></title>
-        <id>https://news.ycombinator.com/item?id=27839161</id>
-        <link href="https://www.kuriositas.com/2013/09/the-art-of-romanian-haystack.html"/>
-        <updated>2021-07-14T22:19:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.kuriositas.com/2013/09/the-art-of-romanian-haystack.html
-Comments URL: https://news.ycombinator.com/item?id=27839161
-Points: 110
-# Comments: 22]]></summary>
-        <author>
-            <name>comeagain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lowkey (YC S18) is hiring a senior front-end engineer who likes games]]></title>
-        <id>https://news.ycombinator.com/item?id=27838379</id>
-        <link href="https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748"/>
-        <updated>2021-07-14T21:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748
-Comments URL: https://news.ycombinator.com/item?id=27838379
+        <title type="html"><![CDATA[Motion (YC W20) is hiring a lead fullstack engineer to change how we manage time]]></title>
+        <id>https://news.ycombinator.com/item?id=27850076</id>
+        <link href="https://www.workatastartup.com/jobs/45050"/>
+        <updated>2021-07-15T21:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/45050
+Comments URL: https://news.ycombinator.com/item?id=27850076
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>jessezhang</name>
+            <name>ethanyu94</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iOS zero-day let SolarWinds hackers compromise fully updated iPhones]]></title>
-        <id>https://news.ycombinator.com/item?id=27837941</id>
-        <link href="https://arstechnica.com/gadgets/2021/07/solarwinds-hackers-used-an-ios-0-day-to-steal-google-and-microsoft-credentials/"/>
-        <updated>2021-07-14T20:22:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/07/solarwinds-hackers-used-an-ios-0-day-to-steal-google-and-microsoft-credentials/
-Comments URL: https://news.ycombinator.com/item?id=27837941
-Points: 210
-# Comments: 69]]></summary>
+        <title type="html"><![CDATA[Paradox Game Converters Collected on GitHub]]></title>
+        <id>https://news.ycombinator.com/item?id=27849699</id>
+        <link href="https://github.com/ParadoxGameConverters"/>
+        <updated>2021-07-15T20:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ParadoxGameConverters
+Comments URL: https://news.ycombinator.com/item?id=27849699
+Points: 15
+# Comments: 0]]></summary>
         <author>
-            <name>wil421</name>
+            <name>PeterCorless</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Storage Crisis]]></title>
-        <id>https://news.ycombinator.com/item?id=27837570</id>
-        <link href="http://blogs.harvard.edu/doc/2021/06/24/a-storage-crisis/"/>
-        <updated>2021-07-14T19:49:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://blogs.harvard.edu/doc/2021/06/24/a-storage-crisis/
-Comments URL: https://news.ycombinator.com/item?id=27837570
-Points: 96
-# Comments: 125]]></summary>
+        <title type="html"><![CDATA[Online ID / age verification: the death of online search]]></title>
+        <id>https://news.ycombinator.com/item?id=27849395</id>
+        <link href="https://decoded.legal/blog/2021/07/online-id-age-verification-the-death-of-online-search-and-non-browser-web-access"/>
+        <updated>2021-07-15T20:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://decoded.legal/blog/2021/07/online-id-age-verification-the-death-of-online-search-and-non-browser-web-access
+Comments URL: https://news.ycombinator.com/item?id=27849395
+Points: 103
+# Comments: 79]]></summary>
         <author>
-            <name>vikrum</name>
+            <name>dredmorbius</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[High-resolution holographic interface [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=27836037</id>
-        <link href="https://lookingglassfactory.com/8k"/>
-        <updated>2021-07-14T17:54:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lookingglassfactory.com/8k
-Comments URL: https://news.ycombinator.com/item?id=27836037
-Points: 69
-# Comments: 42]]></summary>
-        <author>
-            <name>danboarder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goodbye, Fleets]]></title>
-        <id>https://news.ycombinator.com/item?id=27835775</id>
-        <link href="https://blog.twitter.com/en_us/topics/product/2021/goodbye-fleets"/>
-        <updated>2021-07-14T17:35:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.twitter.com/en_us/topics/product/2021/goodbye-fleets
-Comments URL: https://news.ycombinator.com/item?id=27835775
-Points: 334
-# Comments: 259]]></summary>
-        <author>
-            <name>mattyb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Increasing HTTPS Adoption]]></title>
-        <id>https://news.ycombinator.com/item?id=27835506</id>
-        <link href="https://blog.chromium.org/2021/07/increasing-https-adoption.html"/>
-        <updated>2021-07-14T17:12:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.chromium.org/2021/07/increasing-https-adoption.html
-Comments URL: https://news.ycombinator.com/item?id=27835506
-Points: 120
-# Comments: 161]]></summary>
-        <author>
-            <name>inian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Blender Studio Pipeline]]></title>
-        <id>https://news.ycombinator.com/item?id=27835489</id>
-        <link href="https://cloud.blender.org/blog/the-blender-studio-pipeline/"/>
-        <updated>2021-07-14T17:11:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cloud.blender.org/blog/the-blender-studio-pipeline/
-Comments URL: https://news.ycombinator.com/item?id=27835489
-Points: 137
-# Comments: 3]]></summary>
+        <title type="html"><![CDATA[Algorithms for Cartographic Visualization (2012) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27849366</id>
+        <link href="https://www.win.tue.nl/~kverbeek/PhDThesis.pdf"/>
+        <updated>2021-07-15T19:57:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.win.tue.nl/~kverbeek/PhDThesis.pdf
+Comments URL: https://news.ycombinator.com/item?id=27849366
+Points: 17
+# Comments: 1]]></summary>
         <author>
             <name>Tomte</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows 365 Cloud PC]]></title>
-        <id>https://news.ycombinator.com/item?id=27834024</id>
-        <link href="https://www.microsoft.com/en-us/microsoft-365/blog/2021/07/14/introducing-a-new-era-of-hybrid-personal-computing-the-windows-365-cloud-pc/"/>
-        <updated>2021-07-14T15:16:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.microsoft.com/en-us/microsoft-365/blog/2021/07/14/introducing-a-new-era-of-hybrid-personal-computing-the-windows-365-cloud-pc/
-Comments URL: https://news.ycombinator.com/item?id=27834024
-Points: 197
-# Comments: 149]]></summary>
+        <title type="html"><![CDATA[Show HN: Pay It Forward – P2P Crowdfunding for African Entrepreneurs]]></title>
+        <id>https://news.ycombinator.com/item?id=27848250</id>
+        <link href="https://www.zidisha.org/"/>
+        <updated>2021-07-15T18:28:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.zidisha.org/
+Comments URL: https://news.ycombinator.com/item?id=27848250
+Points: 37
+# Comments: 20]]></summary>
         <author>
-            <name>WalterSobchak</name>
+            <name>jkurnia</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The unreasonable effectiveness of just showing up everyday]]></title>
-        <id>https://news.ycombinator.com/item?id=27833064</id>
-        <link href="https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/"/>
-        <updated>2021-07-14T13:59:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/
-Comments URL: https://news.ycombinator.com/item?id=27833064
-Points: 1612
-# Comments: 511]]></summary>
+        <title type="html"><![CDATA[Is This Prime?]]></title>
+        <id>https://news.ycombinator.com/item?id=27848197</id>
+        <link href="https://isthisprime.com/game/"/>
+        <updated>2021-07-15T18:23:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://isthisprime.com/game/
+Comments URL: https://news.ycombinator.com/item?id=27848197
+Points: 108
+# Comments: 67]]></summary>
         <author>
-            <name>karterk</name>
+            <name>jordigh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Monodraw: ASCII art editor for the Mac]]></title>
-        <id>https://news.ycombinator.com/item?id=27832910</id>
-        <link href="https://monodraw.helftone.com/"/>
-        <updated>2021-07-14T13:44:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://monodraw.helftone.com/
-Comments URL: https://news.ycombinator.com/item?id=27832910
-Points: 304
-# Comments: 87]]></summary>
+        <title type="html"><![CDATA[Alphafold]]></title>
+        <id>https://news.ycombinator.com/item?id=27848186</id>
+        <link href="https://github.com/deepmind/alphafold"/>
+        <updated>2021-07-15T18:22:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/deepmind/alphafold
+Comments URL: https://news.ycombinator.com/item?id=27848186
+Points: 348
+# Comments: 89]]></summary>
         <author>
-            <name>keehun</name>
+            <name>matejmecka</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebAssembly from Scratch: From FizzBuzz to DooM]]></title>
-        <id>https://news.ycombinator.com/item?id=27832115</id>
-        <link href="https://github.com/diekmann/wasm-fizzbuzz"/>
-        <updated>2021-07-14T12:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/diekmann/wasm-fizzbuzz
-Comments URL: https://news.ycombinator.com/item?id=27832115
-Points: 456
-# Comments: 76]]></summary>
+        <title type="html"><![CDATA[Generating JSON Directly from Postgres]]></title>
+        <id>https://news.ycombinator.com/item?id=27848085</id>
+        <link href="https://blog.crunchydata.com/blog/generating-json-directly-from-postgres"/>
+        <updated>2021-07-15T18:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.crunchydata.com/blog/generating-json-directly-from-postgres
+Comments URL: https://news.ycombinator.com/item?id=27848085
+Points: 144
+# Comments: 90]]></summary>
         <author>
-            <name>popitter</name>
+            <name>izend</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Adafruit Feather and FeatherWing System]]></title>
-        <id>https://news.ycombinator.com/item?id=27831385</id>
-        <link href="https://learn.adafruit.com/adafruit-feather/feather-specification"/>
-        <updated>2021-07-14T10:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://learn.adafruit.com/adafruit-feather/feather-specification
-Comments URL: https://news.ycombinator.com/item?id=27831385
-Points: 19
-# Comments: 5]]></summary>
+        <title type="html"><![CDATA[Soldiers speak out about being blocked from repairing equipment by contractors]]></title>
+        <id>https://news.ycombinator.com/item?id=27847096</id>
+        <link href="https://mattstoller.substack.com/p/a-real-s-show-soldiers-angrily-speak"/>
+        <updated>2021-07-15T17:14:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mattstoller.substack.com/p/a-real-s-show-soldiers-angrily-speak
+Comments URL: https://news.ycombinator.com/item?id=27847096
+Points: 322
+# Comments: 135]]></summary>
         <author>
-            <name>Bluestein</name>
+            <name>danso</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Launch HN: Onfolk (YC S21) – Modern HR and Payroll in One Place (For the UK)]]></title>
-        <id>https://news.ycombinator.com/item?id=27830978</id>
-        <link href="https://news.ycombinator.com/item?id=27830978"/>
-        <updated>2021-07-14T08:47:55.000Z</updated>
-        <summary type="html"><![CDATA[Hey, we’re Naz and Charlie! We're building Onfolk (https://onfolk.com/). We’re a couple of engineers who discovered that payroll in the UK is pretty backward and that building good software can raise the bar. You can check out some pics on our Product Hunt post [1] or see a quick video [2].
-To set the scene: we were software engineers at Monzo for 4 years. Joined at 400k customers, left at 5.5M. We took voluntary furlough in April 2020 ("furlough" is the UK government’s scheme for keeping workers paid for a bit so that companies don't have to lay them off). During that time, Monzo changed payroll provider. The old one sucked and had errors. The new one sucked and had errors. It took a consultant a year to implement the new one.
-We wondered how on earth a company with our funding, whose mai…]]></summary>
+        <title type="html"><![CDATA[Valve Steam Deck]]></title>
+        <id>https://news.ycombinator.com/item?id=27846969</id>
+        <link href="https://www.steamdeck.com/en/"/>
+        <updated>2021-07-15T17:03:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.steamdeck.com/en/
+Comments URL: https://news.ycombinator.com/item?id=27846969
+Points: 1571
+# Comments: 751]]></summary>
         <author>
-            <name>4thstreet</name>
+            <name>homarp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How many real numbers exist? New proof moves closer to an answer]]></title>
+        <id>https://news.ycombinator.com/item?id=27845576</id>
+        <link href="https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/"/>
+        <updated>2021-07-15T15:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/
+Comments URL: https://news.ycombinator.com/item?id=27845576
+Points: 316
+# Comments: 210]]></summary>
+        <author>
+            <name>theafh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Curve25519 Hardware Accelerator]]></title>
+        <id>https://news.ycombinator.com/item?id=27845274</id>
+        <link href="https://www.bunniestudios.com/blog/?p=6140"/>
+        <updated>2021-07-15T14:37:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bunniestudios.com/blog/?p=6140
+Comments URL: https://news.ycombinator.com/item?id=27845274
+Points: 180
+# Comments: 44]]></summary>
+        <author>
+            <name>parsecs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Weekday (YC W21) – Hire engineers vouched for by other engineers]]></title>
+        <id>https://news.ycombinator.com/item?id=27844728</id>
+        <link href="https://news.ycombinator.com/item?id=27844728"/>
+        <updated>2021-07-15T13:54:23.000Z</updated>
+        <summary type="html"><![CDATA[Hey HN. We are Amit, Chetan, Anubhav and Hari, the cofounders of Weekday (https://www.weekday.works). We are building a recruitment platform centered around recommendations. We help companies hire engineers who are vouched for by other engineers.
+Discovering top talent is challenging. It's easy to check for great credentials, but that's not the same thing as on-ground reality and achievement. It works the other way, too: someone with credentials may not be a great contributor, and screening for credentials eliminates many contributors who are.
+Our company is based on the insight that great contributors tend to know other great contributors and are in a position to recommend them. We believe that a network-driven approach can help to discover high-caliber candidates.
+We chanced upon this id…]]></summary>
+        <author>
+            <name>amitsy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook's “see no evil” strategy]]></title>
+        <id>https://news.ycombinator.com/item?id=27844470</id>
+        <link href="https://www.axios.com/facebooks-see-no-evil-strategy-6db4e714-ba14-4404-bd41-c4539bc8126e.html"/>
+        <updated>2021-07-15T13:35:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.axios.com/facebooks-see-no-evil-strategy-6db4e714-ba14-4404-bd41-c4539bc8126e.html
+Comments URL: https://news.ycombinator.com/item?id=27844470
+Points: 136
+# Comments: 137]]></summary>
+        <author>
+            <name>samizdis</name>
         </author>
     </entry>
 </feed>
