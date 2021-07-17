@@ -1,268 +1,267 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-16T00:52:00.663Z</id>
+    <id>urn:2021-07-17T00:49:50.990Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T00:52:00.663Z</updated>
+    <updated>2021-07-17T00:49:50.990Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Too Smart]]></title>
-        <id>https://news.ycombinator.com/item?id=27851439</id>
-        <link href="https://www.collaborativefund.com/blog/too-smart/"/>
-        <updated>2021-07-15T23:44:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.collaborativefund.com/blog/too-smart/
-Comments URL: https://news.ycombinator.com/item?id=27851439
-Points: 6
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[The Computer Scientist Training AI to Think with Analogies]]></title>
+        <id>https://news.ycombinator.com/item?id=27861991</id>
+        <link href="https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/"/>
+        <updated>2021-07-16T22:38:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/
+Comments URL: https://news.ycombinator.com/item?id=27861991
+Points: 22
+# Comments: 9]]></summary>
         <author>
-            <name>enigmatic02</name>
+            <name>jonbaer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel in talks to buy GlobalFoundries for about $30B]]></title>
-        <id>https://news.ycombinator.com/item?id=27851314</id>
-        <link href="https://www.reuters.com/business/intel-talks-buy-globalfoundries-about-30-billion-wsj-2021-07-15/"/>
-        <updated>2021-07-15T23:30:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/intel-talks-buy-globalfoundries-about-30-billion-wsj-2021-07-15/
-Comments URL: https://news.ycombinator.com/item?id=27851314
-Points: 125
-# Comments: 39]]></summary>
+        <title type="html"><![CDATA[Apple removes ‘Fakespot’ app from iOS App Store following Amazon request]]></title>
+        <id>https://news.ycombinator.com/item?id=27861813</id>
+        <link href="https://9to5mac.com/2021/07/16/apple-removes-fakespot-app-from-ios-app-store-following-amazon-request/"/>
+        <updated>2021-07-16T22:11:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://9to5mac.com/2021/07/16/apple-removes-fakespot-app-from-ios-app-store-following-amazon-request/
+Comments URL: https://news.ycombinator.com/item?id=27861813
+Points: 117
+# Comments: 41]]></summary>
         <author>
-            <name>hi5eyes</name>
+            <name>basisword</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canada to donate 17.7M AstraZeneca doses]]></title>
-        <id>https://news.ycombinator.com/item?id=27851296</id>
-        <link href="https://www.cbc.ca/news/politics/covax-donations-astrazeneca-surplus-1.6099072"/>
-        <updated>2021-07-15T23:28:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cbc.ca/news/politics/covax-donations-astrazeneca-surplus-1.6099072
-Comments URL: https://news.ycombinator.com/item?id=27851296
-Points: 13
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[Last Mile Redis]]></title>
+        <id>https://news.ycombinator.com/item?id=27861510</id>
+        <link href="https://fly.io/blog/last-mile-redis/"/>
+        <updated>2021-07-16T21:36:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fly.io/blog/last-mile-redis/
+Comments URL: https://news.ycombinator.com/item?id=27861510
+Points: 72
+# Comments: 16]]></summary>
         <author>
-            <name>colinprince</name>
+            <name>pw</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My take on the study from MIT that predicts “societal collapse”]]></title>
-        <id>https://news.ycombinator.com/item?id=27850860</id>
-        <link href="https://dana11235.medium.com/my-take-on-the-study-from-mit-that-predicts-societal-collapse-b351d8fbd4c2"/>
-        <updated>2021-07-15T22:28:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dana11235.medium.com/my-take-on-the-study-from-mit-that-predicts-societal-collapse-b351d8fbd4c2
-Comments URL: https://news.ycombinator.com/item?id=27850860
-Points: 62
-# Comments: 68]]></summary>
-        <author>
-            <name>dlevine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the evilness of feature branching]]></title>
-        <id>https://news.ycombinator.com/item?id=27850385</id>
-        <link href="https://thinkinglabs.io/articles/2021/07/14/on-the-evilness-of-feature-branching-a-tale-of-two-teams.html"/>
-        <updated>2021-07-15T21:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thinkinglabs.io/articles/2021/07/14/on-the-evilness-of-feature-branching-a-tale-of-two-teams.html
-Comments URL: https://news.ycombinator.com/item?id=27850385
-Points: 52
-# Comments: 52]]></summary>
-        <author>
-            <name>sam345</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to unlearn a disease]]></title>
-        <id>https://news.ycombinator.com/item?id=27850277</id>
-        <link href="https://nautil.us/issue/103/healthy-communication/how-to-unlearn-a-disease-rp"/>
-        <updated>2021-07-15T21:20:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nautil.us/issue/103/healthy-communication/how-to-unlearn-a-disease-rp
-Comments URL: https://news.ycombinator.com/item?id=27850277
-Points: 60
-# Comments: 2]]></summary>
-        <author>
-            <name>dnetesn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motion (YC W20) is hiring a lead fullstack engineer to change how we manage time]]></title>
-        <id>https://news.ycombinator.com/item?id=27850076</id>
-        <link href="https://www.workatastartup.com/jobs/45050"/>
-        <updated>2021-07-15T21:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/45050
-Comments URL: https://news.ycombinator.com/item?id=27850076
+        <title type="html"><![CDATA[Trexo Robotics (YC W19) Is Hiring Mobile and Robotics Interns]]></title>
+        <id>https://news.ycombinator.com/item?id=27861169</id>
+        <link href="https://angel.co/company/trexo-robotics"/>
+        <updated>2021-07-16T21:00:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://angel.co/company/trexo-robotics
+Comments URL: https://news.ycombinator.com/item?id=27861169
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>ethanyu94</name>
+            <name>rudasi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Paradox Game Converters Collected on GitHub]]></title>
-        <id>https://news.ycombinator.com/item?id=27849699</id>
-        <link href="https://github.com/ParadoxGameConverters"/>
-        <updated>2021-07-15T20:27:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ParadoxGameConverters
-Comments URL: https://news.ycombinator.com/item?id=27849699
-Points: 15
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[How Dangerous Are Solar Storms?]]></title>
+        <id>https://news.ycombinator.com/item?id=27860717</id>
+        <link href="http://backreaction.blogspot.com/2021/07/blog-post.html"/>
+        <updated>2021-07-16T20:13:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://backreaction.blogspot.com/2021/07/blog-post.html
+Comments URL: https://news.ycombinator.com/item?id=27860717
+Points: 49
+# Comments: 16]]></summary>
         <author>
-            <name>PeterCorless</name>
+            <name>firebaze</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Online ID / age verification: the death of online search]]></title>
-        <id>https://news.ycombinator.com/item?id=27849395</id>
-        <link href="https://decoded.legal/blog/2021/07/online-id-age-verification-the-death-of-online-search-and-non-browser-web-access"/>
-        <updated>2021-07-15T20:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://decoded.legal/blog/2021/07/online-id-age-verification-the-death-of-online-search-and-non-browser-web-access
-Comments URL: https://news.ycombinator.com/item?id=27849395
-Points: 103
-# Comments: 79]]></summary>
+        <title type="html"><![CDATA[Linear Circuit Design Handbook (2008)]]></title>
+        <id>https://news.ycombinator.com/item?id=27860110</id>
+        <link href="https://www.analog.com/en/education/education-library/linear-circuit-design-handbook.html"/>
+        <updated>2021-07-16T19:17:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.analog.com/en/education/education-library/linear-circuit-design-handbook.html
+Comments URL: https://news.ycombinator.com/item?id=27860110
+Points: 44
+# Comments: 12]]></summary>
         <author>
-            <name>dredmorbius</name>
+            <name>mindcrime</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Algorithms for Cartographic Visualization (2012) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27849366</id>
-        <link href="https://www.win.tue.nl/~kverbeek/PhDThesis.pdf"/>
-        <updated>2021-07-15T19:57:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.win.tue.nl/~kverbeek/PhDThesis.pdf
-Comments URL: https://news.ycombinator.com/item?id=27849366
-Points: 17
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[We will win the war for general-purpose computing]]></title>
+        <id>https://news.ycombinator.com/item?id=27859463</id>
+        <link href="https://cheapskatesguide.org/articles/war-on-gp-computing-farnell.html"/>
+        <updated>2021-07-16T18:24:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cheapskatesguide.org/articles/war-on-gp-computing-farnell.html
+Comments URL: https://news.ycombinator.com/item?id=27859463
+Points: 154
+# Comments: 94]]></summary>
         <author>
-            <name>Tomte</name>
+            <name>d_h_j</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Pay It Forward – P2P Crowdfunding for African Entrepreneurs]]></title>
-        <id>https://news.ycombinator.com/item?id=27848250</id>
-        <link href="https://www.zidisha.org/"/>
-        <updated>2021-07-15T18:28:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.zidisha.org/
-Comments URL: https://news.ycombinator.com/item?id=27848250
-Points: 37
-# Comments: 20]]></summary>
+        <title type="html"><![CDATA[Voice clone of Anthony Bourdain prompts synthetic media ethics questions]]></title>
+        <id>https://news.ycombinator.com/item?id=27859413</id>
+        <link href="https://techpolicy.press/voice-clone-of-anthony-bourdain-prompts-synthetic-media-ethics-questions/?mc_cid=f76836fe27&amp;mc_eid=4336df8131"/>
+        <updated>2021-07-16T18:20:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://techpolicy.press/voice-clone-of-anthony-bourdain-prompts-synthetic-media-ethics-questions/?mc_cid=f76836fe27&mc_eid=4336df8131
+Comments URL: https://news.ycombinator.com/item?id=27859413
+Points: 150
+# Comments: 112]]></summary>
         <author>
-            <name>jkurnia</name>
+            <name>andreyk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is This Prime?]]></title>
-        <id>https://news.ycombinator.com/item?id=27848197</id>
-        <link href="https://isthisprime.com/game/"/>
-        <updated>2021-07-15T18:23:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://isthisprime.com/game/
-Comments URL: https://news.ycombinator.com/item?id=27848197
-Points: 108
-# Comments: 67]]></summary>
+        <title type="html"><![CDATA[Four lessons from a year building tools for machine learning]]></title>
+        <id>https://news.ycombinator.com/item?id=27859064</id>
+        <link href="https://humanloop.com/blog/4-lessons-from-a-year-building-tools-for-machine-learning/"/>
+        <updated>2021-07-16T17:52:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://humanloop.com/blog/4-lessons-from-a-year-building-tools-for-machine-learning/
+Comments URL: https://news.ycombinator.com/item?id=27859064
+Points: 59
+# Comments: 15]]></summary>
         <author>
-            <name>jordigh</name>
+            <name>peadarohaodha</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alphafold]]></title>
-        <id>https://news.ycombinator.com/item?id=27848186</id>
-        <link href="https://github.com/deepmind/alphafold"/>
-        <updated>2021-07-15T18:22:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/deepmind/alphafold
-Comments URL: https://news.ycombinator.com/item?id=27848186
-Points: 348
-# Comments: 89]]></summary>
+        <title type="html"><![CDATA[Defense Motion: Bitcoin is not “money” within the meaning of 18 U.S..C. § 1960 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27858949</id>
+        <link href="https://storage.courtlistener.com/recap/gov.uscourts.miwd.100639/gov.uscourts.miwd.100639.37.0.pdf"/>
+        <updated>2021-07-16T17:44:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://storage.courtlistener.com/recap/gov.uscourts.miwd.100639/gov.uscourts.miwd.100639.37.0.pdf
+Comments URL: https://news.ycombinator.com/item?id=27858949
+Points: 45
+# Comments: 50]]></summary>
         <author>
-            <name>matejmecka</name>
+            <name>quickthrower2</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Generating JSON Directly from Postgres]]></title>
-        <id>https://news.ycombinator.com/item?id=27848085</id>
-        <link href="https://blog.crunchydata.com/blog/generating-json-directly-from-postgres"/>
-        <updated>2021-07-15T18:15:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.crunchydata.com/blog/generating-json-directly-from-postgres
-Comments URL: https://news.ycombinator.com/item?id=27848085
-Points: 144
-# Comments: 90]]></summary>
-        <author>
-            <name>izend</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soldiers speak out about being blocked from repairing equipment by contractors]]></title>
-        <id>https://news.ycombinator.com/item?id=27847096</id>
-        <link href="https://mattstoller.substack.com/p/a-real-s-show-soldiers-angrily-speak"/>
-        <updated>2021-07-15T17:14:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mattstoller.substack.com/p/a-real-s-show-soldiers-angrily-speak
-Comments URL: https://news.ycombinator.com/item?id=27847096
-Points: 322
-# Comments: 135]]></summary>
-        <author>
-            <name>danso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve Steam Deck]]></title>
-        <id>https://news.ycombinator.com/item?id=27846969</id>
-        <link href="https://www.steamdeck.com/en/"/>
-        <updated>2021-07-15T17:03:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.steamdeck.com/en/
-Comments URL: https://news.ycombinator.com/item?id=27846969
-Points: 1571
-# Comments: 751]]></summary>
-        <author>
-            <name>homarp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How many real numbers exist? New proof moves closer to an answer]]></title>
-        <id>https://news.ycombinator.com/item?id=27845576</id>
-        <link href="https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/"/>
-        <updated>2021-07-15T15:03:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/
-Comments URL: https://news.ycombinator.com/item?id=27845576
-Points: 316
-# Comments: 210]]></summary>
+        <title type="html"><![CDATA[High Fidelity Image Generation Using Diffusion Models]]></title>
+        <id>https://news.ycombinator.com/item?id=27858893</id>
+        <link href="https://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html"/>
+        <updated>2021-07-16T17:40:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html
+Comments URL: https://news.ycombinator.com/item?id=27858893
+Points: 42
+# Comments: 15]]></summary>
         <author>
             <name>theafh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Curve25519 Hardware Accelerator]]></title>
-        <id>https://news.ycombinator.com/item?id=27845274</id>
-        <link href="https://www.bunniestudios.com/blog/?p=6140"/>
-        <updated>2021-07-15T14:37:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bunniestudios.com/blog/?p=6140
-Comments URL: https://news.ycombinator.com/item?id=27845274
-Points: 180
-# Comments: 44]]></summary>
+        <title type="html"><![CDATA[Why we're blind to the color blue]]></title>
+        <id>https://news.ycombinator.com/item?id=27858630</id>
+        <link href="https://calebkruse.com/10-projects/seeing-blue/"/>
+        <updated>2021-07-16T17:20:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://calebkruse.com/10-projects/seeing-blue/
+Comments URL: https://news.ycombinator.com/item?id=27858630
+Points: 365
+# Comments: 149]]></summary>
         <author>
-            <name>parsecs</name>
+            <name>goodway</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Launch HN: Weekday (YC W21) – Hire engineers vouched for by other engineers]]></title>
-        <id>https://news.ycombinator.com/item?id=27844728</id>
-        <link href="https://news.ycombinator.com/item?id=27844728"/>
-        <updated>2021-07-15T13:54:23.000Z</updated>
-        <summary type="html"><![CDATA[Hey HN. We are Amit, Chetan, Anubhav and Hari, the cofounders of Weekday (https://www.weekday.works). We are building a recruitment platform centered around recommendations. We help companies hire engineers who are vouched for by other engineers.
-Discovering top talent is challenging. It's easy to check for great credentials, but that's not the same thing as on-ground reality and achievement. It works the other way, too: someone with credentials may not be a great contributor, and screening for credentials eliminates many contributors who are.
-Our company is based on the insight that great contributors tend to know other great contributors and are in a position to recommend them. We believe that a network-driven approach can help to discover high-caliber candidates.
-We chanced upon this id…]]></summary>
+        <title type="html"><![CDATA[Only Train Once: A One-Shot Neural Network Training and Pruning Framework]]></title>
+        <id>https://news.ycombinator.com/item?id=27858564</id>
+        <link href="https://arxiv.org/abs/2107.07467"/>
+        <updated>2021-07-16T17:15:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2107.07467
+Comments URL: https://news.ycombinator.com/item?id=27858564
+Points: 52
+# Comments: 7]]></summary>
         <author>
-            <name>amitsy</name>
+            <name>azhenley</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Facebook's “see no evil” strategy]]></title>
-        <id>https://news.ycombinator.com/item?id=27844470</id>
-        <link href="https://www.axios.com/facebooks-see-no-evil-strategy-6db4e714-ba14-4404-bd41-c4539bc8126e.html"/>
-        <updated>2021-07-15T13:35:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.axios.com/facebooks-see-no-evil-strategy-6db4e714-ba14-4404-bd41-c4539bc8126e.html
-Comments URL: https://news.ycombinator.com/item?id=27844470
-Points: 136
-# Comments: 137]]></summary>
+        <title type="html"><![CDATA[Google Drive bans distribution of “misleading content”]]></title>
+        <id>https://news.ycombinator.com/item?id=27858032</id>
+        <link href="https://support.google.com/docs/answer/148505#zippy=%2Cmisleading-content"/>
+        <updated>2021-07-16T16:34:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://support.google.com/docs/answer/148505#zippy=%2Cmisleading-content
+Comments URL: https://news.ycombinator.com/item?id=27858032
+Points: 823
+# Comments: 907]]></summary>
         <author>
-            <name>samizdis</name>
+            <name>temp8964</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: MergeQueue (YC S21) – Automate rebasing and merging for your codebase]]></title>
+        <id>https://news.ycombinator.com/item?id=27858013</id>
+        <link href="https://news.ycombinator.com/item?id=27858013"/>
+        <updated>2021-07-16T16:32:32.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN, we’re Spriha and Ankit, founders of MergeQueue (https://mergequeue.com/). We enable automatic merges for your Github Pull Requests, based on configurable rules you can set for each repo. These automated merges ensure you never have failing builds on master/main and save time on rebasing your feature branches.
+If you have a monorepo where a big engineering team is regularly merging changes, the stability of the main branch degrades considerably. This happens because more engineers working on the same codebase introduce incompatible changes, causing builds to break even though their commits pass independently. Here’s an example: https://blog.mergequeue.com/managing-github-merges-for-high-....
+Github has a setting to restrict branches to be up to date before merging, but turning on tha…]]></summary>
+        <author>
+            <name>spriha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classified Challenger tank specs leaked online for videogame]]></title>
+        <id>https://news.ycombinator.com/item?id=27857636</id>
+        <link href="https://ukdefencejournal.org.uk/classified-challenger-tank-specs-leaked-online-for-videogame/"/>
+        <updated>2021-07-16T15:56:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ukdefencejournal.org.uk/classified-challenger-tank-specs-leaked-online-for-videogame/
+Comments URL: https://news.ycombinator.com/item?id=27857636
+Points: 156
+# Comments: 76]]></summary>
+        <author>
+            <name>notmine1337</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State Department to pay up to $10M for information on foreign cyberattacks]]></title>
+        <id>https://news.ycombinator.com/item?id=27857385</id>
+        <link href="https://www.darkreading.com/attacks-breaches/state-dept-to-pay-up-to-$10m-for-information-on-foreign-cyberattacks/d/d-id/1341540"/>
+        <updated>2021-07-16T15:36:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.darkreading.com/attacks-breaches/state-dept-to-pay-up-to-$10m-for-information-on-foreign-cyberattacks/d/d-id/1341540
+Comments URL: https://news.ycombinator.com/item?id=27857385
+Points: 127
+# Comments: 42]]></summary>
+        <author>
+            <name>WaitWaitWha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The case for banning non-competes]]></title>
+        <id>https://news.ycombinator.com/item?id=27856593</id>
+        <link href="https://www.slowboring.com/p/the-case-for-banning-non-competes"/>
+        <updated>2021-07-16T14:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.slowboring.com/p/the-case-for-banning-non-competes
+Comments URL: https://news.ycombinator.com/item?id=27856593
+Points: 429
+# Comments: 292]]></summary>
+        <author>
+            <name>jseliger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Print Shop Club: Create Apple II Print Shop Printouts in the Browser]]></title>
+        <id>https://news.ycombinator.com/item?id=27856006</id>
+        <link href="https://theprintshop.club"/>
+        <updated>2021-07-16T13:28:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://theprintshop.club
+Comments URL: https://news.ycombinator.com/item?id=27856006
+Points: 138
+# Comments: 39]]></summary>
+        <author>
+            <name>empressplay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hooking Candiru: Another mercenary spyware vendor comes into focus]]></title>
+        <id>https://news.ycombinator.com/item?id=27855943</id>
+        <link href="https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/"/>
+        <updated>2021-07-16T13:21:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/
+Comments URL: https://news.ycombinator.com/item?id=27855943
+Points: 152
+# Comments: 19]]></summary>
+        <author>
+            <name>colinprince</name>
         </author>
     </entry>
 </feed>
