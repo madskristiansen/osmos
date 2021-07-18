@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27861991",
-          "author": "jonbaer",
-          "description": "Article URL: https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/\nComments URL: https://news.ycombinator.com/item?id=27861991\nPoints: 22\n# Comments: 9",
-          "link": "https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/",
-          "publishedOn": "2021-07-16T22:38:04.000Z",
-          "wordCount": 2371,
-          "title": "The Computer Scientist Training AI to Think with Analogies"
+          "id": "https://news.ycombinator.com/item?id=27869188",
+          "author": "emanuelpina",
+          "description": "Article URL: https://github.com/TeamPiped/Piped\nComments URL: https://news.ycombinator.com/item?id=27869188\nPoints: 99\n# Comments: 45",
+          "link": "https://github.com/TeamPiped/Piped",
+          "publishedOn": "2021-07-17T22:02:50.000Z",
+          "wordCount": 903,
+          "title": "Piped: A privacy-friendly YouTube front end which is efficient by design"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27861813",
-          "author": "basisword",
-          "description": "Article URL: https://9to5mac.com/2021/07/16/apple-removes-fakespot-app-from-ios-app-store-following-amazon-request/\nComments URL: https://news.ycombinator.com/item?id=27861813\nPoints: 117\n# Comments: 41",
-          "link": "https://9to5mac.com/2021/07/16/apple-removes-fakespot-app-from-ios-app-store-following-amazon-request/",
-          "publishedOn": "2021-07-16T22:11:28.000Z",
-          "wordCount": 797,
-          "title": "Apple removes ‘Fakespot’ app from iOS App Store following Amazon request"
+          "id": "https://news.ycombinator.com/item?id=27869008",
+          "author": "sunnyP",
+          "description": "Article URL: https://huskyhacks.dev/2021/07/17/nim-exploit-dev/\nComments URL: https://news.ycombinator.com/item?id=27869008\nPoints: 12\n# Comments: 0",
+          "link": "https://huskyhacks.dev/2021/07/17/nim-exploit-dev/",
+          "publishedOn": "2021-07-17T21:30:43.000Z",
+          "wordCount": 3772,
+          "title": "Nim on the Attack: Process Injection Using Nim and the Windows API"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27861510",
-          "author": "pw",
-          "description": "Article URL: https://fly.io/blog/last-mile-redis/\nComments URL: https://news.ycombinator.com/item?id=27861510\nPoints: 72\n# Comments: 16",
-          "link": "https://fly.io/blog/last-mile-redis/",
-          "publishedOn": "2021-07-16T21:36:11.000Z",
-          "wordCount": 1782,
-          "title": "Last Mile Redis"
+          "id": "https://news.ycombinator.com/item?id=27868999",
+          "author": "sakopov",
+          "description": "Article URL: https://m.youtube.com/watch?v=n5x7GLl-mMo\nComments URL: https://news.ycombinator.com/item?id=27868999\nPoints: 29\n# Comments: 4",
+          "link": "https://m.youtube.com/watch?v=n5x7GLl-mMo",
+          "publishedOn": "2021-07-17T21:28:57.000Z",
+          "wordCount": 27,
+          "title": "A man in Egypt keeping a 200-year-old tradition of tile-making [video]"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27861169",
-          "author": "rudasi",
-          "description": "Article URL: https://angel.co/company/trexo-robotics\nComments URL: https://news.ycombinator.com/item?id=27861169\nPoints: 1\n# Comments: 0",
-          "link": "https://angel.co/company/trexo-robotics",
-          "publishedOn": "2021-07-16T21:00:47.000Z",
-          "wordCount": null,
-          "title": "Trexo Robotics (YC W19) Is Hiring Mobile and Robotics Interns"
+          "id": "https://news.ycombinator.com/item?id=27868923",
+          "author": "walterbell",
+          "description": "Article URL: https://www.sciencemag.org/news/2021/07/mysterious-dna-sequences-known-borgs-recovered-california-mud\nComments URL: https://news.ycombinator.com/item?id=27868923\nPoints: 101\n# Comments: 18",
+          "link": "https://www.sciencemag.org/news/2021/07/mysterious-dna-sequences-known-borgs-recovered-california-mud",
+          "publishedOn": "2021-07-17T21:14:17.000Z",
+          "wordCount": 1339,
+          "title": "Mysterious DNA sequences, known as ‘Borgs,’ recovered from California mud"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27860717",
-          "author": "firebaze",
-          "description": "Article URL: http://backreaction.blogspot.com/2021/07/blog-post.html\nComments URL: https://news.ycombinator.com/item?id=27860717\nPoints: 49\n# Comments: 16",
-          "link": "http://backreaction.blogspot.com/2021/07/blog-post.html",
-          "publishedOn": "2021-07-16T20:13:41.000Z",
-          "wordCount": 5634,
-          "title": "How Dangerous Are Solar Storms?"
+          "id": "https://news.ycombinator.com/item?id=27868913",
+          "author": "omnibrain",
+          "description": "Article URL: http://www.re-des.org/a-solarpunk-manifesto/\nComments URL: https://news.ycombinator.com/item?id=27868913\nPoints: 85\n# Comments: 65",
+          "link": "http://www.re-des.org/a-solarpunk-manifesto/",
+          "publishedOn": "2021-07-17T21:13:23.000Z",
+          "wordCount": 916,
+          "title": "A Solarpunk Manifesto"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27860110",
-          "author": "mindcrime",
-          "description": "Article URL: https://www.analog.com/en/education/education-library/linear-circuit-design-handbook.html\nComments URL: https://news.ycombinator.com/item?id=27860110\nPoints: 44\n# Comments: 12",
-          "link": "https://www.analog.com/en/education/education-library/linear-circuit-design-handbook.html",
-          "publishedOn": "2021-07-16T19:17:40.000Z",
-          "wordCount": 833,
-          "title": "Linear Circuit Design Handbook (2008)"
+          "id": "https://news.ycombinator.com/item?id=27868837",
+          "author": "mmcclure",
+          "description": "Article URL: https://mux.com/jobs?hnj=oss-players\nComments URL: https://news.ycombinator.com/item?id=27868837\nPoints: 1\n# Comments: 0",
+          "link": "https://mux.com/jobs?hnj=oss-players",
+          "publishedOn": "2021-07-17T21:01:07.000Z",
+          "wordCount": 426,
+          "title": "Mux (YC W16) is hiring devs to contribute to open source players"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27859463",
-          "author": "d_h_j",
-          "description": "Article URL: https://cheapskatesguide.org/articles/war-on-gp-computing-farnell.html\nComments URL: https://news.ycombinator.com/item?id=27859463\nPoints: 154\n# Comments: 94",
-          "link": "https://cheapskatesguide.org/articles/war-on-gp-computing-farnell.html",
-          "publishedOn": "2021-07-16T18:24:47.000Z",
-          "wordCount": null,
-          "title": "We will win the war for general-purpose computing"
+          "id": "https://news.ycombinator.com/item?id=27868771",
+          "author": "an_d_rew",
+          "description": "Article URL: https://www.simplanations.in/people/2046200-vivek-raju\nComments URL: https://news.ycombinator.com/item?id=27868771\nPoints: 23\n# Comments: 2",
+          "link": "https://www.simplanations.in/people/2046200-vivek-raju",
+          "publishedOn": "2021-07-17T20:52:20.000Z",
+          "wordCount": 101,
+          "title": "What happens in an IPO? – A Beginner's Guide (Part 2/2)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27859413",
-          "author": "andreyk",
-          "description": "Article URL: https://techpolicy.press/voice-clone-of-anthony-bourdain-prompts-synthetic-media-ethics-questions/?mc_cid=f76836fe27&mc_eid=4336df8131\nComments URL: https://news.ycombinator.com/item?id=27859413\nPoints: 150\n# Comments: 112",
-          "link": "https://techpolicy.press/voice-clone-of-anthony-bourdain-prompts-synthetic-media-ethics-questions/?mc_cid=f76836fe27&mc_eid=4336df8131",
-          "publishedOn": "2021-07-16T18:20:57.000Z",
-          "wordCount": 3313,
-          "title": "Voice clone of Anthony Bourdain prompts synthetic media ethics questions"
+          "id": "https://news.ycombinator.com/item?id=27868741",
+          "author": "zdw",
+          "description": "Article URL: https://undeadly.org/cgi?action=article;sid=20210717141912\nComments URL: https://news.ycombinator.com/item?id=27868741\nPoints: 57\n# Comments: 29",
+          "link": "https://undeadly.org/cgi?action=article;sid=20210717141912",
+          "publishedOn": "2021-07-17T20:48:21.000Z",
+          "wordCount": 471,
+          "title": "dhcpleased(8) and resolvd(8) enabled in base, replacing dhclient(8)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27859064",
-          "author": "peadarohaodha",
-          "description": "Article URL: https://humanloop.com/blog/4-lessons-from-a-year-building-tools-for-machine-learning/\nComments URL: https://news.ycombinator.com/item?id=27859064\nPoints: 59\n# Comments: 15",
-          "link": "https://humanloop.com/blog/4-lessons-from-a-year-building-tools-for-machine-learning/",
-          "publishedOn": "2021-07-16T17:52:27.000Z",
-          "wordCount": 1328,
-          "title": "Four lessons from a year building tools for machine learning"
+          "id": "https://news.ycombinator.com/item?id=27868686",
+          "author": "phblinn",
+          "description": "Article URL: https://curiousnotions.com/blog/#7/14/2021\nComments URL: https://news.ycombinator.com/item?id=27868686\nPoints: 25\n# Comments: 6",
+          "link": "https://curiousnotions.com/blog/#7/14/2021",
+          "publishedOn": "2021-07-17T20:42:22.000Z",
+          "wordCount": 11223,
+          "title": "12 Months, 850 Languages, 63 Fonts, No Waiting Or: Thank God for Google Noto"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27858949",
-          "author": "quickthrower2",
-          "description": "Article URL: https://storage.courtlistener.com/recap/gov.uscourts.miwd.100639/gov.uscourts.miwd.100639.37.0.pdf\nComments URL: https://news.ycombinator.com/item?id=27858949\nPoints: 45\n# Comments: 50",
-          "link": "https://storage.courtlistener.com/recap/gov.uscourts.miwd.100639/gov.uscourts.miwd.100639.37.0.pdf",
-          "publishedOn": "2021-07-16T17:44:13.000Z",
-          "wordCount": 3300,
-          "title": "Defense Motion: Bitcoin is not “money” within the meaning of 18 U.S..C. § 1960 [pdf]"
+          "id": "https://news.ycombinator.com/item?id=27868224",
+          "author": "elsewhen",
+          "description": "Article URL: https://www.vice.com/en/article/pkbmwy/im-a-frito-lay-factory-worker-i-work-12-hour-days-7-days-a-week\nComments URL: https://news.ycombinator.com/item?id=27868224\nPoints: 208\n# Comments: 142",
+          "link": "https://www.vice.com/en/article/pkbmwy/im-a-frito-lay-factory-worker-i-work-12-hour-days-7-days-a-week",
+          "publishedOn": "2021-07-17T19:42:53.000Z",
+          "wordCount": 1507,
+          "title": "I'm a Frito-Lay Factory Worker. I Work 12-Hour Days, 7 Days a Week"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27858893",
-          "author": "theafh",
-          "description": "Article URL: https://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html\nComments URL: https://news.ycombinator.com/item?id=27858893\nPoints: 42\n# Comments: 15",
-          "link": "https://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html",
-          "publishedOn": "2021-07-16T17:40:54.000Z",
-          "wordCount": 2135,
-          "title": "High Fidelity Image Generation Using Diffusion Models"
+          "id": "https://news.ycombinator.com/item?id=27868174",
+          "author": "dwynings",
+          "description": "Article URL: http://shapecatcher.com/\nComments URL: https://news.ycombinator.com/item?id=27868174\nPoints: 41\n# Comments: 17",
+          "link": "http://shapecatcher.com/",
+          "publishedOn": "2021-07-17T19:35:49.000Z",
+          "wordCount": 451,
+          "title": "Shapecatcher: Draw the Unicode character you want"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27858630",
-          "author": "goodway",
-          "description": "Article URL: https://calebkruse.com/10-projects/seeing-blue/\nComments URL: https://news.ycombinator.com/item?id=27858630\nPoints: 365\n# Comments: 149",
-          "link": "https://calebkruse.com/10-projects/seeing-blue/",
-          "publishedOn": "2021-07-16T17:20:04.000Z",
-          "wordCount": 1388,
-          "title": "Why we're blind to the color blue"
+          "id": "https://news.ycombinator.com/item?id=27868002",
+          "author": "rich_sasha",
+          "description": "Article URL: https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57873330\nComments URL: https://news.ycombinator.com/item?id=27868002\nPoints: 50\n# Comments: 107",
+          "link": "https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57873330",
+          "publishedOn": "2021-07-17T19:06:08.000Z",
+          "wordCount": 1014,
+          "title": "Google Maps updates 'dangerous' Ben Nevis route"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27858564",
-          "author": "azhenley",
-          "description": "Article URL: https://arxiv.org/abs/2107.07467\nComments URL: https://news.ycombinator.com/item?id=27858564\nPoints: 52\n# Comments: 7",
-          "link": "https://arxiv.org/abs/2107.07467",
-          "publishedOn": "2021-07-16T17:15:51.000Z",
-          "wordCount": 608,
-          "title": "Only Train Once: A One-Shot Neural Network Training and Pruning Framework"
+          "id": "https://news.ycombinator.com/item?id=27867941",
+          "author": "iamnotarobotman",
+          "description": "Article URL: https://discuss.haiku-os.org/t/my-progress-on-real-risc-v-hardware/10963/31\nComments URL: https://news.ycombinator.com/item?id=27867941\nPoints: 186\n# Comments: 29",
+          "link": "https://discuss.haiku-os.org/t/my-progress-on-real-risc-v-hardware/10963/31",
+          "publishedOn": "2021-07-17T18:57:52.000Z",
+          "wordCount": 5892,
+          "title": "HaikuOS running on RISC-V hardware (HiFive Unmatched)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27858032",
-          "author": "temp8964",
-          "description": "Article URL: https://support.google.com/docs/answer/148505#zippy=%2Cmisleading-content\nComments URL: https://news.ycombinator.com/item?id=27858032\nPoints: 823\n# Comments: 907",
-          "link": "https://support.google.com/docs/answer/148505#zippy=%2Cmisleading-content",
-          "publishedOn": "2021-07-16T16:34:37.000Z",
-          "wordCount": 3279,
-          "title": "Google Drive bans distribution of “misleading content”"
+          "id": "https://news.ycombinator.com/item?id=27867188",
+          "author": "enigmatic02",
+          "description": "Article URL: https://every.to/cybernaut/the-blurred-lines-of-parasocial-relationships\nComments URL: https://news.ycombinator.com/item?id=27867188\nPoints: 54\n# Comments: 19",
+          "link": "https://every.to/cybernaut/the-blurred-lines-of-parasocial-relationships",
+          "publishedOn": "2021-07-17T17:10:09.000Z",
+          "wordCount": 5513,
+          "title": "The Blurred Lines of Parasocial Relationships"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27858013",
-          "author": "spriha",
-          "description": "Hi HN, we’re Spriha and Ankit, founders of MergeQueue (https://mergequeue.com/). We enable automatic merges for your Github Pull Requests, based on configurable rules you can set for each repo. These automated merges ensure you never have failing builds on master/main and save time on rebasing your feature branches.\nIf you have a monorepo where a big engineering team is regularly merging changes, the stability of the main branch degrades considerably. This happens because more engineers working on the same codebase introduce incompatible changes, causing builds to break even though their commits pass independently. Here’s an example: https://blog.mergequeue.com/managing-github-merges-for-high-....\nGithub has a setting to restrict branches to be up to date before merging, but turning on tha…",
-          "link": "https://news.ycombinator.com/item?id=27858013",
-          "publishedOn": "2021-07-16T16:32:32.000Z",
-          "wordCount": 3423,
-          "title": "Launch HN: MergeQueue (YC S21) – Automate rebasing and merging for your codebase"
+          "id": "https://news.ycombinator.com/item?id=27867023",
+          "author": "enigmatic02",
+          "description": "Article URL: http://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning_nice_version.pdf\nComments URL: https://news.ycombinator.com/item?id=27867023\nPoints: 39\n# Comments: 4",
+          "link": "http://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning_nice_version.pdf",
+          "publishedOn": "2021-07-17T16:49:30.000Z",
+          "wordCount": 4876,
+          "title": "Laws of Showrunning (2016) [pdf]"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27857636",
-          "author": "notmine1337",
-          "description": "Article URL: https://ukdefencejournal.org.uk/classified-challenger-tank-specs-leaked-online-for-videogame/\nComments URL: https://news.ycombinator.com/item?id=27857636\nPoints: 156\n# Comments: 76",
-          "link": "https://ukdefencejournal.org.uk/classified-challenger-tank-specs-leaked-online-for-videogame/",
-          "publishedOn": "2021-07-16T15:56:57.000Z",
-          "wordCount": 3140,
-          "title": "Classified Challenger tank specs leaked online for videogame"
+          "id": "https://news.ycombinator.com/item?id=27866965",
+          "author": "toomanyrichies",
+          "description": "Article URL: https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries/\nComments URL: https://news.ycombinator.com/item?id=27866965\nPoints: 242\n# Comments: 119",
+          "link": "https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries/",
+          "publishedOn": "2021-07-17T16:40:49.000Z",
+          "wordCount": 1223,
+          "title": "GM has signed an agreement to extract lithium from beneath the Salton Sea"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27857385",
-          "author": "WaitWaitWha",
-          "description": "Article URL: https://www.darkreading.com/attacks-breaches/state-dept-to-pay-up-to-$10m-for-information-on-foreign-cyberattacks/d/d-id/1341540\nComments URL: https://news.ycombinator.com/item?id=27857385\nPoints: 127\n# Comments: 42",
-          "link": "https://www.darkreading.com/attacks-breaches/state-dept-to-pay-up-to-$10m-for-information-on-foreign-cyberattacks/d/d-id/1341540",
-          "publishedOn": "2021-07-16T15:36:56.000Z",
-          "wordCount": 1517,
-          "title": "State Department to pay up to $10M for information on foreign cyberattacks"
+          "id": "https://news.ycombinator.com/item?id=27866344",
+          "author": "omnibrain",
+          "description": "Article URL: https://www.moddb.com/mods/tie-fighter-total-conversion-tftc/news/tftc-v10-is-out-now\nComments URL: https://news.ycombinator.com/item?id=27866344\nPoints: 220\n# Comments: 84",
+          "link": "https://www.moddb.com/mods/tie-fighter-total-conversion-tftc/news/tftc-v10-is-out-now",
+          "publishedOn": "2021-07-17T15:14:32.000Z",
+          "wordCount": 822,
+          "title": "TFTC (TIE Fighter Total Conversion) v1.0"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27856593",
-          "author": "jseliger",
-          "description": "Article URL: https://www.slowboring.com/p/the-case-for-banning-non-competes\nComments URL: https://news.ycombinator.com/item?id=27856593\nPoints: 429\n# Comments: 292",
-          "link": "https://www.slowboring.com/p/the-case-for-banning-non-competes",
-          "publishedOn": "2021-07-16T14:31:24.000Z",
-          "wordCount": 2809,
-          "title": "The case for banning non-competes"
+          "id": "https://news.ycombinator.com/item?id=27866289",
+          "author": "zhenghaoz",
+          "description": "Article URL: https://gorse.io/\nComments URL: https://news.ycombinator.com/item?id=27866289\nPoints: 165\n# Comments: 33",
+          "link": "https://gorse.io/",
+          "publishedOn": "2021-07-17T15:07:04.000Z",
+          "wordCount": 212,
+          "title": "Show HN: Gorse – An Out-of-the-box open-source Recommender System"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27856006",
-          "author": "empressplay",
-          "description": "Article URL: https://theprintshop.club\nComments URL: https://news.ycombinator.com/item?id=27856006\nPoints: 138\n# Comments: 39",
-          "link": "https://theprintshop.club",
-          "publishedOn": "2021-07-16T13:28:36.000Z",
-          "wordCount": 96,
-          "title": "The Print Shop Club: Create Apple II Print Shop Printouts in the Browser"
+          "id": "https://news.ycombinator.com/item?id=27866038",
+          "author": "quadhome",
+          "description": "Article URL: https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/short-guide-to-iraq.html\nComments URL: https://news.ycombinator.com/item?id=27866038\nPoints: 232\n# Comments: 88",
+          "link": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/short-guide-to-iraq.html",
+          "publishedOn": "2021-07-17T14:30:29.000Z",
+          "wordCount": 18101,
+          "title": "A Short Guide to Iraq (1943)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27855943",
-          "author": "colinprince",
-          "description": "Article URL: https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/\nComments URL: https://news.ycombinator.com/item?id=27855943\nPoints: 152\n# Comments: 19",
-          "link": "https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/",
-          "publishedOn": "2021-07-16T13:21:35.000Z",
-          "wordCount": 4440,
-          "title": "Hooking Candiru: Another mercenary spyware vendor comes into focus"
+          "id": "https://news.ycombinator.com/item?id=27865143",
+          "author": "sandbags",
+          "description": "Article URL: https://mattmower.com/2021/07/17/elixir-protocols-vs-clojure-multimethods/\nComments URL: https://news.ycombinator.com/item?id=27865143\nPoints: 148\n# Comments: 72",
+          "link": "https://mattmower.com/2021/07/17/elixir-protocols-vs-clojure-multimethods/",
+          "publishedOn": "2021-07-17T11:47:12.000Z",
+          "wordCount": 775,
+          "title": "Elixir protocols vs. Clojure multimethods"
         }
       ]
     }
