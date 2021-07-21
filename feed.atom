@@ -1,268 +1,268 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-20T00:55:08.010Z</id>
+    <id>urn:2021-07-21T00:53:41.340Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-20T00:55:08.010Z</updated>
+    <updated>2021-07-21T00:53:41.340Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Excuse Me… Some Digital Preservation Fallacies? (2006)]]></title>
-        <id>https://news.ycombinator.com/item?id=27888626</id>
-        <link href="http://www.ariadne.ac.uk/issue/46/rusbridge/"/>
-        <updated>2021-07-19T23:54:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.ariadne.ac.uk/issue/46/rusbridge/
-Comments URL: https://news.ycombinator.com/item?id=27888626
-Points: 11
-# Comments: 0]]></summary>
-        <author>
-            <name>Lammy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimal Stopping Methodology for the Secretary Problem with Random Queries]]></title>
-        <id>https://news.ycombinator.com/item?id=27888459</id>
-        <link href="https://arxiv.org/abs/2107.07513"/>
-        <updated>2021-07-19T23:29:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2107.07513
-Comments URL: https://news.ycombinator.com/item?id=27888459
-Points: 5
-# Comments: 1]]></summary>
-        <author>
-            <name>belter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Fired Myself]]></title>
-        <id>https://news.ycombinator.com/item?id=27888321</id>
-        <link href="https://www.bryanjohnson.co/articles/i-fired-myself"/>
-        <updated>2021-07-19T23:09:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bryanjohnson.co/articles/i-fired-myself
-Comments URL: https://news.ycombinator.com/item?id=27888321
-Points: 48
+        <title type="html"><![CDATA[Gitlab: Support for team members who are mistreated in their country]]></title>
+        <id>https://news.ycombinator.com/item?id=27899918</id>
+        <link href="https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/84922/diffs"/>
+        <updated>2021-07-20T21:59:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/84922/diffs
+Comments URL: https://news.ycombinator.com/item?id=27899918
+Points: 90
 # Comments: 34]]></summary>
         <author>
-            <name>indigodaddy</name>
+            <name>tosh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On Leaving California and the Silicon Valley]]></title>
-        <id>https://news.ycombinator.com/item?id=27888097</id>
-        <link href="https://bartwronski.com/2021/06/28/on-leaving-california-and-the-silicon-valley/"/>
-        <updated>2021-07-19T22:38:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bartwronski.com/2021/06/28/on-leaving-california-and-the-silicon-valley/
-Comments URL: https://news.ycombinator.com/item?id=27888097
-Points: 25
-# Comments: 18]]></summary>
-        <author>
-            <name>jashkenas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Antimicrobial Potential of Cannabidiol]]></title>
-        <id>https://news.ycombinator.com/item?id=27887434</id>
-        <link href="https://www.nature.com/articles/s42003-020-01530-y"/>
-        <updated>2021-07-19T21:25:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s42003-020-01530-y
-Comments URL: https://news.ycombinator.com/item?id=27887434
-Points: 26
-# Comments: 0]]></summary>
-        <author>
-            <name>ostenning</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t Wanna Pay Ransom Gangs? Test Your Backups]]></title>
-        <id>https://news.ycombinator.com/item?id=27887329</id>
-        <link href="https://krebsonsecurity.com/2021/07/dont-wanna-pay-ransom-gangs-test-your-backups/"/>
-        <updated>2021-07-19T21:14:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/07/dont-wanna-pay-ransom-gangs-test-your-backups/
-Comments URL: https://news.ycombinator.com/item?id=27887329
-Points: 215
-# Comments: 113]]></summary>
-        <author>
-            <name>parsecs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Draftbit (YC W18) Is Hiring Senior Engineers (Reason, React Native, GraphQL)]]></title>
-        <id>https://news.ycombinator.com/item?id=27887198</id>
-        <link href="https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer"/>
-        <updated>2021-07-19T21:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer
-Comments URL: https://news.ycombinator.com/item?id=27887198
+        <title type="html"><![CDATA[AgileMD (YC S11) Is Hiring an Engineering Manager]]></title>
+        <id>https://news.ycombinator.com/item?id=27899256</id>
+        <link href="https://www.ycombinator.com/companies/agilemd/jobs/iF08Jgy-software-engineering-manager-platform-and-applications"/>
+        <updated>2021-07-20T21:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/agilemd/jobs/iF08Jgy-software-engineering-manager-platform-and-applications
+Comments URL: https://news.ycombinator.com/item?id=27899256
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>Brushfire</name>
+            <name>borna</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using Prolog for Sudoku Variants]]></title>
-        <id>https://news.ycombinator.com/item?id=27886733</id>
-        <link href="http://dstrohmaier.com/sudoku-prolog/"/>
-        <updated>2021-07-19T20:06:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://dstrohmaier.com/sudoku-prolog/
-Comments URL: https://news.ycombinator.com/item?id=27886733
-Points: 56
-# Comments: 9]]></summary>
+        <title type="html"><![CDATA[Emmanuel Macron identified in leaked Pegasus project data]]></title>
+        <id>https://news.ycombinator.com/item?id=27899133</id>
+        <link href="https://www.theguardian.com/world/2021/jul/20/emmanuel-macron-identified-in-leaked-pegasus-project-data"/>
+        <updated>2021-07-20T20:50:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/world/2021/jul/20/emmanuel-macron-identified-in-leaked-pegasus-project-data
+Comments URL: https://news.ycombinator.com/item?id=27899133
+Points: 127
+# Comments: 24]]></summary>
         <author>
-            <name>triska</name>
+            <name>SalimoS</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[C++ Dev Ecosystem 2021]]></title>
-        <id>https://news.ycombinator.com/item?id=27886575</id>
-        <link href="https://www.jetbrains.com/lp/devecosystem-2021/cpp/"/>
-        <updated>2021-07-19T19:47:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.jetbrains.com/lp/devecosystem-2021/cpp/
-Comments URL: https://news.ycombinator.com/item?id=27886575
-Points: 102
-# Comments: 58]]></summary>
+        <title type="html"><![CDATA[Forem Self-Host]]></title>
+        <id>https://news.ycombinator.com/item?id=27898715</id>
+        <link href="https://forem.dev/foremteam/introducing-forem-self-host-246k"/>
+        <updated>2021-07-20T20:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://forem.dev/foremteam/introducing-forem-self-host-246k
+Comments URL: https://news.ycombinator.com/item?id=27898715
+Points: 52
+# Comments: 21]]></summary>
         <author>
-            <name>luu</name>
+            <name>boling11</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A GPIO Driver in Rust]]></title>
-        <id>https://news.ycombinator.com/item?id=27886458</id>
-        <link href="https://lwn.net/Articles/863459/"/>
-        <updated>2021-07-19T19:34:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/863459/
-Comments URL: https://news.ycombinator.com/item?id=27886458
-Points: 96
-# Comments: 29]]></summary>
+        <title type="html"><![CDATA[MAPS Celebrates California Senate Passage of Psychedelic Reform Bill]]></title>
+        <id>https://news.ycombinator.com/item?id=27898666</id>
+        <link href="https://maps.org/news/media/9270-maps-celebrates-california-senate-passage-of-groundbreaking-psychedelic-reform-bill"/>
+        <updated>2021-07-20T20:12:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://maps.org/news/media/9270-maps-celebrates-california-senate-passage-of-groundbreaking-psychedelic-reform-bill
+Comments URL: https://news.ycombinator.com/item?id=27898666
+Points: 222
+# Comments: 67]]></summary>
         <author>
-            <name>brundolf</name>
+            <name>pmoriarty</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Edward Snowden calls for spyware trade ban amid Pegasus revelations]]></title>
-        <id>https://news.ycombinator.com/item?id=27886209</id>
-        <link href="https://www.theguardian.com/news/2021/jul/19/edward-snowden-calls-spyware-trade-ban-pegasus-revelations"/>
-        <updated>2021-07-19T19:10:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/news/2021/jul/19/edward-snowden-calls-spyware-trade-ban-pegasus-revelations
-Comments URL: https://news.ycombinator.com/item?id=27886209
-Points: 204
-# Comments: 40]]></summary>
+        <title type="html"><![CDATA[Reverse-Engineering the Mali G78]]></title>
+        <id>https://news.ycombinator.com/item?id=27898187</id>
+        <link href="https://www.collabora.com/news-and-blog/news-and-events/reverse-engineering-the-mali-g78.html"/>
+        <updated>2021-07-20T19:33:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.collabora.com/news-and-blog/news-and-events/reverse-engineering-the-mali-g78.html
+Comments URL: https://news.ycombinator.com/item?id=27898187
+Points: 57
+# Comments: 8]]></summary>
         <author>
-            <name>georgecmu</name>
+            <name>caution</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 5.0 shown to boot on ESP32 processor]]></title>
-        <id>https://news.ycombinator.com/item?id=27886168</id>
-        <link href="https://www.cnx-software.com/2021/07/18/linux-5-0-esp32-processor/"/>
-        <updated>2021-07-19T19:04:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnx-software.com/2021/07/18/linux-5-0-esp32-processor/
-Comments URL: https://news.ycombinator.com/item?id=27886168
-Points: 180
-# Comments: 51]]></summary>
+        <title type="html"><![CDATA[A case against security nihilism]]></title>
+        <id>https://news.ycombinator.com/item?id=27897975</id>
+        <link href="https://blog.cryptographyengineering.com/2021/07/20/a-case-against-security-nihilism/"/>
+        <updated>2021-07-20T19:18:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.cryptographyengineering.com/2021/07/20/a-case-against-security-nihilism/
+Comments URL: https://news.ycombinator.com/item?id=27897975
+Points: 234
+# Comments: 146]]></summary>
         <author>
-            <name>MrBuddyCasino</name>
+            <name>feross</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RAWGraphs: missing link between spreadsheets and data visualization]]></title>
-        <id>https://news.ycombinator.com/item?id=27886106</id>
-        <link href="https://rawgraphs.io/"/>
-        <updated>2021-07-19T18:57:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rawgraphs.io/
-Comments URL: https://news.ycombinator.com/item?id=27886106
-Points: 92
-# Comments: 15]]></summary>
+        <title type="html"><![CDATA[Show HN: Headless Recorder v1.0, get Playwright/Puppeteer scripts without coding]]></title>
+        <id>https://news.ycombinator.com/item?id=27897291</id>
+        <link href="https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda"/>
+        <updated>2021-07-20T18:21:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda
+Comments URL: https://news.ycombinator.com/item?id=27897291
+Points: 72
+# Comments: 22]]></summary>
         <author>
-            <name>sonograph</name>
+            <name>ianaya89</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bouba/Kiki Effect]]></title>
-        <id>https://news.ycombinator.com/item?id=27885703</id>
-        <link href="https://en.wikipedia.org/wiki/Bouba/kiki_effect"/>
-        <updated>2021-07-19T18:21:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Bouba/kiki_effect
-Comments URL: https://news.ycombinator.com/item?id=27885703
-Points: 152
-# Comments: 59]]></summary>
+        <title type="html"><![CDATA[Our lawsuit against ChessBase]]></title>
+        <id>https://news.ycombinator.com/item?id=27896386</id>
+        <link href="https://stockfishchess.org/blog/2021/our-lawsuit-against-chessbase/"/>
+        <updated>2021-07-20T17:09:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stockfishchess.org/blog/2021/our-lawsuit-against-chessbase/
+Comments URL: https://news.ycombinator.com/item?id=27896386
+Points: 489
+# Comments: 163]]></summary>
         <author>
-            <name>thunderbong</name>
+            <name>EvgeniyZh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Giant tsunami from dino-killing asteroid impact revealed in fossilized ripples]]></title>
-        <id>https://news.ycombinator.com/item?id=27885649</id>
-        <link href="https://www.sciencemag.org/news/2021/07/giant-tsunami-dino-killing-asteroid-impact-revealed-fossilized-megaripples"/>
-        <updated>2021-07-19T18:16:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sciencemag.org/news/2021/07/giant-tsunami-dino-killing-asteroid-impact-revealed-fossilized-megaripples
-Comments URL: https://news.ycombinator.com/item?id=27885649
+        <title type="html"><![CDATA[Torpar: TUI Client for Torrent Paradise (Distributed Torrent Search)]]></title>
+        <id>https://news.ycombinator.com/item?id=27896076</id>
+        <link href="https://github.com/varbhat/torpar"/>
+        <updated>2021-07-20T16:45:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/varbhat/torpar
+Comments URL: https://news.ycombinator.com/item?id=27896076
+Points: 76
+# Comments: 14]]></summary>
+        <author>
+            <name>mmastrac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retroactive Public Goods Funding]]></title>
+        <id>https://news.ycombinator.com/item?id=27895542</id>
+        <link href="https://optimismpbc.medium.com/retroactive-public-goods-funding-33c9b7d00f0c"/>
+        <updated>2021-07-20T16:07:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://optimismpbc.medium.com/retroactive-public-goods-funding-33c9b7d00f0c
+Comments URL: https://news.ycombinator.com/item?id=27895542
+Points: 40
+# Comments: 16]]></summary>
+        <author>
+            <name>abecedarius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: WrittenRealms – a modern platform for text-based games]]></title>
+        <id>https://news.ycombinator.com/item?id=27894903</id>
+        <link href="https://writtenrealms.com/"/>
+        <updated>2021-07-20T15:26:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://writtenrealms.com/
+Comments URL: https://news.ycombinator.com/item?id=27894903
 Points: 100
-# Comments: 47]]></summary>
+# Comments: 33]]></summary>
         <author>
-            <name>mathgenius</name>
+            <name>teebes</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Math Problems for children from 5 to 15 (2004) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27884973</id>
-        <link href="https://www.imaginary.org/sites/default/files/taskbook_arnold_en_0.pdf"/>
-        <updated>2021-07-19T17:11:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.imaginary.org/sites/default/files/taskbook_arnold_en_0.pdf
-Comments URL: https://news.ycombinator.com/item?id=27884973
-Points: 360
-# Comments: 268]]></summary>
+        <title type="html"><![CDATA[Clojure builds as an amalgamation of orthogonal parts]]></title>
+        <id>https://news.ycombinator.com/item?id=27894735</id>
+        <link href="http://blog.fogus.me/2021/07/20/clojure-builds-as-an-amalgamation-of-orthogonal-parts/"/>
+        <updated>2021-07-20T15:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://blog.fogus.me/2021/07/20/clojure-builds-as-an-amalgamation-of-orthogonal-parts/
+Comments URL: https://news.ycombinator.com/item?id=27894735
+Points: 65
+# Comments: 27]]></summary>
         <author>
-            <name>sebg</name>
+            <name>fogus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Time to assume that health research is fraudulent until proven otherwise?]]></title>
-        <id>https://news.ycombinator.com/item?id=27884233</id>
-        <link href="https://blogs.bmj.com/bmj/2021/07/05/time-to-assume-that-health-research-is-fraudulent-until-proved-otherwise/"/>
-        <updated>2021-07-19T16:12:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blogs.bmj.com/bmj/2021/07/05/time-to-assume-that-health-research-is-fraudulent-until-proved-otherwise/
-Comments URL: https://news.ycombinator.com/item?id=27884233
-Points: 519
-# Comments: 286]]></summary>
+        <title type="html"><![CDATA[Restaurant workers quit at record rate]]></title>
+        <id>https://news.ycombinator.com/item?id=27894640</id>
+        <link href="https://www.npr.org/2021/07/20/1016081936/low-pay-no-benefits-rude-customers-restaurant-workers-quit-at-record-rate"/>
+        <updated>2021-07-20T15:04:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/07/20/1016081936/low-pay-no-benefits-rude-customers-restaurant-workers-quit-at-record-rate
+Comments URL: https://news.ycombinator.com/item?id=27894640
+Points: 277
+# Comments: 565]]></summary>
         <author>
-            <name>lnyan</name>
+            <name>boulos</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brython: an implementation of Python 3 running in the browser]]></title>
-        <id>https://news.ycombinator.com/item?id=27884055</id>
-        <link href="https://github.com/brython-dev/brython"/>
-        <updated>2021-07-19T15:59:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/brython-dev/brython
-Comments URL: https://news.ycombinator.com/item?id=27884055
-Points: 149
-# Comments: 46]]></summary>
-        <author>
-            <name>redfox2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Shape Opens ‘Wormhole’ Between Numbers and Geometry]]></title>
-        <id>https://news.ycombinator.com/item?id=27883961</id>
-        <link href="https://www.quantamagazine.org/with-a-new-shape-mathematicians-link-geometry-and-numbers-20210719/"/>
-        <updated>2021-07-19T15:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/with-a-new-shape-mathematicians-link-geometry-and-numbers-20210719/
-Comments URL: https://news.ycombinator.com/item?id=27883961
-Points: 131
-# Comments: 15]]></summary>
+        <title type="html"><![CDATA[How Bell’s Theorem proved ‘spooky action at a distance’ is real]]></title>
+        <id>https://news.ycombinator.com/item?id=27894355</id>
+        <link href="https://www.quantamagazine.org/how-bells-theorem-proved-spooky-action-at-a-distance-is-real-20210720/"/>
+        <updated>2021-07-20T14:43:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/how-bells-theorem-proved-spooky-action-at-a-distance-is-real-20210720/
+Comments URL: https://news.ycombinator.com/item?id=27894355
+Points: 184
+# Comments: 230]]></summary>
         <author>
             <name>theafh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thread Pools on the JVM]]></title>
-        <id>https://news.ycombinator.com/item?id=27883847</id>
-        <link href="https://gist.github.com/djspiewak/46b543800958cf61af6efa8e072bfd5c"/>
-        <updated>2021-07-19T15:42:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gist.github.com/djspiewak/46b543800958cf61af6efa8e072bfd5c
-Comments URL: https://news.ycombinator.com/item?id=27883847
-Points: 176
-# Comments: 85]]></summary>
+        <title type="html"><![CDATA[Astronomers push for global debate on giant satellite swarms]]></title>
+        <id>https://news.ycombinator.com/item?id=27894318</id>
+        <link href="https://www.nature.com/articles/d41586-021-01954-4"/>
+        <updated>2021-07-20T14:40:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01954-4
+Comments URL: https://news.ycombinator.com/item?id=27894318
+Points: 183
+# Comments: 242]]></summary>
         <author>
-            <name>ovis</name>
+            <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPU Architecture Types Explained]]></title>
+        <id>https://news.ycombinator.com/item?id=27893678</id>
+        <link href="https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/"/>
+        <updated>2021-07-20T13:50:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/
+Comments URL: https://news.ycombinator.com/item?id=27893678
+Points: 127
+# Comments: 28]]></summary>
+        <author>
+            <name>asicsp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Sioyek – PDF viewer for reading research papers and technical documents]]></title>
+        <id>https://news.ycombinator.com/item?id=27893303</id>
+        <link href="https://sioyek.info/"/>
+        <updated>2021-07-20T13:16:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sioyek.info/
+Comments URL: https://news.ycombinator.com/item?id=27893303
+Points: 211
+# Comments: 47]]></summary>
+        <author>
+            <name>hexomancer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baltimore Museum of Art will host an exhibition curated by the museum's guards]]></title>
+        <id>https://news.ycombinator.com/item?id=27893283</id>
+        <link href="https://artbma.org/about/press/release/bma-security-officers-take-center-stage-as-guest-curators-of-a-new-exhibition-opening-in-march-2022"/>
+        <updated>2021-07-20T13:12:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://artbma.org/about/press/release/bma-security-officers-take-center-stage-as-guest-curators-of-a-new-exhibition-opening-in-march-2022
+Comments URL: https://news.ycombinator.com/item?id=27893283
+Points: 356
+# Comments: 110]]></summary>
+        <author>
+            <name>hampelm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Square Banking]]></title>
+        <id>https://news.ycombinator.com/item?id=27893280</id>
+        <link href="https://squareup.com/us/en/banking"/>
+        <updated>2021-07-20T13:12:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://squareup.com/us/en/banking
+Comments URL: https://news.ycombinator.com/item?id=27893280
+Points: 264
+# Comments: 160]]></summary>
+        <author>
+            <name>elvinyung</name>
         </author>
     </entry>
 </feed>
