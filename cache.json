@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27913693",
-          "author": "jseliger",
-          "description": "Article URL: https://www.persuasion.community/p/dont-apologize\nComments URL: https://news.ycombinator.com/item?id=27913693\nPoints: 48\n# Comments: 14",
-          "link": "https://www.persuasion.community/p/dont-apologize",
-          "publishedOn": "2021-07-22T00:00:30.000Z",
-          "wordCount": 2008,
-          "title": "Don’t Apologize: If the mob comes for you, stand up for yourself"
+          "id": "https://news.ycombinator.com/item?id=27925716",
+          "author": "codetrotter",
+          "description": "Article URL: https://glynnbird.github.io/teletext/\nComments URL: https://news.ycombinator.com/item?id=27925716\nPoints: 24\n# Comments: 5",
+          "link": "https://glynnbird.github.io/teletext/",
+          "publishedOn": "2021-07-22T23:47:31.000Z",
+          "wordCount": 117,
+          "title": "Hacker News in the Style of Teletext"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27913273",
-          "author": "donohoe",
-          "description": "Article URL: https://www.wired.com/story/ftc-votes-to-enforce-right-to-repair/\nComments URL: https://news.ycombinator.com/item?id=27913273\nPoints: 83\n# Comments: 9",
-          "link": "https://www.wired.com/story/ftc-votes-to-enforce-right-to-repair/",
-          "publishedOn": "2021-07-21T23:03:04.000Z",
-          "wordCount": 1523,
-          "title": "The FTC Votes Unanimously to Enforce Right to Repair"
+          "id": "https://news.ycombinator.com/item?id=27925393",
+          "author": "st_goliath",
+          "description": "Article URL: https://games.greggman.com/game/zip-rant/\nComments URL: https://news.ycombinator.com/item?id=27925393\nPoints: 7\n# Comments: 0",
+          "link": "https://games.greggman.com/game/zip-rant/",
+          "publishedOn": "2021-07-22T23:04:59.000Z",
+          "wordCount": 3804,
+          "title": "Zip – How not to design a file format"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27912487",
-          "author": "fliggertigibet",
-          "description": "Thinking of moving to Berlin for access to a market with better opportunities for software developers.\nBackground is 5+ years experience in enterprise development roles, docker/K8S/cloud experience included. EU citizen so visa not a problem, also speak German.\nWhat are salaries like at the moment and is it still a good option for developers?\nComments URL: https://news.ycombinator.com/item?id=27912487\nPoints: 45\n# Comments: 32",
-          "link": "https://news.ycombinator.com/item?id=27912487",
-          "publishedOn": "2021-07-21T21:33:08.000Z",
-          "wordCount": 1666,
-          "title": "How are salaries for senior devs in Berlin at the moment?"
+          "id": "https://news.ycombinator.com/item?id=27924599",
+          "author": "kilovoltaire",
+          "description": "Article URL: https://www.youtube.com/watch?v=0wxc3mKqKTk\nComments URL: https://news.ycombinator.com/item?id=27924599\nPoints: 56\n# Comments: 8",
+          "link": "https://www.youtube.com/watch?v=0wxc3mKqKTk",
+          "publishedOn": "2021-07-22T21:31:49.000Z",
+          "wordCount": null,
+          "title": "The engineer preserving the last analog motion graphics machine (2017) [video]"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27912386",
-          "author": "privateprofile",
-          "description": "Article URL: https://www.euronews.com/next/2021/07/15/airbnb-raises-violent-crime-rates-in-cities-as-long-term-residents-are-pushed-out-says-us-\nComments URL: https://news.ycombinator.com/item?id=27912386\nPoints: 170\n# Comments: 144",
-          "link": "https://www.euronews.com/next/2021/07/15/airbnb-raises-violent-crime-rates-in-cities-as-long-term-residents-are-pushed-out-says-us-",
-          "publishedOn": "2021-07-21T21:22:45.000Z",
+          "id": "https://news.ycombinator.com/item?id=27924312",
+          "author": "tosh",
+          "description": "Article URL: https://www.hashicorp.com/blog/mitchell-s-new-role-at-hashicorp\nComments URL: https://news.ycombinator.com/item?id=27924312\nPoints: 167\n# Comments: 49",
+          "link": "https://www.hashicorp.com/blog/mitchell-s-new-role-at-hashicorp",
+          "publishedOn": "2021-07-22T21:03:54.000Z",
+          "wordCount": 1115,
+          "title": "Mitchell Hashimoto takes on a new individual contributor role at HashiCorp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27924257",
+          "author": "jstreebin",
+          "description": "Article URL: https://www.easypost.com/careers\nComments URL: https://news.ycombinator.com/item?id=27924257\nPoints: 1\n# Comments: 0",
+          "link": "https://www.easypost.com/careers",
+          "publishedOn": "2021-07-22T21:00:09.000Z",
+          "wordCount": 381,
+          "title": "EasyPost (YC S13) is hiring to build the logistics platform for ecommerce"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27924207",
+          "author": "taxyovio",
+          "description": "Article URL: https://litchie.com/2021/07/idos2-will-be-gone\nComments URL: https://news.ycombinator.com/item?id=27924207\nPoints: 121\n# Comments: 87",
+          "link": "https://litchie.com/2021/07/idos2-will-be-gone",
+          "publishedOn": "2021-07-22T20:55:58.000Z",
+          "wordCount": 943,
+          "title": "iDOS 2 will be gone soon"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27924079",
+          "author": "riboflavin",
+          "description": "Article URL: https://j-entranslations.com/two-japanese-jabberwocky-poems/\nComments URL: https://news.ycombinator.com/item?id=27924079\nPoints: 34\n# Comments: 4",
+          "link": "https://j-entranslations.com/two-japanese-jabberwocky-poems/",
+          "publishedOn": "2021-07-22T20:45:04.000Z",
+          "wordCount": 3222,
+          "title": "Translating Jabberwocky into Japanese"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27923998",
+          "author": "shortleash",
+          "description": "Article URL: https://timharford.com/2021/07/the-tyranny-of-spreadsheets/\nComments URL: https://news.ycombinator.com/item?id=27923998\nPoints: 176\n# Comments: 110",
+          "link": "https://timharford.com/2021/07/the-tyranny-of-spreadsheets/",
+          "publishedOn": "2021-07-22T20:38:28.000Z",
+          "wordCount": 4020,
+          "title": "The Tyranny of Spreadsheets"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27922841",
+          "author": "cyb_",
+          "description": "Article URL: https://www.npr.org/2021/07/22/1019293032/activision-blizzard-lawsuit-unequal-pay-sexual-harassment-video-games\nComments URL: https://news.ycombinator.com/item?id=27922841\nPoints: 315\n# Comments: 366",
+          "link": "https://www.npr.org/2021/07/22/1019293032/activision-blizzard-lawsuit-unequal-pay-sexual-harassment-video-games",
+          "publishedOn": "2021-07-22T19:01:35.000Z",
           "wordCount": 1091,
-          "title": "Airbnb raises violent crime rates in cities as residents are pushed out"
+          "title": "California sues Activision Blizzard over unequal pay, sexual harassment"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27912138",
-          "author": "headalgorithm",
-          "description": "Article URL: https://spectrum.ieee.org/tech-history/silicon-revolution/how-the-ibm-pc-won-then-lost-the-personal-computer-market\nComments URL: https://news.ycombinator.com/item?id=27912138\nPoints: 50\n# Comments: 37",
-          "link": "https://spectrum.ieee.org/tech-history/silicon-revolution/how-the-ibm-pc-won-then-lost-the-personal-computer-market",
-          "publishedOn": "2021-07-21T21:03:09.000Z",
-          "wordCount": 44,
-          "title": "How the IBM PC Won, Then Lost, the Personal Computer Market"
+          "id": "https://news.ycombinator.com/item?id=27922545",
+          "author": "stalfosknight",
+          "description": "Article URL: https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices/\nComments URL: https://news.ycombinator.com/item?id=27922545\nPoints: 162\n# Comments: 143",
+          "link": "https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices/",
+          "publishedOn": "2021-07-22T18:32:58.000Z",
+          "wordCount": 836,
+          "title": "Google broke a conditional statement that verifies passwords on Chrome OS"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27912108",
-          "author": "mkx",
-          "description": "Article URL: https://www.dover.com/open-roles/engineering-manager\nComments URL: https://news.ycombinator.com/item?id=27912108\nPoints: 1\n# Comments: 0",
-          "link": "https://www.dover.com/open-roles/engineering-manager",
-          "publishedOn": "2021-07-21T21:00:36.000Z",
-          "wordCount": 509,
-          "title": "Dover (YC S19) just raised $20m and is hiring our first Engineering Manager"
+          "id": "https://news.ycombinator.com/item?id=27922097",
+          "author": "moneil971",
+          "description": "Article URL: https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/\nComments URL: https://news.ycombinator.com/item?id=27922097\nPoints: 330\n# Comments: 212",
+          "link": "https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/",
+          "publishedOn": "2021-07-22T17:54:39.000Z",
+          "wordCount": 2855,
+          "title": "Migrating Facebook to MySQL 8.0"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27910409",
-          "author": "ip_addr",
-          "description": "Article URL: https://www.justice.gov/opa/pr/man-arrested-connection-alleged-role-twitter-hack\nComments URL: https://news.ycombinator.com/item?id=27910409\nPoints: 36\n# Comments: 3",
-          "link": "https://www.justice.gov/opa/pr/man-arrested-connection-alleged-role-twitter-hack",
-          "publishedOn": "2021-07-21T18:50:45.000Z",
-          "wordCount": 652,
-          "title": "Man Arrested in Connection with Alleged Role in Twitter Hack"
+          "id": "https://news.ycombinator.com/item?id=27921875",
+          "author": "jonathancai",
+          "description": "Article URL: http://alias.co?ref=hn\nComments URL: https://news.ycombinator.com/item?id=27921875\nPoints: 98\n# Comments: 54",
+          "link": "http://alias.co?ref=hn",
+          "publishedOn": "2021-07-22T17:38:17.000Z",
+          "wordCount": 176,
+          "title": "Show HN: Alias – Google Alerts for your favorite people"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27909771",
-          "author": "mpweiher",
-          "description": "Article URL: https://www.akitasoftware.com/blog-posts/why-arent-there-more-programming-languages-startups\nComments URL: https://news.ycombinator.com/item?id=27909771\nPoints: 77\n# Comments: 93",
-          "link": "https://www.akitasoftware.com/blog-posts/why-arent-there-more-programming-languages-startups",
-          "publishedOn": "2021-07-21T18:03:24.000Z",
-          "wordCount": 2547,
-          "title": "Why aren't there more programming-language startups?"
+          "id": "https://news.ycombinator.com/item?id=27920892",
+          "author": "pseudolus",
+          "description": "Article URL: https://www.bbc.com/news/business-57933718\nComments URL: https://news.ycombinator.com/item?id=27920892\nPoints: 110\n# Comments: 161",
+          "link": "https://www.bbc.com/news/business-57933718",
+          "publishedOn": "2021-07-22T16:25:48.000Z",
+          "wordCount": 1187,
+          "title": "Autonomy founder Mike Lynch can be extradited to US"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27909608",
-          "author": "chippy",
-          "description": "Article URL: https://www.sciencemag.org/news/2020/01/relics-washed-beaches-reveal-lost-world-beneath-north-sea\nComments URL: https://news.ycombinator.com/item?id=27909608\nPoints: 205\n# Comments: 69",
-          "link": "https://www.sciencemag.org/news/2020/01/relics-washed-beaches-reveal-lost-world-beneath-north-sea",
-          "publishedOn": "2021-07-21T17:52:17.000Z",
-          "wordCount": 3263,
-          "title": "Lost world revealed by human, Neanderthal relics washed up on North Sea beaches"
+          "id": "https://news.ycombinator.com/item?id=27919859",
+          "author": "matejmecka",
+          "description": "Article URL: https://alphafold.ebi.ac.uk/\nComments URL: https://news.ycombinator.com/item?id=27919859\nPoints: 239\n# Comments: 57",
+          "link": "https://alphafold.ebi.ac.uk/",
+          "publishedOn": "2021-07-22T15:15:10.000Z",
+          "wordCount": 16,
+          "title": "AlphaFold Protein Structure Database"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27907633",
-          "author": "giuliomagnifico",
-          "description": "Article URL: https://www.cjr.org/opinion/nieman-lab-lawsuit-joshua-benton-francesca-viola.php\nComments URL: https://news.ycombinator.com/item?id=27907633\nPoints: 102\n# Comments: 266",
-          "link": "https://www.cjr.org/opinion/nieman-lab-lawsuit-joshua-benton-francesca-viola.php",
-          "publishedOn": "2021-07-21T15:30:45.000Z",
-          "wordCount": 1537,
-          "title": "A Twitter thread sparked a lawsuit against Nieman Lab’s founder"
+          "id": "https://news.ycombinator.com/item?id=27919015",
+          "author": "geerlingguy",
+          "description": "Article URL: https://www.jeffgeerling.com/blog/2021/spacexs-starlink-review-four-months\nComments URL: https://news.ycombinator.com/item?id=27919015\nPoints: 390\n# Comments: 295",
+          "link": "https://www.jeffgeerling.com/blog/2021/spacexs-starlink-review-four-months",
+          "publishedOn": "2021-07-22T14:05:16.000Z",
+          "wordCount": 3570,
+          "title": "Starlink review, four months in"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27907600",
-          "author": "flowerlad",
-          "description": "Article URL: https://www.cnn.com/2021/07/20/media/van-jones-bezos-100-million/index.html\nComments URL: https://news.ycombinator.com/item?id=27907600\nPoints: 169\n# Comments: 554",
-          "link": "https://www.cnn.com/2021/07/20/media/van-jones-bezos-100-million/index.html",
-          "publishedOn": "2021-07-21T15:28:05.000Z",
-          "wordCount": 1033,
-          "title": "Bezos donates $100M each to CNN contributor Van Jones and chef Jose Andres"
+          "id": "https://news.ycombinator.com/item?id=27918900",
+          "author": "hsyyid",
+          "description": "Hi HN, we’re Hassan and David from hotglue (https://hotglue.xyz). We make it easier for developers to build user-facing integrations. In this context, an integration is a way for users to sync their data from their business apps, like Salesforce and Quickbooks, to another. For example, if I wanted to use an app like Mailchimp, I’d use their Salesforce integration to sync all my contacts over automatically.\nWe came across this problem while working for a startup that was struggling to scale the Salesforce integration they built in house. We needed a tool that would sync the customer data from Salesforce directly to our backend, but there were very few solutions available. After talking to other engineers who had dealt with user-facing integrations, we found many teams were frustrated by bui…",
+          "link": "https://news.ycombinator.com/item?id=27918900",
+          "publishedOn": "2021-07-22T13:57:00.000Z",
+          "wordCount": 3171,
+          "title": "Launch HN: hotglue (YC S21) – Easy user-facing SaaS integrations"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27906886",
-          "author": "kalleth",
-          "description": "Article URL: https://tomrussell.co.uk/writing/2021/07/19/estimating-large-scale-software-projects.html\nComments URL: https://news.ycombinator.com/item?id=27906886\nPoints: 232\n# Comments: 104",
-          "link": "https://tomrussell.co.uk/writing/2021/07/19/estimating-large-scale-software-projects.html",
-          "publishedOn": "2021-07-21T14:38:46.000Z",
-          "wordCount": 3930,
-          "title": "Planning and estimating large-scale software projects"
+          "id": "https://news.ycombinator.com/item?id=27918744",
+          "author": "rvenjoyer",
+          "description": "Article URL: https://github.com/lekkit/rvvm\nComments URL: https://news.ycombinator.com/item?id=27918744\nPoints: 113\n# Comments: 14",
+          "link": "https://github.com/lekkit/rvvm",
+          "publishedOn": "2021-07-22T13:44:16.000Z",
+          "wordCount": 821,
+          "title": "RVVM – RISC-V Virtual Machine"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27906787",
-          "author": "llcrabtree",
-          "description": "Hi HN, we’re Laura, Max, and Aaron, the founders of Epsilon3 (https://www.epsilon3.io/). We make software to help space companies run billion-dollar missions and avoid costly and disastrous mistakes.\nWhen you're building a rocket or satellite, you have written checklists and procedures for how to test and operate it. Believe it or not, most companies still do this on paper or Microsoft Word. We are making this digital. Think of it like supercharged checklists plus version control (like Asana + Github). This is useful for the space industry and anyone else with complex testing and operational workflows.\nThere is massive growth right now in the number of space startups and of spacecraft and people launching into space. Payloads are being launched multiple times per day; you don’t hear about …",
-          "link": "https://news.ycombinator.com/item?id=27906787",
-          "publishedOn": "2021-07-21T14:31:11.000Z",
-          "wordCount": 3828,
-          "title": "Launch HN: Epsilon3 (YC S21) – Software for spacecraft and complex operations"
+          "id": "https://news.ycombinator.com/item?id=27918226",
+          "author": "youseff",
+          "description": "Article URL: https://sell.app\nComments URL: https://news.ycombinator.com/item?id=27918226\nPoints: 89\n# Comments: 82",
+          "link": "https://sell.app",
+          "publishedOn": "2021-07-22T12:49:02.000Z",
+          "wordCount": 353,
+          "title": "Show HN: Sell.app – A simple way to sell digital goods"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27906715",
-          "author": "thomasj",
-          "description": "Article URL: https://towardsdev.com/how-i-built-my-first-serverless-robot-and-won-200-87127a0b108c\nComments URL: https://news.ycombinator.com/item?id=27906715\nPoints: 126\n# Comments: 21",
-          "link": "https://towardsdev.com/how-i-built-my-first-serverless-robot-and-won-200-87127a0b108c",
-          "publishedOn": "2021-07-21T14:26:39.000Z",
-          "wordCount": 1432,
-          "title": "I built my first serverless robot and won $1000"
+          "id": "https://news.ycombinator.com/item?id=27917432",
+          "author": "tudorw",
+          "description": "Article URL: http://algorithmicbotany.org/virtual_laboratory/\nComments URL: https://news.ycombinator.com/item?id=27917432\nPoints: 7\n# Comments: 1",
+          "link": "http://algorithmicbotany.org/virtual_laboratory/",
+          "publishedOn": "2021-07-22T10:52:00.000Z",
+          "wordCount": 213,
+          "title": "Algorithmic Botany, Biological Modelling and Visualization Software"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27905646",
-          "author": "chalst",
-          "description": "Article URL: https://pubmed.ncbi.nlm.nih.gov/28044450/\nComments URL: https://news.ycombinator.com/item?id=27905646\nPoints: 235\n# Comments: 212",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/28044450/",
-          "publishedOn": "2021-07-21T13:00:49.000Z",
-          "wordCount": 1610,
-          "title": "Caffeine and theanine exert opposite effects on attention (2017)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27905644",
-          "author": "chmaynard",
-          "description": "Article URL: https://www.barebones.com/products/bbedit/bbedit14.html\nComments URL: https://news.ycombinator.com/item?id=27905644\nPoints: 235\n# Comments: 125",
-          "link": "https://www.barebones.com/products/bbedit/bbedit14.html",
-          "publishedOn": "2021-07-21T13:00:40.000Z",
-          "wordCount": 610,
-          "title": "BBEdit 14"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27905555",
-          "author": "belter",
-          "description": "Article URL: https://web.dev/webassembly-threads/\nComments URL: https://news.ycombinator.com/item?id=27905555\nPoints: 159\n# Comments: 78",
-          "link": "https://web.dev/webassembly-threads/",
-          "publishedOn": "2021-07-21T12:50:25.000Z",
-          "wordCount": 2871,
-          "title": "Using WebAssembly threads from C, C++ and Rust"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27905287",
-          "author": "fdb",
-          "description": "Article URL: https://www.debugbear.com/blog/chrome-extension-performance-2021\nComments URL: https://news.ycombinator.com/item?id=27905287\nPoints: 99\n# Comments: 57",
-          "link": "https://www.debugbear.com/blog/chrome-extension-performance-2021",
-          "publishedOn": "2021-07-21T12:19:52.000Z",
-          "wordCount": 2252,
-          "title": "How do Chrome extensions impact browser performance?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27904622",
-          "author": "msmithstubbs",
-          "description": "Article URL: https://aws.amazon.com/about-aws/whats-new/2021/07/aws-allows-customers-pay-their-usage-in-advance/\nComments URL: https://news.ycombinator.com/item?id=27904622\nPoints: 128\n# Comments: 153",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-allows-customers-pay-their-usage-in-advance/",
-          "publishedOn": "2021-07-21T10:56:10.000Z",
-          "wordCount": 526,
-          "title": "AWS now allows customers to pay for their usage in advance"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27904396",
-          "author": "shsachdev",
-          "description": "Article URL: https://english.elpais.com/spain/2021-07-15/spanish-police-seize-large-drone-used-to-carry-drugs-from-morocco.html\nComments URL: https://news.ycombinator.com/item?id=27904396\nPoints: 179\n# Comments: 135",
-          "link": "https://english.elpais.com/spain/2021-07-15/spanish-police-seize-large-drone-used-to-carry-drugs-from-morocco.html",
-          "publishedOn": "2021-07-21T10:20:47.000Z",
-          "wordCount": 1512,
-          "title": "Spanish police seize large drone used to carry drugs from Morocco"
+          "id": "https://news.ycombinator.com/item?id=27917366",
+          "author": "the-mitr",
+          "description": "Article URL: https://tug.org/FontCatalogue/\nComments URL: https://news.ycombinator.com/item?id=27917366\nPoints: 181\n# Comments: 118",
+          "link": "https://tug.org/FontCatalogue/",
+          "publishedOn": "2021-07-22T10:40:31.000Z",
+          "wordCount": 133,
+          "title": "The LaTeX Font Catalogue"
         }
       ]
     }
