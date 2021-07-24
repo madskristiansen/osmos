@@ -1,266 +1,279 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-23T00:51:56.845Z</id>
+    <id>urn:2021-07-24T00:51:11.288Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T00:51:56.845Z</updated>
+    <updated>2021-07-24T00:51:11.288Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Hacker News in the Style of Teletext]]></title>
-        <id>https://news.ycombinator.com/item?id=27925716</id>
-        <link href="https://glynnbird.github.io/teletext/"/>
-        <updated>2021-07-22T23:47:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://glynnbird.github.io/teletext/
-Comments URL: https://news.ycombinator.com/item?id=27925716
-Points: 24
-# Comments: 5]]></summary>
+        <title type="html"><![CDATA[Bezos and Branson not yet astronauts, US says]]></title>
+        <id>https://news.ycombinator.com/item?id=27936499</id>
+        <link href="https://www.bbc.com/news/world-us-canada-57950149"/>
+        <updated>2021-07-23T22:48:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-us-canada-57950149
+Comments URL: https://news.ycombinator.com/item?id=27936499
+Points: 62
+# Comments: 83]]></summary>
         <author>
-            <name>codetrotter</name>
+            <name>geox</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zip – How not to design a file format]]></title>
-        <id>https://news.ycombinator.com/item?id=27925393</id>
-        <link href="https://games.greggman.com/game/zip-rant/"/>
-        <updated>2021-07-22T23:04:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://games.greggman.com/game/zip-rant/
-Comments URL: https://news.ycombinator.com/item?id=27925393
-Points: 7
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Modern C++ for C Programmers (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=27936154</id>
+        <link href="https://berthub.eu/articles/posts/c++-1/"/>
+        <updated>2021-07-23T22:05:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://berthub.eu/articles/posts/c++-1/
+Comments URL: https://news.ycombinator.com/item?id=27936154
+Points: 61
+# Comments: 39]]></summary>
         <author>
-            <name>st_goliath</name>
+            <name>sundarurfriend</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The engineer preserving the last analog motion graphics machine (2017) [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=27924599</id>
-        <link href="https://www.youtube.com/watch?v=0wxc3mKqKTk"/>
-        <updated>2021-07-22T21:31:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=0wxc3mKqKTk
-Comments URL: https://news.ycombinator.com/item?id=27924599
-Points: 56
-# Comments: 8]]></summary>
-        <author>
-            <name>kilovoltaire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mitchell Hashimoto takes on a new individual contributor role at HashiCorp]]></title>
-        <id>https://news.ycombinator.com/item?id=27924312</id>
-        <link href="https://www.hashicorp.com/blog/mitchell-s-new-role-at-hashicorp"/>
-        <updated>2021-07-22T21:03:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.hashicorp.com/blog/mitchell-s-new-role-at-hashicorp
-Comments URL: https://news.ycombinator.com/item?id=27924312
-Points: 167
-# Comments: 49]]></summary>
-        <author>
-            <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EasyPost (YC S13) is hiring to build the logistics platform for ecommerce]]></title>
-        <id>https://news.ycombinator.com/item?id=27924257</id>
-        <link href="https://www.easypost.com/careers"/>
-        <updated>2021-07-22T21:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.easypost.com/careers
-Comments URL: https://news.ycombinator.com/item?id=27924257
+        <title type="html"><![CDATA[Gordian Software (YC W19) is hiring back end engineers]]></title>
+        <id>https://news.ycombinator.com/item?id=27935581</id>
+        <link href="https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22"/>
+        <updated>2021-07-23T21:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22
+Comments URL: https://news.ycombinator.com/item?id=27935581
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>jstreebin</name>
+            <name>grabowss</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iDOS 2 will be gone soon]]></title>
-        <id>https://news.ycombinator.com/item?id=27924207</id>
-        <link href="https://litchie.com/2021/07/idos2-will-be-gone"/>
-        <updated>2021-07-22T20:55:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://litchie.com/2021/07/idos2-will-be-gone
-Comments URL: https://news.ycombinator.com/item?id=27924207
-Points: 121
-# Comments: 87]]></summary>
+        <title type="html"><![CDATA[The Chernobyl Tragedy – From the Memoirs of Nikolai Ryzhkov]]></title>
+        <id>https://news.ycombinator.com/item?id=27935527</id>
+        <link href="https://itsmydutytotell.wordpress.com/2021/06/07/the-chernobyl-tragedy-from-the-memoirs-of-nikolai-ryzhkov/"/>
+        <updated>2021-07-23T20:55:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://itsmydutytotell.wordpress.com/2021/06/07/the-chernobyl-tragedy-from-the-memoirs-of-nikolai-ryzhkov/
+Comments URL: https://news.ycombinator.com/item?id=27935527
+Points: 31
+# Comments: 2]]></summary>
         <author>
-            <name>taxyovio</name>
+            <name>dkarras</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Translating Jabberwocky into Japanese]]></title>
-        <id>https://news.ycombinator.com/item?id=27924079</id>
-        <link href="https://j-entranslations.com/two-japanese-jabberwocky-poems/"/>
-        <updated>2021-07-22T20:45:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://j-entranslations.com/two-japanese-jabberwocky-poems/
-Comments URL: https://news.ycombinator.com/item?id=27924079
-Points: 34
-# Comments: 4]]></summary>
+        <title type="html"><![CDATA[The Grayness of the Origin of Life]]></title>
+        <id>https://news.ycombinator.com/item?id=27934953</id>
+        <link href="https://www.mdpi.com/2075-1729/11/6/498/htm"/>
+        <updated>2021-07-23T20:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.mdpi.com/2075-1729/11/6/498/htm
+Comments URL: https://news.ycombinator.com/item?id=27934953
+Points: 46
+# Comments: 32]]></summary>
         <author>
-            <name>riboflavin</name>
+            <name>Breadmaker</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Tyranny of Spreadsheets]]></title>
-        <id>https://news.ycombinator.com/item?id=27923998</id>
-        <link href="https://timharford.com/2021/07/the-tyranny-of-spreadsheets/"/>
-        <updated>2021-07-22T20:38:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://timharford.com/2021/07/the-tyranny-of-spreadsheets/
-Comments URL: https://news.ycombinator.com/item?id=27923998
-Points: 176
-# Comments: 110]]></summary>
+        <title type="html"><![CDATA[My Steam Game Revenue Stats]]></title>
+        <id>https://news.ycombinator.com/item?id=27934879</id>
+        <link href="https://donislawdev.com/my-first-indie-steam-game-revenue-first-month-in-early-access-yerba-mate-tycoon/"/>
+        <updated>2021-07-23T19:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://donislawdev.com/my-first-indie-steam-game-revenue-first-month-in-early-access-yerba-mate-tycoon/
+Comments URL: https://news.ycombinator.com/item?id=27934879
+Points: 83
+# Comments: 43]]></summary>
         <author>
-            <name>shortleash</name>
+            <name>donislawdev</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[California sues Activision Blizzard over unequal pay, sexual harassment]]></title>
-        <id>https://news.ycombinator.com/item?id=27922841</id>
-        <link href="https://www.npr.org/2021/07/22/1019293032/activision-blizzard-lawsuit-unequal-pay-sexual-harassment-video-games"/>
-        <updated>2021-07-22T19:01:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/07/22/1019293032/activision-blizzard-lawsuit-unequal-pay-sexual-harassment-video-games
-Comments URL: https://news.ycombinator.com/item?id=27922841
-Points: 315
-# Comments: 366]]></summary>
-        <author>
-            <name>cyb_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google broke a conditional statement that verifies passwords on Chrome OS]]></title>
-        <id>https://news.ycombinator.com/item?id=27922545</id>
-        <link href="https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices/"/>
-        <updated>2021-07-22T18:32:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices/
-Comments URL: https://news.ycombinator.com/item?id=27922545
-Points: 162
-# Comments: 143]]></summary>
-        <author>
-            <name>stalfosknight</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Migrating Facebook to MySQL 8.0]]></title>
-        <id>https://news.ycombinator.com/item?id=27922097</id>
-        <link href="https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/"/>
-        <updated>2021-07-22T17:54:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/
-Comments URL: https://news.ycombinator.com/item?id=27922097
-Points: 330
-# Comments: 212]]></summary>
-        <author>
-            <name>moneil971</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Alias – Google Alerts for your favorite people]]></title>
-        <id>https://news.ycombinator.com/item?id=27921875</id>
-        <link href="http://alias.co?ref=hn"/>
-        <updated>2021-07-22T17:38:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://alias.co?ref=hn
-Comments URL: https://news.ycombinator.com/item?id=27921875
-Points: 98
-# Comments: 54]]></summary>
-        <author>
-            <name>jonathancai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autonomy founder Mike Lynch can be extradited to US]]></title>
-        <id>https://news.ycombinator.com/item?id=27920892</id>
-        <link href="https://www.bbc.com/news/business-57933718"/>
-        <updated>2021-07-22T16:25:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57933718
-Comments URL: https://news.ycombinator.com/item?id=27920892
-Points: 110
-# Comments: 161]]></summary>
-        <author>
-            <name>pseudolus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlphaFold Protein Structure Database]]></title>
-        <id>https://news.ycombinator.com/item?id=27919859</id>
-        <link href="https://alphafold.ebi.ac.uk/"/>
-        <updated>2021-07-22T15:15:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://alphafold.ebi.ac.uk/
-Comments URL: https://news.ycombinator.com/item?id=27919859
-Points: 239
-# Comments: 57]]></summary>
-        <author>
-            <name>matejmecka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starlink review, four months in]]></title>
-        <id>https://news.ycombinator.com/item?id=27919015</id>
-        <link href="https://www.jeffgeerling.com/blog/2021/spacexs-starlink-review-four-months"/>
-        <updated>2021-07-22T14:05:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.jeffgeerling.com/blog/2021/spacexs-starlink-review-four-months
-Comments URL: https://news.ycombinator.com/item?id=27919015
-Points: 390
-# Comments: 295]]></summary>
-        <author>
-            <name>geerlingguy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: hotglue (YC S21) – Easy user-facing SaaS integrations]]></title>
-        <id>https://news.ycombinator.com/item?id=27918900</id>
-        <link href="https://news.ycombinator.com/item?id=27918900"/>
-        <updated>2021-07-22T13:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN, we’re Hassan and David from hotglue (https://hotglue.xyz). We make it easier for developers to build user-facing integrations. In this context, an integration is a way for users to sync their data from their business apps, like Salesforce and Quickbooks, to another. For example, if I wanted to use an app like Mailchimp, I’d use their Salesforce integration to sync all my contacts over automatically.
-We came across this problem while working for a startup that was struggling to scale the Salesforce integration they built in house. We needed a tool that would sync the customer data from Salesforce directly to our backend, but there were very few solutions available. After talking to other engineers who had dealt with user-facing integrations, we found many teams were frustrated by bui…]]></summary>
-        <author>
-            <name>hsyyid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RVVM – RISC-V Virtual Machine]]></title>
-        <id>https://news.ycombinator.com/item?id=27918744</id>
-        <link href="https://github.com/lekkit/rvvm"/>
-        <updated>2021-07-22T13:44:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/lekkit/rvvm
-Comments URL: https://news.ycombinator.com/item?id=27918744
-Points: 113
-# Comments: 14]]></summary>
-        <author>
-            <name>rvenjoyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Sell.app – A simple way to sell digital goods]]></title>
-        <id>https://news.ycombinator.com/item?id=27918226</id>
-        <link href="https://sell.app"/>
-        <updated>2021-07-22T12:49:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sell.app
-Comments URL: https://news.ycombinator.com/item?id=27918226
-Points: 89
-# Comments: 82]]></summary>
-        <author>
-            <name>youseff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algorithmic Botany, Biological Modelling and Visualization Software]]></title>
-        <id>https://news.ycombinator.com/item?id=27917432</id>
-        <link href="http://algorithmicbotany.org/virtual_laboratory/"/>
-        <updated>2021-07-22T10:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://algorithmicbotany.org/virtual_laboratory/
-Comments URL: https://news.ycombinator.com/item?id=27917432
-Points: 7
+        <title type="html"><![CDATA[Tropical Rainforest Index]]></title>
+        <id>https://news.ycombinator.com/item?id=27934824</id>
+        <link href="https://www.udel.edu/udaily/2021/july/rodrigo-vargas-tropical-rainforest-index-national-geographic/"/>
+        <updated>2021-07-23T19:44:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.udel.edu/udaily/2021/july/rodrigo-vargas-tropical-rainforest-index-national-geographic/
+Comments URL: https://news.ycombinator.com/item?id=27934824
+Points: 17
 # Comments: 1]]></summary>
         <author>
-            <name>tudorw</name>
+            <name>infodocket</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The LaTeX Font Catalogue]]></title>
-        <id>https://news.ycombinator.com/item?id=27917366</id>
-        <link href="https://tug.org/FontCatalogue/"/>
-        <updated>2021-07-22T10:40:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tug.org/FontCatalogue/
-Comments URL: https://news.ycombinator.com/item?id=27917366
-Points: 181
-# Comments: 118]]></summary>
+        <title type="html"><![CDATA[The Antikythera Mechanism – World Archaeology]]></title>
+        <id>https://news.ycombinator.com/item?id=27934684</id>
+        <link href="https://www.world-archaeology.com/features/the-antikythera-mechanism/"/>
+        <updated>2021-07-23T19:31:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.world-archaeology.com/features/the-antikythera-mechanism/
+Comments URL: https://news.ycombinator.com/item?id=27934684
+Points: 25
+# Comments: 5]]></summary>
         <author>
-            <name>the-mitr</name>
+            <name>jonnydubowsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Released from a gag order regarding a federal investigation into a silly comment]]></title>
+        <id>https://news.ycombinator.com/item?id=27934244</id>
+        <link href="https://www.techdirt.com/articles/20210715/17183547176/techdirt-has-been-released-gag-order-regarding-federal-investigation-into-silly-comment.shtml"/>
+        <updated>2021-07-23T18:47:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.techdirt.com/articles/20210715/17183547176/techdirt-has-been-released-gag-order-regarding-federal-investigation-into-silly-comment.shtml
+Comments URL: https://news.ycombinator.com/item?id=27934244
+Points: 131
+# Comments: 62]]></summary>
+        <author>
+            <name>awnird</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers are pulling movements out of microfilm with digital history]]></title>
+        <id>https://news.ycombinator.com/item?id=27934080</id>
+        <link href="https://vtx.vt.edu/articles/2021/07/eng-historians-and-computer-scientists-harness-virtual-reality-and-ai.html"/>
+        <updated>2021-07-23T18:31:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://vtx.vt.edu/articles/2021/07/eng-historians-and-computer-scientists-harness-virtual-reality-and-ai.html
+Comments URL: https://news.ycombinator.com/item?id=27934080
+Points: 30
+# Comments: 6]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Old Vidme embeds turn into porn after domain purchase]]></title>
+        <id>https://news.ycombinator.com/item?id=27933334</id>
+        <link href="https://www.theverge.com/2021/7/22/22589403/porn-site-bought-expired-video-hosting-site-old-embeds"/>
+        <updated>2021-07-23T17:27:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/7/22/22589403/porn-site-bought-expired-video-hosting-site-old-embeds
+Comments URL: https://news.ycombinator.com/item?id=27933334
+Points: 161
+# Comments: 99]]></summary>
+        <author>
+            <name>ibaikov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dig]]></title>
+        <id>https://news.ycombinator.com/item?id=27932436</id>
+        <link href="https://www.filfre.net/2021/07/the-dig/"/>
+        <updated>2021-07-23T16:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.filfre.net/2021/07/the-dig/
+Comments URL: https://news.ycombinator.com/item?id=27932436
+Points: 76
+# Comments: 46]]></summary>
+        <author>
+            <name>doppp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is the university of California dropping the SAT?]]></title>
+        <id>https://news.ycombinator.com/item?id=27931798</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2021/07/why-university-california-dropping-sat/619522/"/>
+        <updated>2021-07-23T15:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/ideas/archive/2021/07/why-university-california-dropping-sat/619522/
+Comments URL: https://news.ycombinator.com/item?id=27931798
+Points: 224
+# Comments: 464]]></summary>
+        <author>
+            <name>throwkeep</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intrinsic, a new Alphabet company]]></title>
+        <id>https://news.ycombinator.com/item?id=27931562</id>
+        <link href="https://blog.x.company/introducing-intrinsic-1cf35b87651"/>
+        <updated>2021-07-23T15:12:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.x.company/introducing-intrinsic-1cf35b87651
+Comments URL: https://news.ycombinator.com/item?id=27931562
+Points: 286
+# Comments: 213]]></summary>
+        <author>
+            <name>haberdasher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mark Zuckerberg says Facebook will turn into a ‘metaverse’]]></title>
+        <id>https://news.ycombinator.com/item?id=27930791</id>
+        <link href="https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview"/>
+        <updated>2021-07-23T14:07:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview
+Comments URL: https://news.ycombinator.com/item?id=27930791
+Points: 153
+# Comments: 321]]></summary>
+        <author>
+            <name>Choc13</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Exams, tasks, K8, eCommerce, cell sites, health, data quality, travel]]></title>
+        <id>https://news.ycombinator.com/item?id=27930562</id>
+        <link href="https://news.ycombinator.com/item?id=27930562"/>
+        <updated>2021-07-23T13:44:41.000Z</updated>
+        <summary type="html"><![CDATA[This is the inaugural "Meet the Batch" post that we discussed a few days ago: https://news.ycombinator.com/item?id=27877280. There are 8 startups in this thread. I've attempted to squeeze a reference to each in the title above. The initial order is random.
+Direct links to each startup:
+Portão 3 (YC S21) - Corporate travel for Latin America - https://portao3.com.br/,  
+https://news.ycombinator.com/item?id=27930563
+Sitenna (YC S21) - A marketplace for wireless cell sites - https://sitenna.com/, https://news.ycombinator.com/item?id=27930564
+ContainIQ (YC S21) - Kubernetes observability based on eBPF - https://www.containiq.com/, https://news.ycombinator.com/item?id=27930569
+Appollo (YC S21) - A single API for launching to eCommerce platforms - https://www.tryappollo.com/, https://news.ycombinator.com/item?id=27930570
+Beau (YC S21) - Automate repetitive client-facing tasks - https://beau.to/, https://news.ycombinator.com/item?id=27930568
+Telm.ai (YC S21) - Real-time data quality monitoring - https://www.telm.ai/, https://news.ycombinator.com/item?id=27930566
+Filadd (YC S21) - Online courses for LatAm university - https://courses.filadd.com/, entrance exams https://news.ycombinator.com/item?id=27930567
+Shimmer (YC S21) - Online video support groups for mental health - https://shimmer.care, https://news.ycombinator.com/item?id=27930565
+You are invited to share your questions, thoughts, feedback, and experiences in any of these spaces! Simply reply to the founder's post you want to discuss.
+Comments URL: https://news.ycombinator.com/item?id=27930562
+Points: 164
+# Comments: 108]]></summary>
+        <author>
+            <name>dang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS's Egregious Egress]]></title>
+        <id>https://news.ycombinator.com/item?id=27930151</id>
+        <link href="https://blog.cloudflare.com/aws-egregious-egress/"/>
+        <updated>2021-07-23T13:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.cloudflare.com/aws-egregious-egress/
+Comments URL: https://news.ycombinator.com/item?id=27930151
+Points: 507
+# Comments: 144]]></summary>
+        <author>
+            <name>jgrahamc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We’d rather have the iceberg than the ship]]></title>
+        <id>https://news.ycombinator.com/item?id=27930128</id>
+        <link href="https://www.granolashotgun.com/granolashotguncom/wed-rather-have-the-iceberg-than-the-ship"/>
+        <updated>2021-07-23T12:57:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.granolashotgun.com/granolashotguncom/wed-rather-have-the-iceberg-than-the-ship
+Comments URL: https://news.ycombinator.com/item?id=27930128
+Points: 279
+# Comments: 285]]></summary>
+        <author>
+            <name>oftenwrong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Floating wind turbines could rise to great heights]]></title>
+        <id>https://news.ycombinator.com/item?id=27929954</id>
+        <link href="https://www.economist.com/science-and-technology/2021/07/21/floating-wind-turbines-could-rise-to-great-heights"/>
+        <updated>2021-07-23T12:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/07/21/floating-wind-turbines-could-rise-to-great-heights
+Comments URL: https://news.ycombinator.com/item?id=27929954
+Points: 108
+# Comments: 88]]></summary>
+        <author>
+            <name>prostoalex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The value of doing a little]]></title>
+        <id>https://news.ycombinator.com/item?id=27929632</id>
+        <link href="https://trms.me/the-value-of-doing-a-little/"/>
+        <updated>2021-07-23T11:49:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://trms.me/the-value-of-doing-a-little/
+Comments URL: https://news.ycombinator.com/item?id=27929632
+Points: 129
+# Comments: 36]]></summary>
+        <author>
+            <name>trms</name>
         </author>
     </entry>
 </feed>
