@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27936499",
-          "author": "geox",
-          "description": "Article URL: https://www.bbc.com/news/world-us-canada-57950149\nComments URL: https://news.ycombinator.com/item?id=27936499\nPoints: 62\n# Comments: 83",
-          "link": "https://www.bbc.com/news/world-us-canada-57950149",
-          "publishedOn": "2021-07-23T22:48:05.000Z",
-          "wordCount": 921,
-          "title": "Bezos and Branson not yet astronauts, US says"
+          "id": "https://news.ycombinator.com/item?id=27945280",
+          "author": "pseudolus",
+          "description": "Article URL: https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html\nComments URL: https://news.ycombinator.com/item?id=27945280\nPoints: 46\n# Comments: 21",
+          "link": "https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
+          "publishedOn": "2021-07-24T23:29:56.000Z",
+          "wordCount": 4240,
+          "title": "Half of US states now using facial recognition to vet unemployment claims"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27936154",
-          "author": "sundarurfriend",
-          "description": "Article URL: https://berthub.eu/articles/posts/c++-1/\nComments URL: https://news.ycombinator.com/item?id=27936154\nPoints: 61\n# Comments: 39",
-          "link": "https://berthub.eu/articles/posts/c++-1/",
-          "publishedOn": "2021-07-23T22:05:02.000Z",
-          "wordCount": 1414,
-          "title": "Modern C++ for C Programmers (2018)"
+          "id": "https://news.ycombinator.com/item?id=27945213",
+          "author": "hhs",
+          "description": "Article URL: https://www.bloombergquint.com/markets/china-bans-school-curriculum-tutoring-firms-from-going-public\nComments URL: https://news.ycombinator.com/item?id=27945213\nPoints: 13\n# Comments: 4",
+          "link": "https://www.bloombergquint.com/markets/china-bans-school-curriculum-tutoring-firms-from-going-public",
+          "publishedOn": "2021-07-24T23:20:52.000Z",
+          "wordCount": 1134,
+          "title": "China bans for-profit school tutoring in sweeping overhaul"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27935581",
-          "author": "grabowss",
-          "description": "Article URL: https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22\nComments URL: https://news.ycombinator.com/item?id=27935581\nPoints: 1\n# Comments: 0",
-          "link": "https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22",
-          "publishedOn": "2021-07-23T21:00:21.000Z",
-          "wordCount": 16,
-          "title": "Gordian Software (YC W19) is hiring back end engineers"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27935527",
-          "author": "dkarras",
-          "description": "Article URL: https://itsmydutytotell.wordpress.com/2021/06/07/the-chernobyl-tragedy-from-the-memoirs-of-nikolai-ryzhkov/\nComments URL: https://news.ycombinator.com/item?id=27935527\nPoints: 31\n# Comments: 2",
-          "link": "https://itsmydutytotell.wordpress.com/2021/06/07/the-chernobyl-tragedy-from-the-memoirs-of-nikolai-ryzhkov/",
-          "publishedOn": "2021-07-23T20:55:03.000Z",
-          "wordCount": 9449,
-          "title": "The Chernobyl Tragedy – From the Memoirs of Nikolai Ryzhkov"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27934953",
-          "author": "Breadmaker",
-          "description": "Article URL: https://www.mdpi.com/2075-1729/11/6/498/htm\nComments URL: https://news.ycombinator.com/item?id=27934953\nPoints: 46\n# Comments: 32",
-          "link": "https://www.mdpi.com/2075-1729/11/6/498/htm",
-          "publishedOn": "2021-07-23T20:00:19.000Z",
-          "wordCount": 14071,
-          "title": "The Grayness of the Origin of Life"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27934879",
-          "author": "donislawdev",
-          "description": "Article URL: https://donislawdev.com/my-first-indie-steam-game-revenue-first-month-in-early-access-yerba-mate-tycoon/\nComments URL: https://news.ycombinator.com/item?id=27934879\nPoints: 83\n# Comments: 43",
-          "link": "https://donislawdev.com/my-first-indie-steam-game-revenue-first-month-in-early-access-yerba-mate-tycoon/",
-          "publishedOn": "2021-07-23T19:51:46.000Z",
-          "wordCount": 2387,
-          "title": "My Steam Game Revenue Stats"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27934824",
-          "author": "infodocket",
-          "description": "Article URL: https://www.udel.edu/udaily/2021/july/rodrigo-vargas-tropical-rainforest-index-national-geographic/\nComments URL: https://news.ycombinator.com/item?id=27934824\nPoints: 17\n# Comments: 1",
-          "link": "https://www.udel.edu/udaily/2021/july/rodrigo-vargas-tropical-rainforest-index-national-geographic/",
-          "publishedOn": "2021-07-23T19:44:31.000Z",
-          "wordCount": 922,
-          "title": "Tropical Rainforest Index"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27934684",
-          "author": "jonnydubowsky",
-          "description": "Article URL: https://www.world-archaeology.com/features/the-antikythera-mechanism/\nComments URL: https://news.ycombinator.com/item?id=27934684\nPoints: 25\n# Comments: 5",
-          "link": "https://www.world-archaeology.com/features/the-antikythera-mechanism/",
-          "publishedOn": "2021-07-23T19:31:08.000Z",
-          "wordCount": 2271,
-          "title": "The Antikythera Mechanism – World Archaeology"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27934244",
-          "author": "awnird",
-          "description": "Article URL: https://www.techdirt.com/articles/20210715/17183547176/techdirt-has-been-released-gag-order-regarding-federal-investigation-into-silly-comment.shtml\nComments URL: https://news.ycombinator.com/item?id=27934244\nPoints: 131\n# Comments: 62",
-          "link": "https://www.techdirt.com/articles/20210715/17183547176/techdirt-has-been-released-gag-order-regarding-federal-investigation-into-silly-comment.shtml",
-          "publishedOn": "2021-07-23T18:47:10.000Z",
-          "wordCount": 4122,
-          "title": "Released from a gag order regarding a federal investigation into a silly comment"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27934080",
-          "author": "rbanffy",
-          "description": "Article URL: https://vtx.vt.edu/articles/2021/07/eng-historians-and-computer-scientists-harness-virtual-reality-and-ai.html\nComments URL: https://news.ycombinator.com/item?id=27934080\nPoints: 30\n# Comments: 6",
-          "link": "https://vtx.vt.edu/articles/2021/07/eng-historians-and-computer-scientists-harness-virtual-reality-and-ai.html",
-          "publishedOn": "2021-07-23T18:31:25.000Z",
-          "wordCount": 3298,
-          "title": "Researchers are pulling movements out of microfilm with digital history"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27933334",
-          "author": "ibaikov",
-          "description": "Article URL: https://www.theverge.com/2021/7/22/22589403/porn-site-bought-expired-video-hosting-site-old-embeds\nComments URL: https://news.ycombinator.com/item?id=27933334\nPoints: 161\n# Comments: 99",
-          "link": "https://www.theverge.com/2021/7/22/22589403/porn-site-bought-expired-video-hosting-site-old-embeds",
-          "publishedOn": "2021-07-23T17:27:55.000Z",
-          "wordCount": 681,
-          "title": "Old Vidme embeds turn into porn after domain purchase"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27932436",
-          "author": "doppp",
-          "description": "Article URL: https://www.filfre.net/2021/07/the-dig/\nComments URL: https://news.ycombinator.com/item?id=27932436\nPoints: 76\n# Comments: 46",
-          "link": "https://www.filfre.net/2021/07/the-dig/",
-          "publishedOn": "2021-07-23T16:19:57.000Z",
-          "wordCount": 9816,
-          "title": "The Dig"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27931798",
-          "author": "throwkeep",
-          "description": "Article URL: https://www.theatlantic.com/ideas/archive/2021/07/why-university-california-dropping-sat/619522/\nComments URL: https://news.ycombinator.com/item?id=27931798\nPoints: 224\n# Comments: 464",
-          "link": "https://www.theatlantic.com/ideas/archive/2021/07/why-university-california-dropping-sat/619522/",
-          "publishedOn": "2021-07-23T15:31:07.000Z",
-          "wordCount": 1890,
-          "title": "Why is the university of California dropping the SAT?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27931562",
-          "author": "haberdasher",
-          "description": "Article URL: https://blog.x.company/introducing-intrinsic-1cf35b87651\nComments URL: https://news.ycombinator.com/item?id=27931562\nPoints: 286\n# Comments: 213",
-          "link": "https://blog.x.company/introducing-intrinsic-1cf35b87651",
-          "publishedOn": "2021-07-23T15:12:04.000Z",
-          "wordCount": 949,
-          "title": "Intrinsic, a new Alphabet company"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27930791",
-          "author": "Choc13",
-          "description": "Article URL: https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview\nComments URL: https://news.ycombinator.com/item?id=27930791\nPoints: 153\n# Comments: 321",
-          "link": "https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview",
-          "publishedOn": "2021-07-23T14:07:12.000Z",
-          "wordCount": 9001,
-          "title": "Mark Zuckerberg says Facebook will turn into a ‘metaverse’"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27930562",
-          "author": "dang",
-          "description": "This is the inaugural \"Meet the Batch\" post that we discussed a few days ago: https://news.ycombinator.com/item?id=27877280. There are 8 startups in this thread. I've attempted to squeeze a reference to each in the title above. The initial order is random.\nDirect links to each startup:\nPortão 3 (YC S21) - Corporate travel for Latin America - https://portao3.com.br/,  \nhttps://news.ycombinator.com/item?id=27930563\nSitenna (YC S21) - A marketplace for wireless cell sites - https://sitenna.com/, https://news.ycombinator.com/item?id=27930564\nContainIQ (YC S21) - Kubernetes observability based on eBPF - https://www.containiq.com/, https://news.ycombinator.com/item?id=27930569\nAppollo (YC S21) - A single API for launching to eCommerce platforms - https://www.tryappollo.com/, https://news.ycombinator.com/item?id=27930570\nBeau (YC S21) - Automate repetitive client-facing tasks - https://beau.to/, https://news.ycombinator.com/item?id=27930568\nTelm.ai (YC S21) - Real-time data quality monitoring - https://www.telm.ai/, https://news.ycombinator.com/item?id=27930566\nFiladd (YC S21) - Online courses for LatAm university - https://courses.filadd.com/, entrance exams https://news.ycombinator.com/item?id=27930567\nShimmer (YC S21) - Online video support groups for mental health - https://shimmer.care, https://news.ycombinator.com/item?id=27930565\nYou are invited to share your questions, thoughts, feedback, and experiences in any of these spaces! Simply reply to the founder's post you want to discuss.\nComments URL: https://news.ycombinator.com/item?id=27930562\nPoints: 164\n# Comments: 108",
-          "link": "https://news.ycombinator.com/item?id=27930562",
-          "publishedOn": "2021-07-23T13:44:41.000Z",
-          "wordCount": 6472,
-          "title": "Launch HN: Exams, tasks, K8, eCommerce, cell sites, health, data quality, travel"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27930151",
-          "author": "jgrahamc",
-          "description": "Article URL: https://blog.cloudflare.com/aws-egregious-egress/\nComments URL: https://news.ycombinator.com/item?id=27930151\nPoints: 507\n# Comments: 144",
-          "link": "https://blog.cloudflare.com/aws-egregious-egress/",
-          "publishedOn": "2021-07-23T13:00:52.000Z",
+          "id": "https://news.ycombinator.com/item?id=27945002",
+          "author": "hortense",
+          "description": "Article URL: https://www.youtube.com/watch?v=gIT1ISCioDY\nComments URL: https://news.ycombinator.com/item?id=27945002\nPoints: 8\n# Comments: 0",
+          "link": "https://www.youtube.com/watch?v=gIT1ISCioDY",
+          "publishedOn": "2021-07-24T22:40:34.000Z",
           "wordCount": null,
-          "title": "AWS's Egregious Egress"
+          "title": "A Tour of the Fuchsia Operating System"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27930128",
-          "author": "oftenwrong",
-          "description": "Article URL: https://www.granolashotgun.com/granolashotguncom/wed-rather-have-the-iceberg-than-the-ship\nComments URL: https://news.ycombinator.com/item?id=27930128\nPoints: 279\n# Comments: 285",
-          "link": "https://www.granolashotgun.com/granolashotguncom/wed-rather-have-the-iceberg-than-the-ship",
-          "publishedOn": "2021-07-23T12:57:22.000Z",
-          "wordCount": 1789,
-          "title": "We’d rather have the iceberg than the ship"
+          "id": "https://news.ycombinator.com/item?id=27944993",
+          "author": "feross",
+          "description": "Article URL: https://infrequently.org/2021/07/hobsons-browser/\nComments URL: https://news.ycombinator.com/item?id=27944993\nPoints: 5\n# Comments: 0",
+          "link": "https://infrequently.org/2021/07/hobsons-browser/",
+          "publishedOn": "2021-07-24T22:39:04.000Z",
+          "wordCount": 7777,
+          "title": "Apple, Facebook, Google Broke the Mobile Browser Market Undermining User Choice"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27929954",
-          "author": "prostoalex",
-          "description": "Article URL: https://www.economist.com/science-and-technology/2021/07/21/floating-wind-turbines-could-rise-to-great-heights\nComments URL: https://news.ycombinator.com/item?id=27929954\nPoints: 108\n# Comments: 88",
-          "link": "https://www.economist.com/science-and-technology/2021/07/21/floating-wind-turbines-could-rise-to-great-heights",
-          "publishedOn": "2021-07-23T12:33:16.000Z",
-          "wordCount": 2002,
-          "title": "Floating wind turbines could rise to great heights"
+          "id": "https://news.ycombinator.com/item?id=27944904",
+          "author": "networked",
+          "description": "Article URL: https://www.gwern.net/CO2-Coin\nComments URL: https://news.ycombinator.com/item?id=27944904\nPoints: 40\n# Comments: 38",
+          "link": "https://www.gwern.net/CO2-Coin",
+          "publishedOn": "2021-07-24T22:20:43.000Z",
+          "wordCount": 4488,
+          "title": "CO₂ Coin: Decentralized Carbon Capture Blockchains (2021)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27929632",
-          "author": "trms",
-          "description": "Article URL: https://trms.me/the-value-of-doing-a-little/\nComments URL: https://news.ycombinator.com/item?id=27929632\nPoints: 129\n# Comments: 36",
-          "link": "https://trms.me/the-value-of-doing-a-little/",
-          "publishedOn": "2021-07-23T11:49:57.000Z",
-          "wordCount": 900,
-          "title": "The value of doing a little"
+          "id": "https://news.ycombinator.com/item?id=27944776",
+          "author": "edward",
+          "description": "Article URL: https://twitter.com/rdwrt/status/1419043840888086532\nComments URL: https://news.ycombinator.com/item?id=27944776\nPoints: 36\n# Comments: 27",
+          "link": "https://twitter.com/rdwrt/status/1419043840888086532",
+          "publishedOn": "2021-07-24T21:53:45.000Z",
+          "wordCount": 196,
+          "title": "GPS will broadcast a 0 second leap second in 128 days. This will cause no issues"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27944770",
+          "author": "joeyespo",
+          "description": "Article URL: https://www.collaborativefund.com/blog/the-highest-forms-of-wealth/\nComments URL: https://news.ycombinator.com/item?id=27944770\nPoints: 60\n# Comments: 25",
+          "link": "https://www.collaborativefund.com/blog/the-highest-forms-of-wealth/",
+          "publishedOn": "2021-07-24T21:52:38.000Z",
+          "wordCount": 1006,
+          "title": "The Highest Forms of Wealth"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27944743",
+          "author": "ingve",
+          "description": "Article URL: https://github.com/zodiacon/RegExp\nComments URL: https://news.ycombinator.com/item?id=27944743\nPoints: 17\n# Comments: 6",
+          "link": "https://github.com/zodiacon/RegExp",
+          "publishedOn": "2021-07-24T21:48:54.000Z",
+          "wordCount": 607,
+          "title": "Registry Explorer: Replacement for the Windows Built-In Regedit.exe Tool"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27944600",
+          "author": "courtf",
+          "description": "Article URL: https://www.rechargenews.com/energy-transition/worlds-cheapest-energy-storage-will-be-an-iron-air-battery-says-jeff-bezos-backed-start-up/2-1-1044174\nComments URL: https://news.ycombinator.com/item?id=27944600\nPoints: 90\n# Comments: 38",
+          "link": "https://www.rechargenews.com/energy-transition/worlds-cheapest-energy-storage-will-be-an-iron-air-battery-says-jeff-bezos-backed-start-up/2-1-1044174",
+          "publishedOn": "2021-07-24T21:24:25.000Z",
+          "wordCount": 1011,
+          "title": "Cheapest Energy Storage Could Be New Iron-Air Battery"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27944432",
+          "author": "andrei",
+          "description": "Article URL: https://angel.co/company/fuzzbuzz/jobs/1481052-software-engineer-fuzzing-engine\nComments URL: https://news.ycombinator.com/item?id=27944432\nPoints: 1\n# Comments: 0",
+          "link": "https://angel.co/company/fuzzbuzz/jobs/1481052-software-engineer-fuzzing-engine",
+          "publishedOn": "2021-07-24T21:00:00.000Z",
+          "wordCount": null,
+          "title": "Fuzzbuzz (YC W19) is hiring: C/C++ Systems Engineer to work on our fuzzing engine"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27944426",
+          "author": "rocky1138",
+          "description": "Article URL: https://www.supermidipak.com/\nComments URL: https://news.ycombinator.com/item?id=27944426\nPoints: 34\n# Comments: 6",
+          "link": "https://www.supermidipak.com/",
+          "publishedOn": "2021-07-24T20:59:11.000Z",
+          "wordCount": 289,
+          "title": "Super MIDI Pak – Use Your SNES as a MIDI Synthesizer"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27944411",
+          "author": "evo_9",
+          "description": "Article URL: https://abcnews.go.com/Entertainment/wireStory/levar-burton-jeopardy-host-gig-began-scary-ended-79018577\nComments URL: https://news.ycombinator.com/item?id=27944411\nPoints: 57\n# Comments: 10",
+          "link": "https://abcnews.go.com/Entertainment/wireStory/levar-burton-jeopardy-host-gig-began-scary-ended-79018577",
+          "publishedOn": "2021-07-24T20:56:45.000Z",
+          "wordCount": 1130,
+          "title": "LeVar Burton: 'Jeopardy ' host gig began 'scary,' ended fun"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27944308",
+          "author": "RickJWagner",
+          "description": "Article URL: https://opensource.com/article/21/7/open-source-books\nComments URL: https://news.ycombinator.com/item?id=27944308\nPoints: 50\n# Comments: 3",
+          "link": "https://opensource.com/article/21/7/open-source-books",
+          "publishedOn": "2021-07-24T20:42:59.000Z",
+          "wordCount": 2314,
+          "title": "28 Books recommended by open source technologists"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27944065",
+          "author": "mpweiher",
+          "description": "Article URL: https://blog.metaobject.com/2021/07/inserting-130m-sqlite-rows-per.html\nComments URL: https://news.ycombinator.com/item?id=27944065\nPoints: 85\n# Comments: 11",
+          "link": "https://blog.metaobject.com/2021/07/inserting-130m-sqlite-rows-per.html",
+          "publishedOn": "2021-07-24T20:11:50.000Z",
+          "wordCount": 2609,
+          "title": "Inserting 130M SQLite Rows per Minute from a Scripting Language"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27943730",
+          "author": "walterbell",
+          "description": "Article URL: https://www.cpomagazine.com/data-privacy/is-it-possible-to-make-iot-devices-private-amazon-echo-dot-does-not-wipe-personal-content-after-factory-reset/\nComments URL: https://news.ycombinator.com/item?id=27943730\nPoints: 129\n# Comments: 42",
+          "link": "https://www.cpomagazine.com/data-privacy/is-it-possible-to-make-iot-devices-private-amazon-echo-dot-does-not-wipe-personal-content-after-factory-reset/",
+          "publishedOn": "2021-07-24T19:25:32.000Z",
+          "wordCount": null,
+          "title": "Amazon Echo Dot Does Not Wipe Personal Content After Factory Reset"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27942970",
+          "author": "egfx",
+          "description": "Article URL: https://sciencex.com/news/2021-07-electromagnetism-property-spacetime.html\nComments URL: https://news.ycombinator.com/item?id=27942970\nPoints: 280\n# Comments: 134",
+          "link": "https://sciencex.com/news/2021-07-electromagnetism-property-spacetime.html",
+          "publishedOn": "2021-07-24T17:47:09.000Z",
+          "wordCount": 1188,
+          "title": "Electromagnetism is a property of spacetime itself, study finds"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27942828",
+          "author": "chmaynard",
+          "description": "Article URL: https://www.math.columbia.edu/~woit/wordpress/?p=12413\nComments URL: https://news.ycombinator.com/item?id=27942828\nPoints: 53\n# Comments: 5",
+          "link": "https://www.math.columbia.edu/~woit/wordpress/?p=12413",
+          "publishedOn": "2021-07-24T17:31:46.000Z",
+          "wordCount": 1634,
+          "title": "Steven Weinberg 1933-2021"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27941616",
+          "author": "ingve",
+          "description": "Article URL: https://github.com/dylanaraps/neofetch\nComments URL: https://news.ycombinator.com/item?id=27941616\nPoints: 114\n# Comments: 42",
+          "link": "https://github.com/dylanaraps/neofetch",
+          "publishedOn": "2021-07-24T15:15:14.000Z",
+          "wordCount": 715,
+          "title": "Neofetch: Command-line system information tool written in bash"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27941312",
+          "author": "pfdietz",
+          "description": "Article URL: https://theconversation.com/the-sunlight-that-powers-solar-panels-also-damages-them-gallium-doping-is-providing-a-solution-164935\nComments URL: https://news.ycombinator.com/item?id=27941312\nPoints: 110\n# Comments: 72",
+          "link": "https://theconversation.com/the-sunlight-that-powers-solar-panels-also-damages-them-gallium-doping-is-providing-a-solution-164935",
+          "publishedOn": "2021-07-24T14:39:29.000Z",
+          "wordCount": 1339,
+          "title": "A crucial idea for silicon PV cells was excluded by a patent for 20 years"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27941264",
+          "author": "jlelse",
+          "description": "Article URL: https://k9mail.app/2021/07/24/K-9-Mail-is-back\nComments URL: https://news.ycombinator.com/item?id=27941264\nPoints: 217\n# Comments: 102",
+          "link": "https://k9mail.app/2021/07/24/K-9-Mail-is-back",
+          "publishedOn": "2021-07-24T14:34:01.000Z",
+          "wordCount": 388,
+          "title": "K-9 Mail is back"
         }
       ]
     }
