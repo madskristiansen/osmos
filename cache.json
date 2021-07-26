@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27945280",
-          "author": "pseudolus",
-          "description": "Article URL: https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html\nComments URL: https://news.ycombinator.com/item?id=27945280\nPoints: 46\n# Comments: 21",
-          "link": "https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
-          "publishedOn": "2021-07-24T23:29:56.000Z",
-          "wordCount": 4240,
-          "title": "Half of US states now using facial recognition to vet unemployment claims"
+          "id": "https://news.ycombinator.com/item?id=27953432",
+          "author": "indigodaddy",
+          "description": "Article URL: https://xp123.com/articles/transliterating-old-school-basic/\nComments URL: https://news.ycombinator.com/item?id=27953432\nPoints: 11\n# Comments: 0",
+          "link": "https://xp123.com/articles/transliterating-old-school-basic/",
+          "publishedOn": "2021-07-25T22:14:56.000Z",
+          "wordCount": 2018,
+          "title": "Transliterating Old-School Basic"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27945213",
-          "author": "hhs",
-          "description": "Article URL: https://www.bloombergquint.com/markets/china-bans-school-curriculum-tutoring-firms-from-going-public\nComments URL: https://news.ycombinator.com/item?id=27945213\nPoints: 13\n# Comments: 4",
-          "link": "https://www.bloombergquint.com/markets/china-bans-school-curriculum-tutoring-firms-from-going-public",
-          "publishedOn": "2021-07-24T23:20:52.000Z",
-          "wordCount": 1134,
-          "title": "China bans for-profit school tutoring in sweeping overhaul"
+          "id": "https://news.ycombinator.com/item?id=27952873",
+          "author": "dkobran",
+          "description": "Article URL: https://www.paperspace.com/careers\nComments URL: https://news.ycombinator.com/item?id=27952873\nPoints: 1\n# Comments: 0",
+          "link": "https://www.paperspace.com/careers",
+          "publishedOn": "2021-07-25T21:00:31.000Z",
+          "wordCount": 558,
+          "title": "Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27945002",
-          "author": "hortense",
-          "description": "Article URL: https://www.youtube.com/watch?v=gIT1ISCioDY\nComments URL: https://news.ycombinator.com/item?id=27945002\nPoints: 8\n# Comments: 0",
-          "link": "https://www.youtube.com/watch?v=gIT1ISCioDY",
-          "publishedOn": "2021-07-24T22:40:34.000Z",
-          "wordCount": null,
-          "title": "A Tour of the Fuchsia Operating System"
+          "id": "https://news.ycombinator.com/item?id=27952725",
+          "author": "LinuxBender",
+          "description": "Article URL: https://ampache.org/\nComments URL: https://news.ycombinator.com/item?id=27952725\nPoints: 31\n# Comments: 10",
+          "link": "https://ampache.org/",
+          "publishedOn": "2021-07-25T20:39:37.000Z",
+          "wordCount": 142,
+          "title": "Ampache: An open source web based audio/video streaming app and file manager"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27944993",
-          "author": "feross",
-          "description": "Article URL: https://infrequently.org/2021/07/hobsons-browser/\nComments URL: https://news.ycombinator.com/item?id=27944993\nPoints: 5\n# Comments: 0",
-          "link": "https://infrequently.org/2021/07/hobsons-browser/",
-          "publishedOn": "2021-07-24T22:39:04.000Z",
-          "wordCount": 7777,
-          "title": "Apple, Facebook, Google Broke the Mobile Browser Market Undermining User Choice"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27944904",
-          "author": "networked",
-          "description": "Article URL: https://www.gwern.net/CO2-Coin\nComments URL: https://news.ycombinator.com/item?id=27944904\nPoints: 40\n# Comments: 38",
-          "link": "https://www.gwern.net/CO2-Coin",
-          "publishedOn": "2021-07-24T22:20:43.000Z",
-          "wordCount": 4488,
-          "title": "CO₂ Coin: Decentralized Carbon Capture Blockchains (2021)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27944776",
-          "author": "edward",
-          "description": "Article URL: https://twitter.com/rdwrt/status/1419043840888086532\nComments URL: https://news.ycombinator.com/item?id=27944776\nPoints: 36\n# Comments: 27",
-          "link": "https://twitter.com/rdwrt/status/1419043840888086532",
-          "publishedOn": "2021-07-24T21:53:45.000Z",
-          "wordCount": 196,
-          "title": "GPS will broadcast a 0 second leap second in 128 days. This will cause no issues"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27944770",
-          "author": "joeyespo",
-          "description": "Article URL: https://www.collaborativefund.com/blog/the-highest-forms-of-wealth/\nComments URL: https://news.ycombinator.com/item?id=27944770\nPoints: 60\n# Comments: 25",
-          "link": "https://www.collaborativefund.com/blog/the-highest-forms-of-wealth/",
-          "publishedOn": "2021-07-24T21:52:38.000Z",
-          "wordCount": 1006,
-          "title": "The Highest Forms of Wealth"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27944743",
-          "author": "ingve",
-          "description": "Article URL: https://github.com/zodiacon/RegExp\nComments URL: https://news.ycombinator.com/item?id=27944743\nPoints: 17\n# Comments: 6",
-          "link": "https://github.com/zodiacon/RegExp",
-          "publishedOn": "2021-07-24T21:48:54.000Z",
-          "wordCount": 607,
-          "title": "Registry Explorer: Replacement for the Windows Built-In Regedit.exe Tool"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27944600",
-          "author": "courtf",
-          "description": "Article URL: https://www.rechargenews.com/energy-transition/worlds-cheapest-energy-storage-will-be-an-iron-air-battery-says-jeff-bezos-backed-start-up/2-1-1044174\nComments URL: https://news.ycombinator.com/item?id=27944600\nPoints: 90\n# Comments: 38",
-          "link": "https://www.rechargenews.com/energy-transition/worlds-cheapest-energy-storage-will-be-an-iron-air-battery-says-jeff-bezos-backed-start-up/2-1-1044174",
-          "publishedOn": "2021-07-24T21:24:25.000Z",
-          "wordCount": 1011,
-          "title": "Cheapest Energy Storage Could Be New Iron-Air Battery"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27944432",
-          "author": "andrei",
-          "description": "Article URL: https://angel.co/company/fuzzbuzz/jobs/1481052-software-engineer-fuzzing-engine\nComments URL: https://news.ycombinator.com/item?id=27944432\nPoints: 1\n# Comments: 0",
-          "link": "https://angel.co/company/fuzzbuzz/jobs/1481052-software-engineer-fuzzing-engine",
-          "publishedOn": "2021-07-24T21:00:00.000Z",
-          "wordCount": null,
-          "title": "Fuzzbuzz (YC W19) is hiring: C/C++ Systems Engineer to work on our fuzzing engine"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27944426",
-          "author": "rocky1138",
-          "description": "Article URL: https://www.supermidipak.com/\nComments URL: https://news.ycombinator.com/item?id=27944426\nPoints: 34\n# Comments: 6",
-          "link": "https://www.supermidipak.com/",
-          "publishedOn": "2021-07-24T20:59:11.000Z",
-          "wordCount": 289,
-          "title": "Super MIDI Pak – Use Your SNES as a MIDI Synthesizer"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27944411",
-          "author": "evo_9",
-          "description": "Article URL: https://abcnews.go.com/Entertainment/wireStory/levar-burton-jeopardy-host-gig-began-scary-ended-79018577\nComments URL: https://news.ycombinator.com/item?id=27944411\nPoints: 57\n# Comments: 10",
-          "link": "https://abcnews.go.com/Entertainment/wireStory/levar-burton-jeopardy-host-gig-began-scary-ended-79018577",
-          "publishedOn": "2021-07-24T20:56:45.000Z",
-          "wordCount": 1130,
-          "title": "LeVar Burton: 'Jeopardy ' host gig began 'scary,' ended fun"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27944308",
-          "author": "RickJWagner",
-          "description": "Article URL: https://opensource.com/article/21/7/open-source-books\nComments URL: https://news.ycombinator.com/item?id=27944308\nPoints: 50\n# Comments: 3",
-          "link": "https://opensource.com/article/21/7/open-source-books",
-          "publishedOn": "2021-07-24T20:42:59.000Z",
-          "wordCount": 2314,
-          "title": "28 Books recommended by open source technologists"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27944065",
-          "author": "mpweiher",
-          "description": "Article URL: https://blog.metaobject.com/2021/07/inserting-130m-sqlite-rows-per.html\nComments URL: https://news.ycombinator.com/item?id=27944065\nPoints: 85\n# Comments: 11",
-          "link": "https://blog.metaobject.com/2021/07/inserting-130m-sqlite-rows-per.html",
-          "publishedOn": "2021-07-24T20:11:50.000Z",
-          "wordCount": 2609,
-          "title": "Inserting 130M SQLite Rows per Minute from a Scripting Language"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27943730",
+          "id": "https://news.ycombinator.com/item?id=27952640",
           "author": "walterbell",
-          "description": "Article URL: https://www.cpomagazine.com/data-privacy/is-it-possible-to-make-iot-devices-private-amazon-echo-dot-does-not-wipe-personal-content-after-factory-reset/\nComments URL: https://news.ycombinator.com/item?id=27943730\nPoints: 129\n# Comments: 42",
-          "link": "https://www.cpomagazine.com/data-privacy/is-it-possible-to-make-iot-devices-private-amazon-echo-dot-does-not-wipe-personal-content-after-factory-reset/",
-          "publishedOn": "2021-07-24T19:25:32.000Z",
-          "wordCount": null,
-          "title": "Amazon Echo Dot Does Not Wipe Personal Content After Factory Reset"
+          "description": "Article URL: https://www.tampabay.com/investigations/2021/07/24/pasco-sheriffs-office-letter-targets-residents-for-increased-accountability/\nComments URL: https://news.ycombinator.com/item?id=27952640\nPoints: 110\n# Comments: 44",
+          "link": "https://www.tampabay.com/investigations/2021/07/24/pasco-sheriffs-office-letter-targets-residents-for-increased-accountability/",
+          "publishedOn": "2021-07-25T20:28:41.000Z",
+          "wordCount": 1020,
+          "title": "Pre-crime: Sheriff’s letter targets residents for ‘increased accountability’"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27942970",
-          "author": "egfx",
-          "description": "Article URL: https://sciencex.com/news/2021-07-electromagnetism-property-spacetime.html\nComments URL: https://news.ycombinator.com/item?id=27942970\nPoints: 280\n# Comments: 134",
-          "link": "https://sciencex.com/news/2021-07-electromagnetism-property-spacetime.html",
-          "publishedOn": "2021-07-24T17:47:09.000Z",
-          "wordCount": 1188,
-          "title": "Electromagnetism is a property of spacetime itself, study finds"
+          "id": "https://news.ycombinator.com/item?id=27952615",
+          "author": "FrankSansC",
+          "description": "Article URL: https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html\nComments URL: https://news.ycombinator.com/item?id=27952615\nPoints: 16\n# Comments: 1",
+          "link": "https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html",
+          "publishedOn": "2021-07-25T20:25:23.000Z",
+          "wordCount": 2952,
+          "title": "Reversing for dummies – x86 assembly and C code"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27942828",
-          "author": "chmaynard",
-          "description": "Article URL: https://www.math.columbia.edu/~woit/wordpress/?p=12413\nComments URL: https://news.ycombinator.com/item?id=27942828\nPoints: 53\n# Comments: 5",
-          "link": "https://www.math.columbia.edu/~woit/wordpress/?p=12413",
-          "publishedOn": "2021-07-24T17:31:46.000Z",
-          "wordCount": 1634,
-          "title": "Steven Weinberg 1933-2021"
+          "id": "https://news.ycombinator.com/item?id=27952463",
+          "author": "thinkingemote",
+          "description": "Article URL: https://tribunemag.co.uk/2021/07/the-assange-case-is-collapsing-but-it-remains-a-travesty-of-justice\nComments URL: https://news.ycombinator.com/item?id=27952463\nPoints: 228\n# Comments: 106",
+          "link": "https://tribunemag.co.uk/2021/07/the-assange-case-is-collapsing-but-it-remains-a-travesty-of-justice",
+          "publishedOn": "2021-07-25T20:06:59.000Z",
+          "wordCount": 1437,
+          "title": "The Assange case is collapsing but it remains a travesty of justice"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27941616",
-          "author": "ingve",
-          "description": "Article URL: https://github.com/dylanaraps/neofetch\nComments URL: https://news.ycombinator.com/item?id=27941616\nPoints: 114\n# Comments: 42",
-          "link": "https://github.com/dylanaraps/neofetch",
-          "publishedOn": "2021-07-24T15:15:14.000Z",
-          "wordCount": 715,
-          "title": "Neofetch: Command-line system information tool written in bash"
+          "id": "https://news.ycombinator.com/item?id=27952176",
+          "author": "jbotz",
+          "description": "Article URL: https://www.pnas.org/content/118/30/e2102061118.full\nComments URL: https://news.ycombinator.com/item?id=27952176\nPoints: 133\n# Comments: 58",
+          "link": "https://www.pnas.org/content/118/30/e2102061118.full",
+          "publishedOn": "2021-07-25T19:30:44.000Z",
+          "wordCount": 8555,
+          "title": "Language records reveal a surge of cognitive distortions in recent decades"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27941312",
-          "author": "pfdietz",
-          "description": "Article URL: https://theconversation.com/the-sunlight-that-powers-solar-panels-also-damages-them-gallium-doping-is-providing-a-solution-164935\nComments URL: https://news.ycombinator.com/item?id=27941312\nPoints: 110\n# Comments: 72",
-          "link": "https://theconversation.com/the-sunlight-that-powers-solar-panels-also-damages-them-gallium-doping-is-providing-a-solution-164935",
-          "publishedOn": "2021-07-24T14:39:29.000Z",
-          "wordCount": 1339,
-          "title": "A crucial idea for silicon PV cells was excluded by a patent for 20 years"
+          "id": "https://news.ycombinator.com/item?id=27952135",
+          "author": "phil294",
+          "description": "Article URL: https://waritschlager.de/sqlinjections-in-google-results.html\nComments URL: https://news.ycombinator.com/item?id=27952135\nPoints: 221\n# Comments: 89",
+          "link": "https://waritschlager.de/sqlinjections-in-google-results.html",
+          "publishedOn": "2021-07-25T19:27:00.000Z",
+          "wordCount": 414,
+          "title": "16/30 Google results for PHP tutorials contain SQL injection vulnerabilities"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27941264",
-          "author": "jlelse",
-          "description": "Article URL: https://k9mail.app/2021/07/24/K-9-Mail-is-back\nComments URL: https://news.ycombinator.com/item?id=27941264\nPoints: 217\n# Comments: 102",
-          "link": "https://k9mail.app/2021/07/24/K-9-Mail-is-back",
-          "publishedOn": "2021-07-24T14:34:01.000Z",
-          "wordCount": 388,
-          "title": "K-9 Mail is back"
+          "id": "https://news.ycombinator.com/item?id=27951785",
+          "author": "hackermondev",
+          "description": "Article URL: https://daniel.is-a.dev/blog/freenom-the-free-domains-website-is-a-scam-3\nComments URL: https://news.ycombinator.com/item?id=27951785\nPoints: 158\n# Comments: 89",
+          "link": "https://daniel.is-a.dev/blog/freenom-the-free-domains-website-is-a-scam-3",
+          "publishedOn": "2021-07-25T18:46:36.000Z",
+          "wordCount": 185,
+          "title": "Freenom, the free domains website, is a scam"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27951217",
+          "author": "DoreenMichele",
+          "description": "Article URL: https://www.reuters.com/world/europe/rumbling-meteor-lights-up-norway-bit-possibly-landing-near-oslo-2021-07-25/\nComments URL: https://news.ycombinator.com/item?id=27951217\nPoints: 104\n# Comments: 22",
+          "link": "https://www.reuters.com/world/europe/rumbling-meteor-lights-up-norway-bit-possibly-landing-near-oslo-2021-07-25/",
+          "publishedOn": "2021-07-25T17:40:21.000Z",
+          "wordCount": 833,
+          "title": "Rumbling meteor lights up Norway; part of it may have landed near Oslo"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27950841",
+          "author": "throw0101a",
+          "description": "Article URL: https://www.bbc.com/future/article/20210719-why-light-pollution-is-harming-our-wildlife\nComments URL: https://news.ycombinator.com/item?id=27950841\nPoints: 34\n# Comments: 11",
+          "link": "https://www.bbc.com/future/article/20210719-why-light-pollution-is-harming-our-wildlife",
+          "publishedOn": "2021-07-25T17:03:17.000Z",
+          "wordCount": 2763,
+          "title": "The argument for switching off lights at night"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27950763",
+          "author": "jiripospisil",
+          "description": "Article URL: https://github.com/signalapp/Signal-Android/issues/10247\nComments URL: https://news.ycombinator.com/item?id=27950763\nPoints: 533\n# Comments: 287",
+          "link": "https://github.com/signalapp/Signal-Android/issues/10247",
+          "publishedOn": "2021-07-25T16:55:49.000Z",
+          "wordCount": 2158,
+          "title": "Signal on Android: Images sent to wrong contacts"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27950641",
+          "author": "xk3",
+          "description": "Article URL: https://davidar.io/post/sim-glsl\nComments URL: https://news.ycombinator.com/item?id=27950641\nPoints: 212\n# Comments: 30",
+          "link": "https://davidar.io/post/sim-glsl",
+          "publishedOn": "2021-07-25T16:46:43.000Z",
+          "wordCount": 1924,
+          "title": "Simulating worlds on the GPU: Four billion years in four minutes"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27950416",
+          "author": "apsec112",
+          "description": "Article URL: https://moultano.wordpress.com/2021/07/20/tour-of-the-sacred-library/\nComments URL: https://news.ycombinator.com/item?id=27950416\nPoints: 55\n# Comments: 7",
+          "link": "https://moultano.wordpress.com/2021/07/20/tour-of-the-sacred-library/",
+          "publishedOn": "2021-07-25T16:25:18.000Z",
+          "wordCount": 3174,
+          "title": "Tour of the Sacred Library"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27950412",
+          "author": "anacleto",
+          "description": "Article URL: https://sacks.substack.com/p/the-saas-org-chart\nComments URL: https://news.ycombinator.com/item?id=27950412\nPoints: 222\n# Comments: 91",
+          "link": "https://sacks.substack.com/p/the-saas-org-chart",
+          "publishedOn": "2021-07-25T16:24:56.000Z",
+          "wordCount": 972,
+          "title": "The SaaS Org Chart"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27950204",
+          "author": "mlerner",
+          "description": "Article URL: https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html\nComments URL: https://news.ycombinator.com/item?id=27950204\nPoints: 106\n# Comments: 19",
+          "link": "https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html",
+          "publishedOn": "2021-07-25T16:06:38.000Z",
+          "wordCount": 1944,
+          "title": "Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Containers"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27949771",
+          "author": "billfruit",
+          "description": "Article URL: https://www.cyclingnews.com/features/anna-kiesenhofer-mathematician-amateur-cyclist-olympic-champion/\nComments URL: https://news.ycombinator.com/item?id=27949771\nPoints: 424\n# Comments: 126",
+          "link": "https://www.cyclingnews.com/features/anna-kiesenhofer-mathematician-amateur-cyclist-olympic-champion/",
+          "publishedOn": "2021-07-25T15:20:02.000Z",
+          "wordCount": 866,
+          "title": "Anna Kiesenhofer: Mathematician, amateur cyclist, Olympic champion"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27949658",
+          "author": "gorwell",
+          "description": "Article URL: https://news.gallup.com/poll/351932/americans-life-ratings-reach-record-high.aspx\nComments URL: https://news.ycombinator.com/item?id=27949658\nPoints: 102\n# Comments: 151",
+          "link": "https://news.gallup.com/poll/351932/americans-life-ratings-reach-record-high.aspx",
+          "publishedOn": "2021-07-25T15:03:24.000Z",
+          "wordCount": 2833,
+          "title": "Americans' life ratings reach record high"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27948946",
+          "author": "signa11",
+          "description": "Article URL: https://dev.yorhel.nl/doc/ncdu2\nComments URL: https://news.ycombinator.com/item?id=27948946\nPoints: 199\n# Comments: 28",
+          "link": "https://dev.yorhel.nl/doc/ncdu2",
+          "publishedOn": "2021-07-25T13:15:10.000Z",
+          "wordCount": 2869,
+          "title": "Ncdu 2: Less hungry and more Ziggy"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27948901",
+          "author": "rustoo",
+          "description": "Article URL: https://blog.frontiersin.org/2021/07/20/tomato-fruits-send-electrical-warnings-to-the-rest-of-the-plant-when-attacked-by-insects/\nComments URL: https://news.ycombinator.com/item?id=27948901\nPoints: 206\n# Comments: 80",
+          "link": "https://blog.frontiersin.org/2021/07/20/tomato-fruits-send-electrical-warnings-to-the-rest-of-the-plant-when-attacked-by-insects/",
+          "publishedOn": "2021-07-25T13:07:39.000Z",
+          "wordCount": 1178,
+          "title": "Tomato fruits send electrical warnings to the rest of the plant when attacked"
         }
       ]
     }

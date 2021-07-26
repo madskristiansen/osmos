@@ -1,268 +1,268 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-25T00:52:53.998Z</id>
+    <id>urn:2021-07-26T00:51:30.693Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-25T00:52:53.998Z</updated>
+    <updated>2021-07-26T00:51:30.693Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Half of US states now using facial recognition to vet unemployment claims]]></title>
-        <id>https://news.ycombinator.com/item?id=27945280</id>
-        <link href="https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"/>
-        <updated>2021-07-24T23:29:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html
-Comments URL: https://news.ycombinator.com/item?id=27945280
-Points: 46
-# Comments: 21]]></summary>
-        <author>
-            <name>pseudolus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China bans for-profit school tutoring in sweeping overhaul]]></title>
-        <id>https://news.ycombinator.com/item?id=27945213</id>
-        <link href="https://www.bloombergquint.com/markets/china-bans-school-curriculum-tutoring-firms-from-going-public"/>
-        <updated>2021-07-24T23:20:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bloombergquint.com/markets/china-bans-school-curriculum-tutoring-firms-from-going-public
-Comments URL: https://news.ycombinator.com/item?id=27945213
-Points: 13
-# Comments: 4]]></summary>
-        <author>
-            <name>hhs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Tour of the Fuchsia Operating System]]></title>
-        <id>https://news.ycombinator.com/item?id=27945002</id>
-        <link href="https://www.youtube.com/watch?v=gIT1ISCioDY"/>
-        <updated>2021-07-24T22:40:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=gIT1ISCioDY
-Comments URL: https://news.ycombinator.com/item?id=27945002
-Points: 8
+        <title type="html"><![CDATA[Transliterating Old-School Basic]]></title>
+        <id>https://news.ycombinator.com/item?id=27953432</id>
+        <link href="https://xp123.com/articles/transliterating-old-school-basic/"/>
+        <updated>2021-07-25T22:14:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://xp123.com/articles/transliterating-old-school-basic/
+Comments URL: https://news.ycombinator.com/item?id=27953432
+Points: 11
 # Comments: 0]]></summary>
         <author>
-            <name>hortense</name>
+            <name>indigodaddy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple, Facebook, Google Broke the Mobile Browser Market Undermining User Choice]]></title>
-        <id>https://news.ycombinator.com/item?id=27944993</id>
-        <link href="https://infrequently.org/2021/07/hobsons-browser/"/>
-        <updated>2021-07-24T22:39:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://infrequently.org/2021/07/hobsons-browser/
-Comments URL: https://news.ycombinator.com/item?id=27944993
-Points: 5
-# Comments: 0]]></summary>
-        <author>
-            <name>feross</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CO₂ Coin: Decentralized Carbon Capture Blockchains (2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=27944904</id>
-        <link href="https://www.gwern.net/CO2-Coin"/>
-        <updated>2021-07-24T22:20:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.gwern.net/CO2-Coin
-Comments URL: https://news.ycombinator.com/item?id=27944904
-Points: 40
-# Comments: 38]]></summary>
-        <author>
-            <name>networked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPS will broadcast a 0 second leap second in 128 days. This will cause no issues]]></title>
-        <id>https://news.ycombinator.com/item?id=27944776</id>
-        <link href="https://twitter.com/rdwrt/status/1419043840888086532"/>
-        <updated>2021-07-24T21:53:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/rdwrt/status/1419043840888086532
-Comments URL: https://news.ycombinator.com/item?id=27944776
-Points: 36
-# Comments: 27]]></summary>
-        <author>
-            <name>edward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Highest Forms of Wealth]]></title>
-        <id>https://news.ycombinator.com/item?id=27944770</id>
-        <link href="https://www.collaborativefund.com/blog/the-highest-forms-of-wealth/"/>
-        <updated>2021-07-24T21:52:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.collaborativefund.com/blog/the-highest-forms-of-wealth/
-Comments URL: https://news.ycombinator.com/item?id=27944770
-Points: 60
-# Comments: 25]]></summary>
-        <author>
-            <name>joeyespo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Registry Explorer: Replacement for the Windows Built-In Regedit.exe Tool]]></title>
-        <id>https://news.ycombinator.com/item?id=27944743</id>
-        <link href="https://github.com/zodiacon/RegExp"/>
-        <updated>2021-07-24T21:48:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/zodiacon/RegExp
-Comments URL: https://news.ycombinator.com/item?id=27944743
-Points: 17
-# Comments: 6]]></summary>
-        <author>
-            <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cheapest Energy Storage Could Be New Iron-Air Battery]]></title>
-        <id>https://news.ycombinator.com/item?id=27944600</id>
-        <link href="https://www.rechargenews.com/energy-transition/worlds-cheapest-energy-storage-will-be-an-iron-air-battery-says-jeff-bezos-backed-start-up/2-1-1044174"/>
-        <updated>2021-07-24T21:24:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.rechargenews.com/energy-transition/worlds-cheapest-energy-storage-will-be-an-iron-air-battery-says-jeff-bezos-backed-start-up/2-1-1044174
-Comments URL: https://news.ycombinator.com/item?id=27944600
-Points: 90
-# Comments: 38]]></summary>
-        <author>
-            <name>courtf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fuzzbuzz (YC W19) is hiring: C/C++ Systems Engineer to work on our fuzzing engine]]></title>
-        <id>https://news.ycombinator.com/item?id=27944432</id>
-        <link href="https://angel.co/company/fuzzbuzz/jobs/1481052-software-engineer-fuzzing-engine"/>
-        <updated>2021-07-24T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://angel.co/company/fuzzbuzz/jobs/1481052-software-engineer-fuzzing-engine
-Comments URL: https://news.ycombinator.com/item?id=27944432
+        <title type="html"><![CDATA[Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform]]></title>
+        <id>https://news.ycombinator.com/item?id=27952873</id>
+        <link href="https://www.paperspace.com/careers"/>
+        <updated>2021-07-25T21:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.paperspace.com/careers
+Comments URL: https://news.ycombinator.com/item?id=27952873
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>andrei</name>
+            <name>dkobran</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Super MIDI Pak – Use Your SNES as a MIDI Synthesizer]]></title>
-        <id>https://news.ycombinator.com/item?id=27944426</id>
-        <link href="https://www.supermidipak.com/"/>
-        <updated>2021-07-24T20:59:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.supermidipak.com/
-Comments URL: https://news.ycombinator.com/item?id=27944426
-Points: 34
-# Comments: 6]]></summary>
-        <author>
-            <name>rocky1138</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LeVar Burton: 'Jeopardy ' host gig began 'scary,' ended fun]]></title>
-        <id>https://news.ycombinator.com/item?id=27944411</id>
-        <link href="https://abcnews.go.com/Entertainment/wireStory/levar-burton-jeopardy-host-gig-began-scary-ended-79018577"/>
-        <updated>2021-07-24T20:56:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://abcnews.go.com/Entertainment/wireStory/levar-burton-jeopardy-host-gig-began-scary-ended-79018577
-Comments URL: https://news.ycombinator.com/item?id=27944411
-Points: 57
+        <title type="html"><![CDATA[Ampache: An open source web based audio/video streaming app and file manager]]></title>
+        <id>https://news.ycombinator.com/item?id=27952725</id>
+        <link href="https://ampache.org/"/>
+        <updated>2021-07-25T20:39:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ampache.org/
+Comments URL: https://news.ycombinator.com/item?id=27952725
+Points: 31
 # Comments: 10]]></summary>
         <author>
-            <name>evo_9</name>
+            <name>LinuxBender</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[28 Books recommended by open source technologists]]></title>
-        <id>https://news.ycombinator.com/item?id=27944308</id>
-        <link href="https://opensource.com/article/21/7/open-source-books"/>
-        <updated>2021-07-24T20:42:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://opensource.com/article/21/7/open-source-books
-Comments URL: https://news.ycombinator.com/item?id=27944308
-Points: 50
-# Comments: 3]]></summary>
-        <author>
-            <name>RickJWagner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inserting 130M SQLite Rows per Minute from a Scripting Language]]></title>
-        <id>https://news.ycombinator.com/item?id=27944065</id>
-        <link href="https://blog.metaobject.com/2021/07/inserting-130m-sqlite-rows-per.html"/>
-        <updated>2021-07-24T20:11:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.metaobject.com/2021/07/inserting-130m-sqlite-rows-per.html
-Comments URL: https://news.ycombinator.com/item?id=27944065
-Points: 85
-# Comments: 11]]></summary>
-        <author>
-            <name>mpweiher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Echo Dot Does Not Wipe Personal Content After Factory Reset]]></title>
-        <id>https://news.ycombinator.com/item?id=27943730</id>
-        <link href="https://www.cpomagazine.com/data-privacy/is-it-possible-to-make-iot-devices-private-amazon-echo-dot-does-not-wipe-personal-content-after-factory-reset/"/>
-        <updated>2021-07-24T19:25:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cpomagazine.com/data-privacy/is-it-possible-to-make-iot-devices-private-amazon-echo-dot-does-not-wipe-personal-content-after-factory-reset/
-Comments URL: https://news.ycombinator.com/item?id=27943730
-Points: 129
-# Comments: 42]]></summary>
+        <title type="html"><![CDATA[Pre-crime: Sheriff’s letter targets residents for ‘increased accountability’]]></title>
+        <id>https://news.ycombinator.com/item?id=27952640</id>
+        <link href="https://www.tampabay.com/investigations/2021/07/24/pasco-sheriffs-office-letter-targets-residents-for-increased-accountability/"/>
+        <updated>2021-07-25T20:28:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.tampabay.com/investigations/2021/07/24/pasco-sheriffs-office-letter-targets-residents-for-increased-accountability/
+Comments URL: https://news.ycombinator.com/item?id=27952640
+Points: 110
+# Comments: 44]]></summary>
         <author>
             <name>walterbell</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Electromagnetism is a property of spacetime itself, study finds]]></title>
-        <id>https://news.ycombinator.com/item?id=27942970</id>
-        <link href="https://sciencex.com/news/2021-07-electromagnetism-property-spacetime.html"/>
-        <updated>2021-07-24T17:47:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sciencex.com/news/2021-07-electromagnetism-property-spacetime.html
-Comments URL: https://news.ycombinator.com/item?id=27942970
-Points: 280
-# Comments: 134]]></summary>
+        <title type="html"><![CDATA[Reversing for dummies – x86 assembly and C code]]></title>
+        <id>https://news.ycombinator.com/item?id=27952615</id>
+        <link href="https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html"/>
+        <updated>2021-07-25T20:25:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html
+Comments URL: https://news.ycombinator.com/item?id=27952615
+Points: 16
+# Comments: 1]]></summary>
         <author>
-            <name>egfx</name>
+            <name>FrankSansC</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Steven Weinberg 1933-2021]]></title>
-        <id>https://news.ycombinator.com/item?id=27942828</id>
-        <link href="https://www.math.columbia.edu/~woit/wordpress/?p=12413"/>
-        <updated>2021-07-24T17:31:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.math.columbia.edu/~woit/wordpress/?p=12413
-Comments URL: https://news.ycombinator.com/item?id=27942828
-Points: 53
-# Comments: 5]]></summary>
+        <title type="html"><![CDATA[The Assange case is collapsing but it remains a travesty of justice]]></title>
+        <id>https://news.ycombinator.com/item?id=27952463</id>
+        <link href="https://tribunemag.co.uk/2021/07/the-assange-case-is-collapsing-but-it-remains-a-travesty-of-justice"/>
+        <updated>2021-07-25T20:06:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tribunemag.co.uk/2021/07/the-assange-case-is-collapsing-but-it-remains-a-travesty-of-justice
+Comments URL: https://news.ycombinator.com/item?id=27952463
+Points: 228
+# Comments: 106]]></summary>
         <author>
-            <name>chmaynard</name>
+            <name>thinkingemote</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Neofetch: Command-line system information tool written in bash]]></title>
-        <id>https://news.ycombinator.com/item?id=27941616</id>
-        <link href="https://github.com/dylanaraps/neofetch"/>
-        <updated>2021-07-24T15:15:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/dylanaraps/neofetch
-Comments URL: https://news.ycombinator.com/item?id=27941616
-Points: 114
-# Comments: 42]]></summary>
+        <title type="html"><![CDATA[Language records reveal a surge of cognitive distortions in recent decades]]></title>
+        <id>https://news.ycombinator.com/item?id=27952176</id>
+        <link href="https://www.pnas.org/content/118/30/e2102061118.full"/>
+        <updated>2021-07-25T19:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pnas.org/content/118/30/e2102061118.full
+Comments URL: https://news.ycombinator.com/item?id=27952176
+Points: 133
+# Comments: 58]]></summary>
         <author>
-            <name>ingve</name>
+            <name>jbotz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A crucial idea for silicon PV cells was excluded by a patent for 20 years]]></title>
-        <id>https://news.ycombinator.com/item?id=27941312</id>
-        <link href="https://theconversation.com/the-sunlight-that-powers-solar-panels-also-damages-them-gallium-doping-is-providing-a-solution-164935"/>
-        <updated>2021-07-24T14:39:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://theconversation.com/the-sunlight-that-powers-solar-panels-also-damages-them-gallium-doping-is-providing-a-solution-164935
-Comments URL: https://news.ycombinator.com/item?id=27941312
-Points: 110
-# Comments: 72]]></summary>
+        <title type="html"><![CDATA[16/30 Google results for PHP tutorials contain SQL injection vulnerabilities]]></title>
+        <id>https://news.ycombinator.com/item?id=27952135</id>
+        <link href="https://waritschlager.de/sqlinjections-in-google-results.html"/>
+        <updated>2021-07-25T19:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://waritschlager.de/sqlinjections-in-google-results.html
+Comments URL: https://news.ycombinator.com/item?id=27952135
+Points: 221
+# Comments: 89]]></summary>
         <author>
-            <name>pfdietz</name>
+            <name>phil294</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[K-9 Mail is back]]></title>
-        <id>https://news.ycombinator.com/item?id=27941264</id>
-        <link href="https://k9mail.app/2021/07/24/K-9-Mail-is-back"/>
-        <updated>2021-07-24T14:34:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://k9mail.app/2021/07/24/K-9-Mail-is-back
-Comments URL: https://news.ycombinator.com/item?id=27941264
-Points: 217
-# Comments: 102]]></summary>
+        <title type="html"><![CDATA[Freenom, the free domains website, is a scam]]></title>
+        <id>https://news.ycombinator.com/item?id=27951785</id>
+        <link href="https://daniel.is-a.dev/blog/freenom-the-free-domains-website-is-a-scam-3"/>
+        <updated>2021-07-25T18:46:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://daniel.is-a.dev/blog/freenom-the-free-domains-website-is-a-scam-3
+Comments URL: https://news.ycombinator.com/item?id=27951785
+Points: 158
+# Comments: 89]]></summary>
         <author>
-            <name>jlelse</name>
+            <name>hackermondev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rumbling meteor lights up Norway; part of it may have landed near Oslo]]></title>
+        <id>https://news.ycombinator.com/item?id=27951217</id>
+        <link href="https://www.reuters.com/world/europe/rumbling-meteor-lights-up-norway-bit-possibly-landing-near-oslo-2021-07-25/"/>
+        <updated>2021-07-25T17:40:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/europe/rumbling-meteor-lights-up-norway-bit-possibly-landing-near-oslo-2021-07-25/
+Comments URL: https://news.ycombinator.com/item?id=27951217
+Points: 104
+# Comments: 22]]></summary>
+        <author>
+            <name>DoreenMichele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The argument for switching off lights at night]]></title>
+        <id>https://news.ycombinator.com/item?id=27950841</id>
+        <link href="https://www.bbc.com/future/article/20210719-why-light-pollution-is-harming-our-wildlife"/>
+        <updated>2021-07-25T17:03:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/future/article/20210719-why-light-pollution-is-harming-our-wildlife
+Comments URL: https://news.ycombinator.com/item?id=27950841
+Points: 34
+# Comments: 11]]></summary>
+        <author>
+            <name>throw0101a</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signal on Android: Images sent to wrong contacts]]></title>
+        <id>https://news.ycombinator.com/item?id=27950763</id>
+        <link href="https://github.com/signalapp/Signal-Android/issues/10247"/>
+        <updated>2021-07-25T16:55:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/signalapp/Signal-Android/issues/10247
+Comments URL: https://news.ycombinator.com/item?id=27950763
+Points: 533
+# Comments: 287]]></summary>
+        <author>
+            <name>jiripospisil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simulating worlds on the GPU: Four billion years in four minutes]]></title>
+        <id>https://news.ycombinator.com/item?id=27950641</id>
+        <link href="https://davidar.io/post/sim-glsl"/>
+        <updated>2021-07-25T16:46:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://davidar.io/post/sim-glsl
+Comments URL: https://news.ycombinator.com/item?id=27950641
+Points: 212
+# Comments: 30]]></summary>
+        <author>
+            <name>xk3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tour of the Sacred Library]]></title>
+        <id>https://news.ycombinator.com/item?id=27950416</id>
+        <link href="https://moultano.wordpress.com/2021/07/20/tour-of-the-sacred-library/"/>
+        <updated>2021-07-25T16:25:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://moultano.wordpress.com/2021/07/20/tour-of-the-sacred-library/
+Comments URL: https://news.ycombinator.com/item?id=27950416
+Points: 55
+# Comments: 7]]></summary>
+        <author>
+            <name>apsec112</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The SaaS Org Chart]]></title>
+        <id>https://news.ycombinator.com/item?id=27950412</id>
+        <link href="https://sacks.substack.com/p/the-saas-org-chart"/>
+        <updated>2021-07-25T16:24:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sacks.substack.com/p/the-saas-org-chart
+Comments URL: https://news.ycombinator.com/item?id=27950412
+Points: 222
+# Comments: 91]]></summary>
+        <author>
+            <name>anacleto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Containers]]></title>
+        <id>https://news.ycombinator.com/item?id=27950204</id>
+        <link href="https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html"/>
+        <updated>2021-07-25T16:06:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html
+Comments URL: https://news.ycombinator.com/item?id=27950204
+Points: 106
+# Comments: 19]]></summary>
+        <author>
+            <name>mlerner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anna Kiesenhofer: Mathematician, amateur cyclist, Olympic champion]]></title>
+        <id>https://news.ycombinator.com/item?id=27949771</id>
+        <link href="https://www.cyclingnews.com/features/anna-kiesenhofer-mathematician-amateur-cyclist-olympic-champion/"/>
+        <updated>2021-07-25T15:20:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cyclingnews.com/features/anna-kiesenhofer-mathematician-amateur-cyclist-olympic-champion/
+Comments URL: https://news.ycombinator.com/item?id=27949771
+Points: 424
+# Comments: 126]]></summary>
+        <author>
+            <name>billfruit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Americans' life ratings reach record high]]></title>
+        <id>https://news.ycombinator.com/item?id=27949658</id>
+        <link href="https://news.gallup.com/poll/351932/americans-life-ratings-reach-record-high.aspx"/>
+        <updated>2021-07-25T15:03:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://news.gallup.com/poll/351932/americans-life-ratings-reach-record-high.aspx
+Comments URL: https://news.ycombinator.com/item?id=27949658
+Points: 102
+# Comments: 151]]></summary>
+        <author>
+            <name>gorwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ncdu 2: Less hungry and more Ziggy]]></title>
+        <id>https://news.ycombinator.com/item?id=27948946</id>
+        <link href="https://dev.yorhel.nl/doc/ncdu2"/>
+        <updated>2021-07-25T13:15:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dev.yorhel.nl/doc/ncdu2
+Comments URL: https://news.ycombinator.com/item?id=27948946
+Points: 199
+# Comments: 28]]></summary>
+        <author>
+            <name>signa11</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tomato fruits send electrical warnings to the rest of the plant when attacked]]></title>
+        <id>https://news.ycombinator.com/item?id=27948901</id>
+        <link href="https://blog.frontiersin.org/2021/07/20/tomato-fruits-send-electrical-warnings-to-the-rest-of-the-plant-when-attacked-by-insects/"/>
+        <updated>2021-07-25T13:07:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.frontiersin.org/2021/07/20/tomato-fruits-send-electrical-warnings-to-the-rest-of-the-plant-when-attacked-by-insects/
+Comments URL: https://news.ycombinator.com/item?id=27948901
+Points: 206
+# Comments: 80]]></summary>
+        <author>
+            <name>rustoo</name>
         </author>
     </entry>
 </feed>
