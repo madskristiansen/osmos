@@ -1,268 +1,268 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-26T00:51:30.693Z</id>
+    <id>urn:2021-07-27T00:52:54.464Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-26T00:51:30.693Z</updated>
+    <updated>2021-07-27T00:52:54.464Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Transliterating Old-School Basic]]></title>
-        <id>https://news.ycombinator.com/item?id=27953432</id>
-        <link href="https://xp123.com/articles/transliterating-old-school-basic/"/>
-        <updated>2021-07-25T22:14:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://xp123.com/articles/transliterating-old-school-basic/
-Comments URL: https://news.ycombinator.com/item?id=27953432
-Points: 11
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Mammals dream about the world they are about to experience before they are born]]></title>
+        <id>https://news.ycombinator.com/item?id=27966782</id>
+        <link href="https://news.yale.edu/2021/07/22/eyes-wide-shut-how-newborn-mammals-dream-world-theyre-entering"/>
+        <updated>2021-07-26T23:28:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://news.yale.edu/2021/07/22/eyes-wide-shut-how-newborn-mammals-dream-world-theyre-entering
+Comments URL: https://news.ycombinator.com/item?id=27966782
+Points: 59
+# Comments: 17]]></summary>
         <author>
-            <name>indigodaddy</name>
+            <name>birriel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform]]></title>
-        <id>https://news.ycombinator.com/item?id=27952873</id>
-        <link href="https://www.paperspace.com/careers"/>
-        <updated>2021-07-25T21:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.paperspace.com/careers
-Comments URL: https://news.ycombinator.com/item?id=27952873
+        <title type="html"><![CDATA[Amazon denies report of accepting Bitcoin as payment]]></title>
+        <id>https://news.ycombinator.com/item?id=27966020</id>
+        <link href="https://www.reuters.com/business/retail-consumer/amazon-denies-report-accepting-bitcoin-payment-2021-07-26/"/>
+        <updated>2021-07-26T22:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/retail-consumer/amazon-denies-report-accepting-bitcoin-payment-2021-07-26/
+Comments URL: https://news.ycombinator.com/item?id=27966020
+Points: 92
+# Comments: 90]]></summary>
+        <author>
+            <name>jmsflknr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APSE – A Personal Search Engine]]></title>
+        <id>https://news.ycombinator.com/item?id=27965979</id>
+        <link href="https://apse.io/"/>
+        <updated>2021-07-26T21:55:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://apse.io/
+Comments URL: https://news.ycombinator.com/item?id=27965979
+Points: 40
+# Comments: 21]]></summary>
+        <author>
+            <name>thunderbong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel to build Qualcomm chips, aims to catch foundry rivals by 2025]]></title>
+        <id>https://news.ycombinator.com/item?id=27965783</id>
+        <link href="https://www.reuters.com/technology/intel-build-qualcomm-chips-aims-catch-foundry-rivals-by-2025-2021-07-26/"/>
+        <updated>2021-07-26T21:33:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/intel-build-qualcomm-chips-aims-catch-foundry-rivals-by-2025-2021-07-26/
+Comments URL: https://news.ycombinator.com/item?id=27965783
+Points: 125
+# Comments: 63]]></summary>
+        <author>
+            <name>mepian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Insecurity Industry]]></title>
+        <id>https://news.ycombinator.com/item?id=27965746</id>
+        <link href="https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal"/>
+        <updated>2021-07-26T21:29:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal
+Comments URL: https://news.ycombinator.com/item?id=27965746
+Points: 153
+# Comments: 41]]></summary>
+        <author>
+            <name>stanislavb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making The World's Most Detailed (Print) Maps]]></title>
+        <id>https://news.ycombinator.com/item?id=27965460</id>
+        <link href="https://ramblemaps.com/worlds-most-detailed-maps"/>
+        <updated>2021-07-26T21:05:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ramblemaps.com/worlds-most-detailed-maps
+Comments URL: https://news.ycombinator.com/item?id=27965460
+Points: 58
+# Comments: 29]]></summary>
+        <author>
+            <name>mparr4</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian for Mobile]]></title>
+        <id>https://news.ycombinator.com/item?id=27965416</id>
+        <link href="https://mobian-project.org/"/>
+        <updated>2021-07-26T21:01:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mobian-project.org/
+Comments URL: https://news.ycombinator.com/item?id=27965416
+Points: 88
+# Comments: 52]]></summary>
+        <author>
+            <name>wwarner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jupiter (YC S19) is hiring a front-end engineer (SF/remote)]]></title>
+        <id>https://news.ycombinator.com/item?id=27965407</id>
+        <link href="https://jupiter.co/careers"/>
+        <updated>2021-07-26T21:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jupiter.co/careers
+Comments URL: https://news.ycombinator.com/item?id=27965407
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>dkobran</name>
+            <name>anuraagn</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ampache: An open source web based audio/video streaming app and file manager]]></title>
-        <id>https://news.ycombinator.com/item?id=27952725</id>
-        <link href="https://ampache.org/"/>
-        <updated>2021-07-25T20:39:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ampache.org/
-Comments URL: https://news.ycombinator.com/item?id=27952725
-Points: 31
-# Comments: 10]]></summary>
+        <title type="html"><![CDATA[How to Make Cyanotypes]]></title>
+        <id>https://news.ycombinator.com/item?id=27965284</id>
+        <link href="https://parallaxphotographic.coop/how-to-make-cyanotypes/"/>
+        <updated>2021-07-26T20:51:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://parallaxphotographic.coop/how-to-make-cyanotypes/
+Comments URL: https://news.ycombinator.com/item?id=27965284
+Points: 22
+# Comments: 9]]></summary>
         <author>
-            <name>LinuxBender</name>
+            <name>onychomys</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pre-crime: Sheriff’s letter targets residents for ‘increased accountability’]]></title>
-        <id>https://news.ycombinator.com/item?id=27952640</id>
-        <link href="https://www.tampabay.com/investigations/2021/07/24/pasco-sheriffs-office-letter-targets-residents-for-increased-accountability/"/>
-        <updated>2021-07-25T20:28:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.tampabay.com/investigations/2021/07/24/pasco-sheriffs-office-letter-targets-residents-for-increased-accountability/
-Comments URL: https://news.ycombinator.com/item?id=27952640
-Points: 110
-# Comments: 44]]></summary>
+        <title type="html"><![CDATA[Hastening Linux process cleanup with process_mrelease]]></title>
+        <id>https://news.ycombinator.com/item?id=27964460</id>
+        <link href="https://lwn.net/SubscriberLink/864184/06caefb9c8f2bbd5/"/>
+        <updated>2021-07-26T19:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lwn.net/SubscriberLink/864184/06caefb9c8f2bbd5/
+Comments URL: https://news.ycombinator.com/item?id=27964460
+Points: 50
+# Comments: 9]]></summary>
         <author>
-            <name>walterbell</name>
+            <name>chmaynard</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reversing for dummies – x86 assembly and C code]]></title>
-        <id>https://news.ycombinator.com/item?id=27952615</id>
-        <link href="https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html"/>
-        <updated>2021-07-25T20:25:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html
-Comments URL: https://news.ycombinator.com/item?id=27952615
-Points: 16
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[Counterfactuals are not causality]]></title>
+        <id>https://news.ycombinator.com/item?id=27963974</id>
+        <link href="https://www.michaelnygard.com/blog/2021/06/counterfactuals-are-not-causality/"/>
+        <updated>2021-07-26T19:15:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.michaelnygard.com/blog/2021/06/counterfactuals-are-not-causality/
+Comments URL: https://news.ycombinator.com/item?id=27963974
+Points: 24
+# Comments: 6]]></summary>
         <author>
-            <name>FrankSansC</name>
+            <name>grzm</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Assange case is collapsing but it remains a travesty of justice]]></title>
-        <id>https://news.ycombinator.com/item?id=27952463</id>
-        <link href="https://tribunemag.co.uk/2021/07/the-assange-case-is-collapsing-but-it-remains-a-travesty-of-justice"/>
-        <updated>2021-07-25T20:06:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tribunemag.co.uk/2021/07/the-assange-case-is-collapsing-but-it-remains-a-travesty-of-justice
-Comments URL: https://news.ycombinator.com/item?id=27952463
-Points: 228
-# Comments: 106]]></summary>
+        <title type="html"><![CDATA[Git-blame-someone-else]]></title>
+        <id>https://news.ycombinator.com/item?id=27963868</id>
+        <link href="https://github.com/jayphelps/git-blame-someone-else"/>
+        <updated>2021-07-26T19:08:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/jayphelps/git-blame-someone-else
+Comments URL: https://news.ycombinator.com/item?id=27963868
+Points: 165
+# Comments: 69]]></summary>
         <author>
-            <name>thinkingemote</name>
+            <name>swyx</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Language records reveal a surge of cognitive distortions in recent decades]]></title>
-        <id>https://news.ycombinator.com/item?id=27952176</id>
-        <link href="https://www.pnas.org/content/118/30/e2102061118.full"/>
-        <updated>2021-07-25T19:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.pnas.org/content/118/30/e2102061118.full
-Comments URL: https://news.ycombinator.com/item?id=27952176
-Points: 133
-# Comments: 58]]></summary>
+        <title type="html"><![CDATA[Evolution of tree data structures for indexing: more than it sounds]]></title>
+        <id>https://news.ycombinator.com/item?id=27963753</id>
+        <link href="https://erthalion.info/2020/11/28/evolution-of-btree-index-am"/>
+        <updated>2021-07-26T19:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://erthalion.info/2020/11/28/evolution-of-btree-index-am
+Comments URL: https://news.ycombinator.com/item?id=27963753
+Points: 39
+# Comments: 0]]></summary>
         <author>
-            <name>jbotz</name>
+            <name>baotiao</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[16/30 Google results for PHP tutorials contain SQL injection vulnerabilities]]></title>
-        <id>https://news.ycombinator.com/item?id=27952135</id>
-        <link href="https://waritschlager.de/sqlinjections-in-google-results.html"/>
-        <updated>2021-07-25T19:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://waritschlager.de/sqlinjections-in-google-results.html
-Comments URL: https://news.ycombinator.com/item?id=27952135
-Points: 221
-# Comments: 89]]></summary>
+        <title type="html"><![CDATA[NREL Open-Source Modeling Approach Simulates Low-Inertia Power Systems]]></title>
+        <id>https://news.ycombinator.com/item?id=27963448</id>
+        <link href="https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks-the-code-of-simulating-low-inertia-power-systems.html"/>
+        <updated>2021-07-26T18:41:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks-the-code-of-simulating-low-inertia-power-systems.html
+Comments URL: https://news.ycombinator.com/item?id=27963448
+Points: 45
+# Comments: 20]]></summary>
         <author>
-            <name>phil294</name>
+            <name>rbanffy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Freenom, the free domains website, is a scam]]></title>
-        <id>https://news.ycombinator.com/item?id=27951785</id>
-        <link href="https://daniel.is-a.dev/blog/freenom-the-free-domains-website-is-a-scam-3"/>
-        <updated>2021-07-25T18:46:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://daniel.is-a.dev/blog/freenom-the-free-domains-website-is-a-scam-3
-Comments URL: https://news.ycombinator.com/item?id=27951785
-Points: 158
-# Comments: 89]]></summary>
-        <author>
-            <name>hackermondev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rumbling meteor lights up Norway; part of it may have landed near Oslo]]></title>
-        <id>https://news.ycombinator.com/item?id=27951217</id>
-        <link href="https://www.reuters.com/world/europe/rumbling-meteor-lights-up-norway-bit-possibly-landing-near-oslo-2021-07-25/"/>
-        <updated>2021-07-25T17:40:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/europe/rumbling-meteor-lights-up-norway-bit-possibly-landing-near-oslo-2021-07-25/
-Comments URL: https://news.ycombinator.com/item?id=27951217
-Points: 104
-# Comments: 22]]></summary>
-        <author>
-            <name>DoreenMichele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The argument for switching off lights at night]]></title>
-        <id>https://news.ycombinator.com/item?id=27950841</id>
-        <link href="https://www.bbc.com/future/article/20210719-why-light-pollution-is-harming-our-wildlife"/>
-        <updated>2021-07-25T17:03:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/future/article/20210719-why-light-pollution-is-harming-our-wildlife
-Comments URL: https://news.ycombinator.com/item?id=27950841
-Points: 34
-# Comments: 11]]></summary>
-        <author>
-            <name>throw0101a</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signal on Android: Images sent to wrong contacts]]></title>
-        <id>https://news.ycombinator.com/item?id=27950763</id>
-        <link href="https://github.com/signalapp/Signal-Android/issues/10247"/>
-        <updated>2021-07-25T16:55:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/signalapp/Signal-Android/issues/10247
-Comments URL: https://news.ycombinator.com/item?id=27950763
-Points: 533
-# Comments: 287]]></summary>
+        <title type="html"><![CDATA[Apple fixes an in-the-wild exploited 0-day (iOS 14.7.1)]]></title>
+        <id>https://news.ycombinator.com/item?id=27962761</id>
+        <link href="https://support.apple.com/en-us/HT212623"/>
+        <updated>2021-07-26T17:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://support.apple.com/en-us/HT212623
+Comments URL: https://news.ycombinator.com/item?id=27962761
+Points: 384
+# Comments: 196]]></summary>
         <author>
             <name>jiripospisil</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Simulating worlds on the GPU: Four billion years in four minutes]]></title>
-        <id>https://news.ycombinator.com/item?id=27950641</id>
-        <link href="https://davidar.io/post/sim-glsl"/>
-        <updated>2021-07-25T16:46:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://davidar.io/post/sim-glsl
-Comments URL: https://news.ycombinator.com/item?id=27950641
-Points: 212
-# Comments: 30]]></summary>
+        <title type="html"><![CDATA[Strengthening our workplace with neurodiverse talent]]></title>
+        <id>https://news.ycombinator.com/item?id=27962699</id>
+        <link href="https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-launches-a-career-program-for-people-with-autism"/>
+        <updated>2021-07-26T17:55:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-launches-a-career-program-for-people-with-autism
+Comments URL: https://news.ycombinator.com/item?id=27962699
+Points: 70
+# Comments: 101]]></summary>
         <author>
-            <name>xk3</name>
+            <name>ingve</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tour of the Sacred Library]]></title>
-        <id>https://news.ycombinator.com/item?id=27950416</id>
-        <link href="https://moultano.wordpress.com/2021/07/20/tour-of-the-sacred-library/"/>
-        <updated>2021-07-25T16:25:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://moultano.wordpress.com/2021/07/20/tour-of-the-sacred-library/
-Comments URL: https://news.ycombinator.com/item?id=27950416
-Points: 55
-# Comments: 7]]></summary>
-        <author>
-            <name>apsec112</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The SaaS Org Chart]]></title>
-        <id>https://news.ycombinator.com/item?id=27950412</id>
-        <link href="https://sacks.substack.com/p/the-saas-org-chart"/>
-        <updated>2021-07-25T16:24:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sacks.substack.com/p/the-saas-org-chart
-Comments URL: https://news.ycombinator.com/item?id=27950412
-Points: 222
-# Comments: 91]]></summary>
-        <author>
-            <name>anacleto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Containers]]></title>
-        <id>https://news.ycombinator.com/item?id=27950204</id>
-        <link href="https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html"/>
-        <updated>2021-07-25T16:06:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html
-Comments URL: https://news.ycombinator.com/item?id=27950204
-Points: 106
+        <title type="html"><![CDATA[More Protein Folding Progress – What’s It Mean?]]></title>
+        <id>https://news.ycombinator.com/item?id=27962246</id>
+        <link href="https://blogs.sciencemag.org/pipeline/archives/2021/07/23/more-protein-folding-progress-whats-it-mean"/>
+        <updated>2021-07-26T17:26:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/07/23/more-protein-folding-progress-whats-it-mean
+Comments URL: https://news.ycombinator.com/item?id=27962246
+Points: 83
 # Comments: 19]]></summary>
         <author>
-            <name>mlerner</name>
+            <name>pvsukale3</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anna Kiesenhofer: Mathematician, amateur cyclist, Olympic champion]]></title>
-        <id>https://news.ycombinator.com/item?id=27949771</id>
-        <link href="https://www.cyclingnews.com/features/anna-kiesenhofer-mathematician-amateur-cyclist-olympic-champion/"/>
-        <updated>2021-07-25T15:20:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cyclingnews.com/features/anna-kiesenhofer-mathematician-amateur-cyclist-olympic-champion/
-Comments URL: https://news.ycombinator.com/item?id=27949771
-Points: 424
-# Comments: 126]]></summary>
+        <title type="html"><![CDATA[A Unix-style personal search engine and web crawler for your digital footprint]]></title>
+        <id>https://news.ycombinator.com/item?id=27961185</id>
+        <link href="https://github.com/amirgamil/apollo"/>
+        <updated>2021-07-26T16:09:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/amirgamil/apollo
+Comments URL: https://news.ycombinator.com/item?id=27961185
+Points: 267
+# Comments: 69]]></summary>
         <author>
-            <name>billfruit</name>
+            <name>amirGi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Americans' life ratings reach record high]]></title>
-        <id>https://news.ycombinator.com/item?id=27949658</id>
-        <link href="https://news.gallup.com/poll/351932/americans-life-ratings-reach-record-high.aspx"/>
-        <updated>2021-07-25T15:03:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://news.gallup.com/poll/351932/americans-life-ratings-reach-record-high.aspx
-Comments URL: https://news.ycombinator.com/item?id=27949658
-Points: 102
-# Comments: 151]]></summary>
+        <title type="html"><![CDATA[What's bad about Julia?]]></title>
+        <id>https://news.ycombinator.com/item?id=27960865</id>
+        <link href="https://viralinstruction.com/posts/badjulia/"/>
+        <updated>2021-07-26T15:45:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://viralinstruction.com/posts/badjulia/
+Comments URL: https://news.ycombinator.com/item?id=27960865
+Points: 269
+# Comments: 285]]></summary>
         <author>
-            <name>gorwell</name>
+            <name>jakobnissen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ncdu 2: Less hungry and more Ziggy]]></title>
-        <id>https://news.ycombinator.com/item?id=27948946</id>
-        <link href="https://dev.yorhel.nl/doc/ncdu2"/>
-        <updated>2021-07-25T13:15:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dev.yorhel.nl/doc/ncdu2
-Comments URL: https://news.ycombinator.com/item?id=27948946
-Points: 199
-# Comments: 28]]></summary>
+        <title type="html"><![CDATA[Police are telling ShotSpotter to alter evidence from gunshot-detecting AI]]></title>
+        <id>https://news.ycombinator.com/item?id=27959755</id>
+        <link href="https://www.vice.com/en/article/qj8xbq/police-are-telling-shotspotter-to-alter-evidence-from-gunshot-detecting-ai"/>
+        <updated>2021-07-26T14:27:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/qj8xbq/police-are-telling-shotspotter-to-alter-evidence-from-gunshot-detecting-ai
+Comments URL: https://news.ycombinator.com/item?id=27959755
+Points: 394
+# Comments: 248]]></summary>
         <author>
-            <name>signa11</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tomato fruits send electrical warnings to the rest of the plant when attacked]]></title>
-        <id>https://news.ycombinator.com/item?id=27948901</id>
-        <link href="https://blog.frontiersin.org/2021/07/20/tomato-fruits-send-electrical-warnings-to-the-rest-of-the-plant-when-attacked-by-insects/"/>
-        <updated>2021-07-25T13:07:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.frontiersin.org/2021/07/20/tomato-fruits-send-electrical-warnings-to-the-rest-of-the-plant-when-attacked-by-insects/
-Comments URL: https://news.ycombinator.com/item?id=27948901
-Points: 206
-# Comments: 80]]></summary>
-        <author>
-            <name>rustoo</name>
+            <name>danso</name>
         </author>
     </entry>
 </feed>

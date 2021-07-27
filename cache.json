@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27953432",
-          "author": "indigodaddy",
-          "description": "Article URL: https://xp123.com/articles/transliterating-old-school-basic/\nComments URL: https://news.ycombinator.com/item?id=27953432\nPoints: 11\n# Comments: 0",
-          "link": "https://xp123.com/articles/transliterating-old-school-basic/",
-          "publishedOn": "2021-07-25T22:14:56.000Z",
-          "wordCount": 2018,
-          "title": "Transliterating Old-School Basic"
+          "id": "https://news.ycombinator.com/item?id=27966782",
+          "author": "birriel",
+          "description": "Article URL: https://news.yale.edu/2021/07/22/eyes-wide-shut-how-newborn-mammals-dream-world-theyre-entering\nComments URL: https://news.ycombinator.com/item?id=27966782\nPoints: 59\n# Comments: 17",
+          "link": "https://news.yale.edu/2021/07/22/eyes-wide-shut-how-newborn-mammals-dream-world-theyre-entering",
+          "publishedOn": "2021-07-26T23:28:05.000Z",
+          "wordCount": 779,
+          "title": "Mammals dream about the world they are about to experience before they are born"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27952873",
-          "author": "dkobran",
-          "description": "Article URL: https://www.paperspace.com/careers\nComments URL: https://news.ycombinator.com/item?id=27952873\nPoints: 1\n# Comments: 0",
-          "link": "https://www.paperspace.com/careers",
-          "publishedOn": "2021-07-25T21:00:31.000Z",
-          "wordCount": 558,
-          "title": "Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform"
+          "id": "https://news.ycombinator.com/item?id=27966020",
+          "author": "jmsflknr",
+          "description": "Article URL: https://www.reuters.com/business/retail-consumer/amazon-denies-report-accepting-bitcoin-payment-2021-07-26/\nComments URL: https://news.ycombinator.com/item?id=27966020\nPoints: 92\n# Comments: 90",
+          "link": "https://www.reuters.com/business/retail-consumer/amazon-denies-report-accepting-bitcoin-payment-2021-07-26/",
+          "publishedOn": "2021-07-26T22:00:27.000Z",
+          "wordCount": 668,
+          "title": "Amazon denies report of accepting Bitcoin as payment"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27952725",
-          "author": "LinuxBender",
-          "description": "Article URL: https://ampache.org/\nComments URL: https://news.ycombinator.com/item?id=27952725\nPoints: 31\n# Comments: 10",
-          "link": "https://ampache.org/",
-          "publishedOn": "2021-07-25T20:39:37.000Z",
-          "wordCount": 142,
-          "title": "Ampache: An open source web based audio/video streaming app and file manager"
+          "id": "https://news.ycombinator.com/item?id=27965979",
+          "author": "thunderbong",
+          "description": "Article URL: https://apse.io/\nComments URL: https://news.ycombinator.com/item?id=27965979\nPoints: 40\n# Comments: 21",
+          "link": "https://apse.io/",
+          "publishedOn": "2021-07-26T21:55:23.000Z",
+          "wordCount": 284,
+          "title": "APSE – A Personal Search Engine"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27952640",
-          "author": "walterbell",
-          "description": "Article URL: https://www.tampabay.com/investigations/2021/07/24/pasco-sheriffs-office-letter-targets-residents-for-increased-accountability/\nComments URL: https://news.ycombinator.com/item?id=27952640\nPoints: 110\n# Comments: 44",
-          "link": "https://www.tampabay.com/investigations/2021/07/24/pasco-sheriffs-office-letter-targets-residents-for-increased-accountability/",
-          "publishedOn": "2021-07-25T20:28:41.000Z",
-          "wordCount": 1020,
-          "title": "Pre-crime: Sheriff’s letter targets residents for ‘increased accountability’"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27952615",
-          "author": "FrankSansC",
-          "description": "Article URL: https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html\nComments URL: https://news.ycombinator.com/item?id=27952615\nPoints: 16\n# Comments: 1",
-          "link": "https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html",
-          "publishedOn": "2021-07-25T20:25:23.000Z",
-          "wordCount": 2952,
-          "title": "Reversing for dummies – x86 assembly and C code"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27952463",
-          "author": "thinkingemote",
-          "description": "Article URL: https://tribunemag.co.uk/2021/07/the-assange-case-is-collapsing-but-it-remains-a-travesty-of-justice\nComments URL: https://news.ycombinator.com/item?id=27952463\nPoints: 228\n# Comments: 106",
-          "link": "https://tribunemag.co.uk/2021/07/the-assange-case-is-collapsing-but-it-remains-a-travesty-of-justice",
-          "publishedOn": "2021-07-25T20:06:59.000Z",
-          "wordCount": 1437,
-          "title": "The Assange case is collapsing but it remains a travesty of justice"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27952176",
-          "author": "jbotz",
-          "description": "Article URL: https://www.pnas.org/content/118/30/e2102061118.full\nComments URL: https://news.ycombinator.com/item?id=27952176\nPoints: 133\n# Comments: 58",
-          "link": "https://www.pnas.org/content/118/30/e2102061118.full",
-          "publishedOn": "2021-07-25T19:30:44.000Z",
-          "wordCount": 8555,
-          "title": "Language records reveal a surge of cognitive distortions in recent decades"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27952135",
-          "author": "phil294",
-          "description": "Article URL: https://waritschlager.de/sqlinjections-in-google-results.html\nComments URL: https://news.ycombinator.com/item?id=27952135\nPoints: 221\n# Comments: 89",
-          "link": "https://waritschlager.de/sqlinjections-in-google-results.html",
-          "publishedOn": "2021-07-25T19:27:00.000Z",
-          "wordCount": 414,
-          "title": "16/30 Google results for PHP tutorials contain SQL injection vulnerabilities"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27951785",
-          "author": "hackermondev",
-          "description": "Article URL: https://daniel.is-a.dev/blog/freenom-the-free-domains-website-is-a-scam-3\nComments URL: https://news.ycombinator.com/item?id=27951785\nPoints: 158\n# Comments: 89",
-          "link": "https://daniel.is-a.dev/blog/freenom-the-free-domains-website-is-a-scam-3",
-          "publishedOn": "2021-07-25T18:46:36.000Z",
-          "wordCount": 185,
-          "title": "Freenom, the free domains website, is a scam"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27951217",
-          "author": "DoreenMichele",
-          "description": "Article URL: https://www.reuters.com/world/europe/rumbling-meteor-lights-up-norway-bit-possibly-landing-near-oslo-2021-07-25/\nComments URL: https://news.ycombinator.com/item?id=27951217\nPoints: 104\n# Comments: 22",
-          "link": "https://www.reuters.com/world/europe/rumbling-meteor-lights-up-norway-bit-possibly-landing-near-oslo-2021-07-25/",
-          "publishedOn": "2021-07-25T17:40:21.000Z",
-          "wordCount": 833,
-          "title": "Rumbling meteor lights up Norway; part of it may have landed near Oslo"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27950841",
-          "author": "throw0101a",
-          "description": "Article URL: https://www.bbc.com/future/article/20210719-why-light-pollution-is-harming-our-wildlife\nComments URL: https://news.ycombinator.com/item?id=27950841\nPoints: 34\n# Comments: 11",
-          "link": "https://www.bbc.com/future/article/20210719-why-light-pollution-is-harming-our-wildlife",
-          "publishedOn": "2021-07-25T17:03:17.000Z",
-          "wordCount": 2763,
-          "title": "The argument for switching off lights at night"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27950763",
-          "author": "jiripospisil",
-          "description": "Article URL: https://github.com/signalapp/Signal-Android/issues/10247\nComments URL: https://news.ycombinator.com/item?id=27950763\nPoints: 533\n# Comments: 287",
-          "link": "https://github.com/signalapp/Signal-Android/issues/10247",
-          "publishedOn": "2021-07-25T16:55:49.000Z",
-          "wordCount": 2158,
-          "title": "Signal on Android: Images sent to wrong contacts"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27950641",
-          "author": "xk3",
-          "description": "Article URL: https://davidar.io/post/sim-glsl\nComments URL: https://news.ycombinator.com/item?id=27950641\nPoints: 212\n# Comments: 30",
-          "link": "https://davidar.io/post/sim-glsl",
-          "publishedOn": "2021-07-25T16:46:43.000Z",
-          "wordCount": 1924,
-          "title": "Simulating worlds on the GPU: Four billion years in four minutes"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27950416",
-          "author": "apsec112",
-          "description": "Article URL: https://moultano.wordpress.com/2021/07/20/tour-of-the-sacred-library/\nComments URL: https://news.ycombinator.com/item?id=27950416\nPoints: 55\n# Comments: 7",
-          "link": "https://moultano.wordpress.com/2021/07/20/tour-of-the-sacred-library/",
-          "publishedOn": "2021-07-25T16:25:18.000Z",
-          "wordCount": 3174,
-          "title": "Tour of the Sacred Library"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27950412",
-          "author": "anacleto",
-          "description": "Article URL: https://sacks.substack.com/p/the-saas-org-chart\nComments URL: https://news.ycombinator.com/item?id=27950412\nPoints: 222\n# Comments: 91",
-          "link": "https://sacks.substack.com/p/the-saas-org-chart",
-          "publishedOn": "2021-07-25T16:24:56.000Z",
-          "wordCount": 972,
-          "title": "The SaaS Org Chart"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27950204",
-          "author": "mlerner",
-          "description": "Article URL: https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html\nComments URL: https://news.ycombinator.com/item?id=27950204\nPoints: 106\n# Comments: 19",
-          "link": "https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html",
-          "publishedOn": "2021-07-25T16:06:38.000Z",
-          "wordCount": 1944,
-          "title": "Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Containers"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27949771",
-          "author": "billfruit",
-          "description": "Article URL: https://www.cyclingnews.com/features/anna-kiesenhofer-mathematician-amateur-cyclist-olympic-champion/\nComments URL: https://news.ycombinator.com/item?id=27949771\nPoints: 424\n# Comments: 126",
-          "link": "https://www.cyclingnews.com/features/anna-kiesenhofer-mathematician-amateur-cyclist-olympic-champion/",
-          "publishedOn": "2021-07-25T15:20:02.000Z",
-          "wordCount": 866,
-          "title": "Anna Kiesenhofer: Mathematician, amateur cyclist, Olympic champion"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27949658",
-          "author": "gorwell",
-          "description": "Article URL: https://news.gallup.com/poll/351932/americans-life-ratings-reach-record-high.aspx\nComments URL: https://news.ycombinator.com/item?id=27949658\nPoints: 102\n# Comments: 151",
-          "link": "https://news.gallup.com/poll/351932/americans-life-ratings-reach-record-high.aspx",
-          "publishedOn": "2021-07-25T15:03:24.000Z",
-          "wordCount": 2833,
-          "title": "Americans' life ratings reach record high"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27948946",
-          "author": "signa11",
-          "description": "Article URL: https://dev.yorhel.nl/doc/ncdu2\nComments URL: https://news.ycombinator.com/item?id=27948946\nPoints: 199\n# Comments: 28",
-          "link": "https://dev.yorhel.nl/doc/ncdu2",
-          "publishedOn": "2021-07-25T13:15:10.000Z",
-          "wordCount": 2869,
-          "title": "Ncdu 2: Less hungry and more Ziggy"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27948901",
-          "author": "rustoo",
-          "description": "Article URL: https://blog.frontiersin.org/2021/07/20/tomato-fruits-send-electrical-warnings-to-the-rest-of-the-plant-when-attacked-by-insects/\nComments URL: https://news.ycombinator.com/item?id=27948901\nPoints: 206\n# Comments: 80",
-          "link": "https://blog.frontiersin.org/2021/07/20/tomato-fruits-send-electrical-warnings-to-the-rest-of-the-plant-when-attacked-by-insects/",
-          "publishedOn": "2021-07-25T13:07:39.000Z",
+          "id": "https://news.ycombinator.com/item?id=27965783",
+          "author": "mepian",
+          "description": "Article URL: https://www.reuters.com/technology/intel-build-qualcomm-chips-aims-catch-foundry-rivals-by-2025-2021-07-26/\nComments URL: https://news.ycombinator.com/item?id=27965783\nPoints: 125\n# Comments: 63",
+          "link": "https://www.reuters.com/technology/intel-build-qualcomm-chips-aims-catch-foundry-rivals-by-2025-2021-07-26/",
+          "publishedOn": "2021-07-26T21:33:20.000Z",
           "wordCount": 1178,
-          "title": "Tomato fruits send electrical warnings to the rest of the plant when attacked"
+          "title": "Intel to build Qualcomm chips, aims to catch foundry rivals by 2025"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27965746",
+          "author": "stanislavb",
+          "description": "Article URL: https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal\nComments URL: https://news.ycombinator.com/item?id=27965746\nPoints: 153\n# Comments: 41",
+          "link": "https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal",
+          "publishedOn": "2021-07-26T21:29:33.000Z",
+          "wordCount": 2235,
+          "title": "The Insecurity Industry"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27965460",
+          "author": "mparr4",
+          "description": "Article URL: https://ramblemaps.com/worlds-most-detailed-maps\nComments URL: https://news.ycombinator.com/item?id=27965460\nPoints: 58\n# Comments: 29",
+          "link": "https://ramblemaps.com/worlds-most-detailed-maps",
+          "publishedOn": "2021-07-26T21:05:06.000Z",
+          "wordCount": 889,
+          "title": "Making The World's Most Detailed (Print) Maps"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27965416",
+          "author": "wwarner",
+          "description": "Article URL: https://mobian-project.org/\nComments URL: https://news.ycombinator.com/item?id=27965416\nPoints: 88\n# Comments: 52",
+          "link": "https://mobian-project.org/",
+          "publishedOn": "2021-07-26T21:01:27.000Z",
+          "wordCount": 9,
+          "title": "Debian for Mobile"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27965407",
+          "author": "anuraagn",
+          "description": "Article URL: https://jupiter.co/careers\nComments URL: https://news.ycombinator.com/item?id=27965407\nPoints: 1\n# Comments: 0",
+          "link": "https://jupiter.co/careers",
+          "publishedOn": "2021-07-26T21:00:58.000Z",
+          "wordCount": 12,
+          "title": "Jupiter (YC S19) is hiring a front-end engineer (SF/remote)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27965284",
+          "author": "onychomys",
+          "description": "Article URL: https://parallaxphotographic.coop/how-to-make-cyanotypes/\nComments URL: https://news.ycombinator.com/item?id=27965284\nPoints: 22\n# Comments: 9",
+          "link": "https://parallaxphotographic.coop/how-to-make-cyanotypes/",
+          "publishedOn": "2021-07-26T20:51:02.000Z",
+          "wordCount": 1289,
+          "title": "How to Make Cyanotypes"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27964460",
+          "author": "chmaynard",
+          "description": "Article URL: https://lwn.net/SubscriberLink/864184/06caefb9c8f2bbd5/\nComments URL: https://news.ycombinator.com/item?id=27964460\nPoints: 50\n# Comments: 9",
+          "link": "https://lwn.net/SubscriberLink/864184/06caefb9c8f2bbd5/",
+          "publishedOn": "2021-07-26T19:48:22.000Z",
+          "wordCount": 1398,
+          "title": "Hastening Linux process cleanup with process_mrelease"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27963974",
+          "author": "grzm",
+          "description": "Article URL: https://www.michaelnygard.com/blog/2021/06/counterfactuals-are-not-causality/\nComments URL: https://news.ycombinator.com/item?id=27963974\nPoints: 24\n# Comments: 6",
+          "link": "https://www.michaelnygard.com/blog/2021/06/counterfactuals-are-not-causality/",
+          "publishedOn": "2021-07-26T19:15:05.000Z",
+          "wordCount": 1326,
+          "title": "Counterfactuals are not causality"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27963868",
+          "author": "swyx",
+          "description": "Article URL: https://github.com/jayphelps/git-blame-someone-else\nComments URL: https://news.ycombinator.com/item?id=27963868\nPoints: 165\n# Comments: 69",
+          "link": "https://github.com/jayphelps/git-blame-someone-else",
+          "publishedOn": "2021-07-26T19:08:15.000Z",
+          "wordCount": 528,
+          "title": "Git-blame-someone-else"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27963753",
+          "author": "baotiao",
+          "description": "Article URL: https://erthalion.info/2020/11/28/evolution-of-btree-index-am\nComments URL: https://news.ycombinator.com/item?id=27963753\nPoints: 39\n# Comments: 0",
+          "link": "https://erthalion.info/2020/11/28/evolution-of-btree-index-am",
+          "publishedOn": "2021-07-26T19:01:29.000Z",
+          "wordCount": 6578,
+          "title": "Evolution of tree data structures for indexing: more than it sounds"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27963448",
+          "author": "rbanffy",
+          "description": "Article URL: https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks-the-code-of-simulating-low-inertia-power-systems.html\nComments URL: https://news.ycombinator.com/item?id=27963448\nPoints: 45\n# Comments: 20",
+          "link": "https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks-the-code-of-simulating-low-inertia-power-systems.html",
+          "publishedOn": "2021-07-26T18:41:56.000Z",
+          "wordCount": 1183,
+          "title": "NREL Open-Source Modeling Approach Simulates Low-Inertia Power Systems"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27962761",
+          "author": "jiripospisil",
+          "description": "Article URL: https://support.apple.com/en-us/HT212623\nComments URL: https://news.ycombinator.com/item?id=27962761\nPoints: 384\n# Comments: 196",
+          "link": "https://support.apple.com/en-us/HT212623",
+          "publishedOn": "2021-07-26T17:59:10.000Z",
+          "wordCount": 331,
+          "title": "Apple fixes an in-the-wild exploited 0-day (iOS 14.7.1)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27962699",
+          "author": "ingve",
+          "description": "Article URL: https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-launches-a-career-program-for-people-with-autism\nComments URL: https://news.ycombinator.com/item?id=27962699\nPoints: 70\n# Comments: 101",
+          "link": "https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-launches-a-career-program-for-people-with-autism",
+          "publishedOn": "2021-07-26T17:55:14.000Z",
+          "wordCount": 654,
+          "title": "Strengthening our workplace with neurodiverse talent"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27962246",
+          "author": "pvsukale3",
+          "description": "Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/07/23/more-protein-folding-progress-whats-it-mean\nComments URL: https://news.ycombinator.com/item?id=27962246\nPoints: 83\n# Comments: 19",
+          "link": "https://blogs.sciencemag.org/pipeline/archives/2021/07/23/more-protein-folding-progress-whats-it-mean",
+          "publishedOn": "2021-07-26T17:26:09.000Z",
+          "wordCount": 5029,
+          "title": "More Protein Folding Progress – What’s It Mean?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27961185",
+          "author": "amirGi",
+          "description": "Article URL: https://github.com/amirgamil/apollo\nComments URL: https://news.ycombinator.com/item?id=27961185\nPoints: 267\n# Comments: 69",
+          "link": "https://github.com/amirgamil/apollo",
+          "publishedOn": "2021-07-26T16:09:44.000Z",
+          "wordCount": 2410,
+          "title": "A Unix-style personal search engine and web crawler for your digital footprint"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27960865",
+          "author": "jakobnissen",
+          "description": "Article URL: https://viralinstruction.com/posts/badjulia/\nComments URL: https://news.ycombinator.com/item?id=27960865\nPoints: 269\n# Comments: 285",
+          "link": "https://viralinstruction.com/posts/badjulia/",
+          "publishedOn": "2021-07-26T15:45:04.000Z",
+          "wordCount": 4977,
+          "title": "What's bad about Julia?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27959755",
+          "author": "danso",
+          "description": "Article URL: https://www.vice.com/en/article/qj8xbq/police-are-telling-shotspotter-to-alter-evidence-from-gunshot-detecting-ai\nComments URL: https://news.ycombinator.com/item?id=27959755\nPoints: 394\n# Comments: 248",
+          "link": "https://www.vice.com/en/article/qj8xbq/police-are-telling-shotspotter-to-alter-evidence-from-gunshot-detecting-ai",
+          "publishedOn": "2021-07-26T14:27:59.000Z",
+          "wordCount": 2410,
+          "title": "Police are telling ShotSpotter to alter evidence from gunshot-detecting AI"
         }
       ]
     }
