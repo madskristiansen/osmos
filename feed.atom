@@ -1,268 +1,266 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-27T00:52:54.464Z</id>
+    <id>urn:2021-07-28T00:53:31.707Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T00:52:54.464Z</updated>
+    <updated>2021-07-28T00:53:31.707Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Mammals dream about the world they are about to experience before they are born]]></title>
-        <id>https://news.ycombinator.com/item?id=27966782</id>
-        <link href="https://news.yale.edu/2021/07/22/eyes-wide-shut-how-newborn-mammals-dream-world-theyre-entering"/>
-        <updated>2021-07-26T23:28:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://news.yale.edu/2021/07/22/eyes-wide-shut-how-newborn-mammals-dream-world-theyre-entering
-Comments URL: https://news.ycombinator.com/item?id=27966782
-Points: 59
-# Comments: 17]]></summary>
+        <title type="html"><![CDATA[Windows 96]]></title>
+        <id>https://news.ycombinator.com/item?id=27978463</id>
+        <link href="https://windows96.net"/>
+        <updated>2021-07-27T22:33:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://windows96.net
+Comments URL: https://news.ycombinator.com/item?id=27978463
+Points: 136
+# Comments: 46]]></summary>
         <author>
-            <name>birriel</name>
+            <name>besnn00</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon denies report of accepting Bitcoin as payment]]></title>
-        <id>https://news.ycombinator.com/item?id=27966020</id>
-        <link href="https://www.reuters.com/business/retail-consumer/amazon-denies-report-accepting-bitcoin-payment-2021-07-26/"/>
-        <updated>2021-07-26T22:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/retail-consumer/amazon-denies-report-accepting-bitcoin-payment-2021-07-26/
-Comments URL: https://news.ycombinator.com/item?id=27966020
-Points: 92
-# Comments: 90]]></summary>
-        <author>
-            <name>jmsflknr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APSE – A Personal Search Engine]]></title>
-        <id>https://news.ycombinator.com/item?id=27965979</id>
-        <link href="https://apse.io/"/>
-        <updated>2021-07-26T21:55:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://apse.io/
-Comments URL: https://news.ycombinator.com/item?id=27965979
-Points: 40
-# Comments: 21]]></summary>
-        <author>
-            <name>thunderbong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel to build Qualcomm chips, aims to catch foundry rivals by 2025]]></title>
-        <id>https://news.ycombinator.com/item?id=27965783</id>
-        <link href="https://www.reuters.com/technology/intel-build-qualcomm-chips-aims-catch-foundry-rivals-by-2025-2021-07-26/"/>
-        <updated>2021-07-26T21:33:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/intel-build-qualcomm-chips-aims-catch-foundry-rivals-by-2025-2021-07-26/
-Comments URL: https://news.ycombinator.com/item?id=27965783
-Points: 125
-# Comments: 63]]></summary>
-        <author>
-            <name>mepian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Insecurity Industry]]></title>
-        <id>https://news.ycombinator.com/item?id=27965746</id>
-        <link href="https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal"/>
-        <updated>2021-07-26T21:29:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal
-Comments URL: https://news.ycombinator.com/item?id=27965746
-Points: 153
-# Comments: 41]]></summary>
-        <author>
-            <name>stanislavb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making The World's Most Detailed (Print) Maps]]></title>
-        <id>https://news.ycombinator.com/item?id=27965460</id>
-        <link href="https://ramblemaps.com/worlds-most-detailed-maps"/>
-        <updated>2021-07-26T21:05:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ramblemaps.com/worlds-most-detailed-maps
-Comments URL: https://news.ycombinator.com/item?id=27965460
-Points: 58
-# Comments: 29]]></summary>
-        <author>
-            <name>mparr4</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debian for Mobile]]></title>
-        <id>https://news.ycombinator.com/item?id=27965416</id>
-        <link href="https://mobian-project.org/"/>
-        <updated>2021-07-26T21:01:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mobian-project.org/
-Comments URL: https://news.ycombinator.com/item?id=27965416
-Points: 88
-# Comments: 52]]></summary>
-        <author>
-            <name>wwarner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jupiter (YC S19) is hiring a front-end engineer (SF/remote)]]></title>
-        <id>https://news.ycombinator.com/item?id=27965407</id>
-        <link href="https://jupiter.co/careers"/>
-        <updated>2021-07-26T21:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jupiter.co/careers
-Comments URL: https://news.ycombinator.com/item?id=27965407
+        <title type="html"><![CDATA[Modern Treasury (YC S18) is hiring our first analytics engineer]]></title>
+        <id>https://news.ycombinator.com/item?id=27977599</id>
+        <link href="https://jobs.ashbyhq.com/moderntreasury/640c2aca-5a23-4762-b022-27039bd049cf"/>
+        <updated>2021-07-27T21:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.ashbyhq.com/moderntreasury/640c2aca-5a23-4762-b022-27039bd049cf
+Comments URL: https://news.ycombinator.com/item?id=27977599
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>anuraagn</name>
+            <name>mattmarcus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Make Cyanotypes]]></title>
-        <id>https://news.ycombinator.com/item?id=27965284</id>
-        <link href="https://parallaxphotographic.coop/how-to-make-cyanotypes/"/>
-        <updated>2021-07-26T20:51:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://parallaxphotographic.coop/how-to-make-cyanotypes/
-Comments URL: https://news.ycombinator.com/item?id=27965284
-Points: 22
-# Comments: 9]]></summary>
+        <title type="html"><![CDATA[Wildfires in Canada are creating their own weather systems, experts say]]></title>
+        <id>https://news.ycombinator.com/item?id=27977421</id>
+        <link href="https://www.cbc.ca/news/canada/british-columbia/western-canada-wildfires-creating-own-weather-experts-firestorm-1.6118889"/>
+        <updated>2021-07-27T20:47:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cbc.ca/news/canada/british-columbia/western-canada-wildfires-creating-own-weather-experts-firestorm-1.6118889
+Comments URL: https://news.ycombinator.com/item?id=27977421
+Points: 104
+# Comments: 31]]></summary>
         <author>
-            <name>onychomys</name>
+            <name>colinprince</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hastening Linux process cleanup with process_mrelease]]></title>
-        <id>https://news.ycombinator.com/item?id=27964460</id>
-        <link href="https://lwn.net/SubscriberLink/864184/06caefb9c8f2bbd5/"/>
-        <updated>2021-07-26T19:48:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lwn.net/SubscriberLink/864184/06caefb9c8f2bbd5/
-Comments URL: https://news.ycombinator.com/item?id=27964460
-Points: 50
-# Comments: 9]]></summary>
+        <title type="html"><![CDATA[Apple Reports Third Quarter Results]]></title>
+        <id>https://news.ycombinator.com/item?id=27977256</id>
+        <link href="https://www.apple.com/newsroom/2021/07/apple-reports-third-quarter-results/"/>
+        <updated>2021-07-27T20:34:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2021/07/apple-reports-third-quarter-results/
+Comments URL: https://news.ycombinator.com/item?id=27977256
+Points: 69
+# Comments: 81]]></summary>
         <author>
-            <name>chmaynard</name>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Counterfactuals are not causality]]></title>
-        <id>https://news.ycombinator.com/item?id=27963974</id>
-        <link href="https://www.michaelnygard.com/blog/2021/06/counterfactuals-are-not-causality/"/>
-        <updated>2021-07-26T19:15:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.michaelnygard.com/blog/2021/06/counterfactuals-are-not-causality/
-Comments URL: https://news.ycombinator.com/item?id=27963974
-Points: 24
-# Comments: 6]]></summary>
+        <title type="html"><![CDATA[Capitol Hill's mystery soda machine]]></title>
+        <id>https://news.ycombinator.com/item?id=27977119</id>
+        <link href="https://en.wikipedia.org/wiki/Capitol_Hill%27s_mystery_soda_machine"/>
+        <updated>2021-07-27T20:22:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Capitol_Hill%27s_mystery_soda_machine
+Comments URL: https://news.ycombinator.com/item?id=27977119
+Points: 350
+# Comments: 110]]></summary>
         <author>
-            <name>grzm</name>
+            <name>zdw</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Git-blame-someone-else]]></title>
-        <id>https://news.ycombinator.com/item?id=27963868</id>
-        <link href="https://github.com/jayphelps/git-blame-someone-else"/>
-        <updated>2021-07-26T19:08:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/jayphelps/git-blame-someone-else
-Comments URL: https://news.ycombinator.com/item?id=27963868
-Points: 165
-# Comments: 69]]></summary>
+        <title type="html"><![CDATA[How Tracing Uncovers Half-Truths in Slack’s CI Infrastructure]]></title>
+        <id>https://news.ycombinator.com/item?id=27976758</id>
+        <link href="https://frankc.net/tracing-in-ci"/>
+        <updated>2021-07-27T19:50:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://frankc.net/tracing-in-ci
+Comments URL: https://news.ycombinator.com/item?id=27976758
+Points: 15
+# Comments: 2]]></summary>
         <author>
-            <name>swyx</name>
+            <name>frankchen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Evolution of tree data structures for indexing: more than it sounds]]></title>
-        <id>https://news.ycombinator.com/item?id=27963753</id>
-        <link href="https://erthalion.info/2020/11/28/evolution-of-btree-index-am"/>
-        <updated>2021-07-26T19:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://erthalion.info/2020/11/28/evolution-of-btree-index-am
-Comments URL: https://news.ycombinator.com/item?id=27963753
-Points: 39
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[FastAI.jl: FastAI for Julia]]></title>
+        <id>https://news.ycombinator.com/item?id=27975519</id>
+        <link href="https://forums.fast.ai/t/ann-announcing-fastai-jl-fastai-for-julia/90228"/>
+        <updated>2021-07-27T18:03:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://forums.fast.ai/t/ann-announcing-fastai-jl-fastai-for-julia/90228
+Comments URL: https://news.ycombinator.com/item?id=27975519
+Points: 117
+# Comments: 17]]></summary>
         <author>
-            <name>baotiao</name>
+            <name>dklend122</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NREL Open-Source Modeling Approach Simulates Low-Inertia Power Systems]]></title>
-        <id>https://news.ycombinator.com/item?id=27963448</id>
-        <link href="https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks-the-code-of-simulating-low-inertia-power-systems.html"/>
-        <updated>2021-07-26T18:41:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks-the-code-of-simulating-low-inertia-power-systems.html
-Comments URL: https://news.ycombinator.com/item?id=27963448
-Points: 45
-# Comments: 20]]></summary>
+        <title type="html"><![CDATA[In defense of hard counters in real time strategy games]]></title>
+        <id>https://news.ycombinator.com/item?id=27975423</id>
+        <link href="https://waywardstrategy.com/2021/07/27/hard-counters/"/>
+        <updated>2021-07-27T17:54:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://waywardstrategy.com/2021/07/27/hard-counters/
+Comments URL: https://news.ycombinator.com/item?id=27975423
+Points: 94
+# Comments: 119]]></summary>
         <author>
-            <name>rbanffy</name>
+            <name>aw1621107</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple fixes an in-the-wild exploited 0-day (iOS 14.7.1)]]></title>
-        <id>https://news.ycombinator.com/item?id=27962761</id>
-        <link href="https://support.apple.com/en-us/HT212623"/>
-        <updated>2021-07-26T17:59:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://support.apple.com/en-us/HT212623
-Comments URL: https://news.ycombinator.com/item?id=27962761
-Points: 384
-# Comments: 196]]></summary>
+        <title type="html"><![CDATA[A soil-science revolution upends plans to fight climate change]]></title>
+        <id>https://news.ycombinator.com/item?id=27974448</id>
+        <link href="https://www.quantamagazine.org/a-soil-science-revolution-upends-plans-to-fight-climate-change-20210727/"/>
+        <updated>2021-07-27T16:37:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/a-soil-science-revolution-upends-plans-to-fight-climate-change-20210727/
+Comments URL: https://news.ycombinator.com/item?id=27974448
+Points: 110
+# Comments: 44]]></summary>
         <author>
-            <name>jiripospisil</name>
+            <name>theafh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Strengthening our workplace with neurodiverse talent]]></title>
-        <id>https://news.ycombinator.com/item?id=27962699</id>
-        <link href="https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-launches-a-career-program-for-people-with-autism"/>
-        <updated>2021-07-26T17:55:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-launches-a-career-program-for-people-with-autism
-Comments URL: https://news.ycombinator.com/item?id=27962699
-Points: 70
-# Comments: 101]]></summary>
+        <title type="html"><![CDATA[Launch HN: Abbot (YC S21) – ChatOps as a Service, inspired by GitHub's Hubot]]></title>
+        <id>https://news.ycombinator.com/item?id=27974077</id>
+        <link href="https://news.ycombinator.com/item?id=27974077"/>
+        <updated>2021-07-27T16:07:47.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN, we're Phil and Paul and we make Abbot (https://ab.bot/) – a tool for building and running simple automation via chat (currently Slack, Discord, and MS Teams). It's common to go from "I have an idea" to having a fully deployed chat command in under an hour.
+The term "ChatOps" comes from GitHub, where the two of us worked together. GitHub was always a distributed company and early on developed a culture of doing most work via chat. Engineers automated the most repetitive processes (and some of their sense of humor, too), and that grew into a shared chat-based command line called Hubot. By typing terminal-style commands into chat, you can execute any sort of process that it makes sense for your team to automate. And because it’s in a shared chat room rather than hidden on your own mach…]]></summary>
         <author>
-            <name>ingve</name>
+            <name>icey</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[More Protein Folding Progress – What’s It Mean?]]></title>
-        <id>https://news.ycombinator.com/item?id=27962246</id>
-        <link href="https://blogs.sciencemag.org/pipeline/archives/2021/07/23/more-protein-folding-progress-whats-it-mean"/>
-        <updated>2021-07-26T17:26:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/07/23/more-protein-folding-progress-whats-it-mean
-Comments URL: https://news.ycombinator.com/item?id=27962246
-Points: 83
-# Comments: 19]]></summary>
+        <title type="html"><![CDATA[Father builds exoskeleton to help wheelchair-bound son walk]]></title>
+        <id>https://news.ycombinator.com/item?id=27973986</id>
+        <link href="https://www.reuters.com/lifestyle/father-builds-exoskeleton-help-wheelchair-bound-son-walk-2021-07-26/"/>
+        <updated>2021-07-27T16:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/lifestyle/father-builds-exoskeleton-help-wheelchair-bound-son-walk-2021-07-26/
+Comments URL: https://news.ycombinator.com/item?id=27973986
+Points: 430
+# Comments: 136]]></summary>
         <author>
-            <name>pvsukale3</name>
+            <name>geox</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Unix-style personal search engine and web crawler for your digital footprint]]></title>
-        <id>https://news.ycombinator.com/item?id=27961185</id>
-        <link href="https://github.com/amirgamil/apollo"/>
-        <updated>2021-07-26T16:09:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/amirgamil/apollo
-Comments URL: https://news.ycombinator.com/item?id=27961185
-Points: 267
-# Comments: 69]]></summary>
+        <title type="html"><![CDATA[Discord Launches Threads]]></title>
+        <id>https://news.ycombinator.com/item?id=27973689</id>
+        <link href="https://blog.discord.com/connect-the-conversation-with-threads-on-discord-3f5fa8b0f6b"/>
+        <updated>2021-07-27T15:35:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.discord.com/connect-the-conversation-with-threads-on-discord-3f5fa8b0f6b
+Comments URL: https://news.ycombinator.com/item?id=27973689
+Points: 305
+# Comments: 167]]></summary>
         <author>
-            <name>amirGi</name>
+            <name>dchengy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What's bad about Julia?]]></title>
-        <id>https://news.ycombinator.com/item?id=27960865</id>
-        <link href="https://viralinstruction.com/posts/badjulia/"/>
-        <updated>2021-07-26T15:45:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://viralinstruction.com/posts/badjulia/
-Comments URL: https://news.ycombinator.com/item?id=27960865
-Points: 269
-# Comments: 285]]></summary>
+        <title type="html"><![CDATA[Docker in Production: A History of Failure (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=27973512</id>
+        <link href="https://thehftguy.com/2016/11/01/docker-in-production-an-history-of-failure/"/>
+        <updated>2021-07-27T15:21:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thehftguy.com/2016/11/01/docker-in-production-an-history-of-failure/
+Comments URL: https://news.ycombinator.com/item?id=27973512
+Points: 93
+# Comments: 78]]></summary>
         <author>
-            <name>jakobnissen</name>
+            <name>flanfly</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Police are telling ShotSpotter to alter evidence from gunshot-detecting AI]]></title>
-        <id>https://news.ycombinator.com/item?id=27959755</id>
-        <link href="https://www.vice.com/en/article/qj8xbq/police-are-telling-shotspotter-to-alter-evidence-from-gunshot-detecting-ai"/>
-        <updated>2021-07-26T14:27:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/qj8xbq/police-are-telling-shotspotter-to-alter-evidence-from-gunshot-detecting-ai
-Comments URL: https://news.ycombinator.com/item?id=27959755
-Points: 394
-# Comments: 248]]></summary>
+        <title type="html"><![CDATA[Postgres Full-Text Search: A search engine in a database]]></title>
+        <id>https://news.ycombinator.com/item?id=27973497</id>
+        <link href="https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database"/>
+        <updated>2021-07-27T15:20:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database
+Comments URL: https://news.ycombinator.com/item?id=27973497
+Points: 354
+# Comments: 97]]></summary>
         <author>
-            <name>danso</name>
+            <name>twakefield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naval Architecture]]></title>
+        <id>https://news.ycombinator.com/item?id=27973295</id>
+        <link href="https://ciechanow.ski/naval-architecture/"/>
+        <updated>2021-07-27T15:03:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ciechanow.ski/naval-architecture/
+Comments URL: https://news.ycombinator.com/item?id=27973295
+Points: 345
+# Comments: 71]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netcat – All you need to know]]></title>
+        <id>https://news.ycombinator.com/item?id=27973020</id>
+        <link href="https://blog.ikuamike.io/posts/2021/netcat/"/>
+        <updated>2021-07-27T14:41:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.ikuamike.io/posts/2021/netcat/
+Comments URL: https://news.ycombinator.com/item?id=27973020
+Points: 208
+# Comments: 28]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally capable agents emerge from open-ended play]]></title>
+        <id>https://news.ycombinator.com/item?id=27972950</id>
+        <link href="https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-play"/>
+        <updated>2021-07-27T14:36:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-play
+Comments URL: https://news.ycombinator.com/item?id=27972950
+Points: 210
+# Comments: 35]]></summary>
+        <author>
+            <name>Hell_World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Functional Programming in OCaml]]></title>
+        <id>https://news.ycombinator.com/item?id=27972900</id>
+        <link href="https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/intro/intro.html"/>
+        <updated>2021-07-27T14:32:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/intro/intro.html
+Comments URL: https://news.ycombinator.com/item?id=27972900
+Points: 137
+# Comments: 43]]></summary>
+        <author>
+            <name>noch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live Starlink Satellite Map]]></title>
+        <id>https://news.ycombinator.com/item?id=27971969</id>
+        <link href="http://satellitemap.space/"/>
+        <updated>2021-07-27T13:10:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://satellitemap.space/
+Comments URL: https://news.ycombinator.com/item?id=27971969
+Points: 138
+# Comments: 75]]></summary>
+        <author>
+            <name>omnibrain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google launches new vulnerability reward platform]]></title>
+        <id>https://news.ycombinator.com/item?id=27971921</id>
+        <link href="https://security.googleblog.com/2021/07/a-new-chapter-for-googles-vulnerability.html"/>
+        <updated>2021-07-27T13:04:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://security.googleblog.com/2021/07/a-new-chapter-for-googles-vulnerability.html
+Comments URL: https://news.ycombinator.com/item?id=27971921
+Points: 258
+# Comments: 74]]></summary>
+        <author>
+            <name>theafh</name>
         </author>
     </entry>
 </feed>
