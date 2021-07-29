@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27978463",
-          "author": "besnn00",
-          "description": "Article URL: https://windows96.net\nComments URL: https://news.ycombinator.com/item?id=27978463\nPoints: 136\n# Comments: 46",
-          "link": "https://windows96.net",
-          "publishedOn": "2021-07-27T22:33:14.000Z",
-          "wordCount": 67,
-          "title": "Windows 96"
+          "id": "https://news.ycombinator.com/item?id=27991426",
+          "author": "luu",
+          "description": "Article URL: https://www.cs.ubc.ca/~kevinlb/papers/2021-SAT-handbook-chapter.pdf\nComments URL: https://news.ycombinator.com/item?id=27991426\nPoints: 4\n# Comments: 0",
+          "link": "https://www.cs.ubc.ca/~kevinlb/papers/2021-SAT-handbook-chapter.pdf",
+          "publishedOn": "2021-07-29T00:28:56.000Z",
+          "wordCount": 8058,
+          "title": "Automated Configuration and Selection of Sat Solvers [pdf]"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27977599",
-          "author": "mattmarcus",
-          "description": "Article URL: https://jobs.ashbyhq.com/moderntreasury/640c2aca-5a23-4762-b022-27039bd049cf\nComments URL: https://news.ycombinator.com/item?id=27977599\nPoints: 1\n# Comments: 0",
-          "link": "https://jobs.ashbyhq.com/moderntreasury/640c2aca-5a23-4762-b022-27039bd049cf",
-          "publishedOn": "2021-07-27T21:00:02.000Z",
-          "wordCount": 16,
-          "title": "Modern Treasury (YC S18) is hiring our first analytics engineer"
+          "id": "https://news.ycombinator.com/item?id=27991322",
+          "author": "oarth",
+          "description": "Article URL: https://alexskra.com/blog/the-mermaid-is-taking-over-google-search-in-norway/\nComments URL: https://news.ycombinator.com/item?id=27991322\nPoints: 8\n# Comments: 0",
+          "link": "https://alexskra.com/blog/the-mermaid-is-taking-over-google-search-in-norway/",
+          "publishedOn": "2021-07-29T00:12:03.000Z",
+          "wordCount": 1254,
+          "title": "The mermaid is taking over Google search in Norway"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27977421",
-          "author": "colinprince",
-          "description": "Article URL: https://www.cbc.ca/news/canada/british-columbia/western-canada-wildfires-creating-own-weather-experts-firestorm-1.6118889\nComments URL: https://news.ycombinator.com/item?id=27977421\nPoints: 104\n# Comments: 31",
-          "link": "https://www.cbc.ca/news/canada/british-columbia/western-canada-wildfires-creating-own-weather-experts-firestorm-1.6118889",
-          "publishedOn": "2021-07-27T20:47:23.000Z",
-          "wordCount": 1342,
-          "title": "Wildfires in Canada are creating their own weather systems, experts say"
+          "id": "https://news.ycombinator.com/item?id=27991211",
+          "author": "edward",
+          "description": "Article URL: https://www.theguardian.com/us-news/2021/jul/28/activision-blizzard-walkout-allegations-harassment-frat-boy-culture\nComments URL: https://news.ycombinator.com/item?id=27991211\nPoints: 33\n# Comments: 3",
+          "link": "https://www.theguardian.com/us-news/2021/jul/28/activision-blizzard-walkout-allegations-harassment-frat-boy-culture",
+          "publishedOn": "2021-07-28T23:54:58.000Z",
+          "wordCount": 918,
+          "title": "Activision Blizzard employees walk out over harassment and ‘frat boy’ culture"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27977256",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://www.apple.com/newsroom/2021/07/apple-reports-third-quarter-results/\nComments URL: https://news.ycombinator.com/item?id=27977256\nPoints: 69\n# Comments: 81",
-          "link": "https://www.apple.com/newsroom/2021/07/apple-reports-third-quarter-results/",
-          "publishedOn": "2021-07-27T20:34:46.000Z",
-          "wordCount": 1504,
-          "title": "Apple Reports Third Quarter Results"
+          "id": "https://news.ycombinator.com/item?id=27991120",
+          "author": "fortran77",
+          "description": "Article URL: https://calculusmadeeasy.org/\nComments URL: https://news.ycombinator.com/item?id=27991120\nPoints: 13\n# Comments: 0",
+          "link": "https://calculusmadeeasy.org/",
+          "publishedOn": "2021-07-28T23:40:46.000Z",
+          "wordCount": 456,
+          "title": "Calculus Made Easy"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27977119",
-          "author": "zdw",
-          "description": "Article URL: https://en.wikipedia.org/wiki/Capitol_Hill%27s_mystery_soda_machine\nComments URL: https://news.ycombinator.com/item?id=27977119\nPoints: 350\n# Comments: 110",
-          "link": "https://en.wikipedia.org/wiki/Capitol_Hill%27s_mystery_soda_machine",
-          "publishedOn": "2021-07-27T20:22:20.000Z",
-          "wordCount": 716,
-          "title": "Capitol Hill's mystery soda machine"
+          "id": "https://news.ycombinator.com/item?id=27990683",
+          "author": "willemmerson",
+          "description": "Article URL: https://en.wikipedia.org/wiki/Potoooooooo\nComments URL: https://news.ycombinator.com/item?id=27990683\nPoints: 49\n# Comments: 13",
+          "link": "https://en.wikipedia.org/wiki/Potoooooooo",
+          "publishedOn": "2021-07-28T22:41:31.000Z",
+          "wordCount": 1375,
+          "title": "Potoooooooo"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27976758",
-          "author": "frankchen",
-          "description": "Article URL: https://frankc.net/tracing-in-ci\nComments URL: https://news.ycombinator.com/item?id=27976758\nPoints: 15\n# Comments: 2",
-          "link": "https://frankc.net/tracing-in-ci",
-          "publishedOn": "2021-07-27T19:50:27.000Z",
-          "wordCount": 1401,
-          "title": "How Tracing Uncovers Half-Truths in Slack’s CI Infrastructure"
+          "id": "https://news.ycombinator.com/item?id=27990477",
+          "author": "LeoPanthera",
+          "description": "Article URL: http://obligement.free.fr/articles_traduction/amiganasa_en.php\nComments URL: https://news.ycombinator.com/item?id=27990477\nPoints: 30\n# Comments: 12",
+          "link": "http://obligement.free.fr/articles_traduction/amiganasa_en.php",
+          "publishedOn": "2021-07-28T22:17:25.000Z",
+          "wordCount": 1961,
+          "title": "Amiga at NASA (1999)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27975519",
-          "author": "dklend122",
-          "description": "Article URL: https://forums.fast.ai/t/ann-announcing-fastai-jl-fastai-for-julia/90228\nComments URL: https://news.ycombinator.com/item?id=27975519\nPoints: 117\n# Comments: 17",
-          "link": "https://forums.fast.ai/t/ann-announcing-fastai-jl-fastai-for-julia/90228",
-          "publishedOn": "2021-07-27T18:03:28.000Z",
-          "wordCount": 198,
-          "title": "FastAI.jl: FastAI for Julia"
+          "id": "https://news.ycombinator.com/item?id=27989912",
+          "author": "10000truths",
+          "description": "Article URL: https://ldpreload.com/blog/git-bisect-run\nComments URL: https://news.ycombinator.com/item?id=27989912\nPoints: 67\n# Comments: 12",
+          "link": "https://ldpreload.com/blog/git-bisect-run",
+          "publishedOn": "2021-07-28T21:23:32.000Z",
+          "wordCount": 1828,
+          "title": "Finding a kernel regression in half an hour with git bisect run"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27975423",
-          "author": "aw1621107",
-          "description": "Article URL: https://waywardstrategy.com/2021/07/27/hard-counters/\nComments URL: https://news.ycombinator.com/item?id=27975423\nPoints: 94\n# Comments: 119",
-          "link": "https://waywardstrategy.com/2021/07/27/hard-counters/",
-          "publishedOn": "2021-07-27T17:54:22.000Z",
-          "wordCount": 5322,
-          "title": "In defense of hard counters in real time strategy games"
+          "id": "https://news.ycombinator.com/item?id=27989875",
+          "author": "hhs",
+          "description": "Article URL: https://news.stanford.edu/2021/07/28/first-detection-light-behind-black-hole/\nComments URL: https://news.ycombinator.com/item?id=27989875\nPoints: 46\n# Comments: 0",
+          "link": "https://news.stanford.edu/2021/07/28/first-detection-light-behind-black-hole/",
+          "publishedOn": "2021-07-28T21:21:05.000Z",
+          "wordCount": 1159,
+          "title": "First detection of light from behind a black hole"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27974448",
-          "author": "theafh",
-          "description": "Article URL: https://www.quantamagazine.org/a-soil-science-revolution-upends-plans-to-fight-climate-change-20210727/\nComments URL: https://news.ycombinator.com/item?id=27974448\nPoints: 110\n# Comments: 44",
-          "link": "https://www.quantamagazine.org/a-soil-science-revolution-upends-plans-to-fight-climate-change-20210727/",
-          "publishedOn": "2021-07-27T16:37:46.000Z",
-          "wordCount": 3118,
-          "title": "A soil-science revolution upends plans to fight climate change"
+          "id": "https://news.ycombinator.com/item?id=27989775",
+          "author": "samizdis",
+          "description": "Article URL: https://text.npr.org/1021687616\nComments URL: https://news.ycombinator.com/item?id=27989775\nPoints: 157\n# Comments: 76",
+          "link": "https://text.npr.org/1021687616",
+          "publishedOn": "2021-07-28T21:11:59.000Z",
+          "wordCount": 367,
+          "title": "'Arthur,' the Longest-Running Kids Animated Series in History, Is Ending"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27974077",
-          "author": "icey",
-          "description": "Hi HN, we're Phil and Paul and we make Abbot (https://ab.bot/) – a tool for building and running simple automation via chat (currently Slack, Discord, and MS Teams). It's common to go from \"I have an idea\" to having a fully deployed chat command in under an hour.\nThe term \"ChatOps\" comes from GitHub, where the two of us worked together. GitHub was always a distributed company and early on developed a culture of doing most work via chat. Engineers automated the most repetitive processes (and some of their sense of humor, too), and that grew into a shared chat-based command line called Hubot. By typing terminal-style commands into chat, you can execute any sort of process that it makes sense for your team to automate. And because it’s in a shared chat room rather than hidden on your own mach…",
-          "link": "https://news.ycombinator.com/item?id=27974077",
-          "publishedOn": "2021-07-27T16:07:47.000Z",
-          "wordCount": 2988,
-          "title": "Launch HN: Abbot (YC S21) – ChatOps as a Service, inspired by GitHub's Hubot"
+          "id": "https://news.ycombinator.com/item?id=27989648",
+          "author": "pclark",
+          "description": "Article URL: https://jny.journey.io/p/3acc112064fc4edcbb222800198827c2?email=hnjob@yc.com\nComments URL: https://news.ycombinator.com/item?id=27989648\nPoints: 1\n# Comments: 0",
+          "link": "https://jny.journey.io/p/3acc112064fc4edcbb222800198827c2?email=hnjob@yc.com",
+          "publishedOn": "2021-07-28T21:00:43.000Z",
+          "wordCount": 10,
+          "title": "Journey (YC W21) is hiring a front-end centric founding engineer"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27973986",
-          "author": "geox",
-          "description": "Article URL: https://www.reuters.com/lifestyle/father-builds-exoskeleton-help-wheelchair-bound-son-walk-2021-07-26/\nComments URL: https://news.ycombinator.com/item?id=27973986\nPoints: 430\n# Comments: 136",
-          "link": "https://www.reuters.com/lifestyle/father-builds-exoskeleton-help-wheelchair-bound-son-walk-2021-07-26/",
-          "publishedOn": "2021-07-27T16:01:01.000Z",
-          "wordCount": 826,
-          "title": "Father builds exoskeleton to help wheelchair-bound son walk"
+          "id": "https://news.ycombinator.com/item?id=27988964",
+          "author": "jeffbarr",
+          "description": "Article URL: https://aws.amazon.com/blogs/aws/ec2-classic-is-retiring-heres-how-to-prepare/\nComments URL: https://news.ycombinator.com/item?id=27988964\nPoints: 122\n# Comments: 70",
+          "link": "https://aws.amazon.com/blogs/aws/ec2-classic-is-retiring-heres-how-to-prepare/",
+          "publishedOn": "2021-07-28T19:58:16.000Z",
+          "wordCount": 1674,
+          "title": "Amazon EC2-Classic Is Retiring"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27973689",
-          "author": "dchengy",
-          "description": "Article URL: https://blog.discord.com/connect-the-conversation-with-threads-on-discord-3f5fa8b0f6b\nComments URL: https://news.ycombinator.com/item?id=27973689\nPoints: 305\n# Comments: 167",
-          "link": "https://blog.discord.com/connect-the-conversation-with-threads-on-discord-3f5fa8b0f6b",
-          "publishedOn": "2021-07-27T15:35:36.000Z",
-          "wordCount": 1552,
-          "title": "Discord Launches Threads"
+          "id": "https://news.ycombinator.com/item?id=27988260",
+          "author": "damir",
+          "description": "Article URL: http://yosefk.com/blog/evil-tip-avoid-easy-things.html\nComments URL: https://news.ycombinator.com/item?id=27988260\nPoints: 281\n# Comments: 112",
+          "link": "http://yosefk.com/blog/evil-tip-avoid-easy-things.html",
+          "publishedOn": "2021-07-28T19:08:44.000Z",
+          "wordCount": 6796,
+          "title": "Evil programmer's tip: avoid “easy” things (2016)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27973512",
-          "author": "flanfly",
-          "description": "Article URL: https://thehftguy.com/2016/11/01/docker-in-production-an-history-of-failure/\nComments URL: https://news.ycombinator.com/item?id=27973512\nPoints: 93\n# Comments: 78",
-          "link": "https://thehftguy.com/2016/11/01/docker-in-production-an-history-of-failure/",
-          "publishedOn": "2021-07-27T15:21:54.000Z",
-          "wordCount": 11689,
-          "title": "Docker in Production: A History of Failure (2016)"
+          "id": "https://news.ycombinator.com/item?id=27987806",
+          "author": "trypwire",
+          "description": "Article URL: https://www.nickwritesablog.com/drum-synthesis-in-javascript/\nComments URL: https://news.ycombinator.com/item?id=27987806\nPoints: 62\n# Comments: 12",
+          "link": "https://www.nickwritesablog.com/drum-synthesis-in-javascript/",
+          "publishedOn": "2021-07-28T18:38:37.000Z",
+          "wordCount": 1960,
+          "title": "Drum Synthesis in JavaScript"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27973497",
-          "author": "twakefield",
-          "description": "Article URL: https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database\nComments URL: https://news.ycombinator.com/item?id=27973497\nPoints: 354\n# Comments: 97",
-          "link": "https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database",
-          "publishedOn": "2021-07-27T15:20:15.000Z",
-          "wordCount": 2261,
-          "title": "Postgres Full-Text Search: A search engine in a database"
+          "id": "https://news.ycombinator.com/item?id=27987650",
+          "author": "ericholscher",
+          "description": "Article URL: https://www.ethicalads.io/blog/2021/05/how-invasive-ad-targeting-is-bad-for-journalism-and-other-high-quality-publishers/\nComments URL: https://news.ycombinator.com/item?id=27987650\nPoints: 149\n# Comments: 50",
+          "link": "https://www.ethicalads.io/blog/2021/05/how-invasive-ad-targeting-is-bad-for-journalism-and-other-high-quality-publishers/",
+          "publishedOn": "2021-07-28T18:30:11.000Z",
+          "wordCount": 703,
+          "title": "Invasive ad targeting is bad for journalism and other high-quality publishers"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27973295",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://ciechanow.ski/naval-architecture/\nComments URL: https://news.ycombinator.com/item?id=27973295\nPoints: 345\n# Comments: 71",
-          "link": "https://ciechanow.ski/naval-architecture/",
-          "publishedOn": "2021-07-27T15:03:35.000Z",
-          "wordCount": 5031,
-          "title": "Naval Architecture"
+          "id": "https://news.ycombinator.com/item?id=27987084",
+          "author": "gmays",
+          "description": "Article URL: https://www.binghamton.edu/news/story/3179/early-signs-perceptual-distortions-in-late-teens-predict-psychotic-symptoms-in-mid-life\nComments URL: https://news.ycombinator.com/item?id=27987084\nPoints: 100\n# Comments: 65",
+          "link": "https://www.binghamton.edu/news/story/3179/early-signs-perceptual-distortions-in-late-teens-predict-psychotic-symptoms-in-mid-life",
+          "publishedOn": "2021-07-28T17:58:04.000Z",
+          "wordCount": 488,
+          "title": "Perceptual distortions in late-teens predict psychotic symptoms in mid-life"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27973020",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://blog.ikuamike.io/posts/2021/netcat/\nComments URL: https://news.ycombinator.com/item?id=27973020\nPoints: 208\n# Comments: 28",
-          "link": "https://blog.ikuamike.io/posts/2021/netcat/",
-          "publishedOn": "2021-07-27T14:41:25.000Z",
-          "wordCount": 1736,
-          "title": "Netcat – All you need to know"
+          "id": "https://news.ycombinator.com/item?id=27986376",
+          "author": "kfiven",
+          "description": "Article URL: https://github.com/ajbura/cinny/releases/tag/v1.0.0\nComments URL: https://news.ycombinator.com/item?id=27986376\nPoints: 116\n# Comments: 41",
+          "link": "https://github.com/ajbura/cinny/releases/tag/v1.0.0",
+          "publishedOn": "2021-07-28T17:23:04.000Z",
+          "wordCount": 529,
+          "title": "Show HN: A web-based matrix client: Cinny"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27972950",
-          "author": "Hell_World",
-          "description": "Article URL: https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-play\nComments URL: https://news.ycombinator.com/item?id=27972950\nPoints: 210\n# Comments: 35",
-          "link": "https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-play",
-          "publishedOn": "2021-07-27T14:36:50.000Z",
-          "wordCount": 2569,
-          "title": "Generally capable agents emerge from open-ended play"
+          "id": "https://news.ycombinator.com/item?id=27986316",
+          "author": "nyx",
+          "description": "Article URL: https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network\nComments URL: https://news.ycombinator.com/item?id=27986316\nPoints: 236\n# Comments: 133",
+          "link": "https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network",
+          "publishedOn": "2021-07-28T17:17:55.000Z",
+          "wordCount": 2232,
+          "title": "From stolen laptop to inside the company network"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27972900",
-          "author": "noch",
-          "description": "Article URL: https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/intro/intro.html\nComments URL: https://news.ycombinator.com/item?id=27972900\nPoints: 137\n# Comments: 43",
-          "link": "https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/intro/intro.html",
-          "publishedOn": "2021-07-27T14:32:17.000Z",
-          "wordCount": 978,
-          "title": "Functional Programming in OCaml"
+          "id": "https://news.ycombinator.com/item?id=27985594",
+          "author": "ag8",
+          "description": "Article URL: https://www.openai.com/blog/triton/\nComments URL: https://news.ycombinator.com/item?id=27985594\nPoints: 256\n# Comments: 72",
+          "link": "https://www.openai.com/blog/triton/",
+          "publishedOn": "2021-07-28T16:18:19.000Z",
+          "wordCount": 2927,
+          "title": "Triton: Open-Source GPU Programming for Neural Networks"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27971969",
-          "author": "omnibrain",
-          "description": "Article URL: http://satellitemap.space/\nComments URL: https://news.ycombinator.com/item?id=27971969\nPoints: 138\n# Comments: 75",
-          "link": "http://satellitemap.space/",
-          "publishedOn": "2021-07-27T13:10:25.000Z",
-          "wordCount": 155,
-          "title": "Live Starlink Satellite Map"
+          "id": "https://news.ycombinator.com/item?id=27985330",
+          "author": "NotSwift",
+          "description": "Article URL: https://www.bbc.com/future/article/20210727-how-to-boost-biodiversity-and-attract-wildlife-to-your-home\nComments URL: https://news.ycombinator.com/item?id=27985330\nPoints: 225\n# Comments: 129",
+          "link": "https://www.bbc.com/future/article/20210727-how-to-boost-biodiversity-and-attract-wildlife-to-your-home",
+          "publishedOn": "2021-07-28T15:58:08.000Z",
+          "wordCount": 1808,
+          "title": "We should build for wildlife as well as people"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27971921",
-          "author": "theafh",
-          "description": "Article URL: https://security.googleblog.com/2021/07/a-new-chapter-for-googles-vulnerability.html\nComments URL: https://news.ycombinator.com/item?id=27971921\nPoints: 258\n# Comments: 74",
-          "link": "https://security.googleblog.com/2021/07/a-new-chapter-for-googles-vulnerability.html",
-          "publishedOn": "2021-07-27T13:04:04.000Z",
-          "wordCount": 987,
-          "title": "Google launches new vulnerability reward platform"
+          "id": "https://news.ycombinator.com/item?id=27985000",
+          "author": "feross",
+          "description": "Article URL: https://akoutmos.com/post/betting-on-elixir/\nComments URL: https://news.ycombinator.com/item?id=27985000\nPoints: 149\n# Comments: 53",
+          "link": "https://akoutmos.com/post/betting-on-elixir/",
+          "publishedOn": "2021-07-28T15:32:07.000Z",
+          "wordCount": 2764,
+          "title": "The Human Side of Elixir"
         }
       ]
     }
