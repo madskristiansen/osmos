@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27991426",
-          "author": "luu",
-          "description": "Article URL: https://www.cs.ubc.ca/~kevinlb/papers/2021-SAT-handbook-chapter.pdf\nComments URL: https://news.ycombinator.com/item?id=27991426\nPoints: 4\n# Comments: 0",
-          "link": "https://www.cs.ubc.ca/~kevinlb/papers/2021-SAT-handbook-chapter.pdf",
-          "publishedOn": "2021-07-29T00:28:56.000Z",
-          "wordCount": 8058,
-          "title": "Automated Configuration and Selection of Sat Solvers [pdf]"
+          "id": "https://news.ycombinator.com/item?id=28002094",
+          "author": "apsec112",
+          "description": "Article URL: https://studio.ribbonfarm.com/p/one-tenth-of-a-second\nComments URL: https://news.ycombinator.com/item?id=28002094\nPoints: 43\n# Comments: 11",
+          "link": "https://studio.ribbonfarm.com/p/one-tenth-of-a-second",
+          "publishedOn": "2021-07-29T22:09:07.000Z",
+          "wordCount": 2775,
+          "title": "One Tenth of a Second"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27991322",
-          "author": "oarth",
-          "description": "Article URL: https://alexskra.com/blog/the-mermaid-is-taking-over-google-search-in-norway/\nComments URL: https://news.ycombinator.com/item?id=27991322\nPoints: 8\n# Comments: 0",
-          "link": "https://alexskra.com/blog/the-mermaid-is-taking-over-google-search-in-norway/",
-          "publishedOn": "2021-07-29T00:12:03.000Z",
-          "wordCount": 1254,
-          "title": "The mermaid is taking over Google search in Norway"
+          "id": "https://news.ycombinator.com/item?id=28001884",
+          "author": "infodocket",
+          "description": "Article URL: https://us-cert.cisa.gov/ncas/alerts/aa21-209a\nComments URL: https://news.ycombinator.com/item?id=28001884\nPoints: 96\n# Comments: 32",
+          "link": "https://us-cert.cisa.gov/ncas/alerts/aa21-209a",
+          "publishedOn": "2021-07-29T21:44:46.000Z",
+          "wordCount": 6601,
+          "title": "Top Routinely Exploited Vulnerabilities"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27991211",
-          "author": "edward",
-          "description": "Article URL: https://www.theguardian.com/us-news/2021/jul/28/activision-blizzard-walkout-allegations-harassment-frat-boy-culture\nComments URL: https://news.ycombinator.com/item?id=27991211\nPoints: 33\n# Comments: 3",
-          "link": "https://www.theguardian.com/us-news/2021/jul/28/activision-blizzard-walkout-allegations-harassment-frat-boy-culture",
-          "publishedOn": "2021-07-28T23:54:58.000Z",
-          "wordCount": 918,
-          "title": "Activision Blizzard employees walk out over harassment and ‘frat boy’ culture"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27991120",
-          "author": "fortran77",
-          "description": "Article URL: https://calculusmadeeasy.org/\nComments URL: https://news.ycombinator.com/item?id=27991120\nPoints: 13\n# Comments: 0",
-          "link": "https://calculusmadeeasy.org/",
-          "publishedOn": "2021-07-28T23:40:46.000Z",
-          "wordCount": 456,
-          "title": "Calculus Made Easy"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27990683",
-          "author": "willemmerson",
-          "description": "Article URL: https://en.wikipedia.org/wiki/Potoooooooo\nComments URL: https://news.ycombinator.com/item?id=27990683\nPoints: 49\n# Comments: 13",
-          "link": "https://en.wikipedia.org/wiki/Potoooooooo",
-          "publishedOn": "2021-07-28T22:41:31.000Z",
-          "wordCount": 1375,
-          "title": "Potoooooooo"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27990477",
-          "author": "LeoPanthera",
-          "description": "Article URL: http://obligement.free.fr/articles_traduction/amiganasa_en.php\nComments URL: https://news.ycombinator.com/item?id=27990477\nPoints: 30\n# Comments: 12",
-          "link": "http://obligement.free.fr/articles_traduction/amiganasa_en.php",
-          "publishedOn": "2021-07-28T22:17:25.000Z",
-          "wordCount": 1961,
-          "title": "Amiga at NASA (1999)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27989912",
-          "author": "10000truths",
-          "description": "Article URL: https://ldpreload.com/blog/git-bisect-run\nComments URL: https://news.ycombinator.com/item?id=27989912\nPoints: 67\n# Comments: 12",
-          "link": "https://ldpreload.com/blog/git-bisect-run",
-          "publishedOn": "2021-07-28T21:23:32.000Z",
-          "wordCount": 1828,
-          "title": "Finding a kernel regression in half an hour with git bisect run"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27989875",
-          "author": "hhs",
-          "description": "Article URL: https://news.stanford.edu/2021/07/28/first-detection-light-behind-black-hole/\nComments URL: https://news.ycombinator.com/item?id=27989875\nPoints: 46\n# Comments: 0",
-          "link": "https://news.stanford.edu/2021/07/28/first-detection-light-behind-black-hole/",
-          "publishedOn": "2021-07-28T21:21:05.000Z",
-          "wordCount": 1159,
-          "title": "First detection of light from behind a black hole"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27989775",
-          "author": "samizdis",
-          "description": "Article URL: https://text.npr.org/1021687616\nComments URL: https://news.ycombinator.com/item?id=27989775\nPoints: 157\n# Comments: 76",
-          "link": "https://text.npr.org/1021687616",
-          "publishedOn": "2021-07-28T21:11:59.000Z",
-          "wordCount": 367,
-          "title": "'Arthur,' the Longest-Running Kids Animated Series in History, Is Ending"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27989648",
-          "author": "pclark",
-          "description": "Article URL: https://jny.journey.io/p/3acc112064fc4edcbb222800198827c2?email=hnjob@yc.com\nComments URL: https://news.ycombinator.com/item?id=27989648\nPoints: 1\n# Comments: 0",
-          "link": "https://jny.journey.io/p/3acc112064fc4edcbb222800198827c2?email=hnjob@yc.com",
-          "publishedOn": "2021-07-28T21:00:43.000Z",
-          "wordCount": 10,
-          "title": "Journey (YC W21) is hiring a front-end centric founding engineer"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27988964",
+          "id": "https://news.ycombinator.com/item?id=28001754",
           "author": "jeffbarr",
-          "description": "Article URL: https://aws.amazon.com/blogs/aws/ec2-classic-is-retiring-heres-how-to-prepare/\nComments URL: https://news.ycombinator.com/item?id=27988964\nPoints: 122\n# Comments: 70",
-          "link": "https://aws.amazon.com/blogs/aws/ec2-classic-is-retiring-heres-how-to-prepare/",
-          "publishedOn": "2021-07-28T19:58:16.000Z",
-          "wordCount": 1674,
-          "title": "Amazon EC2-Classic Is Retiring"
+          "description": "Article URL: https://aws.amazon.com/blogs/aws/heads-up-aws-support-for-internet-explorer-11-is-ending/\nComments URL: https://news.ycombinator.com/item?id=28001754\nPoints: 37\n# Comments: 22",
+          "link": "https://aws.amazon.com/blogs/aws/heads-up-aws-support-for-internet-explorer-11-is-ending/",
+          "publishedOn": "2021-07-29T21:32:20.000Z",
+          "wordCount": 657,
+          "title": "AWS Support for Internet Explorer 11 Is Ending"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27988260",
-          "author": "damir",
-          "description": "Article URL: http://yosefk.com/blog/evil-tip-avoid-easy-things.html\nComments URL: https://news.ycombinator.com/item?id=27988260\nPoints: 281\n# Comments: 112",
-          "link": "http://yosefk.com/blog/evil-tip-avoid-easy-things.html",
-          "publishedOn": "2021-07-28T19:08:44.000Z",
-          "wordCount": 6796,
-          "title": "Evil programmer's tip: avoid “easy” things (2016)"
+          "id": "https://news.ycombinator.com/item?id=28001746",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://blog.cri.epita.fr/post/2021-07-29-hunting-a-bug-in-the-i40e-intel-driver/\nComments URL: https://news.ycombinator.com/item?id=28001746\nPoints: 60\n# Comments: 7",
+          "link": "https://blog.cri.epita.fr/post/2021-07-29-hunting-a-bug-in-the-i40e-intel-driver/",
+          "publishedOn": "2021-07-29T21:31:06.000Z",
+          "wordCount": 4643,
+          "title": "Hunting a bug in the i40e Intel driver"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27987806",
-          "author": "trypwire",
-          "description": "Article URL: https://www.nickwritesablog.com/drum-synthesis-in-javascript/\nComments URL: https://news.ycombinator.com/item?id=27987806\nPoints: 62\n# Comments: 12",
-          "link": "https://www.nickwritesablog.com/drum-synthesis-in-javascript/",
-          "publishedOn": "2021-07-28T18:38:37.000Z",
-          "wordCount": 1960,
-          "title": "Drum Synthesis in JavaScript"
+          "id": "https://news.ycombinator.com/item?id=28001435",
+          "author": "Old_Thrashbarg",
+          "description": "Article URL: https://up.codes/careers#product_manager\nComments URL: https://news.ycombinator.com/item?id=28001435\nPoints: 1\n# Comments: 0",
+          "link": "https://up.codes/careers#product_manager",
+          "publishedOn": "2021-07-29T21:00:04.000Z",
+          "wordCount": 1549,
+          "title": "UpCodes is hiring our first PM to automate compliance for architects"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27987650",
-          "author": "ericholscher",
-          "description": "Article URL: https://www.ethicalads.io/blog/2021/05/how-invasive-ad-targeting-is-bad-for-journalism-and-other-high-quality-publishers/\nComments URL: https://news.ycombinator.com/item?id=27987650\nPoints: 149\n# Comments: 50",
-          "link": "https://www.ethicalads.io/blog/2021/05/how-invasive-ad-targeting-is-bad-for-journalism-and-other-high-quality-publishers/",
-          "publishedOn": "2021-07-28T18:30:11.000Z",
-          "wordCount": 703,
-          "title": "Invasive ad targeting is bad for journalism and other high-quality publishers"
+          "id": "https://news.ycombinator.com/item?id=28001210",
+          "author": "robertwiblin",
+          "description": "Article URL: https://80000hours.org/podcast/episodes/cal-newport-industrial-revolution-for-office-work/\nComments URL: https://news.ycombinator.com/item?id=28001210\nPoints: 40\n# Comments: 6",
+          "link": "https://80000hours.org/podcast/episodes/cal-newport-industrial-revolution-for-office-work/",
+          "publishedOn": "2021-07-29T20:39:39.000Z",
+          "wordCount": 32281,
+          "title": "Cal Newport on an industrial revolution for office work"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27987084",
-          "author": "gmays",
-          "description": "Article URL: https://www.binghamton.edu/news/story/3179/early-signs-perceptual-distortions-in-late-teens-predict-psychotic-symptoms-in-mid-life\nComments URL: https://news.ycombinator.com/item?id=27987084\nPoints: 100\n# Comments: 65",
-          "link": "https://www.binghamton.edu/news/story/3179/early-signs-perceptual-distortions-in-late-teens-predict-psychotic-symptoms-in-mid-life",
-          "publishedOn": "2021-07-28T17:58:04.000Z",
-          "wordCount": 488,
-          "title": "Perceptual distortions in late-teens predict psychotic symptoms in mid-life"
+          "id": "https://news.ycombinator.com/item?id=28001207",
+          "author": "yhoiseth",
+          "description": "Article URL: https://www.vice.com/en/article/pke9k9/facebook-wanted-nso-spyware-to-monitor-users\nComments URL: https://news.ycombinator.com/item?id=28001207\nPoints: 89\n# Comments: 11",
+          "link": "https://www.vice.com/en/article/pke9k9/facebook-wanted-nso-spyware-to-monitor-users",
+          "publishedOn": "2021-07-29T20:39:31.000Z",
+          "wordCount": 766,
+          "title": "Facebook Wanted NSO Spyware to Monitor Users, NSO CEO Claims (2020)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27986376",
-          "author": "kfiven",
-          "description": "Article URL: https://github.com/ajbura/cinny/releases/tag/v1.0.0\nComments URL: https://news.ycombinator.com/item?id=27986376\nPoints: 116\n# Comments: 41",
-          "link": "https://github.com/ajbura/cinny/releases/tag/v1.0.0",
-          "publishedOn": "2021-07-28T17:23:04.000Z",
-          "wordCount": 529,
-          "title": "Show HN: A web-based matrix client: Cinny"
+          "id": "https://news.ycombinator.com/item?id=28000086",
+          "author": "corentin88",
+          "description": "Article URL: https://github.com/ianstormtaylor/slate\nComments URL: https://news.ycombinator.com/item?id=28000086\nPoints: 67\n# Comments: 15",
+          "link": "https://github.com/ianstormtaylor/slate",
+          "publishedOn": "2021-07-29T19:02:14.000Z",
+          "wordCount": 1977,
+          "title": "Slate – A completely customizable framework for building rich text editors"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27986316",
-          "author": "nyx",
-          "description": "Article URL: https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network\nComments URL: https://news.ycombinator.com/item?id=27986316\nPoints: 236\n# Comments: 133",
-          "link": "https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network",
-          "publishedOn": "2021-07-28T17:17:55.000Z",
-          "wordCount": 2232,
-          "title": "From stolen laptop to inside the company network"
+          "id": "https://news.ycombinator.com/item?id=27999720",
+          "author": "URfejk",
+          "description": "Article URL: https://i.postimg.cc/CLBCNx0Q/D4Hg99zw.jpg\nComments URL: https://news.ycombinator.com/item?id=27999720\nPoints: 472\n# Comments: 313",
+          "link": "https://i.postimg.cc/CLBCNx0Q/D4Hg99zw.jpg",
+          "publishedOn": "2021-07-29T18:23:29.000Z",
+          "wordCount": 1506,
+          "title": "Facebook is now claiming official CDC.gov links are “False Information”"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27985594",
-          "author": "ag8",
-          "description": "Article URL: https://www.openai.com/blog/triton/\nComments URL: https://news.ycombinator.com/item?id=27985594\nPoints: 256\n# Comments: 72",
-          "link": "https://www.openai.com/blog/triton/",
-          "publishedOn": "2021-07-28T16:18:19.000Z",
-          "wordCount": 2927,
-          "title": "Triton: Open-Source GPU Programming for Neural Networks"
+          "id": "https://news.ycombinator.com/item?id=27999374",
+          "author": "stonlyb",
+          "description": "Article URL: https://www.thecut.com/2021/07/how-thrilling-ceo-shilla-kim-parker-gets-it-done.html\nComments URL: https://news.ycombinator.com/item?id=27999374\nPoints: 94\n# Comments: 38",
+          "link": "https://www.thecut.com/2021/07/how-thrilling-ceo-shilla-kim-parker-gets-it-done.html",
+          "publishedOn": "2021-07-29T17:56:02.000Z",
+          "wordCount": 2281,
+          "title": "You can be shy and still be a CEO"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27985330",
-          "author": "NotSwift",
-          "description": "Article URL: https://www.bbc.com/future/article/20210727-how-to-boost-biodiversity-and-attract-wildlife-to-your-home\nComments URL: https://news.ycombinator.com/item?id=27985330\nPoints: 225\n# Comments: 129",
-          "link": "https://www.bbc.com/future/article/20210727-how-to-boost-biodiversity-and-attract-wildlife-to-your-home",
-          "publishedOn": "2021-07-28T15:58:08.000Z",
-          "wordCount": 1808,
-          "title": "We should build for wildlife as well as people"
+          "id": "https://news.ycombinator.com/item?id=27999348",
+          "author": "riccomini",
+          "description": "Article URL: https://cnr.sh/essays/what-the-heck-data-mesh\nComments URL: https://news.ycombinator.com/item?id=27999348\nPoints: 78\n# Comments: 25",
+          "link": "https://cnr.sh/essays/what-the-heck-data-mesh",
+          "publishedOn": "2021-07-29T17:54:39.000Z",
+          "wordCount": 1966,
+          "title": "What even is data mesh"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27985000",
-          "author": "feross",
-          "description": "Article URL: https://akoutmos.com/post/betting-on-elixir/\nComments URL: https://news.ycombinator.com/item?id=27985000\nPoints: 149\n# Comments: 53",
-          "link": "https://akoutmos.com/post/betting-on-elixir/",
-          "publishedOn": "2021-07-28T15:32:07.000Z",
-          "wordCount": 2764,
-          "title": "The Human Side of Elixir"
+          "id": "https://news.ycombinator.com/item?id=27998786",
+          "author": "lorendsr",
+          "description": "Article URL: https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/\nComments URL: https://news.ycombinator.com/item?id=27998786\nPoints: 81\n# Comments: 37",
+          "link": "https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/",
+          "publishedOn": "2021-07-29T17:11:52.000Z",
+          "wordCount": 1732,
+          "title": "So you want to self-publish books and courses on programming"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27998737",
+          "author": "ChrisArchitect",
+          "description": "Article URL: https://shop.play.date/\nComments URL: https://news.ycombinator.com/item?id=27998737\nPoints: 155\n# Comments: 107",
+          "link": "https://shop.play.date/",
+          "publishedOn": "2021-07-29T17:07:17.000Z",
+          "wordCount": 474,
+          "title": "The Playdate store is now open"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27998452",
+          "author": "steviedotboston",
+          "description": "Article URL: https://ustaxes.org/start\nComments URL: https://news.ycombinator.com/item?id=27998452\nPoints: 56\n# Comments: 5",
+          "link": "https://ustaxes.org/start",
+          "publishedOn": "2021-07-29T16:44:17.000Z",
+          "wordCount": 10,
+          "title": "UsTaxes – open-source tax filing web application"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27998439",
+          "author": "ksec",
+          "description": "Article URL: https://vitess.io/blog/2021-07-27-announcing-vitess-11/\nComments URL: https://news.ycombinator.com/item?id=27998439\nPoints: 73\n# Comments: 31",
+          "link": "https://vitess.io/blog/2021-07-27-announcing-vitess-11/",
+          "publishedOn": "2021-07-29T16:43:23.000Z",
+          "wordCount": 642,
+          "title": "Announcing Vitess 11"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27998323",
+          "author": "thibaut_barrere",
+          "description": "Article URL: https://elixir-lang.org/blog/2021/07/29/bootstraping-a-multiplayer-server-with-elixir-at-x-plane/\nComments URL: https://news.ycombinator.com/item?id=27998323\nPoints: 167\n# Comments: 56",
+          "link": "https://elixir-lang.org/blog/2021/07/29/bootstraping-a-multiplayer-server-with-elixir-at-x-plane/",
+          "publishedOn": "2021-07-29T16:31:11.000Z",
+          "wordCount": 1264,
+          "title": "Bootstrapping a multiplayer server with Elixir"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27998109",
+          "author": "non_sequitur",
+          "description": "Article URL: https://www.fsf.org/blogs/licensing/fsf-funded-call-for-white-papers-on-philosophical-and-legal-questions-around-copilot\nComments URL: https://news.ycombinator.com/item?id=27998109\nPoints: 217\n# Comments: 137",
+          "link": "https://www.fsf.org/blogs/licensing/fsf-funded-call-for-white-papers-on-philosophical-and-legal-questions-around-copilot",
+          "publishedOn": "2021-07-29T16:09:54.000Z",
+          "wordCount": 1463,
+          "title": "FSF-calls for white papers on philosophical and legal questions around Copilot"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27998058",
+          "author": "theduder99",
+          "description": "Article URL: https://www.theverge.com/2021/7/28/22598747/kindle-3g-network-shutdown-e-readers-no-internet\nComments URL: https://news.ycombinator.com/item?id=27998058\nPoints: 208\n# Comments: 214",
+          "link": "https://www.theverge.com/2021/7/28/22598747/kindle-3g-network-shutdown-e-readers-no-internet",
+          "publishedOn": "2021-07-29T16:05:23.000Z",
+          "wordCount": 843,
+          "title": "Amazon's Older Kindles Will Start to Lose Their Internet Access in December"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27997923",
+          "author": "mathgenius",
+          "description": "Article URL: https://arxiv.org/abs/2107.13023\nComments URL: https://news.ycombinator.com/item?id=27997923\nPoints: 115\n# Comments: 38",
+          "link": "https://arxiv.org/abs/2107.13023",
+          "publishedOn": "2021-07-29T15:50:32.000Z",
+          "wordCount": 602,
+          "title": "Undetectable quantum computation and communication for alien civilizations"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27997167",
+          "author": "azhenley",
+          "description": "Article URL: http://craftinginterpreters.com/\nComments URL: https://news.ycombinator.com/item?id=27997167\nPoints: 543\n# Comments: 109",
+          "link": "http://craftinginterpreters.com/",
+          "publishedOn": "2021-07-29T14:47:01.000Z",
+          "wordCount": 382,
+          "title": "Crafting Interpreters is available in print"
         }
       ]
     }
