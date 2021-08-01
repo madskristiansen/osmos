@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=28014040",
-          "author": "ksec",
-          "description": "Article URL: https://mjtsai.com/blog/2021/07/30/safari-extension-rejected-because-developer-not-reputable/#comment-3497166\nComments URL: https://news.ycombinator.com/item?id=28014040\nPoints: 5\n# Comments: 0",
-          "link": "https://mjtsai.com/blog/2021/07/30/safari-extension-rejected-because-developer-not-reputable/#comment-3497166",
-          "publishedOn": "2021-07-31T00:27:20.000Z",
-          "wordCount": 460,
-          "title": "Safari Extension Rejected Because Developer Not “Reputable”"
+          "id": "https://news.ycombinator.com/item?id=28022066",
+          "author": "azalemeth",
+          "description": "Article URL: https://www.pcgamer.com/how-blizzards-reputation-collapsed-in-just-3-years/\nComments URL: https://news.ycombinator.com/item?id=28022066\nPoints: 51\n# Comments: 10",
+          "link": "https://www.pcgamer.com/how-blizzards-reputation-collapsed-in-just-3-years/",
+          "publishedOn": "2021-07-31T22:31:47.000Z",
+          "wordCount": 2882,
+          "title": "Blizzard's reputation collapsed in just three years"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28013797",
-          "author": "jez",
-          "description": "Article URL: https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler\nComments URL: https://news.ycombinator.com/item?id=28013797\nPoints: 20\n# Comments: 0",
-          "link": "https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler",
-          "publishedOn": "2021-07-30T23:44:20.000Z",
-          "wordCount": 2269,
-          "title": "Sorbet Compiler: An experimental, ahead-of-time compiler for Ruby"
+          "id": "https://news.ycombinator.com/item?id=28022026",
+          "author": "protomyth",
+          "description": "Article URL: https://news.usni.org/2021/07/31/navy-quietly-decommissions-littoral-combat-ship-independence-after-11-years\nComments URL: https://news.ycombinator.com/item?id=28022026\nPoints: 45\n# Comments: 71",
+          "link": "https://news.usni.org/2021/07/31/navy-quietly-decommissions-littoral-combat-ship-independence-after-11-years",
+          "publishedOn": "2021-07-31T22:25:43.000Z",
+          "wordCount": 1015,
+          "title": "Navy Quietly Decommissions Littoral Combat Ship Independence"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28012969",
-          "author": "cpach",
-          "description": "TL;DR: Consider listing your contact details in your HN profile!\nThere are lots of interesting conversations happening here on HN. But sometimes people might want to continue the discussions even after threads fall of the front page.\nHave you considered listing your contact details on HN so that people can get in touch with you more easily?\nIf you want to do that, please note that it’s not enough to fill in the email field on your profile. Only the HN admins can see that field.\nIf you want others to see your e-mail address etc, you need to explicitly put it in the about text area.\nSome members want to keep a low profile and I certainly respect that. But please consider what you might be missing. There’s also no requirement to use your main e-mail address. One could also use an alternative e-mail in order to stay pseudonymous.\nThere are just so many interesting people here so I thought that one might not want to miss out on all interesting connections that could occur. For example, interesting job offers are not uncommon here.\nJust my 2¢ though, do what thou wilt. Peace!\nComments URL: https://news.ycombinator.com/item?id=28012969\nPoints: 113\n# Comments: 54",
-          "link": "https://news.ycombinator.com/item?id=28012969",
-          "publishedOn": "2021-07-30T22:03:38.000Z",
-          "wordCount": 2315,
-          "title": "Tell HN: Consider listing your contact details"
+          "id": "https://news.ycombinator.com/item?id=28021956",
+          "author": "mgh2",
+          "description": "Article URL: https://techstartups.com/2020/09/18/6-corporations-control-90-media-america-illusion-choice-objectivity-2020/\nComments URL: https://news.ycombinator.com/item?id=28021956\nPoints: 94\n# Comments: 48",
+          "link": "https://techstartups.com/2020/09/18/6-corporations-control-90-media-america-illusion-choice-objectivity-2020/",
+          "publishedOn": "2021-07-31T22:09:41.000Z",
+          "wordCount": 858,
+          "title": "Six corporations control 90% of America media"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28012829",
-          "author": "segfall",
-          "description": "Article URL: http://static.wiki/\nComments URL: https://news.ycombinator.com/item?id=28012829\nPoints: 270\n# Comments: 72",
-          "link": "http://static.wiki/",
-          "publishedOn": "2021-07-30T21:50:50.000Z",
-          "wordCount": 10,
-          "title": "Static.wiki – read-only Wikipedia using a 43GB SQLite file"
+          "id": "https://news.ycombinator.com/item?id=28021520",
+          "author": "wilsonmitchell",
+          "description": "Article URL: https://www.ycombinator.com/companies/compose-ai/jobs/syPzbAB-senior-frontend-engineer\nComments URL: https://news.ycombinator.com/item?id=28021520\nPoints: 1\n# Comments: 0",
+          "link": "https://www.ycombinator.com/companies/compose-ai/jobs/syPzbAB-senior-frontend-engineer",
+          "publishedOn": "2021-07-31T21:00:48.000Z",
+          "wordCount": 584,
+          "title": "Compose.ai (YC W21) Is Hiring a Senior Front End Engineer"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28012425",
-          "author": "geerlingguy",
-          "description": "Article URL: https://www.jeffgeerling.com/blog/2021/raspberry-pi-os-now-has-sata-support-built\nComments URL: https://news.ycombinator.com/item?id=28012425\nPoints: 38\n# Comments: 13",
-          "link": "https://www.jeffgeerling.com/blog/2021/raspberry-pi-os-now-has-sata-support-built",
-          "publishedOn": "2021-07-30T21:11:50.000Z",
-          "wordCount": 556,
-          "title": "Raspberry Pi OS now has SATA support built-in"
+          "id": "https://news.ycombinator.com/item?id=28021434",
+          "author": "Aloha",
+          "description": "Article URL: https://github.com/cy384/ssheven\nComments URL: https://news.ycombinator.com/item?id=28021434\nPoints: 172\n# Comments: 37",
+          "link": "https://github.com/cy384/ssheven",
+          "publishedOn": "2021-07-31T20:50:19.000Z",
+          "wordCount": 863,
+          "title": "Cy384/ssheven: A modern SSH client for Mac OS 7/8/9"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28012294",
-          "author": "serick224",
-          "description": "Article URL: https://www.solosuit.com/careers#se\nComments URL: https://news.ycombinator.com/item?id=28012294\nPoints: 1\n# Comments: 0",
-          "link": "https://www.solosuit.com/careers#se",
-          "publishedOn": "2021-07-30T21:00:17.000Z",
-          "wordCount": 340,
-          "title": "SoloSuit (YC W21) is hiring a remote senior engineer"
+          "id": "https://news.ycombinator.com/item?id=28021399",
+          "author": "roborovskis",
+          "description": "Article URL: https://comma.ai/shop/products/three\nComments URL: https://news.ycombinator.com/item?id=28021399\nPoints: 71\n# Comments: 31",
+          "link": "https://comma.ai/shop/products/three",
+          "publishedOn": "2021-07-31T20:43:04.000Z",
+          "wordCount": 1225,
+          "title": "Comma Three Devkit"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28012158",
-          "author": "zdw",
-          "description": "Article URL: https://www.schneier.com/blog/archives/2021/07/i-am-parting-with-my-crypto-library.html\nComments URL: https://news.ycombinator.com/item?id=28012158\nPoints: 61\n# Comments: 7",
-          "link": "https://www.schneier.com/blog/archives/2021/07/i-am-parting-with-my-crypto-library.html",
-          "publishedOn": "2021-07-30T20:46:12.000Z",
-          "wordCount": 1357,
-          "title": "I Am Parting with My Crypto Library"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28011861",
-          "author": "6a74",
-          "description": "Article URL: https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/\nComments URL: https://news.ycombinator.com/item?id=28011861\nPoints: 166\n# Comments: 57",
-          "link": "https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/",
-          "publishedOn": "2021-07-30T20:10:31.000Z",
-          "wordCount": 3523,
-          "title": "The journey to controlling external monitors on M1 Macs"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28011825",
-          "author": "grep_it",
-          "description": "Article URL: https://nullprogram.com/blog/2021/07/30/\nComments URL: https://news.ycombinator.com/item?id=28011825\nPoints: 70\n# Comments: 72",
-          "link": "https://nullprogram.com/blog/2021/07/30/",
-          "publishedOn": "2021-07-30T20:06:17.000Z",
-          "wordCount": 1158,
-          "title": "strcpy: A niche function you don't need"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28010077",
-          "author": "alexrustic",
-          "description": "Article URL: https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge.html\nComments URL: https://news.ycombinator.com/item?id=28010077\nPoints: 83\n# Comments: 89",
-          "link": "https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge.html",
-          "publishedOn": "2021-07-30T17:10:24.000Z",
-          "wordCount": 883,
-          "title": "Algorithmic bias bounty challenge"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28009972",
-          "author": "ishishah",
-          "description": "Hi, I'm Ishita, cofounder of Matrubials (https://matrubials.com/). We are developing milk-derived therapeutics to address infectious diseases.\nI have extensive experience in microbiology and infectious diseases in both academia and industry. Taken together, our founding team has ~100 years of combined experience in microbiology and ecology, food science and chemistry. My cofounders have previously founded other health companies with specialized products (eg. Evolve Biosystems and BCD Bioscience).\nWe have been focused on structure-function analysis of mammalian milk and the benefits individual components can bring to human health for about two decades. In recent years, we discovered peptides in milk that have selective antimicrobial activity, meaning that they know who the pathogens are, and essentially go after them fast for elimination while bypassing the \"good\" bugs, leaving them around to continue their jobs. That was the moment we decided we needed to bring these to the market.\nOne niche in the human body where the imbalance between the good and the bad is really bad, is the human vagina. We've been focusing on specific bacteria that reside in the normal human vagina and those that take over to cause disease. In particular, we hope to reduce the burden of bacterial vaginosis, which remains unresolved with current antibiotics. This is especially important because these infections tend to recur, and can lead to secondary infections and reproductive issues.\nAntibiotic discovery is hard, technically and financially. To develop candidate molecules from early stage research to clinically viable products, with efficacy and safety that do better than current standard-of-care, is a major challenge. An opportunity like this one doesn't come around often so we're pretty excited about it.\nConverting milk components into therapeutics- now isn't that a great hack? We think so! Happy to hear your thoughts and answer questions!\nComments URL: https://news.ycombinator.com/item?id=28009972\nPoints: 62\n# Comments: 28",
-          "link": "https://news.ycombinator.com/item?id=28009972",
-          "publishedOn": "2021-07-30T16:59:52.000Z",
-          "wordCount": 1805,
-          "title": "Launch HN: Matrubials (YC S21) Milk-derived therapeutics for infectious diesases"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28009868",
-          "author": "pseudolus",
-          "description": "Article URL: https://www.businessinsider.com/amazon-employees-number-1-of-153-us-workers-head-count-2021-7\nComments URL: https://news.ycombinator.com/item?id=28009868\nPoints: 440\n# Comments: 329",
-          "link": "https://www.businessinsider.com/amazon-employees-number-1-of-153-us-workers-head-count-2021-7",
-          "publishedOn": "2021-07-30T16:49:40.000Z",
-          "wordCount": 1255,
-          "title": "1 out of every 153 American workers is an Amazon employee"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28009452",
-          "author": "hhs",
-          "description": "Article URL: https://www.npr.org/2021/07/30/1022642071/mtv-beavis-butthead-daria-aeon-flux-liquid-television\nComments URL: https://news.ycombinator.com/item?id=28009452\nPoints: 50\n# Comments: 59",
-          "link": "https://www.npr.org/2021/07/30/1022642071/mtv-beavis-butthead-daria-aeon-flux-liquid-television",
-          "publishedOn": "2021-07-30T16:06:27.000Z",
-          "wordCount": 1597,
-          "title": "How Beavis, Butt-Head and Daria disrupted cable"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28008771",
-          "author": "mherrmann",
-          "description": "Article URL: https://phys.org/news/2021-07-exotic-particle-tetraquark.html\nComments URL: https://news.ycombinator.com/item?id=28008771\nPoints: 416\n# Comments: 169",
-          "link": "https://phys.org/news/2021-07-exotic-particle-tetraquark.html",
-          "publishedOn": "2021-07-30T15:04:05.000Z",
-          "wordCount": 1492,
-          "title": "New exotic matter particle, a tetraquark, discovered at CERN"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28008737",
-          "author": "juancampa",
-          "description": "Article URL: https://lunatic.solutions/\nComments URL: https://news.ycombinator.com/item?id=28008737\nPoints: 53\n# Comments: 4",
-          "link": "https://lunatic.solutions/",
-          "publishedOn": "2021-07-30T15:00:49.000Z",
-          "wordCount": 311,
-          "title": "Lunatic is an Erlang-inspired runtime for WebAssembly"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28008571",
-          "author": "ahmedfromtunis",
-          "description": "I'm sure some of your heard about what's happening in my country, Tunisia. (tldr: the president made some 'unconstitutional' moves to thwart rampant corruption. Five days later, everything seems fine ... for now).\nEven though it seems the president is keeping his promise on freedom of speech, I don't think it would be extravagant to get prepared for the worse.\nSo, what should I do to keep myself safe online?\nEdit: I'm not worried about my physical safety, I'm just asking about protecting my privacy online if the government decides to go full on Big Brother.\nP.S.: I tried to submit this question with a throwaway account, for obvious reasons, was told to \"please slow down\".\nComments URL: https://news.ycombinator.com/item?id=28008571\nPoints: 116\n# Comments: 85",
-          "link": "https://news.ycombinator.com/item?id=28008571",
-          "publishedOn": "2021-07-30T14:48:50.000Z",
-          "wordCount": 5657,
-          "title": "Ask HN: My country may be in the midst of a coup – how should I get prepared?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28008541",
-          "author": "eatonphil",
-          "description": "Article URL: https://github.com/tidwall/btree/blob/master/PATH_HINT.md\nComments URL: https://news.ycombinator.com/item?id=28008541\nPoints: 237\n# Comments: 55",
-          "link": "https://github.com/tidwall/btree/blob/master/PATH_HINT.md",
-          "publishedOn": "2021-07-30T14:46:33.000Z",
-          "wordCount": 827,
-          "title": "B-tree Path Hints"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28008172",
-          "author": "vm",
-          "description": "Hi HN, we’re Vineet and Chris, founders of HomeBreeze (https://www.homebreeze.com). We make booking home services radically simpler for homeowners. We do this by using details about the home to provide upfront, guaranteed prices and instant scheduling, with work completed by a network of qualified professionals. We’re starting with hot water heater replacements and are live in Southern California so far.\nMany homeowners struggle to find contractors who will provide quality work without gouging them on price. They burn hours of time contacting pros and hosting onsite scoping visits, just to get prices and availability—with little insight on quality. Lead generation platforms like Angi and Thumbtack only solve a narrow slice of the problem - finding pros - without helping to price, schedule,…",
-          "link": "https://news.ycombinator.com/item?id=28008172",
-          "publishedOn": "2021-07-30T14:11:25.000Z",
-          "wordCount": 6238,
-          "title": "Launch HN: HomeBreeze (YC W21) – Easy booking of home repairs"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28007629",
-          "author": "mnming",
-          "description": "Article URL: https://twin-cities.umn.edu/news-events/facial-expression-software-knows-which-olympic-medal-makes-you-happier-and-why\nComments URL: https://news.ycombinator.com/item?id=28007629\nPoints: 203\n# Comments: 109",
-          "link": "https://twin-cities.umn.edu/news-events/facial-expression-software-knows-which-olympic-medal-makes-you-happier-and-why",
-          "publishedOn": "2021-07-30T13:19:10.000Z",
-          "wordCount": 987,
-          "title": "Facial expression software confirms bronze medalists happier than silver"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28007593",
+          "id": "https://news.ycombinator.com/item?id=28021161",
           "author": "ingve",
-          "description": "Article URL: https://static.barik.net/barik/publications/icse2017/PID4655707.pdf\nComments URL: https://news.ycombinator.com/item?id=28007593\nPoints: 16\n# Comments: 16",
-          "link": "https://static.barik.net/barik/publications/icse2017/PID4655707.pdf",
-          "publishedOn": "2021-07-30T13:15:01.000Z",
-          "wordCount": 13928,
-          "title": "Do Developers Read Compiler Error Messages? [pdf]"
+          "description": "Article URL: https://github.com/langjam/langjam\nComments URL: https://news.ycombinator.com/item?id=28021161\nPoints: 125\n# Comments: 24",
+          "link": "https://github.com/langjam/langjam",
+          "publishedOn": "2021-07-31T20:05:38.000Z",
+          "wordCount": 990,
+          "title": "Lang Jam: create a programming language in a weekend"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28020944",
+          "author": "juancampa",
+          "description": "Article URL: https://github.com/saghul/txiki.js\nComments URL: https://news.ycombinator.com/item?id=28020944\nPoints: 49\n# Comments: 8",
+          "link": "https://github.com/saghul/txiki.js",
+          "publishedOn": "2021-07-31T19:32:57.000Z",
+          "wordCount": 896,
+          "title": "Txiki.js: Tiny JavaScript runtime built with QuickJS and libuv"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28020772",
+          "author": "_Microft",
+          "description": "Article URL: https://arstechnica.com/tech-policy/2021/07/jeff-bezos-loses-attempt-to-block-the-moon-landing-contract-nasa-gave-to-spacex/\nComments URL: https://news.ycombinator.com/item?id=28020772\nPoints: 182\n# Comments: 164",
+          "link": "https://arstechnica.com/tech-policy/2021/07/jeff-bezos-loses-attempt-to-block-the-moon-landing-contract-nasa-gave-to-spacex/",
+          "publishedOn": "2021-07-31T19:06:59.000Z",
+          "wordCount": 1227,
+          "title": "Jeff Bezos loses attempt to block the Moon-landing contract NASA gave to SpaceX"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28020723",
+          "author": "daenz",
+          "description": "Article URL: https://www.amazon.com/gp/b2b/reports\nComments URL: https://news.ycombinator.com/item?id=28020723\nPoints: 118\n# Comments: 50",
+          "link": "https://www.amazon.com/gp/b2b/reports",
+          "publishedOn": "2021-07-31T18:59:33.000Z",
+          "wordCount": 70,
+          "title": "Download a CSV of your Amazon purchases"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28019843",
+          "author": "SubiculumCode",
+          "description": "Article URL: https://www.nytimes.com/2021/07/31/science/plant-leaves-welwitschia.html\nComments URL: https://news.ycombinator.com/item?id=28019843\nPoints: 37\n# Comments: 10",
+          "link": "https://www.nytimes.com/2021/07/31/science/plant-leaves-welwitschia.html",
+          "publishedOn": "2021-07-31T17:05:03.000Z",
+          "wordCount": 952,
+          "title": "One-Thousand Year-Old Plants"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28019713",
+          "author": "elvis70",
+          "description": "Article URL: http://www.retroarchive.org/\nComments URL: https://news.ycombinator.com/item?id=28019713\nPoints: 81\n# Comments: 14",
+          "link": "http://www.retroarchive.org/",
+          "publishedOn": "2021-07-31T16:46:56.000Z",
+          "wordCount": 1588,
+          "title": "The Retrocomputing Archive"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28019150",
+          "author": "elsewhen",
+          "description": "Article URL: https://www.economist.com/international/2021/07/01/as-lockdowns-lift-media-firms-brace-for-an-attention-recession\nComments URL: https://news.ycombinator.com/item?id=28019150\nPoints: 120\n# Comments: 145",
+          "link": "https://www.economist.com/international/2021/07/01/as-lockdowns-lift-media-firms-brace-for-an-attention-recession",
+          "publishedOn": "2021-07-31T15:48:09.000Z",
+          "wordCount": 2135,
+          "title": "As lockdowns lift, media firms brace for an “attention recession”"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28019094",
+          "author": "olvy0",
+          "description": "Article URL: https://locusmag.com/2020/11/cory-doctorow-past-performance-is-not-indicative-of-future-results/\nComments URL: https://news.ycombinator.com/item?id=28019094\nPoints: 267\n# Comments: 175",
+          "link": "https://locusmag.com/2020/11/cory-doctorow-past-performance-is-not-indicative-of-future-results/",
+          "publishedOn": "2021-07-31T15:40:41.000Z",
+          "wordCount": 3221,
+          "title": "Past Performance is Not Indicative of Future Results (2020)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28018293",
+          "author": "erehweb",
+          "description": "Article URL: https://aeon.co/essays/why-is-the-english-spelling-system-so-weird-and-inconsistent\nComments URL: https://news.ycombinator.com/item?id=28018293\nPoints: 64\n# Comments: 31",
+          "link": "https://aeon.co/essays/why-is-the-english-spelling-system-so-weird-and-inconsistent",
+          "publishedOn": "2021-07-31T14:14:11.000Z",
+          "wordCount": 3809,
+          "title": "Typos, tricks and misprints"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28018057",
+          "author": "laurex",
+          "description": "Article URL: https://www.reuters.com/investigates/special-report/environment-plastic-oil-recycling/\nComments URL: https://news.ycombinator.com/item?id=28018057\nPoints: 248\n# Comments: 247",
+          "link": "https://www.reuters.com/investigates/special-report/environment-plastic-oil-recycling/",
+          "publishedOn": "2021-07-31T13:42:42.000Z",
+          "wordCount": 4968,
+          "title": "The recycling myth: A plastic waste solution littered with failure"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28017771",
+          "author": "wellpast",
+          "description": "Article URL: https://www.johndcook.com/blog/2021/07/31/where-has-productivity-gone/\nComments URL: https://news.ycombinator.com/item?id=28017771\nPoints: 118\n# Comments: 119",
+          "link": "https://www.johndcook.com/blog/2021/07/31/where-has-productivity-gone/",
+          "publishedOn": "2021-07-31T13:04:31.000Z",
+          "wordCount": 965,
+          "title": "Where has all the productivity gone?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28017656",
+          "author": "SirLJ",
+          "description": "Article URL: https://brettscott.substack.com/p/the-hole-in-bitcoins-heart\nComments URL: https://news.ycombinator.com/item?id=28017656\nPoints: 56\n# Comments: 90",
+          "link": "https://brettscott.substack.com/p/the-hole-in-bitcoins-heart",
+          "publishedOn": "2021-07-31T12:50:41.000Z",
+          "wordCount": 7858,
+          "title": "I, Token: The untold story of the hole in Bitcoin's heart"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28017327",
+          "author": "ingve",
+          "description": "Article URL: https://github.com/toger5/TheBoard\nComments URL: https://news.ycombinator.com/item?id=28017327\nPoints: 107\n# Comments: 17",
+          "link": "https://github.com/toger5/TheBoard",
+          "publishedOn": "2021-07-31T11:58:46.000Z",
+          "wordCount": 1080,
+          "title": "TheBoard: Collaborative Whiteboard powered by matrix protocol and infrastucture"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28017289",
+          "author": "hypnotist",
+          "description": "Any suggestions/ frameworks on how to learn specific skill, retain the knowledge and be able to share it(in for ex. written form)\nI usually jump in straight away and start learning \"on the job\" but I realised that I forget too much and i do not have any notes to refer to later on.\nExamples of specific skill: \n- How to write a good cold email \n- how to learn some snowboarding trick \n- how to store your bitcoin safely \netc.\nComments URL: https://news.ycombinator.com/item?id=28017289\nPoints: 156\n# Comments: 85",
+          "link": "https://news.ycombinator.com/item?id=28017289",
+          "publishedOn": "2021-07-31T11:52:04.000Z",
+          "wordCount": 7716,
+          "title": "Ask HN: Do you have a process or a framework to learn specific skills quickly?"
         }
       ]
     }
