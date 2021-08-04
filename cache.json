@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=28044235",
-          "author": "gz5",
-          "description": "Article URL: https://netfoundry.io/why-we-switched-to-mattermost/\nComments URL: https://news.ycombinator.com/item?id=28044235\nPoints: 6\n# Comments: 0",
-          "link": "https://netfoundry.io/why-we-switched-to-mattermost/",
-          "publishedOn": "2021-08-02T23:58:29.000Z",
-          "wordCount": 1273,
-          "title": "We Switched to Mattermost"
+          "id": "https://news.ycombinator.com/item?id=28055824",
+          "author": "pseudolus",
+          "description": "Article URL: https://www.nature.com/articles/d41586-021-02091-8\nComments URL: https://news.ycombinator.com/item?id=28055824\nPoints: 8\n# Comments: 3",
+          "link": "https://www.nature.com/articles/d41586-021-02091-8",
+          "publishedOn": "2021-08-04T00:09:16.000Z",
+          "wordCount": 3331,
+          "title": "Test quantum mechanics in space – invest US$1B"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28043775",
-          "author": "turtlegrids",
-          "description": "Article URL: https://www.latimes.com/california/newsletter/2021-08-02/catalytic-converter-theft-essential-california\nComments URL: https://news.ycombinator.com/item?id=28043775\nPoints: 20\n# Comments: 11",
-          "link": "https://www.latimes.com/california/newsletter/2021-08-02/catalytic-converter-theft-essential-california",
-          "publishedOn": "2021-08-02T23:01:37.000Z",
-          "wordCount": 2465,
-          "title": "Catalytic converter thefts in California: Why they are everywhere"
+          "id": "https://news.ycombinator.com/item?id=28055160",
+          "author": "maltenuhn",
+          "description": "Article URL: https://bugs.chromium.org/p/chromium/issues/detail?id=1065085\nComments URL: https://news.ycombinator.com/item?id=28055160\nPoints: 132\n# Comments: 58",
+          "link": "https://bugs.chromium.org/p/chromium/issues/detail?id=1065085",
+          "publishedOn": "2021-08-03T22:43:19.000Z",
+          "wordCount": 28,
+          "title": "Chrome removing alert, prompt from cross-origin iframes, panic ensues"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28043724",
-          "author": "fooey",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2021-08-02/amazon-union-election-should-be-re-run-labor-official-says\nComments URL: https://news.ycombinator.com/item?id=28043724\nPoints: 48\n# Comments: 3",
-          "link": "https://www.bloomberg.com/news/articles/2021-08-02/amazon-union-election-should-be-re-run-labor-official-says",
-          "publishedOn": "2021-08-02T22:56:36.000Z",
+          "id": "https://news.ycombinator.com/item?id=28054789",
+          "author": "r3trohack3r",
+          "description": "Article URL: https://retrohacker.substack.com/p/bye-cups-printing-with-netcat\nComments URL: https://news.ycombinator.com/item?id=28054789\nPoints: 109\n# Comments: 52",
+          "link": "https://retrohacker.substack.com/p/bye-cups-printing-with-netcat",
+          "publishedOn": "2021-08-03T22:03:00.000Z",
+          "wordCount": 548,
+          "title": "Bye CUPS: Printing with Netcat"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28054606",
+          "author": "bookofjoe",
+          "description": "Article URL: https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers\nComments URL: https://news.ycombinator.com/item?id=28054606\nPoints: 148\n# Comments: 156",
+          "link": "https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers",
+          "publishedOn": "2021-08-03T21:43:38.000Z",
+          "wordCount": 3242,
+          "title": "Where are the robotic bricklayers?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28054143",
+          "author": "dpryan",
+          "description": "Article URL: https://www.workatastartup.com/companies/vergesense\nComments URL: https://news.ycombinator.com/item?id=28054143\nPoints: 1\n# Comments: 0",
+          "link": "https://www.workatastartup.com/companies/vergesense",
+          "publishedOn": "2021-08-03T21:00:54.000Z",
+          "wordCount": 110,
+          "title": "VergeSense (YC S17) Is Hiring Multiple Roles (Full-Stack, Firmware, Product)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28054017",
+          "author": "mindcrime",
+          "description": "Article URL: https://www.rtl-sdr.com/sparse-array-beamforming-with-a-phase-coherent-21-channel-rtl-sdr-array/\nComments URL: https://news.ycombinator.com/item?id=28054017\nPoints: 35\n# Comments: 5",
+          "link": "https://www.rtl-sdr.com/sparse-array-beamforming-with-a-phase-coherent-21-channel-rtl-sdr-array/",
+          "publishedOn": "2021-08-03T20:50:55.000Z",
+          "wordCount": 2496,
+          "title": "Sparse Array Beamforming with a Phase Coherent 21-Channel RTL-SDR Array"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28054014",
+          "author": "lukeplato",
+          "description": "Article URL: https://journals.iucr.org/d/issues/2021/08/00/rr5212/rr5212.pdf\nComments URL: https://news.ycombinator.com/item?id=28054014\nPoints: 24\n# Comments: 0",
+          "link": "https://journals.iucr.org/d/issues/2021/08/00/rr5212/rr5212.pdf",
+          "publishedOn": "2021-08-03T20:50:38.000Z",
+          "wordCount": 14316,
+          "title": "AlphaFold2: Are attention and symmetries all you need? [pdf]"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28053979",
+          "author": "web3scout",
+          "description": "Article URL: https://web3scout.github.io/forcecons-sim/\nComments URL: https://news.ycombinator.com/item?id=28053979\nPoints: 19\n# Comments: 2",
+          "link": "https://web3scout.github.io/forcecons-sim/",
+          "publishedOn": "2021-08-03T20:48:16.000Z",
+          "wordCount": 17,
+          "title": "Distributed consensus (blockchain) simulation and visualization"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28053649",
+          "author": "rfw300",
+          "description": "Article URL: https://www.cold-takes.com/this-cant-go-on/\nComments URL: https://news.ycombinator.com/item?id=28053649\nPoints: 64\n# Comments: 57",
+          "link": "https://www.cold-takes.com/this-cant-go-on/",
+          "publishedOn": "2021-08-03T20:20:00.000Z",
+          "wordCount": 3080,
+          "title": "This Can’t Go On"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28053420",
+          "author": "mlla",
+          "description": "Article URL: https://www.bloomberg.com/opinion/articles/2021-07-29/archegos-was-too-busy-for-margin-calls\nComments URL: https://news.ycombinator.com/item?id=28053420\nPoints: 88\n# Comments: 21",
+          "link": "https://www.bloomberg.com/opinion/articles/2021-07-29/archegos-was-too-busy-for-margin-calls",
+          "publishedOn": "2021-08-03T19:59:23.000Z",
           "wordCount": 93,
-          "title": "Amazon should redo union election over improprieties, NLRB officer recommends"
+          "title": "Archegos was too busy for margin calls"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28043491",
-          "author": "axiomdata316",
-          "description": "Article URL: https://www.hcn.org/articles/books-mining-how-yellowcake-shaped-the-west\nComments URL: https://news.ycombinator.com/item?id=28043491\nPoints: 9\n# Comments: 2",
-          "link": "https://www.hcn.org/articles/books-mining-how-yellowcake-shaped-the-west",
-          "publishedOn": "2021-08-02T22:30:10.000Z",
-          "wordCount": 4455,
-          "title": "Yellowcake Shaped the West"
+          "id": "https://news.ycombinator.com/item?id=28053398",
+          "author": "retskrad",
+          "description": "Article URL: http://www.righto.com/2012/05/apple-iphone-charger-teardown-quality.html\nComments URL: https://news.ycombinator.com/item?id=28053398\nPoints: 221\n# Comments: 188",
+          "link": "http://www.righto.com/2012/05/apple-iphone-charger-teardown-quality.html",
+          "publishedOn": "2021-08-03T19:57:47.000Z",
+          "wordCount": 15754,
+          "title": "Apple iPhone charger teardown: quality in a tiny expensive package (2012)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28043441",
-          "author": "coloneltcb",
-          "description": "Article URL: https://www.npr.org/2021/08/02/1023801277/your-facebook-account-was-hacked-getting-help-may-take-weeks-or-299\nComments URL: https://news.ycombinator.com/item?id=28043441\nPoints: 128\n# Comments: 66",
-          "link": "https://www.npr.org/2021/08/02/1023801277/your-facebook-account-was-hacked-getting-help-may-take-weeks-or-299",
-          "publishedOn": "2021-08-02T22:23:41.000Z",
-          "wordCount": 1742,
-          "title": "FB users buying Oculus VR headsets to get customer service prioritization"
+          "id": "https://news.ycombinator.com/item?id=28053168",
+          "author": "robfig",
+          "description": "Article URL: https://fly.io/blog/the-5-hour-content-delivery-network/\nComments URL: https://news.ycombinator.com/item?id=28053168\nPoints: 180\n# Comments: 38",
+          "link": "https://fly.io/blog/the-5-hour-content-delivery-network/",
+          "publishedOn": "2021-08-03T19:36:04.000Z",
+          "wordCount": 2509,
+          "title": "The 5-Hour CDN"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28043198",
-          "author": "thunderbong",
-          "description": "Article URL: https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/\nComments URL: https://news.ycombinator.com/item?id=28043198\nPoints: 12\n# Comments: 3",
-          "link": "https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/",
-          "publishedOn": "2021-08-02T21:55:27.000Z",
-          "wordCount": 1802,
-          "title": "How to improve your Docker containers security – [cheat sheet]"
+          "id": "https://news.ycombinator.com/item?id=28053144",
+          "author": "cf100clunk",
+          "description": "Article URL: https://www.vice.com/en/article/bvz3kv/amazon-unlawfully-confiscated-union-literature-nlrb-finds\nComments URL: https://news.ycombinator.com/item?id=28053144\nPoints: 293\n# Comments: 162",
+          "link": "https://www.vice.com/en/article/bvz3kv/amazon-unlawfully-confiscated-union-literature-nlrb-finds",
+          "publishedOn": "2021-08-03T19:34:05.000Z",
+          "wordCount": 973,
+          "title": "Amazon Unlawfully Confiscated Union Literature, NLRB Finds"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28042766",
-          "author": "Volker-E",
-          "description": "Article URL: https://lists.wikimedia.org/hyperkitty/list/wikitech-l@lists.wikimedia.org/thread/SOZREBYR36PUNFZXMIUBVAIOQI4N7PDU/\nComments URL: https://news.ycombinator.com/item?id=28042766\nPoints: 167\n# Comments: 41",
-          "link": "https://lists.wikimedia.org/hyperkitty/list/wikitech-l@lists.wikimedia.org/thread/SOZREBYR36PUNFZXMIUBVAIOQI4N7PDU/",
-          "publishedOn": "2021-08-02T21:16:27.000Z",
-          "wordCount": 905,
-          "title": "Vue.js is Wikimedia Foundation's future JavaScript framework"
+          "id": "https://news.ycombinator.com/item?id=28053078",
+          "author": "compudj",
+          "description": "Article URL: https://lists.lttng.org/pipermail/lttng-dev/2021-August/030046.html\nComments URL: https://news.ycombinator.com/item?id=28053078\nPoints: 25\n# Comments: 2",
+          "link": "https://lists.lttng.org/pipermail/lttng-dev/2021-August/030046.html",
+          "publishedOn": "2021-08-03T19:27:18.000Z",
+          "wordCount": 1207,
+          "title": "LTTng 2.13 facilitates quick reaction to kernel/user-space instrumentation hit"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28042576",
-          "author": "dylanbfox",
-          "description": "Article URL: https://apply.workable.com/assemblyai/\nComments URL: https://news.ycombinator.com/item?id=28042576\nPoints: 1\n# Comments: 0",
-          "link": "https://apply.workable.com/assemblyai/",
-          "publishedOn": "2021-08-02T21:00:03.000Z",
-          "wordCount": 6,
-          "title": "AssemblyAI (YC S17) Is Hiring Python Developers and Account Execs"
+          "id": "https://news.ycombinator.com/item?id=28052153",
+          "author": "dctoedt",
+          "description": "Article URL: https://www.economist.com/1843/2021/08/03/why-satan-should-chair-your-meetings\nComments URL: https://news.ycombinator.com/item?id=28052153\nPoints: 49\n# Comments: 20",
+          "link": "https://www.economist.com/1843/2021/08/03/why-satan-should-chair-your-meetings",
+          "publishedOn": "2021-08-03T18:01:53.000Z",
+          "wordCount": 2618,
+          "title": "Satan should chair your meetings – a literature lover’s guide to office politics"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28042089",
-          "author": "_Microft",
-          "description": "Article URL: https://arstechnica.com/science/2021/08/spacex-installed-29-raptor-engines-on-a-super-heavy-rocket-last-night/\nComments URL: https://news.ycombinator.com/item?id=28042089\nPoints: 154\n# Comments: 197",
-          "link": "https://arstechnica.com/science/2021/08/spacex-installed-29-raptor-engines-on-a-super-heavy-rocket-last-night/",
-          "publishedOn": "2021-08-02T20:20:11.000Z",
-          "wordCount": 1027,
-          "title": "SpaceX installed 29 Raptor engines on a Super Heavy rocket last night"
+          "id": "https://news.ycombinator.com/item?id=28051562",
+          "author": "oedmarap",
+          "description": "Article URL: https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/\nComments URL: https://news.ycombinator.com/item?id=28051562\nPoints: 151\n# Comments: 48",
+          "link": "https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/",
+          "publishedOn": "2021-08-03T17:04:10.000Z",
+          "wordCount": 1490,
+          "title": "How MDN's Autocomplete Search Works"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28041062",
-          "author": "oger",
-          "description": "Article URL: https://gitlab.com/gpsd/gpsd/-/issues/144\nComments URL: https://news.ycombinator.com/item?id=28041062\nPoints: 76\n# Comments: 54",
-          "link": "https://gitlab.com/gpsd/gpsd/-/issues/144",
-          "publishedOn": "2021-08-02T18:53:17.000Z",
-          "wordCount": 426,
-          "title": "Gpsd bug may create a 1024 week time warp on October 23"
+          "id": "https://news.ycombinator.com/item?id=28051005",
+          "author": "matthewsinclair",
+          "description": "Article URL: https://blues.io/\nComments URL: https://news.ycombinator.com/item?id=28051005\nPoints: 192\n# Comments: 86",
+          "link": "https://blues.io/",
+          "publishedOn": "2021-08-03T16:17:15.000Z",
+          "wordCount": 535,
+          "title": "Ray Ozzie's latest venture is a cheap IoT board with flat rate connectivity"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28039956",
-          "author": "zx2c4",
-          "description": "Article URL: https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html\nComments URL: https://news.ycombinator.com/item?id=28039956\nPoints: 420\n# Comments: 85",
-          "link": "https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html",
-          "publishedOn": "2021-08-02T17:39:13.000Z",
-          "wordCount": 1262,
-          "title": "WireGuardNT, a high-performance WireGuard implementation for the Windows kernel"
+          "id": "https://news.ycombinator.com/item?id=28050750",
+          "author": "kennethko",
+          "description": "Article URL: https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF\nComments URL: https://news.ycombinator.com/item?id=28050750\nPoints: 413\n# Comments: 115",
+          "link": "https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF",
+          "publishedOn": "2021-08-03T15:55:43.000Z",
+          "wordCount": 40595,
+          "title": "NSA Kubernetes Hardening Guidance [pdf]"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28039631",
-          "author": "flipnotic",
-          "description": "Article URL: https://blog.azuki.vip/csrf/\nComments URL: https://news.ycombinator.com/item?id=28039631\nPoints: 191\n# Comments: 92",
-          "link": "https://blog.azuki.vip/csrf/",
-          "publishedOn": "2021-08-02T17:20:37.000Z",
-          "wordCount": 1324,
-          "title": "How to boost your popularity on OkCupid using CSRF and a JSON type confusion"
+          "id": "https://news.ycombinator.com/item?id=28049500",
+          "author": "dang",
+          "description": "Here's the third \"Meet the Batch\" thread - previous one was https://news.ycombinator.com/item?id=27996057. This time I've tweaked the title slightly in the hope of doing better re https://news.ycombinator.com/item?id=27996536.\nHere are 6 startups for you to read about and engage with where interested. The initial order is random.\nLernit (YC S21) - Corporate training program for Latin America - https://news.ycombinator.com/item?id=28049505\nStandardCode (YC S21) - APIs to easily comply with child privacy laws - https://news.ycombinator.com/item?id=28049504\nScispot (YC S21) - Workflow automation for life science - https://news.ycombinator.com/item?id=28049501\nMuse (YC S21) - Allow anyone to build 3D websites - https://news.ycombinator.com/item?id=28049502\nRuth Health (YC S21) - Digital, at-home post-pregnancy care - https://news.ycombinator.com/item?id=28049503\nDeskimo (YC S21) - Book workspace by the minute in Singapore and Hong Kong - https://news.ycombinator.com/item?id=28049507\nComments URL: https://news.ycombinator.com/item?id=28049500\nPoints: 64\n# Comments: 86",
+          "link": "https://news.ycombinator.com/item?id=28049500",
+          "publishedOn": "2021-08-03T14:19:59.000Z",
+          "wordCount": 6161,
+          "title": "Launch YC: 3D Web; Training; Child privacy; Pregnancy; Life science; Desk rental"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28039078",
-          "author": "Tomte",
-          "description": "Article URL: https://www.rmg.co.uk/national-maritime-museum/astronomy-photographer-year-2021-shortlist-images\nComments URL: https://news.ycombinator.com/item?id=28039078\nPoints: 128\n# Comments: 27",
-          "link": "https://www.rmg.co.uk/national-maritime-museum/astronomy-photographer-year-2021-shortlist-images",
-          "publishedOn": "2021-08-02T16:44:35.000Z",
-          "wordCount": 1271,
-          "title": "Astronomy Photographer of the Year 2021 shortlist images"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28038603",
-          "author": "evo_9",
-          "description": "Article URL: https://mattruby.substack.com/p/the-most-unbelievable-things-about\nComments URL: https://news.ycombinator.com/item?id=28038603\nPoints: 378\n# Comments: 329",
-          "link": "https://mattruby.substack.com/p/the-most-unbelievable-things-about",
-          "publishedOn": "2021-08-02T16:15:10.000Z",
-          "wordCount": 2596,
-          "title": "Life before smartphones"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28037850",
-          "author": "NotSwift",
-          "description": "Article URL: https://www.quantamagazine.org/arik-kershenbaum-on-why-alien-life-may-be-like-life-on-earth-20210318/\nComments URL: https://news.ycombinator.com/item?id=28037850\nPoints: 160\n# Comments: 209",
-          "link": "https://www.quantamagazine.org/arik-kershenbaum-on-why-alien-life-may-be-like-life-on-earth-20210318/",
-          "publishedOn": "2021-08-02T15:26:31.000Z",
-          "wordCount": 3288,
-          "title": "Why extraterrestrial life may not seem alien"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28037671",
-          "author": "starkd",
-          "description": "Article URL: https://www.axios.com/pbs-internet-online-information-nonprofit-e9a78344-ae58-4214-9cb6-974ab9576cb1.html\nComments URL: https://news.ycombinator.com/item?id=28037671\nPoints: 390\n# Comments: 230",
-          "link": "https://www.axios.com/pbs-internet-online-information-nonprofit-e9a78344-ae58-4214-9cb6-974ab9576cb1.html",
-          "publishedOn": "2021-08-02T15:16:37.000Z",
-          "wordCount": 1732,
-          "title": "The Push for a “PBS for the Internet”"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28037366",
-          "author": "whoishiring",
-          "description": "Please state the location and include REMOTE, INTERNS and/or VISA\nwhen that sort of candidate is welcome. When remote work is not an option,\ninclude ONSITE.\nPlease only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. Only one post per company. If it isn't a household name,\nplease explain what your company does.\nCommenters: please don't reply to job posts to complain about\nsomething. It's off topic here.\nReaders: please only email if you are personally interested in the job.\nSearchers: try https://findwork.dev/?source=hn, https://kennytilton.github.io/whoishiring/,\nhttps://hnhired.com/, https://hnjobs.emilburzo.com, https://news.ycombinator.com/item?id=10313519.\nDon't miss these other fine threads:\nWho wants to be hired? https://news.ycombinator.com/item?id=28037364\nFreelancer? Seeking freelancer? https://news.ycombinator.com/item?id=28037365\nComments URL: https://news.ycombinator.com/item?id=28037366\nPoints: 272\n# Comments: 585",
-          "link": "https://news.ycombinator.com/item?id=28037366",
-          "publishedOn": "2021-08-02T15:01:22.000Z",
-          "wordCount": 38944,
-          "title": "Ask HN: Who is hiring? (August 2021)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28037364",
-          "author": "whoishiring",
-          "description": "Share your information if you are looking for work. Please use this format:\n  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé/CV:\n  Email:\n\nSearchers: try https://seisvelas.github.io/hn-candidates-search/.\nComments URL: https://news.ycombinator.com/item?id=28037364\nPoints: 101\n# Comments: 138",
-          "link": "https://news.ycombinator.com/item?id=28037364",
-          "publishedOn": "2021-08-02T15:01:21.000Z",
-          "wordCount": 10946,
-          "title": "Ask HN: Who wants to be hired? (August 2021)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28037168",
-          "author": "shivbhatt",
-          "description": "Article URL: https://www.theguardian.com/news/2021/aug/02/pegasus-spyware-found-on-journalists-phones-french-intelligence-confirms\nComments URL: https://news.ycombinator.com/item?id=28037168\nPoints: 339\n# Comments: 74",
-          "link": "https://www.theguardian.com/news/2021/aug/02/pegasus-spyware-found-on-journalists-phones-french-intelligence-confirms",
-          "publishedOn": "2021-08-02T14:46:11.000Z",
-          "wordCount": 2025,
-          "title": "Pegasus spyware found on journalists’ phones, French intelligence confirms"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28036927",
-          "author": "marcuslima",
-          "description": "Hi HN, I’m Marcus, I’m the co-founder of Heimdal together with Erik (https://www.heimdalccu.com/). We remove atmospheric carbon dioxide and trap it in materials that are used to make cement. More CO2 is trapped in our process than is re-emitted in cement production.\nConcrete is responsible for 8% of global CO2 emissions. Cement is usually made from mined limestone, which is one of the largest natural stores of carbon dioxide. Using that to make cement is a bit like burning oil. The world is addicted to concrete, so this problem is not going away. We make synthetic limestone using atmospheric CO2, such that when it is used to make cement, the process is carbon neutral.\nWe were both master's students in engineering at Oxford University in the UK. I decided to write my dissertation on direct …",
-          "link": "https://news.ycombinator.com/item?id=28036927",
-          "publishedOn": "2021-08-02T14:26:09.000Z",
-          "wordCount": 7856,
-          "title": "Launch HN: Heimdal (YC S21) – Carbon neutral cement"
+          "id": "https://news.ycombinator.com/item?id=28049254",
+          "author": "mattydoincode",
+          "description": "Article URL: https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9\nComments URL: https://news.ycombinator.com/item?id=28049254\nPoints: 355\n# Comments: 386",
+          "link": "https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9",
+          "publishedOn": "2021-08-03T13:59:38.000Z",
+          "wordCount": 1370,
+          "title": "Why don't tech companies pay their engineers to stay?"
         }
       ]
     }
