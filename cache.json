@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=28055824",
-          "author": "pseudolus",
-          "description": "Article URL: https://www.nature.com/articles/d41586-021-02091-8\nComments URL: https://news.ycombinator.com/item?id=28055824\nPoints: 8\n# Comments: 3",
-          "link": "https://www.nature.com/articles/d41586-021-02091-8",
-          "publishedOn": "2021-08-04T00:09:16.000Z",
-          "wordCount": 3331,
-          "title": "Test quantum mechanics in space – invest US$1B"
+          "id": "https://news.ycombinator.com/item?id=28068063",
+          "author": "hack_ml",
+          "description": "Article URL: https://www.youtube.com/watch?v=hbLiehrC2DQ\nComments URL: https://news.ycombinator.com/item?id=28068063\nPoints: 30\n# Comments: 6",
+          "link": "https://www.youtube.com/watch?v=hbLiehrC2DQ",
+          "publishedOn": "2021-08-05T00:05:59.000Z",
+          "wordCount": null,
+          "title": "George Hotz Announcing Comma Three"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28055160",
-          "author": "maltenuhn",
-          "description": "Article URL: https://bugs.chromium.org/p/chromium/issues/detail?id=1065085\nComments URL: https://news.ycombinator.com/item?id=28055160\nPoints: 132\n# Comments: 58",
-          "link": "https://bugs.chromium.org/p/chromium/issues/detail?id=1065085",
-          "publishedOn": "2021-08-03T22:43:19.000Z",
-          "wordCount": 28,
-          "title": "Chrome removing alert, prompt from cross-origin iframes, panic ensues"
+          "id": "https://news.ycombinator.com/item?id=28068015",
+          "author": "jsnell",
+          "description": "Article URL: https://engineering.backtrace.io/2021-08-04-slitter-a-slab-allocator-that-trusts-but-verifies/\nComments URL: https://news.ycombinator.com/item?id=28068015\nPoints: 6\n# Comments: 0",
+          "link": "https://engineering.backtrace.io/2021-08-04-slitter-a-slab-allocator-that-trusts-but-verifies/",
+          "publishedOn": "2021-08-04T23:59:21.000Z",
+          "wordCount": 2648,
+          "title": "Slitter: A slab allocator that trusts, but verifies"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28054789",
-          "author": "r3trohack3r",
-          "description": "Article URL: https://retrohacker.substack.com/p/bye-cups-printing-with-netcat\nComments URL: https://news.ycombinator.com/item?id=28054789\nPoints: 109\n# Comments: 52",
-          "link": "https://retrohacker.substack.com/p/bye-cups-printing-with-netcat",
-          "publishedOn": "2021-08-03T22:03:00.000Z",
-          "wordCount": 548,
-          "title": "Bye CUPS: Printing with Netcat"
+          "id": "https://news.ycombinator.com/item?id=28067968",
+          "author": "mensetmanusman",
+          "description": "Article URL: https://insideevs.com/news/524156/tesla-cybertruck-preorders-exceed-1250000/\nComments URL: https://news.ycombinator.com/item?id=28067968\nPoints: 14\n# Comments: 4",
+          "link": "https://insideevs.com/news/524156/tesla-cybertruck-preorders-exceed-1250000/",
+          "publishedOn": "2021-08-04T23:52:36.000Z",
+          "wordCount": 610,
+          "title": "1.2M Tesla Cybertruck Pre-Orders"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28054606",
-          "author": "bookofjoe",
-          "description": "Article URL: https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers\nComments URL: https://news.ycombinator.com/item?id=28054606\nPoints: 148\n# Comments: 156",
-          "link": "https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers",
-          "publishedOn": "2021-08-03T21:43:38.000Z",
-          "wordCount": 3242,
-          "title": "Where are the robotic bricklayers?"
+          "id": "https://news.ycombinator.com/item?id=28067926",
+          "author": "throwawaysea",
+          "description": "Article URL: https://www.yahoo.com/finance/news/elizabeth-holmes-fails-to-keep-customer-complaints-out-of-criminal-fraud-trial-210015777.html\nComments URL: https://news.ycombinator.com/item?id=28067926\nPoints: 36\n# Comments: 14",
+          "link": "https://www.yahoo.com/finance/news/elizabeth-holmes-fails-to-keep-customer-complaints-out-of-criminal-fraud-trial-210015777.html",
+          "publishedOn": "2021-08-04T23:47:50.000Z",
+          "wordCount": 2321,
+          "title": "Elizabeth Holmes fails to keep customer complaints, test results out of trial"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28054143",
-          "author": "dpryan",
-          "description": "Article URL: https://www.workatastartup.com/companies/vergesense\nComments URL: https://news.ycombinator.com/item?id=28054143\nPoints: 1\n# Comments: 0",
-          "link": "https://www.workatastartup.com/companies/vergesense",
-          "publishedOn": "2021-08-03T21:00:54.000Z",
-          "wordCount": 110,
-          "title": "VergeSense (YC S17) Is Hiring Multiple Roles (Full-Stack, Firmware, Product)"
+          "id": "https://news.ycombinator.com/item?id=28067772",
+          "author": "leephillips",
+          "description": "Article URL: https://bike-lab.org/2019/05/20/biking-while-black-racial-bias-in-oakland-policing/\nComments URL: https://news.ycombinator.com/item?id=28067772\nPoints: 60\n# Comments: 31",
+          "link": "https://bike-lab.org/2019/05/20/biking-while-black-racial-bias-in-oakland-policing/",
+          "publishedOn": "2021-08-04T23:28:57.000Z",
+          "wordCount": 2196,
+          "title": "Biking while Black: Racial bias in Oakland policing"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28054017",
-          "author": "mindcrime",
-          "description": "Article URL: https://www.rtl-sdr.com/sparse-array-beamforming-with-a-phase-coherent-21-channel-rtl-sdr-array/\nComments URL: https://news.ycombinator.com/item?id=28054017\nPoints: 35\n# Comments: 5",
-          "link": "https://www.rtl-sdr.com/sparse-array-beamforming-with-a-phase-coherent-21-channel-rtl-sdr-array/",
-          "publishedOn": "2021-08-03T20:50:55.000Z",
-          "wordCount": 2496,
-          "title": "Sparse Array Beamforming with a Phase Coherent 21-Channel RTL-SDR Array"
+          "id": "https://news.ycombinator.com/item?id=28067534",
+          "author": "igonvalue",
+          "description": "Article URL: https://www.npr.org/2017/05/05/526900818/the-bad-grade-that-changed-the-u-s-constitution\nComments URL: https://news.ycombinator.com/item?id=28067534\nPoints: 18\n# Comments: 1",
+          "link": "https://www.npr.org/2017/05/05/526900818/the-bad-grade-that-changed-the-u-s-constitution",
+          "publishedOn": "2021-08-04T22:58:44.000Z",
+          "wordCount": 1664,
+          "title": "The Bad Grade That Changed the U.S. Constitution"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28054014",
-          "author": "lukeplato",
-          "description": "Article URL: https://journals.iucr.org/d/issues/2021/08/00/rr5212/rr5212.pdf\nComments URL: https://news.ycombinator.com/item?id=28054014\nPoints: 24\n# Comments: 0",
-          "link": "https://journals.iucr.org/d/issues/2021/08/00/rr5212/rr5212.pdf",
-          "publishedOn": "2021-08-03T20:50:38.000Z",
-          "wordCount": 14316,
-          "title": "AlphaFold2: Are attention and symmetries all you need? [pdf]"
+          "id": "https://news.ycombinator.com/item?id=28066247",
+          "author": "harshitaisanerd",
+          "description": "Article URL: https://careers.atob.com/\nComments URL: https://news.ycombinator.com/item?id=28066247\nPoints: 1\n# Comments: 0",
+          "link": "https://careers.atob.com/",
+          "publishedOn": "2021-08-04T21:00:58.000Z",
+          "wordCount": 256,
+          "title": "AtoB (YC S20) is hiring to build Stripe for Transportation"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28053979",
-          "author": "web3scout",
-          "description": "Article URL: https://web3scout.github.io/forcecons-sim/\nComments URL: https://news.ycombinator.com/item?id=28053979\nPoints: 19\n# Comments: 2",
-          "link": "https://web3scout.github.io/forcecons-sim/",
-          "publishedOn": "2021-08-03T20:48:16.000Z",
-          "wordCount": 17,
-          "title": "Distributed consensus (blockchain) simulation and visualization"
+          "id": "https://news.ycombinator.com/item?id=28065507",
+          "author": "Hoasi",
+          "description": "Article URL: https://spectrum.ieee.org/china-closing-in-on-thorium-nuclear-reactor\nComments URL: https://news.ycombinator.com/item?id=28065507\nPoints: 95\n# Comments: 52",
+          "link": "https://spectrum.ieee.org/china-closing-in-on-thorium-nuclear-reactor",
+          "publishedOn": "2021-08-04T19:57:00.000Z",
+          "wordCount": 4524,
+          "title": "China Says It's Closing in on Thorium Nuclear Reactor"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28053649",
-          "author": "rfw300",
-          "description": "Article URL: https://www.cold-takes.com/this-cant-go-on/\nComments URL: https://news.ycombinator.com/item?id=28053649\nPoints: 64\n# Comments: 57",
-          "link": "https://www.cold-takes.com/this-cant-go-on/",
-          "publishedOn": "2021-08-03T20:20:00.000Z",
-          "wordCount": 3080,
-          "title": "This Can’t Go On"
+          "id": "https://news.ycombinator.com/item?id=28065357",
+          "author": "whatrocks",
+          "description": "Article URL: https://www.charlieharrington.com/mario-paint-masterpiece\nComments URL: https://news.ycombinator.com/item?id=28065357\nPoints: 26\n# Comments: 1",
+          "link": "https://www.charlieharrington.com/mario-paint-masterpiece",
+          "publishedOn": "2021-08-04T19:45:17.000Z",
+          "wordCount": 915,
+          "title": "Mario Paint: A 1992 Masterpiece"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28053420",
-          "author": "mlla",
-          "description": "Article URL: https://www.bloomberg.com/opinion/articles/2021-07-29/archegos-was-too-busy-for-margin-calls\nComments URL: https://news.ycombinator.com/item?id=28053420\nPoints: 88\n# Comments: 21",
-          "link": "https://www.bloomberg.com/opinion/articles/2021-07-29/archegos-was-too-busy-for-margin-calls",
-          "publishedOn": "2021-08-03T19:59:23.000Z",
-          "wordCount": 93,
-          "title": "Archegos was too busy for margin calls"
+          "id": "https://news.ycombinator.com/item?id=28064615",
+          "author": "dagmx",
+          "description": "Article URL: https://developer.nvidia.com/blog/ray-tracing-gems-ii-available-today-as-free-digital-download/\nComments URL: https://news.ycombinator.com/item?id=28064615\nPoints: 141\n# Comments: 15",
+          "link": "https://developer.nvidia.com/blog/ray-tracing-gems-ii-available-today-as-free-digital-download/",
+          "publishedOn": "2021-08-04T18:42:23.000Z",
+          "wordCount": 871,
+          "title": "Ray Tracing Gems II available as free download"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28053398",
-          "author": "retskrad",
-          "description": "Article URL: http://www.righto.com/2012/05/apple-iphone-charger-teardown-quality.html\nComments URL: https://news.ycombinator.com/item?id=28053398\nPoints: 221\n# Comments: 188",
-          "link": "http://www.righto.com/2012/05/apple-iphone-charger-teardown-quality.html",
-          "publishedOn": "2021-08-03T19:57:47.000Z",
-          "wordCount": 15754,
-          "title": "Apple iPhone charger teardown: quality in a tiny expensive package (2012)"
+          "id": "https://news.ycombinator.com/item?id=28063764",
+          "author": "linux_is_nice",
+          "description": "Article URL: https://redcrafter.github.io/verilog2factorio/\nComments URL: https://news.ycombinator.com/item?id=28063764\nPoints: 68\n# Comments: 8",
+          "link": "https://redcrafter.github.io/verilog2factorio/",
+          "publishedOn": "2021-08-04T17:27:16.000Z",
+          "wordCount": 14,
+          "title": "Verilog2Factorio: Web Demo"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28053168",
-          "author": "robfig",
-          "description": "Article URL: https://fly.io/blog/the-5-hour-content-delivery-network/\nComments URL: https://news.ycombinator.com/item?id=28053168\nPoints: 180\n# Comments: 38",
-          "link": "https://fly.io/blog/the-5-hour-content-delivery-network/",
-          "publishedOn": "2021-08-03T19:36:04.000Z",
-          "wordCount": 2509,
-          "title": "The 5-Hour CDN"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28053144",
-          "author": "cf100clunk",
-          "description": "Article URL: https://www.vice.com/en/article/bvz3kv/amazon-unlawfully-confiscated-union-literature-nlrb-finds\nComments URL: https://news.ycombinator.com/item?id=28053144\nPoints: 293\n# Comments: 162",
-          "link": "https://www.vice.com/en/article/bvz3kv/amazon-unlawfully-confiscated-union-literature-nlrb-finds",
-          "publishedOn": "2021-08-03T19:34:05.000Z",
-          "wordCount": 973,
-          "title": "Amazon Unlawfully Confiscated Union Literature, NLRB Finds"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28053078",
-          "author": "compudj",
-          "description": "Article URL: https://lists.lttng.org/pipermail/lttng-dev/2021-August/030046.html\nComments URL: https://news.ycombinator.com/item?id=28053078\nPoints: 25\n# Comments: 2",
-          "link": "https://lists.lttng.org/pipermail/lttng-dev/2021-August/030046.html",
-          "publishedOn": "2021-08-03T19:27:18.000Z",
-          "wordCount": 1207,
-          "title": "LTTng 2.13 facilitates quick reaction to kernel/user-space instrumentation hit"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28052153",
-          "author": "dctoedt",
-          "description": "Article URL: https://www.economist.com/1843/2021/08/03/why-satan-should-chair-your-meetings\nComments URL: https://news.ycombinator.com/item?id=28052153\nPoints: 49\n# Comments: 20",
-          "link": "https://www.economist.com/1843/2021/08/03/why-satan-should-chair-your-meetings",
-          "publishedOn": "2021-08-03T18:01:53.000Z",
-          "wordCount": 2618,
-          "title": "Satan should chair your meetings – a literature lover’s guide to office politics"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28051562",
-          "author": "oedmarap",
-          "description": "Article URL: https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/\nComments URL: https://news.ycombinator.com/item?id=28051562\nPoints: 151\n# Comments: 48",
-          "link": "https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/",
-          "publishedOn": "2021-08-03T17:04:10.000Z",
-          "wordCount": 1490,
-          "title": "How MDN's Autocomplete Search Works"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28051005",
-          "author": "matthewsinclair",
-          "description": "Article URL: https://blues.io/\nComments URL: https://news.ycombinator.com/item?id=28051005\nPoints: 192\n# Comments: 86",
-          "link": "https://blues.io/",
-          "publishedOn": "2021-08-03T16:17:15.000Z",
-          "wordCount": 535,
-          "title": "Ray Ozzie's latest venture is a cheap IoT board with flat rate connectivity"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28050750",
-          "author": "kennethko",
-          "description": "Article URL: https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF\nComments URL: https://news.ycombinator.com/item?id=28050750\nPoints: 413\n# Comments: 115",
-          "link": "https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF",
-          "publishedOn": "2021-08-03T15:55:43.000Z",
-          "wordCount": 40595,
-          "title": "NSA Kubernetes Hardening Guidance [pdf]"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28049500",
+          "id": "https://news.ycombinator.com/item?id=28063617",
           "author": "dang",
-          "description": "Here's the third \"Meet the Batch\" thread - previous one was https://news.ycombinator.com/item?id=27996057. This time I've tweaked the title slightly in the hope of doing better re https://news.ycombinator.com/item?id=27996536.\nHere are 6 startups for you to read about and engage with where interested. The initial order is random.\nLernit (YC S21) - Corporate training program for Latin America - https://news.ycombinator.com/item?id=28049505\nStandardCode (YC S21) - APIs to easily comply with child privacy laws - https://news.ycombinator.com/item?id=28049504\nScispot (YC S21) - Workflow automation for life science - https://news.ycombinator.com/item?id=28049501\nMuse (YC S21) - Allow anyone to build 3D websites - https://news.ycombinator.com/item?id=28049502\nRuth Health (YC S21) - Digital, at-home post-pregnancy care - https://news.ycombinator.com/item?id=28049503\nDeskimo (YC S21) - Book workspace by the minute in Singapore and Hong Kong - https://news.ycombinator.com/item?id=28049507\nComments URL: https://news.ycombinator.com/item?id=28049500\nPoints: 64\n# Comments: 86",
-          "link": "https://news.ycombinator.com/item?id=28049500",
-          "publishedOn": "2021-08-03T14:19:59.000Z",
-          "wordCount": 6161,
-          "title": "Launch YC: 3D Web; Training; Child privacy; Pregnancy; Life science; Desk rental"
+          "description": "Article URL: https://www.domainlanguage.com/articles/good-design-is-imperfect-design-part-1-honest-names/\nComments URL: https://news.ycombinator.com/item?id=28063617\nPoints: 175\n# Comments: 93",
+          "link": "https://www.domainlanguage.com/articles/good-design-is-imperfect-design-part-1-honest-names/",
+          "publishedOn": "2021-08-04T17:15:44.000Z",
+          "wordCount": 1503,
+          "title": "Good Design is Imperfect Design, Part 1: Honest Names"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28049254",
-          "author": "mattydoincode",
-          "description": "Article URL: https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9\nComments URL: https://news.ycombinator.com/item?id=28049254\nPoints: 355\n# Comments: 386",
-          "link": "https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9",
-          "publishedOn": "2021-08-03T13:59:38.000Z",
-          "wordCount": 1370,
-          "title": "Why don't tech companies pay their engineers to stay?"
+          "id": "https://news.ycombinator.com/item?id=28063597",
+          "author": "alexbouchard",
+          "description": "Article URL: https://hookdeck.com?ref=hn\nComments URL: https://news.ycombinator.com/item?id=28063597\nPoints: 78\n# Comments: 20",
+          "link": "https://hookdeck.com?ref=hn",
+          "publishedOn": "2021-08-04T17:14:50.000Z",
+          "wordCount": 563,
+          "title": "Show HN: Hookdeck – an infrastructure to consume webhooks"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28063339",
+          "author": "thekeyper",
+          "description": "Hi HN, we're Zain and Grant at Keyri (https://keyri.co/). We make a white label passwordless authentication SDK that companies can embed into their mobile apps for instant biometrics-based registration and login on any device. Keyri can be used for (1) authentication by itself, (2) an auth option in addition to passwords and OpenID, (3) step-up identity verification in high risk-score scenarios.\nPasswords suck - they're terrible for security and terrible for ease of use. 2FA solutions are clunky and still insecure - for example, SMS-based 2FA doesn't work when you travel abroad, and it can be defeated with phishing and SIM swapping. They also allow users to share their subscription accounts with others, robbing companies of revenue. Password-based auth also enables the sort of bot activity…",
+          "link": "https://news.ycombinator.com/item?id=28063339",
+          "publishedOn": "2021-08-04T16:54:43.000Z",
+          "wordCount": 5163,
+          "title": "Launch HN: Keyri (YC S21) – Secure smartphone-based passwordless authentication"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28062677",
+          "author": "jsnell",
+          "description": "Article URL: https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate\nComments URL: https://news.ycombinator.com/item?id=28062677\nPoints: 357\n# Comments: 189",
+          "link": "https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate",
+          "publishedOn": "2021-08-04T16:08:23.000Z",
+          "wordCount": 2629,
+          "title": "The historical accuracy of medieval city-builder video games"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28061725",
+          "author": "rwesterdahl",
+          "description": "Hi HN, we're Ryan, Tyler, and Patryk, the founders of Turion Space (https://www.turionspace.com/). We're building spacecraft to remove orbital debris and provide services to existing satellites.\nOrbital debris poses a significant risk to mankind's future in space. There are currently over 250k objects in space that would destroy a satellite if a collision were to occur. Large uncontrolled objects like depleted rocket upper stages and dead satellites pose the greatest risk because of the potential to break upon impact with small debris into thousands of smaller pieces. There is currently no system in operation that can deorbit large amounts of space debris. If this problem is not addressed in the next 5-10 years, it could render entire orbits unusable for generations.\nOur spacecraft (which …",
+          "link": "https://news.ycombinator.com/item?id=28061725",
+          "publishedOn": "2021-08-04T14:56:00.000Z",
+          "wordCount": 6825,
+          "title": "Launch HN: Turion Space (YC S21) – Space debris removal and satellite servicing"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28061410",
+          "author": "geerlingguy",
+          "description": "Article URL: https://www.jeffgeerling.com/blog/2021/uptime-labs-cm4-blade-adds-nvme-tpm-20-raspberry-pi\nComments URL: https://news.ycombinator.com/item?id=28061410\nPoints: 121\n# Comments: 43",
+          "link": "https://www.jeffgeerling.com/blog/2021/uptime-labs-cm4-blade-adds-nvme-tpm-20-raspberry-pi",
+          "publishedOn": "2021-08-04T14:30:12.000Z",
+          "wordCount": 813,
+          "title": "Uptime Lab's CM4 Blade Adds NVMe, TPM 2.0 to Raspberry Pi"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28061247",
+          "author": "clessg",
+          "description": "Article URL: https://info.codecast.io/blog/how-to-use-phoenix-channels\nComments URL: https://news.ycombinator.com/item?id=28061247\nPoints: 117\n# Comments: 40",
+          "link": "https://info.codecast.io/blog/how-to-use-phoenix-channels",
+          "publishedOn": "2021-08-04T14:16:08.000Z",
+          "wordCount": 1145,
+          "title": "Use Phoenix Channels"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28060700",
+          "author": "optimalsolver",
+          "description": "Article URL: https://github.com/electronicarts/EASTL\nComments URL: https://news.ycombinator.com/item?id=28060700\nPoints: 111\n# Comments: 63",
+          "link": "https://github.com/electronicarts/EASTL",
+          "publishedOn": "2021-08-04T13:21:30.000Z",
+          "wordCount": 1145,
+          "title": "EASTL: An Alternative C++ Standard Library From Electronic Arts"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28059291",
+          "author": "paramaw",
+          "description": "Article URL: https://github.com/DataHenHQ/till\nComments URL: https://news.ycombinator.com/item?id=28059291\nPoints: 182\n# Comments: 57",
+          "link": "https://github.com/DataHenHQ/till",
+          "publishedOn": "2021-08-04T10:16:52.000Z",
+          "wordCount": 2313,
+          "title": "Show HN: Till – Unblock and scale your web scrapers, with minimal code changes"
         }
       ]
     }
