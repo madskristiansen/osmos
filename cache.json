@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=28068063",
-          "author": "hack_ml",
-          "description": "Article URL: https://www.youtube.com/watch?v=hbLiehrC2DQ\nComments URL: https://news.ycombinator.com/item?id=28068063\nPoints: 30\n# Comments: 6",
-          "link": "https://www.youtube.com/watch?v=hbLiehrC2DQ",
-          "publishedOn": "2021-08-05T00:05:59.000Z",
-          "wordCount": null,
-          "title": "George Hotz Announcing Comma Three"
+          "id": "https://news.ycombinator.com/item?id=28081656",
+          "author": "wsc981",
+          "description": "Article URL: https://lovr.org\nComments URL: https://news.ycombinator.com/item?id=28081656\nPoints: 2\n# Comments: 0",
+          "link": "https://lovr.org",
+          "publishedOn": "2021-08-06T00:05:30.000Z",
+          "wordCount": 317,
+          "title": "LÖVR – An open source framework for rapidly building immersive 3D experiences"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28068015",
-          "author": "jsnell",
-          "description": "Article URL: https://engineering.backtrace.io/2021-08-04-slitter-a-slab-allocator-that-trusts-but-verifies/\nComments URL: https://news.ycombinator.com/item?id=28068015\nPoints: 6\n# Comments: 0",
-          "link": "https://engineering.backtrace.io/2021-08-04-slitter-a-slab-allocator-that-trusts-but-verifies/",
-          "publishedOn": "2021-08-04T23:59:21.000Z",
-          "wordCount": 2648,
-          "title": "Slitter: A slab allocator that trusts, but verifies"
+          "id": "https://news.ycombinator.com/item?id=28081222",
+          "author": "panabee",
+          "description": "Article URL: https://hai.stanford.edu/news/open-source-movement-comes-medical-datasets\nComments URL: https://news.ycombinator.com/item?id=28081222\nPoints: 9\n# Comments: 0",
+          "link": "https://hai.stanford.edu/news/open-source-movement-comes-medical-datasets",
+          "publishedOn": "2021-08-05T23:04:53.000Z",
+          "wordCount": 1010,
+          "title": "Stanford AIMI Releases Its Free Open-Source Repository of Medical Datasets"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28067968",
-          "author": "mensetmanusman",
-          "description": "Article URL: https://insideevs.com/news/524156/tesla-cybertruck-preorders-exceed-1250000/\nComments URL: https://news.ycombinator.com/item?id=28067968\nPoints: 14\n# Comments: 4",
-          "link": "https://insideevs.com/news/524156/tesla-cybertruck-preorders-exceed-1250000/",
-          "publishedOn": "2021-08-04T23:52:36.000Z",
-          "wordCount": 610,
-          "title": "1.2M Tesla Cybertruck Pre-Orders"
+          "id": "https://news.ycombinator.com/item?id=28080725",
+          "author": "geox",
+          "description": "Article URL: https://www.nist.gov/news-events/news/2021/08/nists-quantum-crystal-could-be-new-dark-matter-sensor\nComments URL: https://news.ycombinator.com/item?id=28080725\nPoints: 15\n# Comments: 0",
+          "link": "https://www.nist.gov/news-events/news/2021/08/nists-quantum-crystal-could-be-new-dark-matter-sensor",
+          "publishedOn": "2021-08-05T22:16:06.000Z",
+          "wordCount": 1392,
+          "title": "NIST’s Quantum Crystal Could Be a New Dark Matter Sensor"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28067926",
-          "author": "throwawaysea",
-          "description": "Article URL: https://www.yahoo.com/finance/news/elizabeth-holmes-fails-to-keep-customer-complaints-out-of-criminal-fraud-trial-210015777.html\nComments URL: https://news.ycombinator.com/item?id=28067926\nPoints: 36\n# Comments: 14",
-          "link": "https://www.yahoo.com/finance/news/elizabeth-holmes-fails-to-keep-customer-complaints-out-of-criminal-fraud-trial-210015777.html",
-          "publishedOn": "2021-08-04T23:47:50.000Z",
-          "wordCount": 2321,
-          "title": "Elizabeth Holmes fails to keep customer complaints, test results out of trial"
+          "id": "https://news.ycombinator.com/item?id=28080152",
+          "author": "exolymph",
+          "description": "Article URL: https://1729.com/inflation/\nComments URL: https://news.ycombinator.com/item?id=28080152\nPoints: 69\n# Comments: 70",
+          "link": "https://1729.com/inflation/",
+          "publishedOn": "2021-08-05T21:29:28.000Z",
+          "wordCount": 2922,
+          "title": "A $100k Prize for a Decentralized Inflation Dashboard"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28067772",
-          "author": "leephillips",
-          "description": "Article URL: https://bike-lab.org/2019/05/20/biking-while-black-racial-bias-in-oakland-policing/\nComments URL: https://news.ycombinator.com/item?id=28067772\nPoints: 60\n# Comments: 31",
-          "link": "https://bike-lab.org/2019/05/20/biking-while-black-racial-bias-in-oakland-policing/",
-          "publishedOn": "2021-08-04T23:28:57.000Z",
-          "wordCount": 2196,
-          "title": "Biking while Black: Racial bias in Oakland policing"
+          "id": "https://news.ycombinator.com/item?id=28080097",
+          "author": "Berg0X00",
+          "description": "Article URL: https://portswigger.net/research/http2\nComments URL: https://news.ycombinator.com/item?id=28080097\nPoints: 41\n# Comments: 6",
+          "link": "https://portswigger.net/research/http2",
+          "publishedOn": "2021-08-05T21:26:12.000Z",
+          "wordCount": 5825,
+          "title": "HTTP/2: The Sequel is Always Worse"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28067534",
-          "author": "igonvalue",
-          "description": "Article URL: https://www.npr.org/2017/05/05/526900818/the-bad-grade-that-changed-the-u-s-constitution\nComments URL: https://news.ycombinator.com/item?id=28067534\nPoints: 18\n# Comments: 1",
-          "link": "https://www.npr.org/2017/05/05/526900818/the-bad-grade-that-changed-the-u-s-constitution",
-          "publishedOn": "2021-08-04T22:58:44.000Z",
-          "wordCount": 1664,
-          "title": "The Bad Grade That Changed the U.S. Constitution"
+          "id": "https://news.ycombinator.com/item?id=28079739",
+          "author": "the_economist",
+          "description": "Article URL: https://jobs.lever.co/buildzoom\nComments URL: https://news.ycombinator.com/item?id=28079739\nPoints: 1\n# Comments: 0",
+          "link": "https://jobs.lever.co/buildzoom",
+          "publishedOn": "2021-08-05T21:00:12.000Z",
+          "wordCount": 102,
+          "title": "BuildZoom (better way to build custom homes) is hiring engineers"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28066247",
-          "author": "harshitaisanerd",
-          "description": "Article URL: https://careers.atob.com/\nComments URL: https://news.ycombinator.com/item?id=28066247\nPoints: 1\n# Comments: 0",
-          "link": "https://careers.atob.com/",
-          "publishedOn": "2021-08-04T21:00:58.000Z",
-          "wordCount": 256,
-          "title": "AtoB (YC S20) is hiring to build Stripe for Transportation"
+          "id": "https://news.ycombinator.com/item?id=28079598",
+          "author": "manuelmagic",
+          "description": "Article URL: https://eylenburg.github.io/os_familytree.htm\nComments URL: https://news.ycombinator.com/item?id=28079598\nPoints: 60\n# Comments: 11",
+          "link": "https://eylenburg.github.io/os_familytree.htm",
+          "publishedOn": "2021-08-05T20:50:46.000Z",
+          "wordCount": 2001,
+          "title": "Operating Systems: Timeline and Family Tree"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28065507",
-          "author": "Hoasi",
-          "description": "Article URL: https://spectrum.ieee.org/china-closing-in-on-thorium-nuclear-reactor\nComments URL: https://news.ycombinator.com/item?id=28065507\nPoints: 95\n# Comments: 52",
-          "link": "https://spectrum.ieee.org/china-closing-in-on-thorium-nuclear-reactor",
-          "publishedOn": "2021-08-04T19:57:00.000Z",
-          "wordCount": 4524,
-          "title": "China Says It's Closing in on Thorium Nuclear Reactor"
+          "id": "https://news.ycombinator.com/item?id=28079335",
+          "author": "mcone",
+          "description": "Article URL: https://edwardsnowden.substack.com/p/conspiracy-pt2\nComments URL: https://news.ycombinator.com/item?id=28079335\nPoints: 58\n# Comments: 1",
+          "link": "https://edwardsnowden.substack.com/p/conspiracy-pt2",
+          "publishedOn": "2021-08-05T20:32:25.000Z",
+          "wordCount": 1779,
+          "title": "Apophenia: How the Internet Transforms the Individual into a Conspiracy of One"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28065357",
-          "author": "whatrocks",
-          "description": "Article URL: https://www.charlieharrington.com/mario-paint-masterpiece\nComments URL: https://news.ycombinator.com/item?id=28065357\nPoints: 26\n# Comments: 1",
-          "link": "https://www.charlieharrington.com/mario-paint-masterpiece",
-          "publishedOn": "2021-08-04T19:45:17.000Z",
-          "wordCount": 915,
-          "title": "Mario Paint: A 1992 Masterpiece"
+          "id": "https://news.ycombinator.com/item?id=28079212",
+          "author": "leejo",
+          "description": "Article URL: https://leejo.github.io/2021/08/01/who-is-your-audience/\nComments URL: https://news.ycombinator.com/item?id=28079212\nPoints: 14\n# Comments: 0",
+          "link": "https://leejo.github.io/2021/08/01/who-is-your-audience/",
+          "publishedOn": "2021-08-05T20:23:22.000Z",
+          "wordCount": 3424,
+          "title": "Who Is Your Audience?"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28064615",
-          "author": "dagmx",
-          "description": "Article URL: https://developer.nvidia.com/blog/ray-tracing-gems-ii-available-today-as-free-digital-download/\nComments URL: https://news.ycombinator.com/item?id=28064615\nPoints: 141\n# Comments: 15",
-          "link": "https://developer.nvidia.com/blog/ray-tracing-gems-ii-available-today-as-free-digital-download/",
-          "publishedOn": "2021-08-04T18:42:23.000Z",
-          "wordCount": 871,
-          "title": "Ray Tracing Gems II available as free download"
+          "id": "https://news.ycombinator.com/item?id=28079171",
+          "author": "bbatsell",
+          "description": "Article URL: https://www.eff.org/deeplinks/2021/08/apples-plan-think-different-about-encryption-opens-backdoor-your-private-life\nComments URL: https://news.ycombinator.com/item?id=28079171\nPoints: 1066\n# Comments: 437",
+          "link": "https://www.eff.org/deeplinks/2021/08/apples-plan-think-different-about-encryption-opens-backdoor-your-private-life",
+          "publishedOn": "2021-08-05T20:20:59.000Z",
+          "wordCount": 3047,
+          "title": "Apple's plan to “think different” about encryption opens a backdoor to your life"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28063764",
-          "author": "linux_is_nice",
-          "description": "Article URL: https://redcrafter.github.io/verilog2factorio/\nComments URL: https://news.ycombinator.com/item?id=28063764\nPoints: 68\n# Comments: 8",
-          "link": "https://redcrafter.github.io/verilog2factorio/",
-          "publishedOn": "2021-08-04T17:27:16.000Z",
-          "wordCount": 14,
-          "title": "Verilog2Factorio: Web Demo"
+          "id": "https://news.ycombinator.com/item?id=28079038",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Reverse-Engineering-The-M1.pdf\nComments URL: https://news.ycombinator.com/item?id=28079038\nPoints: 95\n# Comments: 14",
+          "link": "https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Reverse-Engineering-The-M1.pdf",
+          "publishedOn": "2021-08-05T20:12:00.000Z",
+          "wordCount": 36882,
+          "title": "Reverse Engineering the M1 [pdf]"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28063617",
-          "author": "dang",
-          "description": "Article URL: https://www.domainlanguage.com/articles/good-design-is-imperfect-design-part-1-honest-names/\nComments URL: https://news.ycombinator.com/item?id=28063617\nPoints: 175\n# Comments: 93",
-          "link": "https://www.domainlanguage.com/articles/good-design-is-imperfect-design-part-1-honest-names/",
-          "publishedOn": "2021-08-04T17:15:44.000Z",
-          "wordCount": 1503,
-          "title": "Good Design is Imperfect Design, Part 1: Honest Names"
+          "id": "https://news.ycombinator.com/item?id=28078348",
+          "author": "EMM_386",
+          "description": "Article URL: https://blog.mozilla.org/performance/2021/08/05/performance-in-progress/\nComments URL: https://news.ycombinator.com/item?id=28078348\nPoints: 200\n# Comments: 70",
+          "link": "https://blog.mozilla.org/performance/2021/08/05/performance-in-progress/",
+          "publishedOn": "2021-08-05T19:27:37.000Z",
+          "wordCount": 1405,
+          "title": "Firefox: Performance in Progress"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28063597",
-          "author": "alexbouchard",
-          "description": "Article URL: https://hookdeck.com?ref=hn\nComments URL: https://news.ycombinator.com/item?id=28063597\nPoints: 78\n# Comments: 20",
-          "link": "https://hookdeck.com?ref=hn",
-          "publishedOn": "2021-08-04T17:14:50.000Z",
-          "wordCount": 563,
-          "title": "Show HN: Hookdeck – an infrastructure to consume webhooks"
+          "id": "https://news.ycombinator.com/item?id=28077479",
+          "author": "marcodiego",
+          "description": "Article URL: https://learn.adafruit.com/build-your-own-sparc-with-qemu-and-solaris\nComments URL: https://news.ycombinator.com/item?id=28077479\nPoints: 67\n# Comments: 27",
+          "link": "https://learn.adafruit.com/build-your-own-sparc-with-qemu-and-solaris",
+          "publishedOn": "2021-08-05T18:18:13.000Z",
+          "wordCount": 886,
+          "title": "Build your own SPARC workstation"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28063339",
-          "author": "thekeyper",
-          "description": "Hi HN, we're Zain and Grant at Keyri (https://keyri.co/). We make a white label passwordless authentication SDK that companies can embed into their mobile apps for instant biometrics-based registration and login on any device. Keyri can be used for (1) authentication by itself, (2) an auth option in addition to passwords and OpenID, (3) step-up identity verification in high risk-score scenarios.\nPasswords suck - they're terrible for security and terrible for ease of use. 2FA solutions are clunky and still insecure - for example, SMS-based 2FA doesn't work when you travel abroad, and it can be defeated with phishing and SIM swapping. They also allow users to share their subscription accounts with others, robbing companies of revenue. Password-based auth also enables the sort of bot activity…",
-          "link": "https://news.ycombinator.com/item?id=28063339",
-          "publishedOn": "2021-08-04T16:54:43.000Z",
-          "wordCount": 5163,
-          "title": "Launch HN: Keyri (YC S21) – Secure smartphone-based passwordless authentication"
+          "id": "https://news.ycombinator.com/item?id=28077389",
+          "author": "eatonphil",
+          "description": "Article URL: https://notes.eatonphil.com/practical-common-lisp-on-the-jvm.html\nComments URL: https://news.ycombinator.com/item?id=28077389\nPoints: 41\n# Comments: 10",
+          "link": "https://notes.eatonphil.com/practical-common-lisp-on-the-jvm.html",
+          "publishedOn": "2021-08-05T18:10:47.000Z",
+          "wordCount": 1805,
+          "title": "Practical? Common Lisp on the JVM: A quick intro to ABCL for modern web apps"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28062677",
-          "author": "jsnell",
-          "description": "Article URL: https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate\nComments URL: https://news.ycombinator.com/item?id=28062677\nPoints: 357\n# Comments: 189",
-          "link": "https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate",
-          "publishedOn": "2021-08-04T16:08:23.000Z",
-          "wordCount": 2629,
-          "title": "The historical accuracy of medieval city-builder video games"
+          "id": "https://news.ycombinator.com/item?id=28076480",
+          "author": "andreyk",
+          "description": "Article URL: https://thegradientpub.substack.com/p/yann-lecun-on-his-start-in-research\nComments URL: https://news.ycombinator.com/item?id=28076480\nPoints: 91\n# Comments: 48",
+          "link": "https://thegradientpub.substack.com/p/yann-lecun-on-his-start-in-research",
+          "publishedOn": "2021-08-05T17:03:50.000Z",
+          "wordCount": 372,
+          "title": "Yann LeCun on his start in AI and recent self-supervised learning research"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28061725",
-          "author": "rwesterdahl",
-          "description": "Hi HN, we're Ryan, Tyler, and Patryk, the founders of Turion Space (https://www.turionspace.com/). We're building spacecraft to remove orbital debris and provide services to existing satellites.\nOrbital debris poses a significant risk to mankind's future in space. There are currently over 250k objects in space that would destroy a satellite if a collision were to occur. Large uncontrolled objects like depleted rocket upper stages and dead satellites pose the greatest risk because of the potential to break upon impact with small debris into thousands of smaller pieces. There is currently no system in operation that can deorbit large amounts of space debris. If this problem is not addressed in the next 5-10 years, it could render entire orbits unusable for generations.\nOur spacecraft (which …",
-          "link": "https://news.ycombinator.com/item?id=28061725",
-          "publishedOn": "2021-08-04T14:56:00.000Z",
-          "wordCount": 6825,
-          "title": "Launch HN: Turion Space (YC S21) – Space debris removal and satellite servicing"
+          "id": "https://news.ycombinator.com/item?id=28075774",
+          "author": "LoriP",
+          "description": "Article URL: https://blog.timescale.com/blog/how-postgresql-aggregation-works-and-how-it-inspired-our-hyperfunctions-design-2/\nComments URL: https://news.ycombinator.com/item?id=28075774\nPoints: 137\n# Comments: 20",
+          "link": "https://blog.timescale.com/blog/how-postgresql-aggregation-works-and-how-it-inspired-our-hyperfunctions-design-2/",
+          "publishedOn": "2021-08-05T16:13:59.000Z",
+          "wordCount": 5384,
+          "title": "How PostgreSQL aggregation works and how it inspired our hyperfunctions’ design"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28061410",
-          "author": "geerlingguy",
-          "description": "Article URL: https://www.jeffgeerling.com/blog/2021/uptime-labs-cm4-blade-adds-nvme-tpm-20-raspberry-pi\nComments URL: https://news.ycombinator.com/item?id=28061410\nPoints: 121\n# Comments: 43",
-          "link": "https://www.jeffgeerling.com/blog/2021/uptime-labs-cm4-blade-adds-nvme-tpm-20-raspberry-pi",
-          "publishedOn": "2021-08-04T14:30:12.000Z",
-          "wordCount": 813,
-          "title": "Uptime Lab's CM4 Blade Adds NVMe, TPM 2.0 to Raspberry Pi"
+          "id": "https://news.ycombinator.com/item?id=28074999",
+          "author": "theafh",
+          "description": "Article URL: https://www.quantamagazine.org/mathematicians-solve-decades-old-classification-problem-20210805/\nComments URL: https://news.ycombinator.com/item?id=28074999\nPoints: 122\n# Comments: 34",
+          "link": "https://www.quantamagazine.org/mathematicians-solve-decades-old-classification-problem-20210805/",
+          "publishedOn": "2021-08-05T15:22:48.000Z",
+          "wordCount": 2558,
+          "title": "Mathematicians Solve Decades-Old Classification Problem"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28061247",
-          "author": "clessg",
-          "description": "Article URL: https://info.codecast.io/blog/how-to-use-phoenix-channels\nComments URL: https://news.ycombinator.com/item?id=28061247\nPoints: 117\n# Comments: 40",
-          "link": "https://info.codecast.io/blog/how-to-use-phoenix-channels",
-          "publishedOn": "2021-08-04T14:16:08.000Z",
-          "wordCount": 1145,
-          "title": "Use Phoenix Channels"
+          "id": "https://news.ycombinator.com/item?id=28074827",
+          "author": "wattenberger",
+          "description": "I explored an alternative way to view codebases to the typical folder/file list, showing a bird's-eye-view of its structure.\nhttps://octo.github.com/projects/repo-visualization\nComments URL: https://news.ycombinator.com/item?id=28074827\nPoints: 128\n# Comments: 48",
+          "link": "https://octo.github.com/projects/repo-visualization",
+          "publishedOn": "2021-08-05T15:09:52.000Z",
+          "wordCount": 1392,
+          "title": "Show HN: Visualizing a Codebase"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28060700",
-          "author": "optimalsolver",
-          "description": "Article URL: https://github.com/electronicarts/EASTL\nComments URL: https://news.ycombinator.com/item?id=28060700\nPoints: 111\n# Comments: 63",
-          "link": "https://github.com/electronicarts/EASTL",
-          "publishedOn": "2021-08-04T13:21:30.000Z",
-          "wordCount": 1145,
-          "title": "EASTL: An Alternative C++ Standard Library From Electronic Arts"
+          "id": "https://news.ycombinator.com/item?id=28074660",
+          "author": "Tomte",
+          "description": "Article URL: https://edition.cnn.com/2021/08/04/africa/giraffes-complex-behavior-scn/index.html\nComments URL: https://news.ycombinator.com/item?id=28074660\nPoints: 219\n# Comments: 80",
+          "link": "https://edition.cnn.com/2021/08/04/africa/giraffes-complex-behavior-scn/index.html",
+          "publishedOn": "2021-08-05T15:00:35.000Z",
+          "wordCount": 867,
+          "title": "Giraffes are as socially complex as elephants"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28059291",
-          "author": "paramaw",
-          "description": "Article URL: https://github.com/DataHenHQ/till\nComments URL: https://news.ycombinator.com/item?id=28059291\nPoints: 182\n# Comments: 57",
-          "link": "https://github.com/DataHenHQ/till",
-          "publishedOn": "2021-08-04T10:16:52.000Z",
-          "wordCount": 2313,
-          "title": "Show HN: Till – Unblock and scale your web scrapers, with minimal code changes"
+          "id": "https://news.ycombinator.com/item?id=28074057",
+          "author": "onychomys",
+          "description": "Article URL: https://theconversation.com/how-years-of-fighting-every-wildfire-helped-fuel-the-western-megafires-of-today-163165\nComments URL: https://news.ycombinator.com/item?id=28074057\nPoints: 146\n# Comments: 96",
+          "link": "https://theconversation.com/how-years-of-fighting-every-wildfire-helped-fuel-the-western-megafires-of-today-163165",
+          "publishedOn": "2021-08-05T14:17:46.000Z",
+          "wordCount": 1448,
+          "title": "Years of fighting every wildfire helped fuel the Western megafires of today"
         }
       ]
     }
