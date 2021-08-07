@@ -1,269 +1,268 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-06T00:55:17.364Z</id>
+    <id>urn:2021-08-07T00:46:31.786Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T00:55:17.364Z</updated>
+    <updated>2021-08-07T00:46:31.786Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[LÖVR – An open source framework for rapidly building immersive 3D experiences]]></title>
-        <id>https://news.ycombinator.com/item?id=28081656</id>
-        <link href="https://lovr.org"/>
-        <updated>2021-08-06T00:05:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lovr.org
-Comments URL: https://news.ycombinator.com/item?id=28081656
-Points: 2
+        <title type="html"><![CDATA[Ulam Spiral]]></title>
+        <id>https://news.ycombinator.com/item?id=28093709</id>
+        <link href="https://en.wikipedia.org/wiki/Ulam_spiral"/>
+        <updated>2021-08-06T22:55:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Ulam_spiral
+Comments URL: https://news.ycombinator.com/item?id=28093709
+Points: 8
 # Comments: 0]]></summary>
         <author>
-            <name>wsc981</name>
+            <name>tosh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stanford AIMI Releases Its Free Open-Source Repository of Medical Datasets]]></title>
-        <id>https://news.ycombinator.com/item?id=28081222</id>
-        <link href="https://hai.stanford.edu/news/open-source-movement-comes-medical-datasets"/>
-        <updated>2021-08-05T23:04:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://hai.stanford.edu/news/open-source-movement-comes-medical-datasets
-Comments URL: https://news.ycombinator.com/item?id=28081222
-Points: 9
+        <title type="html"><![CDATA[Homelessness is about housing]]></title>
+        <id>https://news.ycombinator.com/item?id=28093686</id>
+        <link href="https://www.slowboring.com/p/homelessness-housing"/>
+        <updated>2021-08-06T22:52:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.slowboring.com/p/homelessness-housing
+Comments URL: https://news.ycombinator.com/item?id=28093686
+Points: 70
+# Comments: 54]]></summary>
+        <author>
+            <name>jseliger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apply conversion functions to data in SQLite columns with the SQLite-utils tool]]></title>
+        <id>https://news.ycombinator.com/item?id=28093540</id>
+        <link href="https://simonwillison.net/2021/Aug/6/sqlite-utils-convert/"/>
+        <updated>2021-08-06T22:33:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2021/Aug/6/sqlite-utils-convert/
+Comments URL: https://news.ycombinator.com/item?id=28093540
+Points: 12
+# Comments: 1]]></summary>
+        <author>
+            <name>edward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Richard Stallman and the History of Free Software and Open Source]]></title>
+        <id>https://news.ycombinator.com/item?id=28093281</id>
+        <link href="https://www.cmpod.net/all-transcripts/history-open-source-free-software-text/"/>
+        <updated>2021-08-06T22:02:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cmpod.net/all-transcripts/history-open-source-free-software-text/
+Comments URL: https://news.ycombinator.com/item?id=28093281
+Points: 18
 # Comments: 0]]></summary>
         <author>
-            <name>panabee</name>
+            <name>sanmak</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NIST’s Quantum Crystal Could Be a New Dark Matter Sensor]]></title>
-        <id>https://news.ycombinator.com/item?id=28080725</id>
-        <link href="https://www.nist.gov/news-events/news/2021/08/nists-quantum-crystal-could-be-new-dark-matter-sensor"/>
-        <updated>2021-08-05T22:16:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nist.gov/news-events/news/2021/08/nists-quantum-crystal-could-be-new-dark-matter-sensor
-Comments URL: https://news.ycombinator.com/item?id=28080725
-Points: 15
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Why Disney World doesn't have mosquitoes]]></title>
+        <id>https://news.ycombinator.com/item?id=28093243</id>
+        <link href="https://www.greenmatters.com/p/why-no-mosquitoes-disney-world"/>
+        <updated>2021-08-06T21:57:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.greenmatters.com/p/why-no-mosquitoes-disney-world
+Comments URL: https://news.ycombinator.com/item?id=28093243
+Points: 110
+# Comments: 53]]></summary>
         <author>
-            <name>geox</name>
+            <name>jbonniwell</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A $100k Prize for a Decentralized Inflation Dashboard]]></title>
-        <id>https://news.ycombinator.com/item?id=28080152</id>
-        <link href="https://1729.com/inflation/"/>
-        <updated>2021-08-05T21:29:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://1729.com/inflation/
-Comments URL: https://news.ycombinator.com/item?id=28080152
-Points: 69
-# Comments: 70]]></summary>
+        <title type="html"><![CDATA[Surveys show Americans want more walkable cities]]></title>
+        <id>https://news.ycombinator.com/item?id=28093063</id>
+        <link href="https://www.governing.com/community/vehicles-still-firmly-in-control-of-city-streets"/>
+        <updated>2021-08-06T21:39:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.governing.com/community/vehicles-still-firmly-in-control-of-city-streets
+Comments URL: https://news.ycombinator.com/item?id=28093063
+Points: 158
+# Comments: 115]]></summary>
         <author>
-            <name>exolymph</name>
+            <name>jseliger</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTTP/2: The Sequel is Always Worse]]></title>
-        <id>https://news.ycombinator.com/item?id=28080097</id>
-        <link href="https://portswigger.net/research/http2"/>
-        <updated>2021-08-05T21:26:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://portswigger.net/research/http2
-Comments URL: https://news.ycombinator.com/item?id=28080097
-Points: 41
-# Comments: 6]]></summary>
+        <title type="html"><![CDATA[Bones hoarded by hyenas over thousands of years]]></title>
+        <id>https://news.ycombinator.com/item?id=28092852</id>
+        <link href="https://www.smithsonianmag.com/smart-news/archaeologists-uncover-extensive-pile-animal-and-human-bones-saudi-arabia-cave-180978375/"/>
+        <updated>2021-08-06T21:19:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.smithsonianmag.com/smart-news/archaeologists-uncover-extensive-pile-animal-and-human-bones-saudi-arabia-cave-180978375/
+Comments URL: https://news.ycombinator.com/item?id=28092852
+Points: 62
+# Comments: 9]]></summary>
         <author>
-            <name>Berg0X00</name>
+            <name>pseudolus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BuildZoom (better way to build custom homes) is hiring engineers]]></title>
-        <id>https://news.ycombinator.com/item?id=28079739</id>
-        <link href="https://jobs.lever.co/buildzoom"/>
-        <updated>2021-08-05T21:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/buildzoom
-Comments URL: https://news.ycombinator.com/item?id=28079739
+        <title type="html"><![CDATA[Bonsai (YC W16) is hiring a head of growth marketing (remote)]]></title>
+        <id>https://news.ycombinator.com/item?id=28092680</id>
+        <link href="https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing"/>
+        <updated>2021-08-06T21:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing
+Comments URL: https://news.ycombinator.com/item?id=28092680
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>the_economist</name>
+            <name>mthomasb</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Operating Systems: Timeline and Family Tree]]></title>
-        <id>https://news.ycombinator.com/item?id=28079598</id>
-        <link href="https://eylenburg.github.io/os_familytree.htm"/>
-        <updated>2021-08-05T20:50:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://eylenburg.github.io/os_familytree.htm
-Comments URL: https://news.ycombinator.com/item?id=28079598
-Points: 60
-# Comments: 11]]></summary>
+        <title type="html"><![CDATA[Whistleblowers expose corruption in EPA Chemical Safety Office]]></title>
+        <id>https://news.ycombinator.com/item?id=28092336</id>
+        <link href="https://theintercept.com/2021/07/02/epa-chemical-safety-corruption-whistleblowers/"/>
+        <updated>2021-08-06T20:26:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://theintercept.com/2021/07/02/epa-chemical-safety-corruption-whistleblowers/
+Comments URL: https://news.ycombinator.com/item?id=28092336
+Points: 140
+# Comments: 33]]></summary>
         <author>
-            <name>manuelmagic</name>
+            <name>voisin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apophenia: How the Internet Transforms the Individual into a Conspiracy of One]]></title>
-        <id>https://news.ycombinator.com/item?id=28079335</id>
-        <link href="https://edwardsnowden.substack.com/p/conspiracy-pt2"/>
-        <updated>2021-08-05T20:32:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://edwardsnowden.substack.com/p/conspiracy-pt2
-Comments URL: https://news.ycombinator.com/item?id=28079335
-Points: 58
-# Comments: 1]]></summary>
-        <author>
-            <name>mcone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who Is Your Audience?]]></title>
-        <id>https://news.ycombinator.com/item?id=28079212</id>
-        <link href="https://leejo.github.io/2021/08/01/who-is-your-audience/"/>
-        <updated>2021-08-05T20:23:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://leejo.github.io/2021/08/01/who-is-your-audience/
-Comments URL: https://news.ycombinator.com/item?id=28079212
-Points: 14
-# Comments: 0]]></summary>
-        <author>
-            <name>leejo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple's plan to “think different” about encryption opens a backdoor to your life]]></title>
-        <id>https://news.ycombinator.com/item?id=28079171</id>
-        <link href="https://www.eff.org/deeplinks/2021/08/apples-plan-think-different-about-encryption-opens-backdoor-your-private-life"/>
-        <updated>2021-08-05T20:20:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2021/08/apples-plan-think-different-about-encryption-opens-backdoor-your-private-life
-Comments URL: https://news.ycombinator.com/item?id=28079171
-Points: 1066
-# Comments: 437]]></summary>
-        <author>
-            <name>bbatsell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reverse Engineering the M1 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=28079038</id>
-        <link href="https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Reverse-Engineering-The-M1.pdf"/>
-        <updated>2021-08-05T20:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Reverse-Engineering-The-M1.pdf
-Comments URL: https://news.ycombinator.com/item?id=28079038
-Points: 95
-# Comments: 14]]></summary>
+        <title type="html"><![CDATA[Learning APL]]></title>
+        <id>https://news.ycombinator.com/item?id=28092097</id>
+        <link href="https://xpqz.github.io/learnapl/intro.html"/>
+        <updated>2021-08-06T20:01:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://xpqz.github.io/learnapl/intro.html
+Comments URL: https://news.ycombinator.com/item?id=28092097
+Points: 99
+# Comments: 35]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firefox: Performance in Progress]]></title>
-        <id>https://news.ycombinator.com/item?id=28078348</id>
-        <link href="https://blog.mozilla.org/performance/2021/08/05/performance-in-progress/"/>
-        <updated>2021-08-05T19:27:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/performance/2021/08/05/performance-in-progress/
-Comments URL: https://news.ycombinator.com/item?id=28078348
-Points: 200
-# Comments: 70]]></summary>
+        <title type="html"><![CDATA[“People have asked if we'll adopt this system for WhatsApp. The answer is no.”]]></title>
+        <id>https://news.ycombinator.com/item?id=28091993</id>
+        <link href="https://twitter.com/wcathcart/status/1423701473624395784"/>
+        <updated>2021-08-06T19:52:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/wcathcart/status/1423701473624395784
+Comments URL: https://news.ycombinator.com/item?id=28091993
+Points: 159
+# Comments: 90]]></summary>
         <author>
-            <name>EMM_386</name>
+            <name>amadeuspagel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build your own SPARC workstation]]></title>
-        <id>https://news.ycombinator.com/item?id=28077479</id>
-        <link href="https://learn.adafruit.com/build-your-own-sparc-with-qemu-and-solaris"/>
-        <updated>2021-08-05T18:18:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://learn.adafruit.com/build-your-own-sparc-with-qemu-and-solaris
-Comments URL: https://news.ycombinator.com/item?id=28077479
-Points: 67
-# Comments: 27]]></summary>
+        <title type="html"><![CDATA[The Problem with Perceptual Hashes]]></title>
+        <id>https://news.ycombinator.com/item?id=28091750</id>
+        <link href="https://rentafounder.com/the-problem-with-perceptual-hashes/"/>
+        <updated>2021-08-06T19:29:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rentafounder.com/the-problem-with-perceptual-hashes/
+Comments URL: https://news.ycombinator.com/item?id=28091750
+Points: 230
+# Comments: 109]]></summary>
         <author>
-            <name>marcodiego</name>
+            <name>rivo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Practical? Common Lisp on the JVM: A quick intro to ABCL for modern web apps]]></title>
-        <id>https://news.ycombinator.com/item?id=28077389</id>
-        <link href="https://notes.eatonphil.com/practical-common-lisp-on-the-jvm.html"/>
-        <updated>2021-08-05T18:10:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://notes.eatonphil.com/practical-common-lisp-on-the-jvm.html
-Comments URL: https://news.ycombinator.com/item?id=28077389
-Points: 41
-# Comments: 10]]></summary>
+        <title type="html"><![CDATA[The Emacs Lock-In Effect or the Emacs Sunk Cost Fallacy]]></title>
+        <id>https://news.ycombinator.com/item?id=28091520</id>
+        <link href="https://karl-voit.at/2021/07/23/emacs-lock-in/"/>
+        <updated>2021-08-06T19:04:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://karl-voit.at/2021/07/23/emacs-lock-in/
+Comments URL: https://news.ycombinator.com/item?id=28091520
+Points: 69
+# Comments: 111]]></summary>
         <author>
-            <name>eatonphil</name>
+            <name>fipar</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yann LeCun on his start in AI and recent self-supervised learning research]]></title>
-        <id>https://news.ycombinator.com/item?id=28076480</id>
-        <link href="https://thegradientpub.substack.com/p/yann-lecun-on-his-start-in-research"/>
-        <updated>2021-08-05T17:03:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thegradientpub.substack.com/p/yann-lecun-on-his-start-in-research
-Comments URL: https://news.ycombinator.com/item?id=28076480
-Points: 91
-# Comments: 48]]></summary>
-        <author>
-            <name>andreyk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How PostgreSQL aggregation works and how it inspired our hyperfunctions’ design]]></title>
-        <id>https://news.ycombinator.com/item?id=28075774</id>
-        <link href="https://blog.timescale.com/blog/how-postgresql-aggregation-works-and-how-it-inspired-our-hyperfunctions-design-2/"/>
-        <updated>2021-08-05T16:13:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.timescale.com/blog/how-postgresql-aggregation-works-and-how-it-inspired-our-hyperfunctions-design-2/
-Comments URL: https://news.ycombinator.com/item?id=28075774
-Points: 137
-# Comments: 20]]></summary>
-        <author>
-            <name>LoriP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicians Solve Decades-Old Classification Problem]]></title>
-        <id>https://news.ycombinator.com/item?id=28074999</id>
-        <link href="https://www.quantamagazine.org/mathematicians-solve-decades-old-classification-problem-20210805/"/>
-        <updated>2021-08-05T15:22:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/mathematicians-solve-decades-old-classification-problem-20210805/
-Comments URL: https://news.ycombinator.com/item?id=28074999
-Points: 122
-# Comments: 34]]></summary>
-        <author>
-            <name>theafh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Visualizing a Codebase]]></title>
-        <id>https://news.ycombinator.com/item?id=28074827</id>
-        <link href="https://octo.github.com/projects/repo-visualization"/>
-        <updated>2021-08-05T15:09:52.000Z</updated>
-        <summary type="html"><![CDATA[I explored an alternative way to view codebases to the typical folder/file list, showing a bird's-eye-view of its structure.
-https://octo.github.com/projects/repo-visualization
-Comments URL: https://news.ycombinator.com/item?id=28074827
-Points: 128
-# Comments: 48]]></summary>
-        <author>
-            <name>wattenberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giraffes are as socially complex as elephants]]></title>
-        <id>https://news.ycombinator.com/item?id=28074660</id>
-        <link href="https://edition.cnn.com/2021/08/04/africa/giraffes-complex-behavior-scn/index.html"/>
-        <updated>2021-08-05T15:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://edition.cnn.com/2021/08/04/africa/giraffes-complex-behavior-scn/index.html
-Comments URL: https://news.ycombinator.com/item?id=28074660
-Points: 219
-# Comments: 80]]></summary>
+        <title type="html"><![CDATA[Defunctionalization: Everybody does it, nobody talks about it (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=28091413</id>
+        <link href="https://blog.sigplan.org/2019/12/30/defunctionalization-everybody-does-it-nobody-talks-about-it/"/>
+        <updated>2021-08-06T18:55:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.sigplan.org/2019/12/30/defunctionalization-everybody-does-it-nobody-talks-about-it/
+Comments URL: https://news.ycombinator.com/item?id=28091413
+Points: 36
+# Comments: 13]]></summary>
         <author>
             <name>Tomte</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Years of fighting every wildfire helped fuel the Western megafires of today]]></title>
-        <id>https://news.ycombinator.com/item?id=28074057</id>
-        <link href="https://theconversation.com/how-years-of-fighting-every-wildfire-helped-fuel-the-western-megafires-of-today-163165"/>
-        <updated>2021-08-05T14:17:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://theconversation.com/how-years-of-fighting-every-wildfire-helped-fuel-the-western-megafires-of-today-163165
-Comments URL: https://news.ycombinator.com/item?id=28074057
-Points: 146
-# Comments: 96]]></summary>
+        <title type="html"><![CDATA[Atlantic Ocean currents weaken, signalling big weather changes: study]]></title>
+        <id>https://news.ycombinator.com/item?id=28091087</id>
+        <link href="https://www.reuters.com/business/environment/atlantic-ocean-currents-weaken-signalling-big-weather-changes-study-2021-08-05/"/>
+        <updated>2021-08-06T18:26:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/environment/atlantic-ocean-currents-weaken-signalling-big-weather-changes-study-2021-08-05/
+Comments URL: https://news.ycombinator.com/item?id=28091087
+Points: 172
+# Comments: 91]]></summary>
         <author>
-            <name>onychomys</name>
+            <name>gmays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple’s new abuse prevention system: an antritust/competition point of view]]></title>
+        <id>https://news.ycombinator.com/item?id=28090569</id>
+        <link href="https://blog.quintarelli.it/2021/08/apples-child-new-abuse-prevention-system-an-antritustcompetition-point-of-view.html"/>
+        <updated>2021-08-06T17:47:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.quintarelli.it/2021/08/apples-child-new-abuse-prevention-system-an-antritustcompetition-point-of-view.html
+Comments URL: https://news.ycombinator.com/item?id=28090569
+Points: 172
+# Comments: 111]]></summary>
+        <author>
+            <name>simonebrunozzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dating in Delhi when you're poor]]></title>
+        <id>https://news.ycombinator.com/item?id=28090158</id>
+        <link href="https://www.reuters.com/article/delhi-dating-idUSKBN1DU0NE"/>
+        <updated>2021-08-06T17:15:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/delhi-dating-idUSKBN1DU0NE
+Comments URL: https://news.ycombinator.com/item?id=28090158
+Points: 236
+# Comments: 155]]></summary>
+        <author>
+            <name>hidden-spyder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CalyxOS – De-Googled Android Alternative]]></title>
+        <id>https://news.ycombinator.com/item?id=28090024</id>
+        <link href="https://calyxos.org/"/>
+        <updated>2021-08-06T17:07:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://calyxos.org/
+Comments URL: https://news.ycombinator.com/item?id=28090024
+Points: 507
+# Comments: 293]]></summary>
+        <author>
+            <name>ssklash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Sierra Pay]]></title>
+        <id>https://news.ycombinator.com/item?id=28089581</id>
+        <link href="https://www.filfre.net/2021/08/making-sierra-pay/"/>
+        <updated>2021-08-06T16:39:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.filfre.net/2021/08/making-sierra-pay/
+Comments URL: https://news.ycombinator.com/item?id=28089581
+Points: 74
+# Comments: 19]]></summary>
+        <author>
+            <name>doppp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Open-source A/B testing framework]]></title>
+        <id>https://news.ycombinator.com/item?id=28088882</id>
+        <link href="https://github.com/growthbook/growthbook"/>
+        <updated>2021-08-06T15:53:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/growthbook/growthbook
+Comments URL: https://news.ycombinator.com/item?id=28088882
+Points: 137
+# Comments: 34]]></summary>
+        <author>
+            <name>cheeseblubber</name>
         </author>
     </entry>
 </feed>
