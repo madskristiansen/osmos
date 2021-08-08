@@ -1,268 +1,273 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-07T00:46:31.786Z</id>
+    <id>urn:2021-08-08T00:52:13.129Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-07T00:46:31.786Z</updated>
+    <updated>2021-08-08T00:52:13.129Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Ulam Spiral]]></title>
-        <id>https://news.ycombinator.com/item?id=28093709</id>
-        <link href="https://en.wikipedia.org/wiki/Ulam_spiral"/>
-        <updated>2021-08-06T22:55:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Ulam_spiral
-Comments URL: https://news.ycombinator.com/item?id=28093709
+        <title type="html"><![CDATA[Alex Stamos on Apple's new child safety protections]]></title>
+        <id>https://news.ycombinator.com/item?id=28103127</id>
+        <link href="https://twitter.com/alexstamos/status/1424054542879006728"/>
+        <updated>2021-08-08T00:26:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/alexstamos/status/1424054542879006728
+Comments URL: https://news.ycombinator.com/item?id=28103127
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>sbuccini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live the Dream, Make the Change, Move to Pitcairn Island (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=28102843</id>
+        <link href="http://www.immigration.gov.pn/immigrate/index.html"/>
+        <updated>2021-08-07T23:32:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.immigration.gov.pn/immigrate/index.html
+Comments URL: https://news.ycombinator.com/item?id=28102843
 Points: 8
-# Comments: 0]]></summary>
+# Comments: 2]]></summary>
         <author>
-            <name>tosh</name>
+            <name>jnord</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Homelessness is about housing]]></title>
-        <id>https://news.ycombinator.com/item?id=28093686</id>
-        <link href="https://www.slowboring.com/p/homelessness-housing"/>
-        <updated>2021-08-06T22:52:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.slowboring.com/p/homelessness-housing
-Comments URL: https://news.ycombinator.com/item?id=28093686
-Points: 70
-# Comments: 54]]></summary>
-        <author>
-            <name>jseliger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apply conversion functions to data in SQLite columns with the SQLite-utils tool]]></title>
-        <id>https://news.ycombinator.com/item?id=28093540</id>
-        <link href="https://simonwillison.net/2021/Aug/6/sqlite-utils-convert/"/>
-        <updated>2021-08-06T22:33:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2021/Aug/6/sqlite-utils-convert/
-Comments URL: https://news.ycombinator.com/item?id=28093540
-Points: 12
-# Comments: 1]]></summary>
-        <author>
-            <name>edward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Richard Stallman and the History of Free Software and Open Source]]></title>
-        <id>https://news.ycombinator.com/item?id=28093281</id>
-        <link href="https://www.cmpod.net/all-transcripts/history-open-source-free-software-text/"/>
-        <updated>2021-08-06T22:02:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cmpod.net/all-transcripts/history-open-source-free-software-text/
-Comments URL: https://news.ycombinator.com/item?id=28093281
-Points: 18
-# Comments: 0]]></summary>
-        <author>
-            <name>sanmak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Disney World doesn't have mosquitoes]]></title>
-        <id>https://news.ycombinator.com/item?id=28093243</id>
-        <link href="https://www.greenmatters.com/p/why-no-mosquitoes-disney-world"/>
-        <updated>2021-08-06T21:57:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.greenmatters.com/p/why-no-mosquitoes-disney-world
-Comments URL: https://news.ycombinator.com/item?id=28093243
-Points: 110
-# Comments: 53]]></summary>
-        <author>
-            <name>jbonniwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surveys show Americans want more walkable cities]]></title>
-        <id>https://news.ycombinator.com/item?id=28093063</id>
-        <link href="https://www.governing.com/community/vehicles-still-firmly-in-control-of-city-streets"/>
-        <updated>2021-08-06T21:39:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.governing.com/community/vehicles-still-firmly-in-control-of-city-streets
-Comments URL: https://news.ycombinator.com/item?id=28093063
-Points: 158
-# Comments: 115]]></summary>
-        <author>
-            <name>jseliger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bones hoarded by hyenas over thousands of years]]></title>
-        <id>https://news.ycombinator.com/item?id=28092852</id>
-        <link href="https://www.smithsonianmag.com/smart-news/archaeologists-uncover-extensive-pile-animal-and-human-bones-saudi-arabia-cave-180978375/"/>
-        <updated>2021-08-06T21:19:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.smithsonianmag.com/smart-news/archaeologists-uncover-extensive-pile-animal-and-human-bones-saudi-arabia-cave-180978375/
-Comments URL: https://news.ycombinator.com/item?id=28092852
-Points: 62
-# Comments: 9]]></summary>
+        <title type="html"><![CDATA[Unopened copy of Super Mario Bros. sells for a record $2M]]></title>
+        <id>https://news.ycombinator.com/item?id=28102594</id>
+        <link href="https://www.theverge.com/2021/8/7/22614450/unopened-copy-super-mario-bros-sells-2-million-record"/>
+        <updated>2021-08-07T22:52:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/8/7/22614450/unopened-copy-super-mario-bros-sells-2-million-record
+Comments URL: https://news.ycombinator.com/item?id=28102594
+Points: 14
+# Comments: 5]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bonsai (YC W16) is hiring a head of growth marketing (remote)]]></title>
-        <id>https://news.ycombinator.com/item?id=28092680</id>
-        <link href="https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing"/>
-        <updated>2021-08-06T21:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing
-Comments URL: https://news.ycombinator.com/item?id=28092680
+        <title type="html"><![CDATA[A plain text note-taking system for problem solving]]></title>
+        <id>https://news.ycombinator.com/item?id=28102128</id>
+        <link href="https://calculist.io/"/>
+        <updated>2021-08-07T21:43:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://calculist.io/
+Comments URL: https://news.ycombinator.com/item?id=28102128
+Points: 6
+# Comments: 1]]></summary>
+        <author>
+            <name>thomascountz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Encryption Was a Crime: The 1990s Battle for Free Speech in Software]]></title>
+        <id>https://news.ycombinator.com/item?id=28101990</id>
+        <link href="https://reason.com/video/2020/10/21/cryptowars-gilmore-zimmermann-cryptography/"/>
+        <updated>2021-08-07T21:27:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://reason.com/video/2020/10/21/cryptowars-gilmore-zimmermann-cryptography/
+Comments URL: https://news.ycombinator.com/item?id=28101990
+Points: 51
+# Comments: 8]]></summary>
+        <author>
+            <name>Overton-Window</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Great Question (YC W21) Is Hiring Founding Engineers (Rails, React, Remote)]]></title>
+        <id>https://news.ycombinator.com/item?id=28101776</id>
+        <link href="https://news.ycombinator.com/item?id=28101776"/>
+        <updated>2021-08-07T21:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Great Question makes it easy to include customer research as a part of every product release - whether it's customer interviews, prototype tests or surveys.
+Companies from Adidas Runtastic to O'Reilly Media use oru product to put their customers at the center of their product decisions.
+Our mission is to democratize research - make it easy for anyone at your company to understand what research has been done already, what is currently happening, and ask new questions to make sure you're building something people want.
+We're 3rd time entrepreneurs, having worked together for 10 years now with 2 exits under our belts. Back by Y Combinator, Funders Club & top angel investors.
+We're now looking to hire Senior Software Engineers to help us build and solidify our product. We're fully remote, and built on Rails + React + Typescript.
+Interested? Find more info here: https://careers.greatquestion.co/founding-rails-engineer
+Comments URL: https://news.ycombinator.com/item?id=28101776
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>mthomasb</name>
+            <name>pjmurray</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Whistleblowers expose corruption in EPA Chemical Safety Office]]></title>
-        <id>https://news.ycombinator.com/item?id=28092336</id>
-        <link href="https://theintercept.com/2021/07/02/epa-chemical-safety-corruption-whistleblowers/"/>
-        <updated>2021-08-06T20:26:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://theintercept.com/2021/07/02/epa-chemical-safety-corruption-whistleblowers/
-Comments URL: https://news.ycombinator.com/item?id=28092336
-Points: 140
-# Comments: 33]]></summary>
+        <title type="html"><![CDATA[NPM silently suspends package adoption]]></title>
+        <id>https://news.ycombinator.com/item?id=28101748</id>
+        <link href="https://twitter.com/Andrewmd5/status/1423915743410745346"/>
+        <updated>2021-08-07T20:57:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/Andrewmd5/status/1423915743410745346
+Comments URL: https://news.ycombinator.com/item?id=28101748
+Points: 47
+# Comments: 23]]></summary>
         <author>
-            <name>voisin</name>
+            <name>Aloha</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learning APL]]></title>
-        <id>https://news.ycombinator.com/item?id=28092097</id>
-        <link href="https://xpqz.github.io/learnapl/intro.html"/>
-        <updated>2021-08-06T20:01:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://xpqz.github.io/learnapl/intro.html
-Comments URL: https://news.ycombinator.com/item?id=28092097
-Points: 99
-# Comments: 35]]></summary>
+        <title type="html"><![CDATA[Very fast rocket]]></title>
+        <id>https://news.ycombinator.com/item?id=28101383</id>
+        <link href="http://makc.github.io/misc/relativity-1.html"/>
+        <updated>2021-08-07T20:04:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://makc.github.io/misc/relativity-1.html
+Comments URL: https://news.ycombinator.com/item?id=28101383
+Points: 203
+# Comments: 43]]></summary>
         <author>
-            <name>todsacerdoti</name>
+            <name>naetius</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“People have asked if we'll adopt this system for WhatsApp. The answer is no.”]]></title>
-        <id>https://news.ycombinator.com/item?id=28091993</id>
-        <link href="https://twitter.com/wcathcart/status/1423701473624395784"/>
-        <updated>2021-08-06T19:52:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/wcathcart/status/1423701473624395784
-Comments URL: https://news.ycombinator.com/item?id=28091993
-Points: 159
-# Comments: 90]]></summary>
+        <title type="html"><![CDATA[Captcha pictures force you to look at the world the way an AI does]]></title>
+        <id>https://news.ycombinator.com/item?id=28101336</id>
+        <link href="https://clivethompson.medium.com/why-captcha-pictures-are-so-unbearably-depressing-20679b8cf84a"/>
+        <updated>2021-08-07T19:56:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://clivethompson.medium.com/why-captcha-pictures-are-so-unbearably-depressing-20679b8cf84a
+Comments URL: https://news.ycombinator.com/item?id=28101336
+Points: 182
+# Comments: 174]]></summary>
         <author>
-            <name>amadeuspagel</name>
+            <name>_Microft</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Problem with Perceptual Hashes]]></title>
-        <id>https://news.ycombinator.com/item?id=28091750</id>
-        <link href="https://rentafounder.com/the-problem-with-perceptual-hashes/"/>
-        <updated>2021-08-06T19:29:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rentafounder.com/the-problem-with-perceptual-hashes/
-Comments URL: https://news.ycombinator.com/item?id=28091750
-Points: 230
-# Comments: 109]]></summary>
+        <title type="html"><![CDATA[Python, OCaml, and Machine Learning (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=28101252</id>
+        <link href="https://signalsandthreads.com/python-ocaml-and-machine-learning/"/>
+        <updated>2021-08-07T19:43:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://signalsandthreads.com/python-ocaml-and-machine-learning/
+Comments URL: https://news.ycombinator.com/item?id=28101252
+Points: 38
+# Comments: 2]]></summary>
         <author>
-            <name>rivo</name>
+            <name>tosh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Emacs Lock-In Effect or the Emacs Sunk Cost Fallacy]]></title>
-        <id>https://news.ycombinator.com/item?id=28091520</id>
-        <link href="https://karl-voit.at/2021/07/23/emacs-lock-in/"/>
-        <updated>2021-08-06T19:04:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://karl-voit.at/2021/07/23/emacs-lock-in/
-Comments URL: https://news.ycombinator.com/item?id=28091520
-Points: 69
-# Comments: 111]]></summary>
+        <title type="html"><![CDATA[After DeepMind’s cofounder was placed on leave for bullying, Google promoted him]]></title>
+        <id>https://news.ycombinator.com/item?id=28101135</id>
+        <link href="https://www.morningbrew.com/emerging-tech/stories/2021/08/04/deepminds-cofounder-placed-leave-bullying-google-promoted"/>
+        <updated>2021-08-07T19:24:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.morningbrew.com/emerging-tech/stories/2021/08/04/deepminds-cofounder-placed-leave-bullying-google-promoted
+Comments URL: https://news.ycombinator.com/item?id=28101135
+Points: 341
+# Comments: 237]]></summary>
         <author>
-            <name>fipar</name>
+            <name>thereare5lights</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Defunctionalization: Everybody does it, nobody talks about it (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=28091413</id>
-        <link href="https://blog.sigplan.org/2019/12/30/defunctionalization-everybody-does-it-nobody-talks-about-it/"/>
-        <updated>2021-08-06T18:55:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.sigplan.org/2019/12/30/defunctionalization-everybody-does-it-nobody-talks-about-it/
-Comments URL: https://news.ycombinator.com/item?id=28091413
-Points: 36
-# Comments: 13]]></summary>
+        <title type="html"><![CDATA[What comes after open source? (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=28101085</id>
+        <link href="https://denisnazarov.com/what-comes-after-open-source"/>
+        <updated>2021-08-07T19:17:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://denisnazarov.com/what-comes-after-open-source
+Comments URL: https://news.ycombinator.com/item?id=28101085
+Points: 31
+# Comments: 22]]></summary>
         <author>
-            <name>Tomte</name>
+            <name>simonpure</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Atlantic Ocean currents weaken, signalling big weather changes: study]]></title>
-        <id>https://news.ycombinator.com/item?id=28091087</id>
-        <link href="https://www.reuters.com/business/environment/atlantic-ocean-currents-weaken-signalling-big-weather-changes-study-2021-08-05/"/>
-        <updated>2021-08-06T18:26:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/environment/atlantic-ocean-currents-weaken-signalling-big-weather-changes-study-2021-08-05/
-Comments URL: https://news.ycombinator.com/item?id=28091087
-Points: 172
-# Comments: 91]]></summary>
+        <title type="html"><![CDATA[Turning the tables on chess cheating?]]></title>
+        <id>https://news.ycombinator.com/item?id=28100961</id>
+        <link href="https://rjlipton.wpcomstaging.com/2021/08/04/turning-the-tables-on-cheating/"/>
+        <updated>2021-08-07T19:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rjlipton.wpcomstaging.com/2021/08/04/turning-the-tables-on-cheating/
+Comments URL: https://news.ycombinator.com/item?id=28100961
+Points: 19
+# Comments: 11]]></summary>
         <author>
-            <name>gmays</name>
+            <name>blast</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple’s new abuse prevention system: an antritust/competition point of view]]></title>
-        <id>https://news.ycombinator.com/item?id=28090569</id>
-        <link href="https://blog.quintarelli.it/2021/08/apples-child-new-abuse-prevention-system-an-antritustcompetition-point-of-view.html"/>
-        <updated>2021-08-06T17:47:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.quintarelli.it/2021/08/apples-child-new-abuse-prevention-system-an-antritustcompetition-point-of-view.html
-Comments URL: https://news.ycombinator.com/item?id=28090569
-Points: 172
-# Comments: 111]]></summary>
+        <title type="html"><![CDATA[Sci-Hub is fundraising]]></title>
+        <id>https://news.ycombinator.com/item?id=28100744</id>
+        <link href="https://sci-hub.do/donate"/>
+        <updated>2021-08-07T18:28:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sci-hub.do/donate
+Comments URL: https://news.ycombinator.com/item?id=28100744
+Points: 253
+# Comments: 63]]></summary>
         <author>
-            <name>simonebrunozzi</name>
+            <name>NmAmDa</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dating in Delhi when you're poor]]></title>
-        <id>https://news.ycombinator.com/item?id=28090158</id>
-        <link href="https://www.reuters.com/article/delhi-dating-idUSKBN1DU0NE"/>
-        <updated>2021-08-06T17:15:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/delhi-dating-idUSKBN1DU0NE
-Comments URL: https://news.ycombinator.com/item?id=28090158
-Points: 236
-# Comments: 155]]></summary>
+        <title type="html"><![CDATA[What it was like developing for NES back in 1990]]></title>
+        <id>https://news.ycombinator.com/item?id=28100428</id>
+        <link href="https://twitter.com/KevEdwardsRetro/status/1423653418439254026"/>
+        <updated>2021-08-07T17:48:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/KevEdwardsRetro/status/1423653418439254026
+Comments URL: https://news.ycombinator.com/item?id=28100428
+Points: 174
+# Comments: 31]]></summary>
         <author>
-            <name>hidden-spyder</name>
+            <name>_Microft</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CalyxOS – De-Googled Android Alternative]]></title>
-        <id>https://news.ycombinator.com/item?id=28090024</id>
-        <link href="https://calyxos.org/"/>
-        <updated>2021-08-06T17:07:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://calyxos.org/
-Comments URL: https://news.ycombinator.com/item?id=28090024
-Points: 507
-# Comments: 293]]></summary>
+        <title type="html"><![CDATA[Show HN: Object Detection in an Hour]]></title>
+        <id>https://news.ycombinator.com/item?id=28100346</id>
+        <link href="https://www.strayrobots.io/blog/object-detection-in-an-hour"/>
+        <updated>2021-08-07T17:38:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.strayrobots.io/blog/object-detection-in-an-hour
+Comments URL: https://news.ycombinator.com/item?id=28100346
+Points: 93
+# Comments: 21]]></summary>
         <author>
-            <name>ssklash</name>
+            <name>kekeblom</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making Sierra Pay]]></title>
-        <id>https://news.ycombinator.com/item?id=28089581</id>
-        <link href="https://www.filfre.net/2021/08/making-sierra-pay/"/>
-        <updated>2021-08-06T16:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.filfre.net/2021/08/making-sierra-pay/
-Comments URL: https://news.ycombinator.com/item?id=28089581
-Points: 74
-# Comments: 19]]></summary>
+        <title type="html"><![CDATA[Introduction To Program Synthesis (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=28099928</id>
+        <link href="https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm"/>
+        <updated>2021-08-07T16:44:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm
+Comments URL: https://news.ycombinator.com/item?id=28099928
+Points: 85
+# Comments: 3]]></summary>
         <author>
-            <name>doppp</name>
+            <name>optimalsolver</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Open-source A/B testing framework]]></title>
-        <id>https://news.ycombinator.com/item?id=28088882</id>
-        <link href="https://github.com/growthbook/growthbook"/>
-        <updated>2021-08-06T15:53:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/growthbook/growthbook
-Comments URL: https://news.ycombinator.com/item?id=28088882
-Points: 137
-# Comments: 34]]></summary>
+        <title type="html"><![CDATA[With a nudge from AI, ketamine emerges as a potential rare disease treatment]]></title>
+        <id>https://news.ycombinator.com/item?id=28099548</id>
+        <link href="https://www.statnews.com/2021/08/05/artificial-intelligence-rare-disease-andp-medikanren/"/>
+        <updated>2021-08-07T15:55:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.statnews.com/2021/08/05/artificial-intelligence-rare-disease-andp-medikanren/
+Comments URL: https://news.ycombinator.com/item?id=28099548
+Points: 150
+# Comments: 107]]></summary>
         <author>
-            <name>cheeseblubber</name>
+            <name>hassanahmad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bug in Lynx's SSL certificate validation – leaks password in clear text via SNI]]></title>
+        <id>https://news.ycombinator.com/item?id=28099264</id>
+        <link href="https://www.openwall.com/lists/oss-security/2021/08/07/1"/>
+        <updated>2021-08-07T15:26:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.openwall.com/lists/oss-security/2021/08/07/1
+Comments URL: https://news.ycombinator.com/item?id=28099264
+Points: 183
+# Comments: 56]]></summary>
+        <author>
+            <name>jwilk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powering the Lunar Base]]></title>
+        <id>https://news.ycombinator.com/item?id=28098853</id>
+        <link href="https://caseyhandmer.wordpress.com/2021/04/25/powering-the-lunar-base/"/>
+        <updated>2021-08-07T14:32:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://caseyhandmer.wordpress.com/2021/04/25/powering-the-lunar-base/
+Comments URL: https://news.ycombinator.com/item?id=28098853
+Points: 128
+# Comments: 143]]></summary>
+        <author>
+            <name>mercutio2</name>
         </author>
     </entry>
 </feed>
