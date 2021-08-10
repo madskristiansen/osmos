@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=28111469",
-          "author": "TroisM",
-          "description": "Article URL: https://www.npr.org/2021/08/08/1025928690/californias-dixie-fire-is-now-the-2nd-largest-in-state-history\nComments URL: https://news.ycombinator.com/item?id=28111469\nPoints: 14\n# Comments: 0",
-          "link": "https://www.npr.org/2021/08/08/1025928690/californias-dixie-fire-is-now-the-2nd-largest-in-state-history",
-          "publishedOn": "2021-08-09T00:21:24.000Z",
-          "wordCount": 730,
-          "title": "California's Dixie Fire Is Now the 2nd Largest in State History"
+          "id": "https://news.ycombinator.com/item?id=28123203",
+          "author": "spats1990",
+          "description": "Article URL: https://www.ecosophia.net/the-future-is-a-landscape/\nComments URL: https://news.ycombinator.com/item?id=28123203\nPoints: 21\n# Comments: 1",
+          "link": "https://www.ecosophia.net/the-future-is-a-landscape/",
+          "publishedOn": "2021-08-09T22:40:30.000Z",
+          "wordCount": 54102,
+          "title": "The Future Is a Landscape"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28110610",
-          "author": "maciekmm",
-          "description": "Article URL: https://github.com/elastic/elasticsearch-py/pull/1623\nComments URL: https://news.ycombinator.com/item?id=28110610\nPoints: 96\n# Comments: 43",
-          "link": "https://github.com/elastic/elasticsearch-py/pull/1623",
-          "publishedOn": "2021-08-08T22:12:40.000Z",
-          "wordCount": 1084,
-          "title": "Official Elasticsearch Python library no longer works with open-source forks"
+          "id": "https://news.ycombinator.com/item?id=28122950",
+          "author": "clashmeifyoucan",
+          "description": "Article URL: https://beyondloom.com/blog/denial.html\nComments URL: https://news.ycombinator.com/item?id=28122950\nPoints: 59\n# Comments: 15",
+          "link": "https://beyondloom.com/blog/denial.html",
+          "publishedOn": "2021-08-09T22:10:24.000Z",
+          "wordCount": 1052,
+          "title": "Stages of Denial"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28110159",
-          "author": "cwmartin",
-          "description": "Article URL: https://www.hackerfactor.com/blog/index.php?/archives/929-One-Bad-Apple.html\nComments URL: https://news.ycombinator.com/item?id=28110159\nPoints: 351\n# Comments: 104",
-          "link": "https://www.hackerfactor.com/blog/index.php?/archives/929-One-Bad-Apple.html",
-          "publishedOn": "2021-08-08T21:12:41.000Z",
-          "wordCount": 4321,
-          "title": "One Bad Apple"
+          "id": "https://news.ycombinator.com/item?id=28122935",
+          "author": "gurjeet",
+          "description": "Article URL: https://listed.to/@mo/4733/the-top-shelf-principle\nComments URL: https://news.ycombinator.com/item?id=28122935\nPoints: 19\n# Comments: 4",
+          "link": "https://listed.to/@mo/4733/the-top-shelf-principle",
+          "publishedOn": "2021-08-09T22:08:49.000Z",
+          "wordCount": 2183,
+          "title": "The Top-Shelf Principle"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28110066",
-          "author": "mmcclure",
-          "description": "Article URL: https://mux.com/jobs?hnj=full-stack\nComments URL: https://news.ycombinator.com/item?id=28110066\nPoints: 1\n# Comments: 0",
-          "link": "https://mux.com/jobs?hnj=full-stack",
-          "publishedOn": "2021-08-08T21:00:35.000Z",
-          "wordCount": 426,
-          "title": "Mux (YC W16) is hiring full-stack developers to focus on Elixir and TypeScript"
+          "id": "https://news.ycombinator.com/item?id=28122799",
+          "author": "dmitryminkovsky",
+          "description": "Article URL: https://en.currenttime.tv/a/seeking-change-anti-lukashenka-hackers-seize-senior-belarusian-officials-personal-data-/31392092.html\nComments URL: https://news.ycombinator.com/item?id=28122799\nPoints: 137\n# Comments: 44",
+          "link": "https://en.currenttime.tv/a/seeking-change-anti-lukashenka-hackers-seize-senior-belarusian-officials-personal-data-/31392092.html",
+          "publishedOn": "2021-08-09T21:55:37.000Z",
+          "wordCount": 2412,
+          "title": "Anti-Lukashenka hackers seize senior Belarusian officials' personal data"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28109842",
-          "author": "TangerineDream",
-          "description": "Article URL: https://www.tbray.org/ongoing/When/202x/2021/08/07/Apps-Get-Worse\nComments URL: https://news.ycombinator.com/item?id=28109842\nPoints: 402\n# Comments: 328",
-          "link": "https://www.tbray.org/ongoing/When/202x/2021/08/07/Apps-Get-Worse",
-          "publishedOn": "2021-08-08T20:32:31.000Z",
-          "wordCount": 1286,
-          "title": "Apps Getting Worse"
+          "id": "https://news.ycombinator.com/item?id=28122318",
+          "author": "jonas21",
+          "description": "Article URL: https://freddixx.medium.com/hello-yarn-2-goodbye-node-modules-21d97afc1a75\nComments URL: https://news.ycombinator.com/item?id=28122318\nPoints: 107\n# Comments: 73",
+          "link": "https://freddixx.medium.com/hello-yarn-2-goodbye-node-modules-21d97afc1a75",
+          "publishedOn": "2021-08-09T21:04:39.000Z",
+          "wordCount": 112,
+          "title": "Hello Yarn 2, Goodbye node_modules"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28109778",
-          "author": "pkiller",
-          "description": "Article URL: https://internalregister.github.io/2021/08/08/Another-Homebrew-Console.html\nComments URL: https://news.ycombinator.com/item?id=28109778\nPoints: 38\n# Comments: 5",
-          "link": "https://internalregister.github.io/2021/08/08/Another-Homebrew-Console.html",
-          "publishedOn": "2021-08-08T20:23:03.000Z",
-          "wordCount": 5104,
-          "title": "Show HN: Yet another Homebrew Video Game Console, this time FPGA-based"
+          "id": "https://news.ycombinator.com/item?id=28122289",
+          "author": "andreyk",
+          "description": "Article URL: https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/\nComments URL: https://news.ycombinator.com/item?id=28122289\nPoints: 75\n# Comments: 62",
+          "link": "https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/",
+          "publishedOn": "2021-08-09T21:01:26.000Z",
+          "wordCount": 3753,
+          "title": "Machine learning won't solve natural language understanding"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28109442",
-          "author": "agluszak",
-          "description": "Article URL: https://julialang.org/blog/2013/04/put-this-in-your-pipe/\nComments URL: https://news.ycombinator.com/item?id=28109442\nPoints: 39\n# Comments: 0",
-          "link": "https://julialang.org/blog/2013/04/put-this-in-your-pipe/",
-          "publishedOn": "2021-08-08T19:38:13.000Z",
-          "wordCount": 2405,
-          "title": "Put This In Your Pipe (2013)"
+          "id": "https://news.ycombinator.com/item?id=28122285",
+          "author": "jameswilsterman",
+          "description": "Article URL: https://jobs.lever.co/volleythat/5200aeb9-5c55-4490-a92f-1a663d0d8c49\nComments URL: https://news.ycombinator.com/item?id=28122285\nPoints: 1\n# Comments: 0",
+          "link": "https://jobs.lever.co/volleythat/5200aeb9-5c55-4490-a92f-1a663d0d8c49",
+          "publishedOn": "2021-08-09T21:01:05.000Z",
+          "wordCount": 480,
+          "title": "Volley (YC W18) is hiring engineers to build voice games"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28109428",
-          "author": "sova",
-          "description": "Article URL: https://arxiv.org/abs/2108.02547\nComments URL: https://news.ycombinator.com/item?id=28109428\nPoints: 86\n# Comments: 50",
-          "link": "https://arxiv.org/abs/2108.02547",
-          "publishedOn": "2021-08-08T19:36:10.000Z",
-          "wordCount": 663,
-          "title": "Fairer Chess: A Reversal of Two Opening Moves in Chess Creates Balance"
+          "id": "https://news.ycombinator.com/item?id=28122173",
+          "author": "klevertree",
+          "description": "Article URL: https://get21stnight.com/2021/08/09/difficult-math-is-about-recognizing-patterns-lessons-from-jeff-bezos/\nComments URL: https://news.ycombinator.com/item?id=28122173\nPoints: 46\n# Comments: 29",
+          "link": "https://get21stnight.com/2021/08/09/difficult-math-is-about-recognizing-patterns-lessons-from-jeff-bezos/",
+          "publishedOn": "2021-08-09T20:49:09.000Z",
+          "wordCount": 692,
+          "title": "Difficult math is about recognizing patterns"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28109416",
-          "author": "mpweiher",
-          "description": "Article URL: https://investors.biontech.de/news-releases/news-release-details/biontech-provides-update-plans-develop-sustainable-solutions\nComments URL: https://news.ycombinator.com/item?id=28109416\nPoints: 80\n# Comments: 2",
-          "link": "https://investors.biontech.de/news-releases/news-release-details/biontech-provides-update-plans-develop-sustainable-solutions",
-          "publishedOn": "2021-08-08T19:34:56.000Z",
-          "wordCount": 1758,
-          "title": "BioNTech Plans to Address Infectious Diseases on the African Continent"
+          "id": "https://news.ycombinator.com/item?id=28122056",
+          "author": "sergiotapia",
+          "description": "Article URL: https://github.com/sergiotapia/torrentinim\nComments URL: https://news.ycombinator.com/item?id=28122056\nPoints: 51\n# Comments: 9",
+          "link": "https://github.com/sergiotapia/torrentinim",
+          "publishedOn": "2021-08-09T20:37:48.000Z",
+          "wordCount": 928,
+          "title": "Show HN: Torrentinim – low memory-footprint, API-only torrent search engine"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28109279",
-          "author": "parsecs",
-          "description": "Article URL: https://destevez.net/2021/08/imaging-cygnus-a-at-8-45-ghz-with-ata/\nComments URL: https://news.ycombinator.com/item?id=28109279\nPoints: 105\n# Comments: 9",
-          "link": "https://destevez.net/2021/08/imaging-cygnus-a-at-8-45-ghz-with-ata/",
-          "publishedOn": "2021-08-08T19:11:40.000Z",
-          "wordCount": 2344,
-          "title": "Imaging Cygnus a at 8.45 GHz with ATA"
+          "id": "https://news.ycombinator.com/item?id=28121929",
+          "author": "bryan0",
+          "description": "Article URL: https://www.npr.org/2021/08/09/1026091196/this-sweet-white-flower-is-actually-a-sneaky-carnivore-scientists-discovered\nComments URL: https://news.ycombinator.com/item?id=28121929\nPoints: 245\n# Comments: 56",
+          "link": "https://www.npr.org/2021/08/09/1026091196/this-sweet-white-flower-is-actually-a-sneaky-carnivore-scientists-discovered",
+          "publishedOn": "2021-08-09T20:25:32.000Z",
+          "wordCount": 1134,
+          "title": "New carnivorous plant discovered in Pacific Northwest"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28108817",
-          "author": "elliekelly",
-          "description": "Article URL: https://thereader.mitpress.mit.edu/what-irony-is-not/\nComments URL: https://news.ycombinator.com/item?id=28108817\nPoints: 32\n# Comments: 26",
-          "link": "https://thereader.mitpress.mit.edu/what-irony-is-not/",
-          "publishedOn": "2021-08-08T18:20:53.000Z",
-          "wordCount": 4468,
-          "title": "What Irony Is Not (2020)"
+          "id": "https://news.ycombinator.com/item?id=28121870",
+          "author": "simonpure",
+          "description": "Article URL: http://www.cs.columbia.edu/~tr/s20/s20.html\nComments URL: https://news.ycombinator.com/item?id=28121870\nPoints: 50\n# Comments: 1",
+          "link": "http://www.cs.columbia.edu/~tr/s20/s20.html",
+          "publishedOn": "2021-08-09T20:20:50.000Z",
+          "wordCount": 2042,
+          "title": "Incentives in Computer Science"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28108806",
-          "author": "mahmoudimus",
-          "description": "Article URL: https://renato.athaydes.com/posts/revisiting-prechelt-paper-comparing-languages.html\nComments URL: https://news.ycombinator.com/item?id=28108806\nPoints: 69\n# Comments: 24",
-          "link": "https://renato.athaydes.com/posts/revisiting-prechelt-paper-comparing-languages.html",
-          "publishedOn": "2021-08-08T18:19:08.000Z",
-          "wordCount": 5201,
-          "title": "Revisiting Prechelt’s paper comparing Java, Lisp, C/C++ and scripting languages"
+          "id": "https://news.ycombinator.com/item?id=28121108",
+          "author": "harporoeder",
+          "description": "Article URL: https://blog.polybdenum.com/2021/08/09/when-zero-cost-abstractions-aren-t-zero-cost.html\nComments URL: https://news.ycombinator.com/item?id=28121108\nPoints: 28\n# Comments: 2",
+          "link": "https://blog.polybdenum.com/2021/08/09/when-zero-cost-abstractions-aren-t-zero-cost.html",
+          "publishedOn": "2021-08-09T19:17:27.000Z",
+          "wordCount": 1682,
+          "title": "When zero cost abstractions aren't zero cost"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28108586",
-          "author": "tosh",
-          "description": "Article URL: https://signalsandthreads.com/clock-synchronization/\nComments URL: https://news.ycombinator.com/item?id=28108586\nPoints: 48\n# Comments: 6",
-          "link": "https://signalsandthreads.com/clock-synchronization/",
-          "publishedOn": "2021-08-08T17:49:14.000Z",
-          "wordCount": 10794,
-          "title": "Clock Synchronization (2020)"
+          "id": "https://news.ycombinator.com/item?id=28121060",
+          "author": "decodebytes",
+          "description": "Article URL: https://sigstore.dev\nComments URL: https://news.ycombinator.com/item?id=28121060\nPoints: 84\n# Comments: 49",
+          "link": "https://sigstore.dev",
+          "publishedOn": "2021-08-09T19:14:22.000Z",
+          "wordCount": 618,
+          "title": "Sigstore – A new standard for signing, verifying and protecting software"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28108491",
-          "author": "OJFord",
-          "description": "Article URL: https://eandt.theiet.org/content/articles/2021/07/glenfiddich-uses-own-whisky-waste-to-fuel-trucks/\nComments URL: https://news.ycombinator.com/item?id=28108491\nPoints: 169\n# Comments: 114",
-          "link": "https://eandt.theiet.org/content/articles/2021/07/glenfiddich-uses-own-whisky-waste-to-fuel-trucks/",
-          "publishedOn": "2021-08-08T17:38:53.000Z",
-          "wordCount": 1155,
-          "title": "Glenfiddich will use its own whisky waste to fuel its trucks"
+          "id": "https://news.ycombinator.com/item?id=28120483",
+          "author": "incomplete",
+          "description": "Article URL: https://news.berkeley.edu/2021/08/09/how-wildfire-restored-a-yosemite-watershed/\nComments URL: https://news.ycombinator.com/item?id=28120483\nPoints: 223\n# Comments: 129",
+          "link": "https://news.berkeley.edu/2021/08/09/how-wildfire-restored-a-yosemite-watershed/",
+          "publishedOn": "2021-08-09T18:33:46.000Z",
+          "wordCount": 3037,
+          "title": "Wildfire restored a Yosemite watershed"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28107996",
-          "author": "ithkuil",
-          "description": "Article URL: https://physicsworld.com/a/introducing-the-non-radiating-antenna/\nComments URL: https://news.ycombinator.com/item?id=28107996\nPoints: 61\n# Comments: 12",
-          "link": "https://physicsworld.com/a/introducing-the-non-radiating-antenna/",
-          "publishedOn": "2021-08-08T16:38:39.000Z",
-          "wordCount": 1981,
-          "title": "The Non-Radiating Antenna"
+          "id": "https://news.ycombinator.com/item?id=28120247",
+          "author": "hwayne",
+          "description": "Article URL: https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK\nComments URL: https://news.ycombinator.com/item?id=28120247\nPoints: 93\n# Comments: 24",
+          "link": "https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK",
+          "publishedOn": "2021-08-09T18:16:32.000Z",
+          "wordCount": 17,
+          "title": "Show HN: Free, Accessible AI Art Generator"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28107989",
-          "author": "amargautam",
-          "description": "Hi HN, my name is Amar, and I am the founder and CEO at HyperLinq (https://hyperlinq.io/). We are building HyperTrader, a simple yet powerful native desktop trading terminal. Our app currently supports cryptocurrency trading, but we will soon expand into other asset classes like US stocks. We make it easy for traders to track multiple portfolios, discover the best prices, execute orders faster and analyze their trades.\nBetween my co-founders Karamvir and Kunal and myself, we have over 30 years of experience building trading systems. Karamvir and I worked at an inter-dealer broker in NYC and built many trading systems together. We also used to trade cryptocurrency. Back then there was a huge price disparity between exchanges, so we were able to do arbitrages.\nWe looked around and couldn't s…",
-          "link": "https://news.ycombinator.com/item?id=28107989",
-          "publishedOn": "2021-08-08T16:38:04.000Z",
-          "wordCount": 3197,
-          "title": "Launch HN: HyperLinq (YC S21) – Desktop trading terminal"
+          "id": "https://news.ycombinator.com/item?id=28119943",
+          "author": "harporoeder",
+          "description": "Article URL: https://www.thecgo.org/news/bring-back-hydrogen-lifting-gas/\nComments URL: https://news.ycombinator.com/item?id=28119943\nPoints: 165\n# Comments: 207",
+          "link": "https://www.thecgo.org/news/bring-back-hydrogen-lifting-gas/",
+          "publishedOn": "2021-08-09T17:50:13.000Z",
+          "wordCount": 2059,
+          "title": "Bring back hydrogen lifting gas"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28107943",
-          "author": "akvadrako",
-          "description": "Article URL: http://www.gnu.org/software/kawa/index.html\nComments URL: https://news.ycombinator.com/item?id=28107943\nPoints: 65\n# Comments: 24",
-          "link": "http://www.gnu.org/software/kawa/index.html",
-          "publishedOn": "2021-08-08T16:34:38.000Z",
-          "wordCount": 236,
-          "title": "The Kawa Scheme Language"
+          "id": "https://news.ycombinator.com/item?id=28119633",
+          "author": "5faulker",
+          "description": "Article URL: https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Why_does_it_take_so_long_to_get_to_Mercury\nComments URL: https://news.ycombinator.com/item?id=28119633\nPoints: 120\n# Comments: 58",
+          "link": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Why_does_it_take_so_long_to_get_to_Mercury",
+          "publishedOn": "2021-08-09T17:26:24.000Z",
+          "wordCount": 1188,
+          "title": "Why does it take so long to get to Mercury?"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28107614",
-          "author": "DanBC",
-          "description": "Article URL: https://www.nature.com/articles/d41586-021-02134-0\nComments URL: https://news.ycombinator.com/item?id=28107614\nPoints: 166\n# Comments: 80",
-          "link": "https://www.nature.com/articles/d41586-021-02134-0",
-          "publishedOn": "2021-08-08T15:54:37.000Z",
-          "wordCount": 1742,
-          "title": "Tortured phrases: A dubious writing style emerging in science"
+          "id": "https://news.ycombinator.com/item?id=28119025",
+          "author": "bitfield",
+          "description": "Article URL: https://bitfieldconsulting.com/blog/got-game-secrets-of-great-incident-management\nComments URL: https://news.ycombinator.com/item?id=28119025\nPoints: 120\n# Comments: 50",
+          "link": "https://bitfieldconsulting.com/blog/got-game-secrets-of-great-incident-management",
+          "publishedOn": "2021-08-09T16:38:28.000Z",
+          "wordCount": 2228,
+          "title": "Fundamentals of Incident Management"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28107608",
-          "author": "StuntPope",
-          "description": "Article URL: https://bombthrower.com/articles/when-dissent-is-misinformation-fallacies-become-facts/\nComments URL: https://news.ycombinator.com/item?id=28107608\nPoints: 215\n# Comments: 159",
-          "link": "https://bombthrower.com/articles/when-dissent-is-misinformation-fallacies-become-facts/",
-          "publishedOn": "2021-08-08T15:53:57.000Z",
-          "wordCount": 2207,
-          "title": "Big Tech are supposed to be the plumbers, not patricians of internet discourse"
+          "id": "https://news.ycombinator.com/item?id=28118350",
+          "author": "feross",
+          "description": "Article URL: https://stratechery.com/2021/apples-mistake/\nComments URL: https://news.ycombinator.com/item?id=28118350\nPoints: 1009\n# Comments: 676",
+          "link": "https://stratechery.com/2021/apples-mistake/",
+          "publishedOn": "2021-08-09T15:47:22.000Z",
+          "wordCount": 2686,
+          "title": "Apple’s Mistake"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28107584",
-          "author": "pshaw",
-          "description": "Article URL: https://www.berfrois.com/2021/07/1984-by-george-orwell/\nComments URL: https://news.ycombinator.com/item?id=28107584\nPoints: 138\n# Comments: 100",
-          "link": "https://www.berfrois.com/2021/07/1984-by-george-orwell/",
-          "publishedOn": "2021-08-08T15:50:53.000Z",
-          "wordCount": 5196,
-          "title": "The Principles of Newspeak (1949)"
+          "id": "https://news.ycombinator.com/item?id=28116888",
+          "author": "joshwcomeau",
+          "description": "Article URL: https://www.joshwcomeau.com/css/transforms/\nComments URL: https://news.ycombinator.com/item?id=28116888\nPoints: 243\n# Comments: 62",
+          "link": "https://www.joshwcomeau.com/css/transforms/",
+          "publishedOn": "2021-08-09T13:57:57.000Z",
+          "wordCount": 1946,
+          "title": "The World of CSS Transforms"
         }
       ]
     }
