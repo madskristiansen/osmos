@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=28149974",
-          "author": "baybal2",
-          "description": "Article URL: https://www.bbc.co.uk/news/world-europe-58170872\nComments URL: https://news.ycombinator.com/item?id=28149974\nPoints: 9\n# Comments: 0",
-          "link": "https://www.bbc.co.uk/news/world-europe-58170872",
-          "publishedOn": "2021-08-12T00:15:45.000Z",
-          "wordCount": 1094,
-          "title": "Germany arrests British man suspected of spying for Russia"
+          "id": "https://news.ycombinator.com/item?id=28162563",
+          "author": "nobody9999",
+          "description": "Article URL: https://www.census.gov/newsroom/press-releases/2021/population-changes-nations-diversity.html\nComments URL: https://news.ycombinator.com/item?id=28162563\nPoints: 34\n# Comments: 5",
+          "link": "https://www.census.gov/newsroom/press-releases/2021/population-changes-nations-diversity.html",
+          "publishedOn": "2021-08-12T22:43:30.000Z",
+          "wordCount": 3286,
+          "title": "2020 Census Statistics Highlight Local Population Changes"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28148987",
-          "author": "mitchbob",
-          "description": "Article URL: https://www.medrxiv.org/content/10.1101/2021.08.06.21261707v1\nComments URL: https://news.ycombinator.com/item?id=28148987\nPoints: 62\n# Comments: 36",
-          "link": "https://www.medrxiv.org/content/10.1101/2021.08.06.21261707v1",
-          "publishedOn": "2021-08-11T22:53:17.000Z",
-          "wordCount": 1761,
-          "title": "Moderna Vaccine Significantly More Effective Against Delta Variant Than Pfizer"
+          "id": "https://news.ycombinator.com/item?id=28162412",
+          "author": "spenvo",
+          "description": "Article URL: https://www.reuters.com/technology/exclusive-apples-child-protection-features-spark-concern-within-its-own-ranks-2021-08-12/\nComments URL: https://news.ycombinator.com/item?id=28162412\nPoints: 370\n# Comments: 231",
+          "link": "https://www.reuters.com/technology/exclusive-apples-child-protection-features-spark-concern-within-its-own-ranks-2021-08-12/",
+          "publishedOn": "2021-08-12T22:26:42.000Z",
+          "wordCount": 1320,
+          "title": "Apple's child protection features spark concern within its own ranks -sources"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28148229",
-          "author": "riebschlager",
-          "description": "Article URL: https://nianticlabs.com/blog/real-world-metaverse/\nComments URL: https://news.ycombinator.com/item?id=28148229\nPoints: 72\n# Comments: 39",
-          "link": "https://nianticlabs.com/blog/real-world-metaverse/",
-          "publishedOn": "2021-08-11T21:47:05.000Z",
-          "wordCount": 2192,
-          "title": "The metaverse is a dystopian nightmare – let’s build a better reality"
+          "id": "https://news.ycombinator.com/item?id=28161596",
+          "author": "arcatek",
+          "description": "Article URL: https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html\nComments URL: https://news.ycombinator.com/item?id=28161596\nPoints: 34\n# Comments: 9",
+          "link": "https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html",
+          "publishedOn": "2021-08-12T21:17:15.000Z",
+          "wordCount": 15473,
+          "title": "C++ Exceptions: Under the Hood"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28147660",
-          "author": "sangwen",
-          "description": "Article URL: https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567\nComments URL: https://news.ycombinator.com/item?id=28147660\nPoints: 1\n# Comments: 0",
-          "link": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567",
-          "publishedOn": "2021-08-11T21:01:15.000Z",
-          "wordCount": 505,
-          "title": "Smarking (YC W15) Is Hiring a Head of Engineering"
+          "id": "https://news.ycombinator.com/item?id=28161397",
+          "author": "jwenig",
+          "description": "Coursedog's mission is to break down barriers in Higher Education. To do so, we are building a modern operating system for Higher Education: from supercharging the student scheduling experience to empowering administrators with analytics that graduate more students in less time. Our vision is to build software that enables the $800b Higher Education market to reach its highest ideals to facilitate upward mobility, equity and positive change.\nCoursedog has raised $23m in venture capital financing from top investors including Y Combinator & First Round Capital We were recently ranked in Forbes top 500 US startup employers and our employee engagement scores rank in the top 5% of tech companies. You can learn more about our culture here: https://www.notion.so/coursedog1/The-Coursedog-Brain-e49387c...\nComments URL: https://news.ycombinator.com/item?id=28161397\nPoints: 1\n# Comments: 0",
+          "link": "https://news.ycombinator.com/item?id=28161397",
+          "publishedOn": "2021-08-12T21:00:32.000Z",
+          "wordCount": 185,
+          "title": "Coursedog (YC W19) Is Hiring a VP of Engineering"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28145998",
-          "author": "berkozer",
-          "description": "Hi HN, we’re SenpAI.GG (https://senpai.gg/). We help gamers get better by providing real-time, personalized suggestions and feedback before, during, and after games.\nIt takes a lot of time and effort to become good at popular games. Even after learning a game, you need to adapt your gameplay to meta changes (game updates). We’ve developed a desktop application to accelerate your learning curve, as well as easily adjusting your gameplay as games get updated. We provide personalized recommendations before the game to set up strategies, give instant notifications and feedback while playing the game, and detailed post-game analysis to improve your gameplay.\nWe're friends from college and played many games together during our dorm life in the early 2010s, especially Age of Empires II (we're old…",
-          "link": "https://news.ycombinator.com/item?id=28145998",
-          "publishedOn": "2021-08-11T18:44:57.000Z",
-          "wordCount": 10449,
-          "title": "Launch HN: Senpai.gg (YC S21) – Personal gaming coach for PC gamers"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28145918",
-          "author": "spfzero",
-          "description": "Article URL: https://www.antipope.org/charlie/blog-static/2021/05/because-i-am-bored.html\nComments URL: https://news.ycombinator.com/item?id=28145918\nPoints: 175\n# Comments: 144",
-          "link": "https://www.antipope.org/charlie/blog-static/2021/05/because-i-am-bored.html",
-          "publishedOn": "2021-08-11T18:38:42.000Z",
+          "id": "https://news.ycombinator.com/item?id=28161281",
+          "author": "geox",
+          "description": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/ese3.956\nComments URL: https://news.ycombinator.com/item?id=28161281\nPoints: 113\n# Comments: 108",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1002/ese3.956",
+          "publishedOn": "2021-08-12T20:50:35.000Z",
           "wordCount": null,
-          "title": "Because I Am Bored"
+          "title": "Touted as clean, ‘blue’ hydrogen may be worse than gas, coal"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28145247",
-          "author": "taxyovio",
-          "description": "Article URL: https://1password.community/discussion/comment/601917/#Comment_601917\nComments URL: https://news.ycombinator.com/item?id=28145247\nPoints: 402\n# Comments: 468",
-          "link": "https://1password.community/discussion/comment/601917/#Comment_601917",
-          "publishedOn": "2021-08-11T17:47:49.000Z",
-          "wordCount": 6853,
-          "title": "1Password 8 will be subscription only and won’t support local vaults"
+          "id": "https://news.ycombinator.com/item?id=28160977",
+          "author": "dgellow",
+          "description": "Article URL: https://gist.github.com/pesterhazy/4de96193af89a6dd5ce682ce2adff49a\nComments URL: https://news.ycombinator.com/item?id=28160977\nPoints: 33\n# Comments: 9",
+          "link": "https://gist.github.com/pesterhazy/4de96193af89a6dd5ce682ce2adff49a",
+          "publishedOn": "2021-08-12T20:24:30.000Z",
+          "wordCount": 1901,
+          "title": "The pain and anguish of using IndexedDB: problems, bugs and oddities"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28145209",
-          "author": "grafelic",
-          "description": "Article URL: https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797\nComments URL: https://news.ycombinator.com/item?id=28145209\nPoints: 94\n# Comments: 35",
-          "link": "https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797",
-          "publishedOn": "2021-08-11T17:45:44.000Z",
-          "wordCount": 3542,
-          "title": "ANSI Escape Codes"
+          "id": "https://news.ycombinator.com/item?id=28160869",
+          "author": "judge2020",
+          "description": "Article URL: https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/\nComments URL: https://news.ycombinator.com/item?id=28160869\nPoints: 213\n# Comments: 121",
+          "link": "https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/",
+          "publishedOn": "2021-08-12T20:12:15.000Z",
+          "wordCount": 179,
+          "title": "GitHub: Git password authentication is shutting down"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28144867",
-          "author": "averysmallbird",
-          "description": "Article URL: https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-blackburn-and-klobuchar-introduce-bipartisan-antitrust-legislation-to-promote-app-store-competition\nComments URL: https://news.ycombinator.com/item?id=28144867\nPoints: 153\n# Comments: 74",
-          "link": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-blackburn-and-klobuchar-introduce-bipartisan-antitrust-legislation-to-promote-app-store-competition",
-          "publishedOn": "2021-08-11T17:20:42.000Z",
-          "wordCount": 2167,
-          "title": "Senators introduce bipartisan antitrust bill to promote app store competition"
+          "id": "https://news.ycombinator.com/item?id=28160673",
+          "author": "arespredator",
+          "description": "Article URL: https://piotr.is/2021/08/12/apple-csam/\nComments URL: https://news.ycombinator.com/item?id=28160673\nPoints: 464\n# Comments: 348",
+          "link": "https://piotr.is/2021/08/12/apple-csam/",
+          "publishedOn": "2021-08-12T19:52:25.000Z",
+          "wordCount": 1276,
+          "title": "The Deceptive PR Behind Apple’s “Expanded Protections for Children”"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28144034",
-          "author": "jslakro",
-          "description": "Article URL: https://geoscience.unlv.edu/what-to-do-if-you-think-that-youve-found-a-meteorite/\nComments URL: https://news.ycombinator.com/item?id=28144034\nPoints: 50\n# Comments: 32",
-          "link": "https://geoscience.unlv.edu/what-to-do-if-you-think-that-youve-found-a-meteorite/",
-          "publishedOn": "2021-08-11T16:22:02.000Z",
-          "wordCount": 604,
-          "title": "What to do if you think that you’ve found a meteorite"
+          "id": "https://news.ycombinator.com/item?id=28160553",
+          "author": "warrenm",
+          "description": "Article URL: https://www.icij.org/investigations/fincen-files/a-kleptocrats-dream-us-real-estate-a-safe-haven-for-billions-in-dirty-money-report-says\nComments URL: https://news.ycombinator.com/item?id=28160553\nPoints: 160\n# Comments: 118",
+          "link": "https://www.icij.org/investigations/fincen-files/a-kleptocrats-dream-us-real-estate-a-safe-haven-for-billions-in-dirty-money-report-says",
+          "publishedOn": "2021-08-12T19:41:25.000Z",
+          "wordCount": 1468,
+          "title": "US real estate a safe haven for billions in dirty money, report says"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28143722",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/\nComments URL: https://news.ycombinator.com/item?id=28143722\nPoints: 634\n# Comments: 542",
-          "link": "https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/",
-          "publishedOn": "2021-08-11T16:01:01.000Z",
-          "wordCount": 2296,
-          "title": "GitHub’s engineering team has moved to Codespaces"
+          "id": "https://news.ycombinator.com/item?id=28160368",
+          "author": "lisptime",
+          "description": "Article URL: https://lwn.net/SubscriberLink/865756/a7f67aaa8ea52862/\nComments URL: https://news.ycombinator.com/item?id=28160368\nPoints: 136\n# Comments: 27",
+          "link": "https://lwn.net/SubscriberLink/865756/a7f67aaa8ea52862/",
+          "publishedOn": "2021-08-12T19:22:54.000Z",
+          "wordCount": 6069,
+          "title": "Scanning “Private” Content"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28143261",
-          "author": "gscott",
-          "description": "Article URL: https://zapier.com/blog/actual-impostors-dont-get-impostor-syndrome/\nComments URL: https://news.ycombinator.com/item?id=28143261\nPoints: 305\n# Comments: 227",
-          "link": "https://zapier.com/blog/actual-impostors-dont-get-impostor-syndrome/",
-          "publishedOn": "2021-08-11T15:33:47.000Z",
-          "wordCount": 1511,
-          "title": "Actual impostors don't get impostor syndrome"
+          "id": "https://news.ycombinator.com/item?id=28159129",
+          "author": "TMWNN",
+          "description": "Article URL: https://github.com/unbibium/atari64\nComments URL: https://news.ycombinator.com/item?id=28159129\nPoints: 69\n# Comments: 26",
+          "link": "https://github.com/unbibium/atari64",
+          "publishedOn": "2021-08-12T17:35:01.000Z",
+          "wordCount": 1481,
+          "title": "Commodore 64 BASIC and KERNAL on Atari 8-bit hardware"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28143238",
-          "author": "TangerineDream",
-          "description": "Article URL: https://torrentfreak.com/netflix-intensifies-vpn-ban-and-targets-residential-ip-addresses-too-210811/\nComments URL: https://news.ycombinator.com/item?id=28143238\nPoints: 162\n# Comments: 179",
-          "link": "https://torrentfreak.com/netflix-intensifies-vpn-ban-and-targets-residential-ip-addresses-too-210811/",
-          "publishedOn": "2021-08-11T15:32:21.000Z",
-          "wordCount": 1258,
-          "title": "Netflix intensifies VPN ban and targets residential IP addresses"
+          "id": "https://news.ycombinator.com/item?id=28158939",
+          "author": "nicolaslem",
+          "description": "Article URL: https://puri.sm/posts/internet-of-snitches/\nComments URL: https://news.ycombinator.com/item?id=28158939\nPoints: 338\n# Comments: 147",
+          "link": "https://puri.sm/posts/internet-of-snitches/",
+          "publishedOn": "2021-08-12T17:19:03.000Z",
+          "wordCount": 1687,
+          "title": "Internet of Snitches"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28142002",
-          "author": "maltz",
-          "description": "Article URL: https://www.zenrows.com/blog/mastering-web-scraping-in-python-crawling-from-scratch\nComments URL: https://news.ycombinator.com/item?id=28142002\nPoints: 149\n# Comments: 52",
-          "link": "https://www.zenrows.com/blog/mastering-web-scraping-in-python-crawling-from-scratch",
-          "publishedOn": "2021-08-11T13:55:49.000Z",
-          "wordCount": 2863,
-          "title": "Mastering Web Scraping in Python: Crawling from Scratch"
+          "id": "https://news.ycombinator.com/item?id=28158512",
+          "author": "plewto",
+          "description": "Article URL: https://github.com/plewto/Pigiron\nComments URL: https://news.ycombinator.com/item?id=28158512\nPoints: 41\n# Comments: 4",
+          "link": "https://github.com/plewto/Pigiron",
+          "publishedOn": "2021-08-12T16:44:04.000Z",
+          "wordCount": 1098,
+          "title": "Pigiron, a MIDI Routing Utility with OSC"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28141462",
-          "author": "CoffeePython",
-          "description": "Hi HN, I'm Kenneth and I'm the founder of Slip (https://www.slip.so), a marketplace for programmers to build and sell courses, including interactive elements like in-browser code execution, popular programming embeds (CodeSandbox, StackBlitz, Replit repls (Coming soon)), and videos.\nInstead of spending 3 or more months building their own course platform, developers can use Slip to create engaging interactive courses and make more money faster from their knowledge\nIn January, I built vim.so in 3 days, and made $11k in my first month. I even did a Show HN for it (https://news.ycombinator.com/item?id=25846347). I was able to do it in 3 days because I had previously spent 3 months building an interactive course for Python fundamentals. That previous experience reduced the time it took me to bu…",
-          "link": "https://news.ycombinator.com/item?id=28141462",
-          "publishedOn": "2021-08-11T12:59:30.000Z",
-          "wordCount": 4678,
-          "title": "Launch HN: Slip (YC S21) – Build and sell interactive programming courses"
+          "id": "https://news.ycombinator.com/item?id=28158435",
+          "author": "danielsokil",
+          "description": "Article URL: https://kerkour.com/blog/overthinking/\nComments URL: https://news.ycombinator.com/item?id=28158435\nPoints: 100\n# Comments: 43",
+          "link": "https://kerkour.com/blog/overthinking/",
+          "publishedOn": "2021-08-12T16:37:46.000Z",
+          "wordCount": 1115,
+          "title": "Overthinking"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28141365",
-          "author": "danny00",
-          "description": "Article URL: https://github.com/uwu-tech/kind\nComments URL: https://news.ycombinator.com/item?id=28141365\nPoints: 194\n# Comments: 85",
-          "link": "https://github.com/uwu-tech/kind",
-          "publishedOn": "2021-08-11T12:47:34.000Z",
-          "wordCount": 1601,
-          "title": "Kind: A Modern Proof Language"
+          "id": "https://news.ycombinator.com/item?id=28157768",
+          "author": "droelf",
+          "description": "Article URL: https://packaging-con.org/\nComments URL: https://news.ycombinator.com/item?id=28157768\nPoints: 70\n# Comments: 21",
+          "link": "https://packaging-con.org/",
+          "publishedOn": "2021-08-12T15:46:07.000Z",
+          "wordCount": 856,
+          "title": "Packaging Con 2021: a conference for package management devs and communities"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28141203",
-          "author": "mad_ned",
-          "description": "Article URL: https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed\nComments URL: https://news.ycombinator.com/item?id=28141203\nPoints: 633\n# Comments: 271",
-          "link": "https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed",
-          "publishedOn": "2021-08-11T12:31:22.000Z",
-          "wordCount": 5328,
-          "title": "An old hacker's tips on staying employed"
+          "id": "https://news.ycombinator.com/item?id=28157657",
+          "author": "sigil",
+          "description": "Article URL: https://fishdraw.glitch.me/\nComments URL: https://news.ycombinator.com/item?id=28157657\nPoints: 358\n# Comments: 64",
+          "link": "https://fishdraw.glitch.me/",
+          "publishedOn": "2021-08-12T15:37:16.000Z",
+          "wordCount": 10,
+          "title": "Fishdraw: Procedurally Generated Fish Drawings"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28141089",
-          "author": "wut42",
-          "description": "Article URL: https://www.currybet.net/cbet_blog/2008/01/copy-protection-for-vinyl-in-t.php\nComments URL: https://news.ycombinator.com/item?id=28141089\nPoints: 110\n# Comments: 64",
-          "link": "https://www.currybet.net/cbet_blog/2008/01/copy-protection-for-vinyl-in-t.php",
-          "publishedOn": "2021-08-11T12:18:53.000Z",
-          "wordCount": 1948,
-          "title": "Copy-protection for vinyl in the 1970s (2008)"
+          "id": "https://news.ycombinator.com/item?id=28157085",
+          "author": "infodocket",
+          "description": "Article URL: https://www.nytimes.com/2021/08/12/technology/reddit-new-funding.html\nComments URL: https://news.ycombinator.com/item?id=28157085\nPoints: 143\n# Comments: 292",
+          "link": "https://www.nytimes.com/2021/08/12/technology/reddit-new-funding.html",
+          "publishedOn": "2021-08-12T14:54:32.000Z",
+          "wordCount": 560,
+          "title": "Reddit raises $410M in new funding"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28140732",
-          "author": "alexvoica",
-          "description": "Article URL: https://engineering.fb.com/2021/08/11/open-source/time-appliance/\nComments URL: https://news.ycombinator.com/item?id=28140732\nPoints: 430\n# Comments: 158",
-          "link": "https://engineering.fb.com/2021/08/11/open-source/time-appliance/",
-          "publishedOn": "2021-08-11T11:37:48.000Z",
-          "wordCount": 2860,
-          "title": "Open-sourcing a more precise time appliance"
+          "id": "https://news.ycombinator.com/item?id=28156831",
+          "author": "rasmusfabbe",
+          "description": "Article URL: https://jlongster.com/future-sql-web\nComments URL: https://news.ycombinator.com/item?id=28156831\nPoints: 669\n# Comments: 150",
+          "link": "https://jlongster.com/future-sql-web",
+          "publishedOn": "2021-08-12T14:33:42.000Z",
+          "wordCount": 4260,
+          "title": "A future for SQL on the web"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28140621",
-          "author": "aries1980",
-          "description": "Article URL: https://www.ianvisits.co.uk/blog/2021/08/11/british-library-puts-1-million-newspaper-pages-online-for-free/\nComments URL: https://news.ycombinator.com/item?id=28140621\nPoints: 279\n# Comments: 47",
-          "link": "https://www.ianvisits.co.uk/blog/2021/08/11/british-library-puts-1-million-newspaper-pages-online-for-free/",
-          "publishedOn": "2021-08-11T11:20:20.000Z",
-          "wordCount": 2012,
-          "title": "The British Library puts 1M newspaper pages online for free"
+          "id": "https://news.ycombinator.com/item?id=28156550",
+          "author": "theafh",
+          "description": "Article URL: https://www.quantamagazine.org/physicists-create-a-bizarre-wigner-crystal-made-purely-of-electrons-20210812/\nComments URL: https://news.ycombinator.com/item?id=28156550\nPoints: 101\n# Comments: 23",
+          "link": "https://www.quantamagazine.org/physicists-create-a-bizarre-wigner-crystal-made-purely-of-electrons-20210812/",
+          "publishedOn": "2021-08-12T14:08:01.000Z",
+          "wordCount": 1215,
+          "title": "Physicists Create a Bizarre ‘Wigner Crystal’ Made Purely of Electrons"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28156460",
+          "author": "dang",
+          "description": "Welcome to another \"Meet the Batch\" thread for YC's S21 batch. The previous thread was https://news.ycombinator.com/item?id=28128957. The original announcement is at https://news.ycombinator.com/item?id=27877280.\nThere are 6 startups in this thread. The initial order is random:\nKodex (YC S21) - Easy responses to government data requests - https://news.ycombinator.com/item?id=28156465\nHeyCharge (YC S21) - Low-cost EV charging in multi-user buildings - https://news.ycombinator.com/item?id=28156463\nParallel Bio (YC S21) - Improving drug discovery by replacing animal models - https://news.ycombinator.com/item?id=28156464\nSecoda (YC S21) - Company data discovery tool for teams - https://news.ycombinator.com/item?id=28156461\nOneistox (YC S21) - Skill-building, cohort-based courses for designers - https://news.ycombinator.com/item?id=28156462\nZeit Medical (YC S21) - Early detection of stroke - https://news.ycombinator.com/item?id=28156466\nComments URL: https://news.ycombinator.com/item?id=28156460\nPoints: 80\n# Comments: 58",
+          "link": "https://news.ycombinator.com/item?id=28156460",
+          "publishedOn": "2021-08-12T14:01:08.000Z",
+          "wordCount": 7816,
+          "title": "Launch YC S21: Meet the Batch, Thread #6"
         }
       ]
     }
