@@ -1,271 +1,269 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-14T00:47:28.993Z</id>
+    <id>urn:2021-08-15T00:50:56.915Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-14T00:47:28.993Z</updated>
+    <updated>2021-08-15T00:50:56.915Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Major study of Ivermectin finds 'no effect whatsoever']]></title>
-        <id>https://news.ycombinator.com/item?id=28176276</id>
-        <link href="https://www.msn.com/en-us/health/medical/column-major-study-of-ivermectin-the-anti-vaccine-crowds-latest-covid-drug-finds-no-effect-whatsoever/ar-AANdt9s?ocid=BingNewsSearch"/>
-        <updated>2021-08-13T23:48:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.msn.com/en-us/health/medical/column-major-study-of-ivermectin-the-anti-vaccine-crowds-latest-covid-drug-finds-no-effect-whatsoever/ar-AANdt9s?ocid=BingNewsSearch
-Comments URL: https://news.ycombinator.com/item?id=28176276
-Points: 22
+        <title type="html"><![CDATA[MIT Researchers Make Hydrogen Fuel from Aluminum and Water]]></title>
+        <id>https://news.ycombinator.com/item?id=28184758</id>
+        <link href="https://interestingengineering.com/mit-researchers-make-hydrogen-fuel-from-aluminum-and-water?_source=newsletter&amp;_campaign=2e7LL8NyzpLK4&amp;_uid=LDdwmgxga1&amp;_h=ea90de89f1bceca46d02cad80716fb4006725c29&amp;utm_source=newsletter&amp;utm_medium=mailing&amp;utm_campaign=Newsletter-14-08-2021"/>
+        <updated>2021-08-14T23:18:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://interestingengineering.com/mit-researchers-make-hydrogen-fuel-from-aluminum-and-water?_source=newsletter&_campaign=2e7LL8NyzpLK4&_uid=LDdwmgxga1&_h=ea90de89f1bceca46d02cad80716fb4006725c29&utm_source=newsletter&utm_medium=mailing&utm_campaign=Newsletter-14-08-2021
+Comments URL: https://news.ycombinator.com/item?id=28184758
+Points: 16
+# Comments: 10]]></summary>
+        <author>
+            <name>mardiyah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fermat's Library: software to help illuminate academic papers]]></title>
+        <id>https://news.ycombinator.com/item?id=28184549</id>
+        <link href="https://fermatslibrary.com/"/>
+        <updated>2021-08-14T22:39:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fermatslibrary.com/
+Comments URL: https://news.ycombinator.com/item?id=28184549
+Points: 6
 # Comments: 0]]></summary>
         <author>
-            <name>MilnerRoute</name>
+            <name>cl3misch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sam Zeloof's Upgraded Homemade Silicon IC Fab Process]]></title>
-        <id>https://news.ycombinator.com/item?id=28176255</id>
-        <link href="http://sam.zeloof.xyz/second-ic/"/>
-        <updated>2021-08-13T23:45:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://sam.zeloof.xyz/second-ic/
-Comments URL: https://news.ycombinator.com/item?id=28176255
-Points: 3
+        <title type="html"><![CDATA[High heat: Spain clocks prelim record of 47.2 C (116.96 F)]]></title>
+        <id>https://news.ycombinator.com/item?id=28184505</id>
+        <link href="https://abcnews.go.com/Health/wireStory/europe-heat-wave-brings-concern-older-adults-homeless-79455026"/>
+        <updated>2021-08-14T22:32:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://abcnews.go.com/Health/wireStory/europe-heat-wave-brings-concern-older-adults-homeless-79455026
+Comments URL: https://news.ycombinator.com/item?id=28184505
+Points: 44
+# Comments: 21]]></summary>
+        <author>
+            <name>underscore_ku</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avoiding Founder Burnout]]></title>
+        <id>https://news.ycombinator.com/item?id=28184447</id>
+        <link href="https://waseem.substack.com/p/avoiding-founder-burnout"/>
+        <updated>2021-08-14T22:22:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://waseem.substack.com/p/avoiding-founder-burnout
+Comments URL: https://news.ycombinator.com/item?id=28184447
+Points: 5
 # Comments: 0]]></summary>
         <author>
-            <name>parsecs</name>
+            <name>wdaher</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Script to compare Postgres data between two points in time]]></title>
-        <id>https://news.ycombinator.com/item?id=28175845</id>
-        <link href="https://news.ycombinator.com/item?id=28175845"/>
-        <updated>2021-08-13T22:56:34.000Z</updated>
-        <summary type="html"><![CDATA[https://github.com/denvaar/pgdiff
-I cobbled together various programs into a bash script to compare how data changes between two points in time. My idea was basically to have a `git diff` but for data inside postgres.
-I wanted a util like this to help get to know a new code base: Interact with an app and watch how the data changes.
-You run the script with a given key (anything) before interacting with an app, then run it again with the same key to see the data diff.
-I'm not much of a bash scripter, as you can probably see from the script, but it was a fun and useful tool to make. Might make some more improvements in the future (eg. BYO diff command, etc.) but we'll see.
-Comments URL: https://news.ycombinator.com/item?id=28175845
-Points: 12
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[Amiga Music Preservation]]></title>
+        <id>https://news.ycombinator.com/item?id=28184122</id>
+        <link href="http://www.dascene.net/home.php"/>
+        <updated>2021-08-14T21:33:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.dascene.net/home.php
+Comments URL: https://news.ycombinator.com/item?id=28184122
+Points: 55
+# Comments: 15]]></summary>
         <author>
-            <name>denvaar</name>
+            <name>codetrotter</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Actors Work Internally in Swift]]></title>
-        <id>https://news.ycombinator.com/item?id=28175586</id>
-        <link href="https://swiftrocks.com/how-actors-work-internally-in-swift"/>
-        <updated>2021-08-13T22:34:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://swiftrocks.com/how-actors-work-internally-in-swift
-Comments URL: https://news.ycombinator.com/item?id=28175586
-Points: 18
-# Comments: 0]]></summary>
-        <author>
-            <name>andrekandre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After criticism, Apple to only seek abuse images flagged in multiple nations]]></title>
-        <id>https://news.ycombinator.com/item?id=28174992</id>
-        <link href="https://mobile.reuters.com/article/idUSKBN2FE21K"/>
-        <updated>2021-08-13T21:49:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mobile.reuters.com/article/idUSKBN2FE21K
-Comments URL: https://news.ycombinator.com/item?id=28174992
-Points: 165
-# Comments: 151]]></summary>
-        <author>
-            <name>ldayley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNU nano is my editor of choice]]></title>
-        <id>https://news.ycombinator.com/item?id=28174810</id>
-        <link href="https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/"/>
-        <updated>2021-08-13T21:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/
-Comments URL: https://news.ycombinator.com/item?id=28174810
-Points: 167
-# Comments: 162]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Likes’ and ‘shares’ teach people to express more outrage online: study]]></title>
-        <id>https://news.ycombinator.com/item?id=28174533</id>
-        <link href="https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online"/>
-        <updated>2021-08-13T21:07:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online
-Comments URL: https://news.ycombinator.com/item?id=28174533
-Points: 69
-# Comments: 8]]></summary>
-        <author>
-            <name>hhs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EasyPost is building the logistics platform for ecommerce]]></title>
-        <id>https://news.ycombinator.com/item?id=28174452</id>
-        <link href="https://www.easypost.com/careers"/>
-        <updated>2021-08-13T21:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.easypost.com/careers
-Comments URL: https://news.ycombinator.com/item?id=28174452
+        <title type="html"><![CDATA[Path (YC S19) is hiring Engineers to automate Gen Z finance]]></title>
+        <id>https://news.ycombinator.com/item?id=28183908</id>
+        <link href="https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d"/>
+        <updated>2021-08-14T21:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d
+Comments URL: https://news.ycombinator.com/item?id=28183908
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>jstreebin</name>
+            <name>evanfarrell</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is the atmosphere an upside down ocean? [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=28174326</id>
-        <link href="https://empslocal.ex.ac.uk/people/staff/gv219/talks/trop-therm13.pdf"/>
-        <updated>2021-08-13T20:48:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://empslocal.ex.ac.uk/people/staff/gv219/talks/trop-therm13.pdf
-Comments URL: https://news.ycombinator.com/item?id=28174326
-Points: 13
-# Comments: 4]]></summary>
+        <title type="html"><![CDATA[Ask HN: Is it worth learning Elixir, from a jobs perspective?]]></title>
+        <id>https://news.ycombinator.com/item?id=28183901</id>
+        <link href="https://news.ycombinator.com/item?id=28183901"/>
+        <updated>2021-08-14T21:00:23.000Z</updated>
+        <summary type="html"><![CDATA[How long does it take for an experienced programmer to learn Elixir good enough to get a job?
+How good is the Elixir and Phoenix job market?
+Comments URL: https://news.ycombinator.com/item?id=28183901
+Points: 48
+# Comments: 28]]></summary>
         <author>
-            <name>jacquesm</name>
+            <name>akudha</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Installs Lockers on a Chicago Park’s Sidewalk]]></title>
-        <id>https://news.ycombinator.com/item?id=28173918</id>
-        <link href="https://blockclubchicago.org/2021/08/13/amazon-installs-huge-lockers-on-a-chicago-parks-sidewalk-confusing-and-frustrating-neighbors/"/>
-        <updated>2021-08-13T20:10:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blockclubchicago.org/2021/08/13/amazon-installs-huge-lockers-on-a-chicago-parks-sidewalk-confusing-and-frustrating-neighbors/
-Comments URL: https://news.ycombinator.com/item?id=28173918
+        <title type="html"><![CDATA[D2X-XL – an OpenGL modification of the classic video game Descent 2]]></title>
+        <id>https://news.ycombinator.com/item?id=28183868</id>
+        <link href="https://www.descent2.de/index.html"/>
+        <updated>2021-08-14T20:56:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.descent2.de/index.html
+Comments URL: https://news.ycombinator.com/item?id=28183868
 Points: 39
-# Comments: 20]]></summary>
+# Comments: 13]]></summary>
         <author>
-            <name>danso</name>
+            <name>dtx1</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FOSS app removed from the Play Store for linking to the project's website]]></title>
-        <id>https://news.ycombinator.com/item?id=28172490</id>
-        <link href="https://github.com/language-transfer/lt-app/pull/44"/>
-        <updated>2021-08-13T18:28:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/language-transfer/lt-app/pull/44
-Comments URL: https://news.ycombinator.com/item?id=28172490
-Points: 618
-# Comments: 206]]></summary>
+        <title type="html"><![CDATA[Ocean Plastic Emissions by Country]]></title>
+        <id>https://news.ycombinator.com/item?id=28183734</id>
+        <link href="https://ourworldindata.org/ocean-plastics"/>
+        <updated>2021-08-14T20:35:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ourworldindata.org/ocean-plastics
+Comments URL: https://news.ycombinator.com/item?id=28183734
+Points: 185
+# Comments: 145]]></summary>
         <author>
-            <name>timothyaveni</name>
+            <name>nomaxx117</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Regrets Confusion over 'iPhone Scanning']]></title>
-        <id>https://news.ycombinator.com/item?id=28172269</id>
-        <link href="https://www.bbc.com/news/technology-58206543"/>
-        <updated>2021-08-13T18:07:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/technology-58206543
-Comments URL: https://news.ycombinator.com/item?id=28172269
-Points: 376
-# Comments: 551]]></summary>
+        <title type="html"><![CDATA[Let's write a compiler, part 1: Introduction, selecting a language, and planning]]></title>
+        <id>https://news.ycombinator.com/item?id=28183062</id>
+        <link href="https://briancallahan.net/blog/20210814.html"/>
+        <updated>2021-08-14T18:53:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://briancallahan.net/blog/20210814.html
+Comments URL: https://news.ycombinator.com/item?id=28183062
+Points: 83
+# Comments: 10]]></summary>
         <author>
-            <name>belter</name>
+            <name>ingve</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Archaeologists discover 4k-year-old ancient city in Iraqi desert]]></title>
-        <id>https://news.ycombinator.com/item?id=28171965</id>
-        <link href="https://www.theartnewspaper.com/news/archaeologists-discover-4-000-year-old-ancient-city-in-iraqi-desert"/>
-        <updated>2021-08-13T17:37:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theartnewspaper.com/news/archaeologists-discover-4-000-year-old-ancient-city-in-iraqi-desert
-Comments URL: https://news.ycombinator.com/item?id=28171965
-Points: 73
-# Comments: 29]]></summary>
+        <title type="html"><![CDATA[An Elephant Crackup? (2006)]]></title>
+        <id>https://news.ycombinator.com/item?id=28182795</id>
+        <link href="https://www.nytimes.com/2006/10/08/magazine/08elephant.html"/>
+        <updated>2021-08-14T18:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2006/10/08/magazine/08elephant.html
+Comments URL: https://news.ycombinator.com/item?id=28182795
+Points: 7
+# Comments: 1]]></summary>
         <author>
-            <name>andyxor</name>
+            <name>vector_spaces</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[To make programming easier, first be conscious of what makes it hard (2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=28171894</id>
-        <link href="http://lighttable.com/2014/05/16/pain-we-forgot/"/>
-        <updated>2021-08-13T17:32:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://lighttable.com/2014/05/16/pain-we-forgot/
-Comments URL: https://news.ycombinator.com/item?id=28171894
-Points: 51
-# Comments: 55]]></summary>
+        <title type="html"><![CDATA[Software Dev Can't Be Automated – It’s a Creative Process with an Unknown Goal]]></title>
+        <id>https://news.ycombinator.com/item?id=28182623</id>
+        <link href="https://thehosk.medium.com/software-development-cannot-be-automated-because-its-a-creative-process-with-an-unknown-end-goal-2d4776866808"/>
+        <updated>2021-08-14T17:51:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thehosk.medium.com/software-development-cannot-be-automated-because-its-a-creative-process-with-an-unknown-end-goal-2d4776866808
+Comments URL: https://news.ycombinator.com/item?id=28182623
+Points: 15
+# Comments: 1]]></summary>
         <author>
-            <name>b3morales</name>
+            <name>thunderbong</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Anti Anti-Money Laundering Services for Crooks]]></title>
-        <id>https://news.ycombinator.com/item?id=28171867</id>
-        <link href="https://krebsonsecurity.com/2021/08/new-anti-anti-money-laundering-services-for-crooks/"/>
-        <updated>2021-08-13T17:31:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/08/new-anti-anti-money-laundering-services-for-crooks/
-Comments URL: https://news.ycombinator.com/item?id=28171867
-Points: 45
-# Comments: 11]]></summary>
+        <title type="html"><![CDATA[Philippine ethnic group has most Denisovan DNA]]></title>
+        <id>https://news.ycombinator.com/item?id=28181891</id>
+        <link href="https://www.uu.se/en/news/article/?id=17306&amp;typ=artikel&amp;lang=en"/>
+        <updated>2021-08-14T16:25:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.uu.se/en/news/article/?id=17306&typ=artikel&lang=en
+Comments URL: https://news.ycombinator.com/item?id=28181891
+Points: 152
+# Comments: 63]]></summary>
         <author>
-            <name>parsecs</name>
+            <name>DocFeind</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Abandoned Motorola Headquarters (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=28171123</id>
-        <link href="https://www.abandonedspaces.com/industry/motorola.html"/>
-        <updated>2021-08-13T16:33:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.abandonedspaces.com/industry/motorola.html
-Comments URL: https://news.ycombinator.com/item?id=28171123
-Points: 352
-# Comments: 162]]></summary>
+        <title type="html"><![CDATA[Use Pixar's Story Formula to Win over Investors]]></title>
+        <id>https://news.ycombinator.com/item?id=28181861</id>
+        <link href="https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars"/>
+        <updated>2021-08-14T16:22:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars
+Comments URL: https://news.ycombinator.com/item?id=28181861
+Points: 225
+# Comments: 98]]></summary>
         <author>
-            <name>sonograph</name>
+            <name>gmays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Instantly listen to any URL]]></title>
-        <id>https://news.ycombinator.com/item?id=28170609</id>
-        <link href="https://per.quest/"/>
-        <updated>2021-08-13T15:57:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://per.quest/
-Comments URL: https://news.ycombinator.com/item?id=28170609
-Points: 106
-# Comments: 48]]></summary>
+        <title type="html"><![CDATA[I hate almost all software (2011)]]></title>
+        <id>https://news.ycombinator.com/item?id=28181632</id>
+        <link href="https://tinyclouds.org/rant.html"/>
+        <updated>2021-08-14T15:54:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tinyclouds.org/rant.html
+Comments URL: https://news.ycombinator.com/item?id=28181632
+Points: 95
+# Comments: 51]]></summary>
         <author>
-            <name>soheil</name>
+            <name>avinassh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WinCompose – A Compose Key for Windows]]></title>
-        <id>https://news.ycombinator.com/item?id=28169705</id>
-        <link href="https://github.com/samhocevar/wincompose"/>
-        <updated>2021-08-13T15:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/samhocevar/wincompose
-Comments URL: https://news.ycombinator.com/item?id=28169705
-Points: 181
-# Comments: 94]]></summary>
+        <title type="html"><![CDATA[Closing 45% of the open Emacs bugs]]></title>
+        <id>https://news.ycombinator.com/item?id=28181575</id>
+        <link href="https://lars.ingebrigtsen.no/2021/08/14/10x10/"/>
+        <updated>2021-08-14T15:48:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lars.ingebrigtsen.no/2021/08/14/10x10/
+Comments URL: https://news.ycombinator.com/item?id=28181575
+Points: 274
+# Comments: 113]]></summary>
         <author>
-            <name>mkotowski</name>
+            <name>clircle</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Launch HN: FirstIgnite (YC S21) – Matching scientists with relevant businesses]]></title>
-        <id>https://news.ycombinator.com/item?id=28168813</id>
-        <link href="https://news.ycombinator.com/item?id=28168813"/>
-        <updated>2021-08-13T13:51:41.000Z</updated>
-        <summary type="html"><![CDATA[Hi, HN! I’m Cody Pawlowski and my co-founder is Chase Bonhag and we’re FirstIgnite (https://firstignite.com/). We help researchers at universities connect with companies interested in funding or licensing their research.
-Currently, a vast majority of all research goes uncommercialized. This includes everything from new cancer therapies to energy storage improvements and other solutions to universal problems. By connecting research to relevant companies, we increase the probability that research will be commercialized.
-We met while I was running a natural language processing startup at the University of Illinois at Urbana-Champaign. Chase was working at Illinois Ventures, the venture capital arm of the university. U of I conducted over $900M a year worth of research, much of which was going…]]></summary>
+        <title type="html"><![CDATA[GitHub seems to be enabling IPv6 for GitHub Pages]]></title>
+        <id>https://news.ycombinator.com/item?id=28180305</id>
+        <link href="https://github.com/isaacs/github/issues/354"/>
+        <updated>2021-08-14T13:06:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/isaacs/github/issues/354
+Comments URL: https://news.ycombinator.com/item?id=28180305
+Points: 93
+# Comments: 17]]></summary>
         <author>
-            <name>codypilot</name>
+            <name>scrollaway</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Interactive Linear Algebra (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=28168339</id>
-        <link href="http://textbooks.math.gatech.edu/ila/index.html"/>
-        <updated>2021-08-13T13:03:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://textbooks.math.gatech.edu/ila/index.html
-Comments URL: https://news.ycombinator.com/item?id=28168339
-Points: 267
-# Comments: 36]]></summary>
+        <title type="html"><![CDATA[Asahi Linux for Apple M1 progress report, August 2021]]></title>
+        <id>https://news.ycombinator.com/item?id=28180135</id>
+        <link href="https://asahilinux.org/2021/08/progress-report-august-2021/"/>
+        <updated>2021-08-14T12:32:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://asahilinux.org/2021/08/progress-report-august-2021/
+Comments URL: https://news.ycombinator.com/item?id=28180135
+Points: 472
+# Comments: 112]]></summary>
         <author>
-            <name>natemcintosh</name>
+            <name>fanf2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian 11]]></title>
+        <id>https://news.ycombinator.com/item?id=28180074</id>
+        <link href="https://www.debian.org/releases/bullseye/amd64/release-notes/"/>
+        <updated>2021-08-14T12:21:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.debian.org/releases/bullseye/amd64/release-notes/
+Comments URL: https://news.ycombinator.com/item?id=28180074
+Points: 449
+# Comments: 193]]></summary>
+        <author>
+            <name>marcodiego</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How H. W. Lenstra Jr. completed an unfinished artwork by Escher (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=28179564</id>
+        <link href="https://www.universiteitleiden.nl/en/news/2020/04/how-mathematician-hendrik-lenstra-completed-an-unfinished-artwork-by-escher"/>
+        <updated>2021-08-14T10:19:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.universiteitleiden.nl/en/news/2020/04/how-mathematician-hendrik-lenstra-completed-an-unfinished-artwork-by-escher
+Comments URL: https://news.ycombinator.com/item?id=28179564
+Points: 12
+# Comments: 2]]></summary>
+        <author>
+            <name>Schiphol</name>
         </author>
     </entry>
 </feed>
