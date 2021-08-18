@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=28204105",
-          "author": "sudobash1",
-          "description": "Article URL: https://github.com/sctb/lumen\nComments URL: https://news.ycombinator.com/item?id=28204105\nPoints: 6\n# Comments: 1",
-          "link": "https://github.com/sctb/lumen",
-          "publishedOn": "2021-08-16T23:22:03.000Z",
-          "wordCount": 2285,
-          "title": "Lumen – self-hosted Lisp for Lua and JavaScript"
+          "id": "https://news.ycombinator.com/item?id=28216201",
+          "author": "hhs",
+          "description": "Article URL: https://santafe.edu/news-center/news/new-study-prosperity-cities-benefits-few\nComments URL: https://news.ycombinator.com/item?id=28216201\nPoints: 42\n# Comments: 6",
+          "link": "https://santafe.edu/news-center/news/new-study-prosperity-cities-benefits-few",
+          "publishedOn": "2021-08-18T00:00:51.000Z",
+          "wordCount": 865,
+          "title": "As cities grow in size, the poor 'get nothing at all': study"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28204077",
-          "author": "geox",
-          "description": "Article URL: https://www.unite.ai/optical-adversarial-attack-can-change-the-meaning-of-road-signs/\nComments URL: https://news.ycombinator.com/item?id=28204077\nPoints: 13\n# Comments: 13",
-          "link": "https://www.unite.ai/optical-adversarial-attack-can-change-the-meaning-of-road-signs/",
-          "publishedOn": "2021-08-16T23:16:57.000Z",
-          "wordCount": 1588,
-          "title": "Optical Adversarial Attack Can Change the Meaning of Road Signs"
+          "id": "https://news.ycombinator.com/item?id=28215939",
+          "author": "imadr",
+          "description": "Article URL: https://glinscott.github.io/lz/index.html\nComments URL: https://news.ycombinator.com/item?id=28215939\nPoints: 17\n# Comments: 2",
+          "link": "https://glinscott.github.io/lz/index.html",
+          "publishedOn": "2021-08-17T23:22:56.000Z",
+          "wordCount": 7146,
+          "title": "Modern LZ Compression (2019)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28204040",
-          "author": "woopwoop",
-          "description": "Article URL: https://golem.ph.utexas.edu/category/2011/09/the_inconsistency_of_arithmeti.html\nComments URL: https://news.ycombinator.com/item?id=28204040\nPoints: 106\n# Comments: 15",
-          "link": "https://golem.ph.utexas.edu/category/2011/09/the_inconsistency_of_arithmeti.html",
-          "publishedOn": "2021-08-16T23:12:50.000Z",
-          "wordCount": 19935,
-          "title": "You are quite right, and my original response was wrong. I withdraw my claim"
+          "id": "https://news.ycombinator.com/item?id=28215676",
+          "author": "programd",
+          "description": "Article URL: https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/\nComments URL: https://news.ycombinator.com/item?id=28215676\nPoints: 31\n# Comments: 11",
+          "link": "https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/",
+          "publishedOn": "2021-08-17T22:48:27.000Z",
+          "wordCount": 1589,
+          "title": "Complexity theory puts limits on performance of gradient descent"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28204026",
+          "id": "https://news.ycombinator.com/item?id=28215646",
           "author": "prostoalex",
-          "description": "Article URL: https://www.latimes.com/projects/gray-whale-deaths-how-humans-climate-change-hurt-oceans/\nComments URL: https://news.ycombinator.com/item?id=28204026\nPoints: 20\n# Comments: 5",
-          "link": "https://www.latimes.com/projects/gray-whale-deaths-how-humans-climate-change-hurt-oceans/",
-          "publishedOn": "2021-08-16T23:10:22.000Z",
-          "wordCount": 5256,
-          "title": "Something is killing gray whales"
+          "description": "Article URL: https://www.economist.com/finance-and-economics/will-the-rich-worlds-worker-deficit-last/21803401\nComments URL: https://news.ycombinator.com/item?id=28215646\nPoints: 35\n# Comments: 80",
+          "link": "https://www.economist.com/finance-and-economics/will-the-rich-worlds-worker-deficit-last/21803401",
+          "publishedOn": "2021-08-17T22:44:15.000Z",
+          "wordCount": 1443,
+          "title": "Will the rich world’s worker deficit last?"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28203948",
-          "author": "hncurious",
-          "description": "Article URL: https://watson.brown.edu/costsofwar/costs/economic\nComments URL: https://news.ycombinator.com/item?id=28203948\nPoints: 212\n# Comments: 212",
-          "link": "https://watson.brown.edu/costsofwar/costs/economic",
-          "publishedOn": "2021-08-16T22:58:05.000Z",
-          "wordCount": 559,
-          "title": "The US federal government has spent $6.4T dollars on the post-9/11 wars"
+          "id": "https://news.ycombinator.com/item?id=28215232",
+          "author": "goldfish",
+          "description": "Article URL: https://www.adamjuliangoldstein.com/blog/algorithms-are-the-matter/\nComments URL: https://news.ycombinator.com/item?id=28215232\nPoints: 30\n# Comments: 2",
+          "link": "https://www.adamjuliangoldstein.com/blog/algorithms-are-the-matter/",
+          "publishedOn": "2021-08-17T21:45:19.000Z",
+          "wordCount": 3516,
+          "title": "Human algorithms are contagious but not genetic"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28203940",
-          "author": "blopker",
-          "description": "Article URL: https://endless-sky.github.io/\nComments URL: https://news.ycombinator.com/item?id=28203940\nPoints: 59\n# Comments: 19",
-          "link": "https://endless-sky.github.io/",
-          "publishedOn": "2021-08-16T22:56:42.000Z",
-          "wordCount": 710,
-          "title": "Endless Sky: an open source space trading and combat game"
+          "id": "https://news.ycombinator.com/item?id=28215212",
+          "author": "michaelsbradley",
+          "description": "Article URL: https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf\nComments URL: https://news.ycombinator.com/item?id=28215212\nPoints: 39\n# Comments: 9",
+          "link": "https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf",
+          "publishedOn": "2021-08-17T21:42:38.000Z",
+          "wordCount": 19327,
+          "title": "A Gentle Introduction to Tensors (2014) [pdf]"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28203654",
-          "author": "tim--",
-          "description": "Article URL: https://github.com/jpochyla/psst\nComments URL: https://news.ycombinator.com/item?id=28203654\nPoints: 25\n# Comments: 1",
-          "link": "https://github.com/jpochyla/psst",
-          "publishedOn": "2021-08-16T22:17:51.000Z",
-          "wordCount": 1089,
-          "title": "Psst: Fast Spotify client with native GUI, without Electron, built in Rust"
+          "id": "https://news.ycombinator.com/item?id=28215157",
+          "author": "TangerineDream",
+          "description": "Article URL: https://rachelbythebay.com/w/2021/08/17/pop/\nComments URL: https://news.ycombinator.com/item?id=28215157\nPoints: 107\n# Comments: 11",
+          "link": "https://rachelbythebay.com/w/2021/08/17/pop/",
+          "publishedOn": "2021-08-17T21:36:18.000Z",
+          "wordCount": 941,
+          "title": "Asking nicely for root command execution and getting it"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28203242",
-          "author": "x14km2d",
-          "description": "Article URL: https://leafletjs.com/\nComments URL: https://news.ycombinator.com/item?id=28203242\nPoints: 154\n# Comments: 37",
-          "link": "https://leafletjs.com/",
-          "publishedOn": "2021-08-16T21:32:53.000Z",
-          "wordCount": 585,
-          "title": "LeafletJS: a JavaScript library for interactive maps"
+          "id": "https://news.ycombinator.com/item?id=28214799",
+          "author": "rpavuluri",
+          "description": "Article URL: https://upsolve.org/careers/software-engineer/\nComments URL: https://news.ycombinator.com/item?id=28214799\nPoints: 1\n# Comments: 0",
+          "link": "https://upsolve.org/careers/software-engineer/",
+          "publishedOn": "2021-08-17T21:00:24.000Z",
+          "wordCount": 1735,
+          "title": "Upsolve (YC W19) is hiring a senior software engineer (React, Node, TypeScript)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28202913",
-          "author": "Ali_Jiwani",
-          "description": "Article URL: https://www.ycombinator.com/companies/rally/jobs/4ijjeMbu7-ui-ux-developer\nComments URL: https://news.ycombinator.com/item?id=28202913\nPoints: 1\n# Comments: 0",
-          "link": "https://www.ycombinator.com/companies/rally/jobs/4ijjeMbu7-ui-ux-developer",
-          "publishedOn": "2021-08-16T21:01:10.000Z",
-          "wordCount": 524,
-          "title": "Rally (YC S20) Is Hiring a Product Designer Who Can Code"
+          "id": "https://news.ycombinator.com/item?id=28214665",
+          "author": "rak1507",
+          "description": "Article URL: http://www.ats-lang.org/\nComments URL: https://news.ycombinator.com/item?id=28214665\nPoints: 49\n# Comments: 12",
+          "link": "http://www.ats-lang.org/",
+          "publishedOn": "2021-08-17T20:47:39.000Z",
+          "wordCount": 1203,
+          "title": "The ATS Programming Language"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28202399",
-          "author": "jbegley",
-          "description": "Article URL: https://www.vice.com/en/article/y3d4dw/t-mobile-confirms-it-was-hacked\nComments URL: https://news.ycombinator.com/item?id=28202399\nPoints: 294\n# Comments: 158",
-          "link": "https://www.vice.com/en/article/y3d4dw/t-mobile-confirms-it-was-hacked",
-          "publishedOn": "2021-08-16T20:18:06.000Z",
-          "wordCount": 492,
-          "title": "T-Mobile Confirms It Was Hacked"
+          "id": "https://news.ycombinator.com/item?id=28214230",
+          "author": "dredmorbius",
+          "description": "Article URL: https://plus.maths.org/content/burning-buried-sunshine\nComments URL: https://news.ycombinator.com/item?id=28214230\nPoints: 32\n# Comments: 7",
+          "link": "https://plus.maths.org/content/burning-buried-sunshine",
+          "publishedOn": "2021-08-17T20:05:44.000Z",
+          "wordCount": 815,
+          "title": "Burning Buried Sunshine (2003)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28201732",
-          "author": "aofeisheng",
-          "description": "Article URL: https://golang.org/doc/go1.17\nComments URL: https://news.ycombinator.com/item?id=28201732\nPoints: 88\n# Comments: 13",
-          "link": "https://golang.org/doc/go1.17",
-          "publishedOn": "2021-08-16T19:16:53.000Z",
-          "wordCount": 4663,
-          "title": "Go 1.17 Release Notes"
+          "id": "https://news.ycombinator.com/item?id=28213587",
+          "author": "marcodiego",
+          "description": "Article URL: https://cgit.freedesktop.org/mesa/mesa/commit/?id=40fdb3212c3ded2150faf952dc2b669991bfbf94\nComments URL: https://news.ycombinator.com/item?id=28213587\nPoints: 100\n# Comments: 24",
+          "link": "https://cgit.freedesktop.org/mesa/mesa/commit/?id=40fdb3212c3ded2150faf952dc2b669991bfbf94",
+          "publishedOn": "2021-08-17T19:04:53.000Z",
+          "wordCount": 5819,
+          "title": "Zink (OpenGL over Vulkan) allocator improves performance in 1000% in some games"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28201547",
-          "author": "rbanffy",
-          "description": "Article URL: https://www.exeter.ac.uk/news/research/title_872443_en.html\nComments URL: https://news.ycombinator.com/item?id=28201547\nPoints: 114\n# Comments: 16",
-          "link": "https://www.exeter.ac.uk/news/research/title_872443_en.html",
-          "publishedOn": "2021-08-16T18:58:40.000Z",
-          "wordCount": 825,
-          "title": "Computer simulation helps test land management techniques to help bumblebees"
+          "id": "https://news.ycombinator.com/item?id=28213292",
+          "author": "neolog",
+          "description": "Looking at syscalls, I see Zoom desktop reads all processes and arguments.\n    [pid 3844872] stat(\"/proc/1\", {st_mode=S_IFDIR|0555, st_size=0, ...}) = 0\n    [pid 3844872] openat(AT_FDCWD, \"/proc/1/stat\", O_RDONLY) = 4\n    [pid 3844872] openat(AT_FDCWD, \"/proc/1/cmdline\", O_RDONLY) = 4\n    [pid 3844872] readlink(\"/proc/1/exe\", 0x20c0520, 1024) = -1 EACCES (Permission denied)\n    [pid 3844872] stat(\"/proc/2\", {st_mode=S_IFDIR|0555, st_size=0, ...}) = 0\n    [pid 3844872] openat(AT_FDCWD, \"/proc/2/stat\", O_RDONLY) = 4\n    [pid 3844872] openat(AT_FDCWD, \"/proc/2/cmdline\", O_RDONLY) = 4\n    [pid 3844872] stat(\"/proc/3\", {st_mode=S_IFDIR|0555, st_size=0, ...}) = 0\n    [pid 3844872] openat(AT_FDCWD, \"/proc/3/stat\", O_RDONLY) = 4\n    [pid 3844872] openat(AT_FDCWD, \"/proc/3/cmdline\", O_RDONLY) = 4    \n    ...\n\nComments URL: https://news.ycombinator.com/item?id=28213292\nPoints: 301\n# Comments: 147",
+          "link": "https://news.ycombinator.com/item?id=28213292",
+          "publishedOn": "2021-08-17T18:38:53.000Z",
+          "wordCount": 6231,
+          "title": "Ask HN: Why does Zoom Desktop examine all processes and arguments?"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28200913",
-          "author": "sanmak",
-          "description": "Article URL: https://www.wired.com/2008/04/ff-wozniak/\nComments URL: https://news.ycombinator.com/item?id=28200913\nPoints: 102\n# Comments: 53",
-          "link": "https://www.wired.com/2008/04/ff-wozniak/",
-          "publishedOn": "2021-08-16T17:59:27.000Z",
-          "wordCount": 6353,
-          "title": "To remember everything you learn, surrender to this algorithm (2008)"
+          "id": "https://news.ycombinator.com/item?id=28211726",
+          "author": "furcyd",
+          "description": "Article URL: https://physicstoday.scitation.org/do/10.1063/PT.6.2.20210817a/full/?af=R&\nComments URL: https://news.ycombinator.com/item?id=28211726\nPoints: 417\n# Comments: 188",
+          "link": "https://physicstoday.scitation.org/do/10.1063/PT.6.2.20210817a/full/?af=R&",
+          "publishedOn": "2021-08-17T16:30:39.000Z",
+          "wordCount": 295,
+          "title": "Lawrence Livermore claims a milestone in laser fusion"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28200288",
-          "author": "keleftheriou",
-          "description": "Article URL: https://twitter.com/FlickType/status/1427292830523744257\nComments URL: https://news.ycombinator.com/item?id=28200288\nPoints: 254\n# Comments: 82",
-          "link": "https://twitter.com/FlickType/status/1427292830523744257",
-          "publishedOn": "2021-08-16T17:01:05.000Z",
-          "wordCount": 196,
-          "title": "Discontinuing FlickType Keyboard for iPhone"
+          "id": "https://news.ycombinator.com/item?id=28211413",
+          "author": "Tomte",
+          "description": "Article URL: https://www.ipp.mpg.de/5125328/05_21\nComments URL: https://news.ycombinator.com/item?id=28211413\nPoints: 131\n# Comments: 15",
+          "link": "https://www.ipp.mpg.de/5125328/05_21",
+          "publishedOn": "2021-08-17T16:07:14.000Z",
+          "wordCount": 1177,
+          "title": "The Wendelstein 7-X concept proves its efficiency"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28200076",
-          "author": "exotree",
-          "description": "Article URL: https://finledger.com/2021/08/09/plaid-settled-58-million-lawsuit-over-alleged-consumer-data-sharing/\nComments URL: https://news.ycombinator.com/item?id=28200076\nPoints: 211\n# Comments: 125",
-          "link": "https://finledger.com/2021/08/09/plaid-settled-58-million-lawsuit-over-alleged-consumer-data-sharing/",
-          "publishedOn": "2021-08-16T16:45:06.000Z",
-          "wordCount": 1094,
-          "title": "Plaid settled $58M lawsuit over alleged consumer data sharing"
+          "id": "https://news.ycombinator.com/item?id=28211137",
+          "author": "bpierre",
+          "description": "Article URL: https://www.monotype.com/fonts/helvetica-now-variable\nComments URL: https://news.ycombinator.com/item?id=28211137\nPoints: 259\n# Comments: 141",
+          "link": "https://www.monotype.com/fonts/helvetica-now-variable",
+          "publishedOn": "2021-08-17T15:45:10.000Z",
+          "wordCount": 763,
+          "title": "Helvetica Now Variable"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28199588",
-          "author": "hacky_engineer",
-          "description": "Article URL: https://twitter.com/crobertsbmw/status/1427102606753550337\nComments URL: https://news.ycombinator.com/item?id=28199588\nPoints: 280\n# Comments: 135",
-          "link": "https://twitter.com/crobertsbmw/status/1427102606753550337",
-          "publishedOn": "2021-08-16T16:02:09.000Z",
-          "wordCount": 196,
-          "title": "TikTok requests access to devices on local network"
+          "id": "https://news.ycombinator.com/item?id=28210904",
+          "author": "samrussellbg",
+          "description": "Article URL: https://www.lodsb.com/reversing-lz91-from-commander-keen\nComments URL: https://news.ycombinator.com/item?id=28210904\nPoints: 66\n# Comments: 13",
+          "link": "https://www.lodsb.com/reversing-lz91-from-commander-keen",
+          "publishedOn": "2021-08-17T15:26:10.000Z",
+          "wordCount": 3831,
+          "title": "Reversing LZ91 from Commander Keen"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28199089",
-          "author": "Pavlyshyna",
-          "description": "Hi HN, I'm Stacy from Awesomic (https://www.awesomic.io/). Awesomic is a website where you create a design task and receive a draft from a professional designer in 24 hours.\nOn freelance platforms, it takes up to 7-14 days to find the right designer. You negotiate, then manage, and you need to look for a new person every time a new task is needed, like branding first and then a website design for web and mobile. With Awesomic, our algorithm connects you based on availability and expertise required. Then, you never manage this person or worry about deadlines—we do it automatically and guarantee a 24h turnaround. You have all skills covered under one fixed price subscription.\nWhile running a local online business (coding school, the first Github partner in the CIS region), we had the hard ti…",
-          "link": "https://news.ycombinator.com/item?id=28199089",
-          "publishedOn": "2021-08-16T15:18:08.000Z",
-          "wordCount": 4148,
-          "title": "Launch HN: Awesomic (YC S21) – Get design tasks done with 24-hour turnaround"
+          "id": "https://news.ycombinator.com/item?id=28210493",
+          "author": "iba99",
+          "description": "Article URL: https://tara.ai/\nComments URL: https://news.ycombinator.com/item?id=28210493\nPoints: 49\n# Comments: 20",
+          "link": "https://tara.ai/",
+          "publishedOn": "2021-08-17T14:52:22.000Z",
+          "wordCount": 809,
+          "title": "Show HN: Tara 2.0 – Fast Jira alternative with automation based on Git events"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28198996",
-          "author": "agluszak",
-          "description": "Article URL: https://voxely.net/blog/object-oriented-entity-component-system-design/\nComments URL: https://news.ycombinator.com/item?id=28198996\nPoints: 109\n# Comments: 88",
-          "link": "https://voxely.net/blog/object-oriented-entity-component-system-design/",
-          "publishedOn": "2021-08-16T15:09:47.000Z",
-          "wordCount": 3435,
-          "title": "Object-Oriented Entity-Component-System Design"
+          "id": "https://news.ycombinator.com/item?id=28210076",
+          "author": "jrepinc",
+          "description": "Article URL: https://techcrunch.com/2021/08/17/stop-using-zoom-hamburgs-dpa-warns-state-government/\nComments URL: https://news.ycombinator.com/item?id=28210076\nPoints: 463\n# Comments: 176",
+          "link": "https://techcrunch.com/2021/08/17/stop-using-zoom-hamburgs-dpa-warns-state-government/",
+          "publishedOn": "2021-08-17T14:14:38.000Z",
+          "wordCount": 750,
+          "title": "Stop using Zoom, Hamburg’s data protection agency warns state government"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28198795",
-          "author": "polm23",
-          "description": "Article URL: https://itch.io/jam/pico-1k\nComments URL: https://news.ycombinator.com/item?id=28198795\nPoints: 112\n# Comments: 7",
-          "link": "https://itch.io/jam/pico-1k",
-          "publishedOn": "2021-08-16T14:50:19.000Z",
-          "wordCount": 661,
-          "title": "Pico-1K Jam: Make Something Cool in Pico-8 in 1024 Characters"
+          "id": "https://news.ycombinator.com/item?id=28209928",
+          "author": "dang",
+          "description": "Here's the latest Meet the Batch thread for YC's S21 batch. The previous thread was https://news.ycombinator.com/item?id=28156460. For the original description see https://news.ycombinator.com/item?id=27877280.\nThere are 5 startups in this thread. The initial order is random:\nMonto (YC S21): Salary on Demand for Latam - https://news.ycombinator.com/item?id=28209932\nPlug (YC S21) - API for multiple payment providers - https://news.ycombinator.com/item?id=28209933\nAbstra (YC S21): Figma-like front end development for web apps - https://news.ycombinator.com/item?id=28209934\nLevo (YC S21) - High yield savings account for Mexico - https://news.ycombinator.com/item?id=28209929\nBoldVoice (YC S21) - Accent coaching app for non-native English speakers - https://news.ycombinator.com/item?id=28209930\nComments URL: https://news.ycombinator.com/item?id=28209928\nPoints: 80\n# Comments: 116",
+          "link": "https://news.ycombinator.com/item?id=28209928",
+          "publishedOn": "2021-08-17T14:00:06.000Z",
+          "wordCount": 9318,
+          "title": "Launch YC S21: Meet the Batch, Thread #7"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28198641",
-          "author": "p1esk",
-          "description": "Article URL: https://alda.io/tutorial/\nComments URL: https://news.ycombinator.com/item?id=28198641\nPoints: 363\n# Comments: 96",
-          "link": "https://alda.io/tutorial/",
-          "publishedOn": "2021-08-16T14:38:20.000Z",
-          "wordCount": 1805,
-          "title": "Alda – Text-Based Programming Language for Music Composition"
+          "id": "https://news.ycombinator.com/item?id=28209736",
+          "author": "thezjy",
+          "description": "Article URL: https://zjy.cloud/posts/collaborative-web-apps\nComments URL: https://news.ycombinator.com/item?id=28209736\nPoints: 177\n# Comments: 47",
+          "link": "https://zjy.cloud/posts/collaborative-web-apps",
+          "publishedOn": "2021-08-17T13:42:37.000Z",
+          "wordCount": 2531,
+          "title": "A simple way to build collaborative web apps"
         }
       ]
     }
