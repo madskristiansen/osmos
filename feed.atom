@@ -1,286 +1,265 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-18T00:52:02.610Z</id>
+    <id>urn:2021-08-19T00:44:28.196Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-18T00:52:02.610Z</updated>
+    <updated>2021-08-19T00:44:28.196Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[As cities grow in size, the poor 'get nothing at all': study]]></title>
-        <id>https://news.ycombinator.com/item?id=28216201</id>
-        <link href="https://santafe.edu/news-center/news/new-study-prosperity-cities-benefits-few"/>
-        <updated>2021-08-18T00:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://santafe.edu/news-center/news/new-study-prosperity-cities-benefits-few
-Comments URL: https://news.ycombinator.com/item?id=28216201
-Points: 42
-# Comments: 6]]></summary>
+        <title type="html"><![CDATA[Understanding Foreign Data Wrappers in Postgres and Postgres_fdw]]></title>
+        <id>https://news.ycombinator.com/item?id=28227905</id>
+        <link href="https://blog.crunchydata.com/blog/understanding-postgres_fdw"/>
+        <updated>2021-08-18T22:23:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.crunchydata.com/blog/understanding-postgres_fdw
+Comments URL: https://news.ycombinator.com/item?id=28227905
+Points: 26
+# Comments: 3]]></summary>
+        <author>
+            <name>craigkerstiens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canada calls screen scraping ‘unsecure,’ sets Open Banking target for 2023]]></title>
+        <id>https://news.ycombinator.com/item?id=28227633</id>
+        <link href="https://finledger.com/2021/08/09/canada-sets-open-banking-target-for-2023/"/>
+        <updated>2021-08-18T21:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://finledger.com/2021/08/09/canada-sets-open-banking-target-for-2023/
+Comments URL: https://news.ycombinator.com/item?id=28227633
+Points: 152
+# Comments: 89]]></summary>
+        <author>
+            <name>exotree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoKart: A static analysis tool for securing Go code]]></title>
+        <id>https://news.ycombinator.com/item?id=28227487</id>
+        <link href="https://github.com/praetorian-inc/gokart"/>
+        <updated>2021-08-18T21:36:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/praetorian-inc/gokart
+Comments URL: https://news.ycombinator.com/item?id=28227487
+Points: 58
+# Comments: 11]]></summary>
+        <author>
+            <name>SnowflakeOnIce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wgpu-0.10 released: WebGPU implementation now in pure Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=28227229</id>
+        <link href="https://gfx-rs.github.io/2021/08/18/release-0.10.html"/>
+        <updated>2021-08-18T21:11:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gfx-rs.github.io/2021/08/18/release-0.10.html
+Comments URL: https://news.ycombinator.com/item?id=28227229
+Points: 128
+# Comments: 42]]></summary>
+        <author>
+            <name>kvark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC charges Netflix insider trading ring]]></title>
+        <id>https://news.ycombinator.com/item?id=28227209</id>
+        <link href="https://www.sec.gov/news/press-release/2021-158"/>
+        <updated>2021-08-18T21:10:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sec.gov/news/press-release/2021-158
+Comments URL: https://news.ycombinator.com/item?id=28227209
+Points: 246
+# Comments: 184]]></summary>
         <author>
             <name>hhs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Modern LZ Compression (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=28215939</id>
-        <link href="https://glinscott.github.io/lz/index.html"/>
-        <updated>2021-08-17T23:22:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://glinscott.github.io/lz/index.html
-Comments URL: https://news.ycombinator.com/item?id=28215939
-Points: 17
-# Comments: 2]]></summary>
-        <author>
-            <name>imadr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complexity theory puts limits on performance of gradient descent]]></title>
-        <id>https://news.ycombinator.com/item?id=28215676</id>
-        <link href="https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/"/>
-        <updated>2021-08-17T22:48:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/
-Comments URL: https://news.ycombinator.com/item?id=28215676
-Points: 31
-# Comments: 11]]></summary>
-        <author>
-            <name>programd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will the rich world’s worker deficit last?]]></title>
-        <id>https://news.ycombinator.com/item?id=28215646</id>
-        <link href="https://www.economist.com/finance-and-economics/will-the-rich-worlds-worker-deficit-last/21803401"/>
-        <updated>2021-08-17T22:44:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/finance-and-economics/will-the-rich-worlds-worker-deficit-last/21803401
-Comments URL: https://news.ycombinator.com/item?id=28215646
-Points: 35
-# Comments: 80]]></summary>
-        <author>
-            <name>prostoalex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Human algorithms are contagious but not genetic]]></title>
-        <id>https://news.ycombinator.com/item?id=28215232</id>
-        <link href="https://www.adamjuliangoldstein.com/blog/algorithms-are-the-matter/"/>
-        <updated>2021-08-17T21:45:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.adamjuliangoldstein.com/blog/algorithms-are-the-matter/
-Comments URL: https://news.ycombinator.com/item?id=28215232
-Points: 30
-# Comments: 2]]></summary>
-        <author>
-            <name>goldfish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Gentle Introduction to Tensors (2014) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=28215212</id>
-        <link href="https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf"/>
-        <updated>2021-08-17T21:42:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf
-Comments URL: https://news.ycombinator.com/item?id=28215212
-Points: 39
-# Comments: 9]]></summary>
-        <author>
-            <name>michaelsbradley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asking nicely for root command execution and getting it]]></title>
-        <id>https://news.ycombinator.com/item?id=28215157</id>
-        <link href="https://rachelbythebay.com/w/2021/08/17/pop/"/>
-        <updated>2021-08-17T21:36:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rachelbythebay.com/w/2021/08/17/pop/
-Comments URL: https://news.ycombinator.com/item?id=28215157
-Points: 107
-# Comments: 11]]></summary>
-        <author>
-            <name>TangerineDream</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upsolve (YC W19) is hiring a senior software engineer (React, Node, TypeScript)]]></title>
-        <id>https://news.ycombinator.com/item?id=28214799</id>
-        <link href="https://upsolve.org/careers/software-engineer/"/>
-        <updated>2021-08-17T21:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://upsolve.org/careers/software-engineer/
-Comments URL: https://news.ycombinator.com/item?id=28214799
+        <title type="html"><![CDATA[Modern Treasury (YC S18) is hiring engineers to build the future of money movement]]></title>
+        <id>https://news.ycombinator.com/item?id=28227085</id>
+        <link href="https://jobs.ashbyhq.com/moderntreasury?departmentId=ee54bd63-1eab-4173-ae81-46e2b817fe57"/>
+        <updated>2021-08-18T21:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.ashbyhq.com/moderntreasury?departmentId=ee54bd63-1eab-4173-ae81-46e2b817fe57
+Comments URL: https://news.ycombinator.com/item?id=28227085
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>rpavuluri</name>
+            <name>mattmarcus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The ATS Programming Language]]></title>
-        <id>https://news.ycombinator.com/item?id=28214665</id>
-        <link href="http://www.ats-lang.org/"/>
-        <updated>2021-08-17T20:47:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.ats-lang.org/
-Comments URL: https://news.ycombinator.com/item?id=28214665
-Points: 49
-# Comments: 12]]></summary>
+        <title type="html"><![CDATA[Can AI help design our logo?]]></title>
+        <id>https://news.ycombinator.com/item?id=28227033</id>
+        <link href="https://www.labelf.ai/blog/can-ai-help-design-our-logo"/>
+        <updated>2021-08-18T20:56:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.labelf.ai/blog/can-ai-help-design-our-logo
+Comments URL: https://news.ycombinator.com/item?id=28227033
+Points: 17
+# Comments: 20]]></summary>
         <author>
-            <name>rak1507</name>
+            <name>yboris</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Burning Buried Sunshine (2003)]]></title>
-        <id>https://news.ycombinator.com/item?id=28214230</id>
-        <link href="https://plus.maths.org/content/burning-buried-sunshine"/>
-        <updated>2021-08-17T20:05:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://plus.maths.org/content/burning-buried-sunshine
-Comments URL: https://news.ycombinator.com/item?id=28214230
-Points: 32
-# Comments: 7]]></summary>
-        <author>
-            <name>dredmorbius</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zink (OpenGL over Vulkan) allocator improves performance in 1000% in some games]]></title>
-        <id>https://news.ycombinator.com/item?id=28213587</id>
-        <link href="https://cgit.freedesktop.org/mesa/mesa/commit/?id=40fdb3212c3ded2150faf952dc2b669991bfbf94"/>
-        <updated>2021-08-17T19:04:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cgit.freedesktop.org/mesa/mesa/commit/?id=40fdb3212c3ded2150faf952dc2b669991bfbf94
-Comments URL: https://news.ycombinator.com/item?id=28213587
-Points: 100
-# Comments: 24]]></summary>
+        <title type="html"><![CDATA[First Beta for Krita 5.0 released]]></title>
+        <id>https://news.ycombinator.com/item?id=28226681</id>
+        <link href="https://krita.org/en/item/first-beta-for-krita-5-0-released/"/>
+        <updated>2021-08-18T20:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://krita.org/en/item/first-beta-for-krita-5-0-released/
+Comments URL: https://news.ycombinator.com/item?id=28226681
+Points: 107
+# Comments: 32]]></summary>
         <author>
             <name>marcodiego</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Why does Zoom Desktop examine all processes and arguments?]]></title>
-        <id>https://news.ycombinator.com/item?id=28213292</id>
-        <link href="https://news.ycombinator.com/item?id=28213292"/>
-        <updated>2021-08-17T18:38:53.000Z</updated>
-        <summary type="html"><![CDATA[Looking at syscalls, I see Zoom desktop reads all processes and arguments.
-    [pid 3844872] stat("/proc/1", {st_mode=S_IFDIR|0555, st_size=0, ...}) = 0
-    [pid 3844872] openat(AT_FDCWD, "/proc/1/stat", O_RDONLY) = 4
-    [pid 3844872] openat(AT_FDCWD, "/proc/1/cmdline", O_RDONLY) = 4
-    [pid 3844872] readlink("/proc/1/exe", 0x20c0520, 1024) = -1 EACCES (Permission denied)
-    [pid 3844872] stat("/proc/2", {st_mode=S_IFDIR|0555, st_size=0, ...}) = 0
-    [pid 3844872] openat(AT_FDCWD, "/proc/2/stat", O_RDONLY) = 4
-    [pid 3844872] openat(AT_FDCWD, "/proc/2/cmdline", O_RDONLY) = 4
-    [pid 3844872] stat("/proc/3", {st_mode=S_IFDIR|0555, st_size=0, ...}) = 0
-    [pid 3844872] openat(AT_FDCWD, "/proc/3/stat", O_RDONLY) = 4
-    [pid 3844872] openat(AT_FDCWD, "/proc/3/cmdline", O_RDONLY) = 4    
-    ...
-
-Comments URL: https://news.ycombinator.com/item?id=28213292
-Points: 301
-# Comments: 147]]></summary>
+        <title type="html"><![CDATA[Richard Bartle releases his classic “Designing Virtual Worlds” book for free]]></title>
+        <id>https://news.ycombinator.com/item?id=28226176</id>
+        <link href="https://nwn.blogs.com/nwn/2021/08/richard-bartle-designing-virtual-worlds-free-book.html"/>
+        <updated>2021-08-18T19:44:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nwn.blogs.com/nwn/2021/08/richard-bartle-designing-virtual-worlds-free-book.html
+Comments URL: https://news.ycombinator.com/item?id=28226176
+Points: 151
+# Comments: 14]]></summary>
         <author>
-            <name>neolog</name>
+            <name>Kroeler</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lawrence Livermore claims a milestone in laser fusion]]></title>
-        <id>https://news.ycombinator.com/item?id=28211726</id>
-        <link href="https://physicstoday.scitation.org/do/10.1063/PT.6.2.20210817a/full/?af=R&amp;"/>
-        <updated>2021-08-17T16:30:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://physicstoday.scitation.org/do/10.1063/PT.6.2.20210817a/full/?af=R&
-Comments URL: https://news.ycombinator.com/item?id=28211726
-Points: 417
-# Comments: 188]]></summary>
+        <title type="html"><![CDATA[Scientific progress despite irreproducibility: A seeming paradox]]></title>
+        <id>https://news.ycombinator.com/item?id=28225657</id>
+        <link href="https://www.pnas.org/content/115/11/2632"/>
+        <updated>2021-08-18T18:58:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pnas.org/content/115/11/2632
+Comments URL: https://news.ycombinator.com/item?id=28225657
+Points: 40
+# Comments: 34]]></summary>
         <author>
-            <name>furcyd</name>
+            <name>nabla9</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Wendelstein 7-X concept proves its efficiency]]></title>
-        <id>https://news.ycombinator.com/item?id=28211413</id>
-        <link href="https://www.ipp.mpg.de/5125328/05_21"/>
-        <updated>2021-08-17T16:07:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ipp.mpg.de/5125328/05_21
-Comments URL: https://news.ycombinator.com/item?id=28211413
-Points: 131
-# Comments: 15]]></summary>
+        <title type="html"><![CDATA[Launch HN: Govly (YC S21) – Making it easier to sell to the U.S. government]]></title>
+        <id>https://news.ycombinator.com/item?id=28224792</id>
+        <link href="https://news.ycombinator.com/item?id=28224792"/>
+        <updated>2021-08-18T17:56:08.000Z</updated>
+        <summary type="html"><![CDATA[Hi, we're Mike, Jon and Nick, founders of Govly (https://www.govly.com). We’re building a place for companies, resellers, and distributors to work together to bid on government contracts.
+The U.S. government buys lots of things. In 2021, over $218B will be spent purchasing technology products alone. The problem is, it's super confusing to participate in the market.
+You have to understand the rules, have the right connections to government contractors, have a record of strong performance selling to the government, and usually a sales force focused specifically on government sales. This friction leads to fewer companies (especially smaller companies) participating, less competition, and ultimately the government buying the loudest or most insider-connected products instead of the best or mos…]]></summary>
         <author>
-            <name>Tomte</name>
+            <name>mikeweiland</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Helvetica Now Variable]]></title>
-        <id>https://news.ycombinator.com/item?id=28211137</id>
-        <link href="https://www.monotype.com/fonts/helvetica-now-variable"/>
-        <updated>2021-08-17T15:45:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.monotype.com/fonts/helvetica-now-variable
-Comments URL: https://news.ycombinator.com/item?id=28211137
-Points: 259
-# Comments: 141]]></summary>
+        <title type="html"><![CDATA[Reverse-engineering a vintage power supply chip from die photos]]></title>
+        <id>https://news.ycombinator.com/item?id=28224575</id>
+        <link href="https://www.righto.com/2021/08/reverse-engineering-vintage-power.html"/>
+        <updated>2021-08-18T17:37:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.righto.com/2021/08/reverse-engineering-vintage-power.html
+Comments URL: https://news.ycombinator.com/item?id=28224575
+Points: 89
+# Comments: 26]]></summary>
         <author>
-            <name>bpierre</name>
+            <name>parsecs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reversing LZ91 from Commander Keen]]></title>
-        <id>https://news.ycombinator.com/item?id=28210904</id>
-        <link href="https://www.lodsb.com/reversing-lz91-from-commander-keen"/>
-        <updated>2021-08-17T15:26:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.lodsb.com/reversing-lz91-from-commander-keen
-Comments URL: https://news.ycombinator.com/item?id=28210904
-Points: 66
-# Comments: 13]]></summary>
+        <title type="html"><![CDATA[Show HN: Pop.com – pair programming with low-latency, Screenhero-style sharing]]></title>
+        <id>https://news.ycombinator.com/item?id=28223515</id>
+        <link href="https://pop.com/home"/>
+        <updated>2021-08-18T16:25:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pop.com/home
+Comments URL: https://news.ycombinator.com/item?id=28223515
+Points: 128
+# Comments: 69]]></summary>
         <author>
-            <name>samrussellbg</name>
+            <name>jsherwani</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Tara 2.0 – Fast Jira alternative with automation based on Git events]]></title>
-        <id>https://news.ycombinator.com/item?id=28210493</id>
-        <link href="https://tara.ai/"/>
-        <updated>2021-08-17T14:52:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tara.ai/
-Comments URL: https://news.ycombinator.com/item?id=28210493
-Points: 49
-# Comments: 20]]></summary>
+        <title type="html"><![CDATA[Xerox Alto Emulator]]></title>
+        <id>https://news.ycombinator.com/item?id=28223312</id>
+        <link href="https://archives.loomcom.com/contraltojs/"/>
+        <updated>2021-08-18T16:11:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://archives.loomcom.com/contraltojs/
+Comments URL: https://news.ycombinator.com/item?id=28223312
+Points: 121
+# Comments: 35]]></summary>
         <author>
-            <name>iba99</name>
+            <name>hsnewman</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop using Zoom, Hamburg’s data protection agency warns state government]]></title>
-        <id>https://news.ycombinator.com/item?id=28210076</id>
-        <link href="https://techcrunch.com/2021/08/17/stop-using-zoom-hamburgs-dpa-warns-state-government/"/>
-        <updated>2021-08-17T14:14:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2021/08/17/stop-using-zoom-hamburgs-dpa-warns-state-government/
-Comments URL: https://news.ycombinator.com/item?id=28210076
-Points: 463
-# Comments: 176]]></summary>
+        <title type="html"><![CDATA[Resigning from the AMP Advisory Committee]]></title>
+        <id>https://news.ycombinator.com/item?id=28223221</id>
+        <link href="https://adactio.com/journal/18350"/>
+        <updated>2021-08-18T16:05:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://adactio.com/journal/18350
+Comments URL: https://news.ycombinator.com/item?id=28223221
+Points: 55
+# Comments: 38]]></summary>
         <author>
-            <name>jrepinc</name>
+            <name>robin_reala</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Launch YC S21: Meet the Batch, Thread #7]]></title>
-        <id>https://news.ycombinator.com/item?id=28209928</id>
-        <link href="https://news.ycombinator.com/item?id=28209928"/>
-        <updated>2021-08-17T14:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Here's the latest Meet the Batch thread for YC's S21 batch. The previous thread was https://news.ycombinator.com/item?id=28156460. For the original description see https://news.ycombinator.com/item?id=27877280.
-There are 5 startups in this thread. The initial order is random:
-Monto (YC S21): Salary on Demand for Latam - https://news.ycombinator.com/item?id=28209932
-Plug (YC S21) - API for multiple payment providers - https://news.ycombinator.com/item?id=28209933
-Abstra (YC S21): Figma-like front end development for web apps - https://news.ycombinator.com/item?id=28209934
-Levo (YC S21) - High yield savings account for Mexico - https://news.ycombinator.com/item?id=28209929
-BoldVoice (YC S21) - Accent coaching app for non-native English speakers - https://news.ycombinator.com/item?id=28209930
-Comments URL: https://news.ycombinator.com/item?id=28209928
-Points: 80
-# Comments: 116]]></summary>
+        <title type="html"><![CDATA[Launch HN: Flow Club (YC S21) – Virtual co-working space for focused work]]></title>
+        <id>https://news.ycombinator.com/item?id=28222242</id>
+        <link href="https://news.ycombinator.com/item?id=28222242"/>
+        <updated>2021-08-18T15:14:13.000Z</updated>
+        <summary type="html"><![CDATA[We’re Ricky, David, and Minjeong and we built Flow Club: https://www.flow.club. Flow Club is a virtual co-working space to help you focus. You work in hour-long sprints of up to 9 people led by a host and designed to get you into flow quickly. Here’s a video showing how it works: https://www.youtube.com/watch?v=svl68znFgLc.
+A lot of innovation around work today focuses on helping employees collaborate while distributed. The problem? Either you can’t get any work done from the constant Slack pings, excessive emails and agenda-less Zoom meetings, or (if you unplug from all that) you’re isolated and without structure. Then it can get hard to figure out which tasks to work on or find motivation to start. The challenge is to craft a virtual environment that is conducive to doing deep work and a…]]></summary>
         <author>
-            <name>dang</name>
+            <name>rickyyean</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A simple way to build collaborative web apps]]></title>
-        <id>https://news.ycombinator.com/item?id=28209736</id>
-        <link href="https://zjy.cloud/posts/collaborative-web-apps"/>
-        <updated>2021-08-17T13:42:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://zjy.cloud/posts/collaborative-web-apps
-Comments URL: https://news.ycombinator.com/item?id=28209736
-Points: 177
-# Comments: 47]]></summary>
+        <title type="html"><![CDATA[Elm at Rakuten]]></title>
+        <id>https://news.ycombinator.com/item?id=28222060</id>
+        <link href="https://engineering.rakuten.today/post/elm-at-rakuten/"/>
+        <updated>2021-08-18T15:04:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://engineering.rakuten.today/post/elm-at-rakuten/
+Comments URL: https://news.ycombinator.com/item?id=28222060
+Points: 230
+# Comments: 128]]></summary>
         <author>
-            <name>thezjy</name>
+            <name>dragonsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I built an AI art installation at home generating new pieces on the fly]]></title>
+        <id>https://news.ycombinator.com/item?id=28221904</id>
+        <link href="https://github.com/maxvfischer/DIY-ai-art"/>
+        <updated>2021-08-18T14:56:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/maxvfischer/DIY-ai-art
+Comments URL: https://news.ycombinator.com/item?id=28221904
+Points: 323
+# Comments: 142]]></summary>
+        <author>
+            <name>mfi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time to retire the CSV?]]></title>
+        <id>https://news.ycombinator.com/item?id=28221654</id>
+        <link href="https://www.bitsondisk.com/writing/2021/retire-the-csv/"/>
+        <updated>2021-08-18T14:44:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bitsondisk.com/writing/2021/retire-the-csv/
+Comments URL: https://news.ycombinator.com/item?id=28221654
+Points: 147
+# Comments: 444]]></summary>
+        <author>
+            <name>asicsp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B-Trees: More Than I Thought I'd Want to Know]]></title>
+        <id>https://news.ycombinator.com/item?id=28221612</id>
+        <link href="https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/"/>
+        <updated>2021-08-18T14:42:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/
+Comments URL: https://news.ycombinator.com/item?id=28221612
+Points: 150
+# Comments: 35]]></summary>
+        <author>
+            <name>todsacerdoti</name>
         </author>
     </entry>
 </feed>
