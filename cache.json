@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=28252727",
-          "author": "montalbano",
-          "description": "Article URL: https://twitter.com/BodieCabiyo/status/1427683107788845056\nComments URL: https://news.ycombinator.com/item?id=28252727\nPoints: 21\n# Comments: 4",
-          "link": "https://twitter.com/BodieCabiyo/status/1427683107788845056",
-          "publishedOn": "2021-08-20T23:57:40.000Z",
+          "id": "https://news.ycombinator.com/item?id=28260875",
+          "author": "JohnHammersley",
+          "description": "Article URL: https://tikz.net/\nComments URL: https://news.ycombinator.com/item?id=28260875\nPoints: 50\n# Comments: 14",
+          "link": "https://tikz.net/",
+          "publishedOn": "2021-08-21T21:49:43.000Z",
+          "wordCount": 170,
+          "title": "Tikz.net – Graphics with TikZ in LaTeX"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28260536",
+          "author": "harshitaisanerd",
+          "description": "Article URL: https://careers.atob.com/\nComments URL: https://news.ycombinator.com/item?id=28260536\nPoints: 1\n# Comments: 0",
+          "link": "https://careers.atob.com/",
+          "publishedOn": "2021-08-21T21:00:46.000Z",
+          "wordCount": 265,
+          "title": "AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28260328",
+          "author": "hrishi",
+          "description": "Article URL: https://hrishioa.github.io/schema-on-write-is-better-to-live-by/\nComments URL: https://news.ycombinator.com/item?id=28260328\nPoints: 40\n# Comments: 14",
+          "link": "https://hrishioa.github.io/schema-on-write-is-better-to-live-by/",
+          "publishedOn": "2021-08-21T20:31:38.000Z",
+          "wordCount": 1844,
+          "title": "Schema on write is better to live by"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28260313",
+          "author": "BrianOnHN",
+          "description": "Article URL: https://twitter.com/JacquiHeinrich/status/1429173367643516936\nComments URL: https://news.ycombinator.com/item?id=28260313\nPoints: 90\n# Comments: 63",
+          "link": "https://twitter.com/JacquiHeinrich/status/1429173367643516936",
+          "publishedOn": "2021-08-21T20:29:37.000Z",
           "wordCount": 196,
-          "title": "14M ton of carbon offset forest is burning in California"
+          "title": "Cyber Attack, Possible Serious Breach, at U.S. State Department"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28252165",
-          "author": "andreyk",
-          "description": "Article URL: https://about.chatroulette.com/posts/better-match-making-part-1/\nComments URL: https://news.ycombinator.com/item?id=28252165\nPoints: 46\n# Comments: 27",
-          "link": "https://about.chatroulette.com/posts/better-match-making-part-1/",
-          "publishedOn": "2021-08-20T22:35:15.000Z",
-          "wordCount": 1378,
-          "title": "Chatroullete – Collaborative filtering doesn't work for us"
+          "id": "https://news.ycombinator.com/item?id=28260194",
+          "author": "homarp",
+          "description": "Article URL: http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/\nComments URL: https://news.ycombinator.com/item?id=28260194\nPoints: 170\n# Comments: 11",
+          "link": "http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/",
+          "publishedOn": "2021-08-21T20:15:53.000Z",
+          "wordCount": 2170,
+          "title": "Don’t starve, Diablo – Parallax 7 (2016)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28252049",
-          "author": "podiki",
-          "description": "Article URL: https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker\nComments URL: https://news.ycombinator.com/item?id=28252049\nPoints: 18\n# Comments: 2",
-          "link": "https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker",
-          "publishedOn": "2021-08-20T22:20:00.000Z",
-          "wordCount": 4648,
-          "title": "Full-body tracking in VR using AprilTag markers"
+          "id": "https://news.ycombinator.com/item?id=28260020",
+          "author": "infodocket",
+          "description": "Article URL: https://data.berkeley.edu/news/project-jupyter-celebrates-20-years-fernando-perez-reflects-how-it-started-open-sciences\nComments URL: https://news.ycombinator.com/item?id=28260020\nPoints: 89\n# Comments: 20",
+          "link": "https://data.berkeley.edu/news/project-jupyter-celebrates-20-years-fernando-perez-reflects-how-it-started-open-sciences",
+          "publishedOn": "2021-08-21T19:54:42.000Z",
+          "wordCount": 3859,
+          "title": "Project Jupyter Celebrates 20 Years, Fernando Pérez Reflects on How It Started"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28251801",
-          "author": "MrRolling",
-          "description": "Article URL: https://ffmpegwasm.netlify.app/\nComments URL: https://news.ycombinator.com/item?id=28251801\nPoints: 101\n# Comments: 24",
-          "link": "https://ffmpegwasm.netlify.app/",
-          "publishedOn": "2021-08-20T21:49:09.000Z",
-          "wordCount": 9,
-          "title": "FFmpeg for browser and node, powered by WebAssembly"
+          "id": "https://news.ycombinator.com/item?id=28259271",
+          "author": "DiabloD3",
+          "description": "Article URL: https://www.eff.org/deeplinks/2021/08/eff-joins-global-coalition-asking-apple-ceo-tim-cook-stop-phone-scanning\nComments URL: https://news.ycombinator.com/item?id=28259271\nPoints: 378\n# Comments: 133",
+          "link": "https://www.eff.org/deeplinks/2021/08/eff-joins-global-coalition-asking-apple-ceo-tim-cook-stop-phone-scanning",
+          "publishedOn": "2021-08-21T18:23:57.000Z",
+          "wordCount": 1393,
+          "title": "EFF Joins Global Coalition Asking Apple CEO Tim Cook to Stop Phone-Scanning"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28251737",
-          "author": "randycupertino",
-          "description": "Article URL: https://www.mcsweeneys.net/articles/we-will-do-anything-to-get-you-to-work-for-us-except-pay-you-enough\nComments URL: https://news.ycombinator.com/item?id=28251737\nPoints: 106\n# Comments: 32",
-          "link": "https://www.mcsweeneys.net/articles/we-will-do-anything-to-get-you-to-work-for-us-except-pay-you-enough",
-          "publishedOn": "2021-08-20T21:42:17.000Z",
-          "wordCount": 823,
-          "title": "We Will Do Anything to Get You to Work for Us Except Pay You Enough [McSweeneys]"
+          "id": "https://news.ycombinator.com/item?id=28259104",
+          "author": "thunderbong",
+          "description": "Article URL: https://www.sqlite.org/draft/stricttables.html\nComments URL: https://news.ycombinator.com/item?id=28259104\nPoints: 189\n# Comments: 60",
+          "link": "https://www.sqlite.org/draft/stricttables.html",
+          "publishedOn": "2021-08-21T18:03:08.000Z",
+          "wordCount": 317,
+          "title": "Strict Tables – Column type constraints in SQLite - Draft"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28251700",
-          "author": "jonatron",
-          "description": "Article URL: https://tlsfingerprint.io/\nComments URL: https://news.ycombinator.com/item?id=28251700\nPoints: 25\n# Comments: 8",
-          "link": "https://tlsfingerprint.io/",
-          "publishedOn": "2021-08-20T21:38:06.000Z",
-          "wordCount": 257,
-          "title": "View your browser's TLS fingerprint"
+          "id": "https://news.ycombinator.com/item?id=28258945",
+          "author": "eatonphil",
+          "description": "Article URL: https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html\nComments URL: https://news.ycombinator.com/item?id=28258945\nPoints: 104\n# Comments: 76",
+          "link": "https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html",
+          "publishedOn": "2021-08-21T17:45:45.000Z",
+          "wordCount": 610,
+          "title": "Parser generators vs. handwritten parsers: surveying major languages in 2021"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28251591",
-          "author": "tim_sw",
-          "description": "Article URL: https://www.businessinsider.com/google-pay-payments-team-seeing-executive-exodus-turnover-caesar-sengupta-2021-8\nComments URL: https://news.ycombinator.com/item?id=28251591\nPoints: 81\n# Comments: 42",
-          "link": "https://www.businessinsider.com/google-pay-payments-team-seeing-executive-exodus-turnover-caesar-sengupta-2021-8",
-          "publishedOn": "2021-08-20T21:25:38.000Z",
-          "wordCount": 1908,
-          "title": "Google's payments team is seeing an exodus of executives and employees"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28251396",
-          "author": "gautamcgoel",
-          "description": "Article URL: https://semianalysis.com/tesla-dojo-ai-super-computer-unique-packaging-and-chip-design-allow-an-order-magnitude-advantage-over-competing-ai-hardware/\nComments URL: https://news.ycombinator.com/item?id=28251396\nPoints: 14\n# Comments: 0",
-          "link": "https://semianalysis.com/tesla-dojo-ai-super-computer-unique-packaging-and-chip-design-allow-an-order-magnitude-advantage-over-competing-ai-hardware/",
-          "publishedOn": "2021-08-20T21:05:39.000Z",
-          "wordCount": 2359,
-          "title": "An inside look at the custom CPUs in Tesla's Dojo Supercomputer"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28251351",
-          "author": "gdeglin",
-          "description": "Article URL: https://onesignal.com/careers/5accd5c2-4a81-45ca-9813-701cae3cbec4\nComments URL: https://news.ycombinator.com/item?id=28251351\nPoints: 1\n# Comments: 0",
-          "link": "https://onesignal.com/careers/5accd5c2-4a81-45ca-9813-701cae3cbec4",
-          "publishedOn": "2021-08-20T21:00:23.000Z",
-          "wordCount": 167,
-          "title": "OneSignal (YC S11) Is Hiring a Head of Product Engineering"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28251001",
-          "author": "kiyanwang",
-          "description": "Article URL: https://explog.in/notes/devtools/leverage.html\nComments URL: https://news.ycombinator.com/item?id=28251001\nPoints: 25\n# Comments: 7",
-          "link": "https://explog.in/notes/devtools/leverage.html",
-          "publishedOn": "2021-08-20T20:26:19.000Z",
-          "wordCount": 750,
-          "title": "DevTools Leverage"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28250340",
-          "author": "ingve",
-          "description": "Article URL: https://blog.malwarebytes.com/mac/2021/08/macos-11s-hidden-security-improvements/\nComments URL: https://news.ycombinator.com/item?id=28250340\nPoints: 125\n# Comments: 50",
-          "link": "https://blog.malwarebytes.com/mac/2021/08/macos-11s-hidden-security-improvements/",
-          "publishedOn": "2021-08-20T19:28:34.000Z",
-          "wordCount": 5133,
-          "title": "macOS 11’s hidden security improvements"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28249977",
-          "author": "tosh",
-          "description": "Article URL: https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card/\nComments URL: https://news.ycombinator.com/item?id=28249977\nPoints: 503\n# Comments: 195",
-          "link": "https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card/",
-          "publishedOn": "2021-08-20T18:57:31.000Z",
-          "wordCount": 2540,
-          "title": "Facebook hacker beat my 2FA, bricked my Oculus, and hit the company credit card"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28249177",
-          "author": "parsecs",
-          "description": "Article URL: https://rachelbythebay.com/w/2021/08/20/phones/\nComments URL: https://news.ycombinator.com/item?id=28249177\nPoints: 188\n# Comments: 114",
-          "link": "https://rachelbythebay.com/w/2021/08/20/phones/",
-          "publishedOn": "2021-08-20T17:52:53.000Z",
-          "wordCount": 1885,
-          "title": "Your devices and your employer"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28248945",
+          "id": "https://news.ycombinator.com/item?id=28258744",
           "author": "pseudolus",
-          "description": "Article URL: https://www.nature.com/articles/d41586-021-02275-2\nComments URL: https://news.ycombinator.com/item?id=28248945\nPoints: 144\n# Comments: 362",
-          "link": "https://www.nature.com/articles/d41586-021-02275-2",
-          "publishedOn": "2021-08-20T17:37:13.000Z",
-          "wordCount": 1967,
-          "title": "The mutation that helps Delta spread"
+          "description": "Article URL: https://www.theguardian.com/commentisfree/2021/aug/21/beware-state-surveillance-of-your-lives-governments-can-change-afghanistan\nComments URL: https://news.ycombinator.com/item?id=28258744\nPoints: 170\n# Comments: 26",
+          "link": "https://www.theguardian.com/commentisfree/2021/aug/21/beware-state-surveillance-of-your-lives-governments-can-change-afghanistan",
+          "publishedOn": "2021-08-21T17:22:19.000Z",
+          "wordCount": 1097,
+          "title": "Beware state surveillance of your lives – governments can change for the worse"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28248498",
-          "author": "gmays",
-          "description": "Article URL: https://www.nature.com/articles/d41586-021-02194-2\nComments URL: https://news.ycombinator.com/item?id=28248498\nPoints: 109\n# Comments: 29",
-          "link": "https://www.nature.com/articles/d41586-021-02194-2",
-          "publishedOn": "2021-08-20T17:07:34.000Z",
-          "wordCount": 2323,
-          "title": "Chronically lonely flies overeat and lose sleep"
+          "id": "https://news.ycombinator.com/item?id=28258515",
+          "author": "JonathanBuchh",
+          "description": "Article URL: https://blog.placemark.io/2021/07/19/issues-only-management.html\nComments URL: https://news.ycombinator.com/item?id=28258515\nPoints: 178\n# Comments: 87",
+          "link": "https://blog.placemark.io/2021/07/19/issues-only-management.html",
+          "publishedOn": "2021-08-21T16:56:50.000Z",
+          "wordCount": 568,
+          "title": "GitHub Issues-only project management"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28248488",
-          "author": "amrcnimgrnt",
-          "description": "Article URL: http://www.6502.org/users/andre/csa/index.html\nComments URL: https://news.ycombinator.com/item?id=28248488\nPoints: 98\n# Comments: 34",
-          "link": "http://www.6502.org/users/andre/csa/index.html",
-          "publishedOn": "2021-08-20T17:06:51.000Z",
-          "wordCount": 3734,
-          "title": "CS/A65: A 6502 computer with USB, Ethernet and co-processors"
+          "id": "https://news.ycombinator.com/item?id=28258189",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://www.oilshell.org/blog/2021/08/xargs.html\nComments URL: https://news.ycombinator.com/item?id=28258189\nPoints: 259\n# Comments: 105",
+          "link": "https://www.oilshell.org/blog/2021/08/xargs.html",
+          "publishedOn": "2021-08-21T16:21:58.000Z",
+          "wordCount": 2192,
+          "title": "An Opinionated Guide to Xargs"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28247432",
-          "author": "Tomte",
-          "description": "Article URL: https://acoup.blog/2021/08/20/collections-teaching-paradox-victoria-ii-part-ii-the-ruin-of-war/\nComments URL: https://news.ycombinator.com/item?id=28247432\nPoints: 86\n# Comments: 13",
-          "link": "https://acoup.blog/2021/08/20/collections-teaching-paradox-victoria-ii-part-ii-the-ruin-of-war/",
-          "publishedOn": "2021-08-20T15:52:47.000Z",
-          "wordCount": 17125,
-          "title": "The Ruin of War"
+          "id": "https://news.ycombinator.com/item?id=28257933",
+          "author": "underscore_ku",
+          "description": "Article URL: https://www.theverge.com/2021/8/20/22634841/facebook-most-viewed-content-report-look-bad\nComments URL: https://news.ycombinator.com/item?id=28257933\nPoints: 238\n# Comments: 32",
+          "link": "https://www.theverge.com/2021/8/20/22634841/facebook-most-viewed-content-report-look-bad",
+          "publishedOn": "2021-08-21T15:51:02.000Z",
+          "wordCount": 684,
+          "title": "Facebook suppressed report that made it look bad"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28247379",
-          "author": "rblack44",
-          "description": "Hi, we're Andres and Ryan, the founders of Ancana (https://en.ancana.co/). Ancana is a marketplace for buying fully managed vacation homes through fractional ownership.\nDemand for vacation homes has driven up their price, putting these properties out of reach for most buyers, who only plan to use the home a few weeks a year. This pushes many people into timeshares, which are notorious for hidden fees, pushy sales tactics, and difficulty to sell. With Ancana, you can own a 1/4 or 1/8 share of the home and split expenses with the other co-owners. If you buy a 1/4 share of a home, you have access to it for 3 months of the year. For each property we set up the investment trust, find qualified co-owners, and handle the entire real estate purchase transaction. Costs are split amongst the co-owne…",
-          "link": "https://news.ycombinator.com/item?id=28247379",
-          "publishedOn": "2021-08-20T15:48:23.000Z",
-          "wordCount": 9338,
-          "title": "Launch HN: Ancana (YC S21) – Fractional ownership of vacation homes"
+          "id": "https://news.ycombinator.com/item?id=28257666",
+          "author": "kmstout",
+          "description": "Article URL: http://trillian.mit.edu/~jc/humor/ATT_Copyright_true.html\nComments URL: https://news.ycombinator.com/item?id=28257666\nPoints: 104\n# Comments: 53",
+          "link": "http://trillian.mit.edu/~jc/humor/ATT_Copyright_true.html",
+          "publishedOn": "2021-08-21T15:18:13.000Z",
+          "wordCount": 975,
+          "title": "The /bin/true Command and Copyright (2009)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28246063",
-          "author": "zdw",
-          "description": "Article URL: https://www.uninformativ.de/blog/postings/2021-08-19/0/POSTING-en.html\nComments URL: https://news.ycombinator.com/item?id=28246063\nPoints: 17\n# Comments: 2",
-          "link": "https://www.uninformativ.de/blog/postings/2021-08-19/0/POSTING-en.html",
-          "publishedOn": "2021-08-20T14:00:44.000Z",
-          "wordCount": 865,
-          "title": "Scratching the surface: perf stat and Hyper-Threading"
+          "id": "https://news.ycombinator.com/item?id=28257352",
+          "author": "rich-cartwright",
+          "description": "Hey HN! I'm Richie from Fella (https://www.joinfella.com), a telehealth clinic for men with obesity. Fella helps men get to a healthier weight by matching them with a board-certified obesity doctor to prescribe an FDA-approved medication, while they undertake personalized health coaching.\nI personally struggled with stress eating for 6 years. During that time, I was at Cambridge University, then built and sold my first company working with the UK government. It was tough, and poor eating habits as a teenager became a coping mechanism as an adult.\nFella first started as a \"CBT+community\" product to help men battling stress eating. It resonated due to the stigma around men's eating struggles. But we realized we were only half-serving most of our customers: even when no longer stress eating, …",
+          "link": "https://news.ycombinator.com/item?id=28257352",
+          "publishedOn": "2021-08-21T14:36:36.000Z",
+          "wordCount": 14087,
+          "title": "Launch HN: Fella (YC W20) – Tackling men's obesity using medication and coaching"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28245277",
-          "author": "agmm",
-          "description": "Article URL: https://github.com/ManimCommunity/manim\nComments URL: https://news.ycombinator.com/item?id=28245277\nPoints: 444\n# Comments: 53",
-          "link": "https://github.com/ManimCommunity/manim",
-          "publishedOn": "2021-08-20T12:32:22.000Z",
-          "wordCount": 1799,
-          "title": "Manim: An animation engine for explanatory math videos"
+          "id": "https://news.ycombinator.com/item?id=28257243",
+          "author": "thunderbong",
+          "description": "Article URL: https://github.com/gitsrc/IceFireDB\nComments URL: https://news.ycombinator.com/item?id=28257243\nPoints: 128\n# Comments: 53",
+          "link": "https://github.com/gitsrc/IceFireDB",
+          "publishedOn": "2021-08-21T14:23:16.000Z",
+          "wordCount": 787,
+          "title": "IceFireDB: Distributed disk storage database based on Raft and Redis protocol"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28257197",
+          "author": "Pikkie",
+          "description": "Article URL: https://www.sciencemag.org/careers/2021/08/thoughts-work-invaded-my-life-until-i-learned-how-unplug\nComments URL: https://news.ycombinator.com/item?id=28257197\nPoints: 225\n# Comments: 94",
+          "link": "https://www.sciencemag.org/careers/2021/08/thoughts-work-invaded-my-life-until-i-learned-how-unplug",
+          "publishedOn": "2021-08-21T14:18:52.000Z",
+          "wordCount": 1147,
+          "title": "Thoughts of work invaded my life until I learned how to unplug"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28257098",
+          "author": "teleforce",
+          "description": "Article URL: https://research.google/pubs/pub48630/\nComments URL: https://news.ycombinator.com/item?id=28257098\nPoints: 73\n# Comments: 9",
+          "link": "https://research.google/pubs/pub48630/",
+          "publishedOn": "2021-08-21T14:03:20.000Z",
+          "wordCount": 361,
+          "title": "Snap: A microkernel approach to host networking (2019)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28256051",
+          "author": "YeGoblynQueenne",
+          "description": "Article URL: https://thegradient.pub/an-introduction-to-ai-story-generation/\nComments URL: https://news.ycombinator.com/item?id=28256051\nPoints: 43\n# Comments: 6",
+          "link": "https://thegradient.pub/an-introduction-to-ai-story-generation/",
+          "publishedOn": "2021-08-21T11:25:06.000Z",
+          "wordCount": 6577,
+          "title": "An Introduction to AI Story Generation"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28255911",
+          "author": "DanielBMarkham",
+          "description": "Article URL: https://danielbmarkham.com/we-dont-do-learning-we-direct-it/\nComments URL: https://news.ycombinator.com/item?id=28255911\nPoints: 35\n# Comments: 7",
+          "link": "https://danielbmarkham.com/we-dont-do-learning-we-direct-it/",
+          "publishedOn": "2021-08-21T10:52:49.000Z",
+          "wordCount": 1361,
+          "title": "We don't 'do' learning. It does us"
         }
       ]
     }
