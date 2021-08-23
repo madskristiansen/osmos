@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=28260875",
-          "author": "JohnHammersley",
-          "description": "Article URL: https://tikz.net/\nComments URL: https://news.ycombinator.com/item?id=28260875\nPoints: 50\n# Comments: 14",
-          "link": "https://tikz.net/",
-          "publishedOn": "2021-08-21T21:49:43.000Z",
-          "wordCount": 170,
-          "title": "Tikz.net – Graphics with TikZ in LaTeX"
+          "id": "https://news.ycombinator.com/item?id=28270783",
+          "author": "seigando",
+          "description": "Article URL: https://www.businessinsider.com/amazon-staffer-bathroom-breaks-irritable-bowel-syndrome-lawsuit-2021-8\nComments URL: https://news.ycombinator.com/item?id=28270783\nPoints: 34\n# Comments: 12",
+          "link": "https://www.businessinsider.com/amazon-staffer-bathroom-breaks-irritable-bowel-syndrome-lawsuit-2021-8",
+          "publishedOn": "2021-08-22T23:35:55.000Z",
+          "wordCount": 1431,
+          "title": "Amazon Staffer Says She Was Fired over Bathroom Breaks for Bowel Issue"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28260536",
-          "author": "harshitaisanerd",
-          "description": "Article URL: https://careers.atob.com/\nComments URL: https://news.ycombinator.com/item?id=28260536\nPoints: 1\n# Comments: 0",
-          "link": "https://careers.atob.com/",
-          "publishedOn": "2021-08-21T21:00:46.000Z",
-          "wordCount": 265,
-          "title": "AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28260328",
-          "author": "hrishi",
-          "description": "Article URL: https://hrishioa.github.io/schema-on-write-is-better-to-live-by/\nComments URL: https://news.ycombinator.com/item?id=28260328\nPoints: 40\n# Comments: 14",
-          "link": "https://hrishioa.github.io/schema-on-write-is-better-to-live-by/",
-          "publishedOn": "2021-08-21T20:31:38.000Z",
-          "wordCount": 1844,
-          "title": "Schema on write is better to live by"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28260313",
-          "author": "BrianOnHN",
-          "description": "Article URL: https://twitter.com/JacquiHeinrich/status/1429173367643516936\nComments URL: https://news.ycombinator.com/item?id=28260313\nPoints: 90\n# Comments: 63",
-          "link": "https://twitter.com/JacquiHeinrich/status/1429173367643516936",
-          "publishedOn": "2021-08-21T20:29:37.000Z",
+          "id": "https://news.ycombinator.com/item?id=28270680",
+          "author": "pthariensflame",
+          "description": "Article URL: https://twitter.com/alyssarzg/status/1429579145827127296\nComments URL: https://news.ycombinator.com/item?id=28270680\nPoints: 47\n# Comments: 7",
+          "link": "https://twitter.com/alyssarzg/status/1429579145827127296",
+          "publishedOn": "2021-08-22T23:21:36.000Z",
           "wordCount": 196,
-          "title": "Cyber Attack, Possible Serious Breach, at U.S. State Department"
+          "title": "Gnome Shell on the Apple M1, bare metal"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28260194",
-          "author": "homarp",
-          "description": "Article URL: http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/\nComments URL: https://news.ycombinator.com/item?id=28260194\nPoints: 170\n# Comments: 11",
-          "link": "http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/",
-          "publishedOn": "2021-08-21T20:15:53.000Z",
-          "wordCount": 2170,
-          "title": "Don’t starve, Diablo – Parallax 7 (2016)"
+          "id": "https://news.ycombinator.com/item?id=28270570",
+          "author": "dredmorbius",
+          "description": "Article URL: https://www.brookings.edu/research/why-protecting-privacy-is-a-losing-game-today-and-how-to-change-the-game/\nComments URL: https://news.ycombinator.com/item?id=28270570\nPoints: 13\n# Comments: 1",
+          "link": "https://www.brookings.edu/research/why-protecting-privacy-is-a-losing-game-today-and-how-to-change-the-game/",
+          "publishedOn": "2021-08-22T23:03:48.000Z",
+          "wordCount": 6713,
+          "title": "Why protecting privacy is a losing game today (2018)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28260020",
-          "author": "infodocket",
-          "description": "Article URL: https://data.berkeley.edu/news/project-jupyter-celebrates-20-years-fernando-perez-reflects-how-it-started-open-sciences\nComments URL: https://news.ycombinator.com/item?id=28260020\nPoints: 89\n# Comments: 20",
-          "link": "https://data.berkeley.edu/news/project-jupyter-celebrates-20-years-fernando-perez-reflects-how-it-started-open-sciences",
-          "publishedOn": "2021-08-21T19:54:42.000Z",
-          "wordCount": 3859,
-          "title": "Project Jupyter Celebrates 20 Years, Fernando Pérez Reflects on How It Started"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28259271",
-          "author": "DiabloD3",
-          "description": "Article URL: https://www.eff.org/deeplinks/2021/08/eff-joins-global-coalition-asking-apple-ceo-tim-cook-stop-phone-scanning\nComments URL: https://news.ycombinator.com/item?id=28259271\nPoints: 378\n# Comments: 133",
-          "link": "https://www.eff.org/deeplinks/2021/08/eff-joins-global-coalition-asking-apple-ceo-tim-cook-stop-phone-scanning",
-          "publishedOn": "2021-08-21T18:23:57.000Z",
-          "wordCount": 1393,
-          "title": "EFF Joins Global Coalition Asking Apple CEO Tim Cook to Stop Phone-Scanning"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28259104",
-          "author": "thunderbong",
-          "description": "Article URL: https://www.sqlite.org/draft/stricttables.html\nComments URL: https://news.ycombinator.com/item?id=28259104\nPoints: 189\n# Comments: 60",
-          "link": "https://www.sqlite.org/draft/stricttables.html",
-          "publishedOn": "2021-08-21T18:03:08.000Z",
-          "wordCount": 317,
-          "title": "Strict Tables – Column type constraints in SQLite - Draft"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28258945",
-          "author": "eatonphil",
-          "description": "Article URL: https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html\nComments URL: https://news.ycombinator.com/item?id=28258945\nPoints: 104\n# Comments: 76",
-          "link": "https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html",
-          "publishedOn": "2021-08-21T17:45:45.000Z",
-          "wordCount": 610,
-          "title": "Parser generators vs. handwritten parsers: surveying major languages in 2021"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28258744",
-          "author": "pseudolus",
-          "description": "Article URL: https://www.theguardian.com/commentisfree/2021/aug/21/beware-state-surveillance-of-your-lives-governments-can-change-afghanistan\nComments URL: https://news.ycombinator.com/item?id=28258744\nPoints: 170\n# Comments: 26",
-          "link": "https://www.theguardian.com/commentisfree/2021/aug/21/beware-state-surveillance-of-your-lives-governments-can-change-afghanistan",
-          "publishedOn": "2021-08-21T17:22:19.000Z",
-          "wordCount": 1097,
-          "title": "Beware state surveillance of your lives – governments can change for the worse"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28258515",
-          "author": "JonathanBuchh",
-          "description": "Article URL: https://blog.placemark.io/2021/07/19/issues-only-management.html\nComments URL: https://news.ycombinator.com/item?id=28258515\nPoints: 178\n# Comments: 87",
-          "link": "https://blog.placemark.io/2021/07/19/issues-only-management.html",
-          "publishedOn": "2021-08-21T16:56:50.000Z",
-          "wordCount": 568,
-          "title": "GitHub Issues-only project management"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28258189",
+          "id": "https://news.ycombinator.com/item?id=28270249",
           "author": "todsacerdoti",
-          "description": "Article URL: https://www.oilshell.org/blog/2021/08/xargs.html\nComments URL: https://news.ycombinator.com/item?id=28258189\nPoints: 259\n# Comments: 105",
-          "link": "https://www.oilshell.org/blog/2021/08/xargs.html",
-          "publishedOn": "2021-08-21T16:21:58.000Z",
-          "wordCount": 2192,
-          "title": "An Opinionated Guide to Xargs"
+          "description": "Article URL: https://github.com/langjam/jam0001/tree/main/hope\nComments URL: https://news.ycombinator.com/item?id=28270249\nPoints: 14\n# Comments: 5",
+          "link": "https://github.com/langjam/jam0001/tree/main/hope",
+          "publishedOn": "2021-08-22T22:22:01.000Z",
+          "wordCount": 1700,
+          "title": "PlsExplain: A small dynamic programming language where every value is explained"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28257933",
-          "author": "underscore_ku",
-          "description": "Article URL: https://www.theverge.com/2021/8/20/22634841/facebook-most-viewed-content-report-look-bad\nComments URL: https://news.ycombinator.com/item?id=28257933\nPoints: 238\n# Comments: 32",
-          "link": "https://www.theverge.com/2021/8/20/22634841/facebook-most-viewed-content-report-look-bad",
-          "publishedOn": "2021-08-21T15:51:02.000Z",
-          "wordCount": 684,
-          "title": "Facebook suppressed report that made it look bad"
+          "id": "https://news.ycombinator.com/item?id=28270144",
+          "author": "zeristor",
+          "description": "Article URL: https://youtube.com/watch?v=2TFiL5BM3ss\nComments URL: https://news.ycombinator.com/item?id=28270144\nPoints: 102\n# Comments: 49",
+          "link": "https://youtube.com/watch?v=2TFiL5BM3ss",
+          "publishedOn": "2021-08-22T22:08:54.000Z",
+          "wordCount": 25,
+          "title": "How can we make air conditioners 33% more efficient? A revolutionary solution"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28257666",
-          "author": "kmstout",
-          "description": "Article URL: http://trillian.mit.edu/~jc/humor/ATT_Copyright_true.html\nComments URL: https://news.ycombinator.com/item?id=28257666\nPoints: 104\n# Comments: 53",
-          "link": "http://trillian.mit.edu/~jc/humor/ATT_Copyright_true.html",
-          "publishedOn": "2021-08-21T15:18:13.000Z",
-          "wordCount": 975,
-          "title": "The /bin/true Command and Copyright (2009)"
+          "id": "https://news.ycombinator.com/item?id=28270124",
+          "author": "cyansmoker",
+          "description": "Article URL: https://glauth.github.io/\nComments URL: https://news.ycombinator.com/item?id=28270124\nPoints: 16\n# Comments: 0",
+          "link": "https://glauth.github.io/",
+          "publishedOn": "2021-08-22T22:06:19.000Z",
+          "wordCount": 181,
+          "title": "Show HN: GLAuth 2.0 out, only a year late"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28257352",
-          "author": "rich-cartwright",
-          "description": "Hey HN! I'm Richie from Fella (https://www.joinfella.com), a telehealth clinic for men with obesity. Fella helps men get to a healthier weight by matching them with a board-certified obesity doctor to prescribe an FDA-approved medication, while they undertake personalized health coaching.\nI personally struggled with stress eating for 6 years. During that time, I was at Cambridge University, then built and sold my first company working with the UK government. It was tough, and poor eating habits as a teenager became a coping mechanism as an adult.\nFella first started as a \"CBT+community\" product to help men battling stress eating. It resonated due to the stigma around men's eating struggles. But we realized we were only half-serving most of our customers: even when no longer stress eating, …",
-          "link": "https://news.ycombinator.com/item?id=28257352",
-          "publishedOn": "2021-08-21T14:36:36.000Z",
-          "wordCount": 14087,
-          "title": "Launch HN: Fella (YC W20) – Tackling men's obesity using medication and coaching"
+          "id": "https://news.ycombinator.com/item?id=28269707",
+          "author": "35_candelas",
+          "description": "Article URL: https://news.mit.edu/2021/countering-climate-change-cool-pavements-0822\nComments URL: https://news.ycombinator.com/item?id=28269707\nPoints: 50\n# Comments: 37",
+          "link": "https://news.mit.edu/2021/countering-climate-change-cool-pavements-0822",
+          "publishedOn": "2021-08-22T21:17:21.000Z",
+          "wordCount": 2168,
+          "title": "Countering climate change with cool pavements"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28257243",
-          "author": "thunderbong",
-          "description": "Article URL: https://github.com/gitsrc/IceFireDB\nComments URL: https://news.ycombinator.com/item?id=28257243\nPoints: 128\n# Comments: 53",
-          "link": "https://github.com/gitsrc/IceFireDB",
-          "publishedOn": "2021-08-21T14:23:16.000Z",
-          "wordCount": 787,
-          "title": "IceFireDB: Distributed disk storage database based on Raft and Redis protocol"
+          "id": "https://news.ycombinator.com/item?id=28269566",
+          "author": "Kraftful",
+          "description": "Article URL: https://www.kraftful.com/team\nComments URL: https://news.ycombinator.com/item?id=28269566\nPoints: 1\n# Comments: 0",
+          "link": "https://www.kraftful.com/team",
+          "publishedOn": "2021-08-22T21:00:27.000Z",
+          "wordCount": 485,
+          "title": "Kraftful (YC S19) hiring SDRs to build the software layer for the physical world"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28257197",
-          "author": "Pikkie",
-          "description": "Article URL: https://www.sciencemag.org/careers/2021/08/thoughts-work-invaded-my-life-until-i-learned-how-unplug\nComments URL: https://news.ycombinator.com/item?id=28257197\nPoints: 225\n# Comments: 94",
-          "link": "https://www.sciencemag.org/careers/2021/08/thoughts-work-invaded-my-life-until-i-learned-how-unplug",
-          "publishedOn": "2021-08-21T14:18:52.000Z",
-          "wordCount": 1147,
-          "title": "Thoughts of work invaded my life until I learned how to unplug"
+          "id": "https://news.ycombinator.com/item?id=28269533",
+          "author": "PikelEmi",
+          "description": "Article URL: https://spectrum.ieee.org/a-diy-e-bike-conversion-on-the-cheap\nComments URL: https://news.ycombinator.com/item?id=28269533\nPoints: 115\n# Comments: 96",
+          "link": "https://spectrum.ieee.org/a-diy-e-bike-conversion-on-the-cheap",
+          "publishedOn": "2021-08-22T20:55:45.000Z",
+          "wordCount": 5015,
+          "title": "A DIY E-bike Conversion on the Cheap"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28257098",
-          "author": "teleforce",
-          "description": "Article URL: https://research.google/pubs/pub48630/\nComments URL: https://news.ycombinator.com/item?id=28257098\nPoints: 73\n# Comments: 9",
-          "link": "https://research.google/pubs/pub48630/",
-          "publishedOn": "2021-08-21T14:03:20.000Z",
-          "wordCount": 361,
-          "title": "Snap: A microkernel approach to host networking (2019)"
+          "id": "https://news.ycombinator.com/item?id=28269342",
+          "author": "tonyedgecombe",
+          "description": "Article URL: https://smartgrowthamerica.org/bigger-vehicles-are-directly-resulting-in-more-deaths-of-people-walking/\nComments URL: https://news.ycombinator.com/item?id=28269342\nPoints: 135\n# Comments: 77",
+          "link": "https://smartgrowthamerica.org/bigger-vehicles-are-directly-resulting-in-more-deaths-of-people-walking/",
+          "publishedOn": "2021-08-22T20:34:45.000Z",
+          "wordCount": 1746,
+          "title": "Bigger vehicles are directly resulting in more deaths of people walking"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28256051",
-          "author": "YeGoblynQueenne",
-          "description": "Article URL: https://thegradient.pub/an-introduction-to-ai-story-generation/\nComments URL: https://news.ycombinator.com/item?id=28256051\nPoints: 43\n# Comments: 6",
-          "link": "https://thegradient.pub/an-introduction-to-ai-story-generation/",
-          "publishedOn": "2021-08-21T11:25:06.000Z",
-          "wordCount": 6577,
-          "title": "An Introduction to AI Story Generation"
+          "id": "https://news.ycombinator.com/item?id=28269320",
+          "author": "jger15",
+          "description": "Article URL: https://alexdanco.com/2021/08/21/dancoland/\nComments URL: https://news.ycombinator.com/item?id=28269320\nPoints: 8\n# Comments: 0",
+          "link": "https://alexdanco.com/2021/08/21/dancoland/",
+          "publishedOn": "2021-08-22T20:32:19.000Z",
+          "wordCount": 10441,
+          "title": "Dancoland"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28255911",
-          "author": "DanielBMarkham",
-          "description": "Article URL: https://danielbmarkham.com/we-dont-do-learning-we-direct-it/\nComments URL: https://news.ycombinator.com/item?id=28255911\nPoints: 35\n# Comments: 7",
-          "link": "https://danielbmarkham.com/we-dont-do-learning-we-direct-it/",
-          "publishedOn": "2021-08-21T10:52:49.000Z",
-          "wordCount": 1361,
-          "title": "We don't 'do' learning. It does us"
+          "id": "https://news.ycombinator.com/item?id=28268667",
+          "author": "podiki",
+          "description": "Article URL: https://bootstrappable.org/projects/mes.html\nComments URL: https://news.ycombinator.com/item?id=28268667\nPoints: 30\n# Comments: 2",
+          "link": "https://bootstrappable.org/projects/mes.html",
+          "publishedOn": "2021-08-22T19:27:53.000Z",
+          "wordCount": 449,
+          "title": "Working towards a source-based bootstrapping path to a GNU+Linux system"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28268136",
+          "author": "prostoalex",
+          "description": "Article URL: https://lithub.com/on-the-link-between-great-thinking-and-obsessive-walking/\nComments URL: https://news.ycombinator.com/item?id=28268136\nPoints: 208\n# Comments: 60",
+          "link": "https://lithub.com/on-the-link-between-great-thinking-and-obsessive-walking/",
+          "publishedOn": "2021-08-22T18:32:49.000Z",
+          "wordCount": 2557,
+          "title": "On the link between great thinking and obsessive walking"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28267975",
+          "author": "xanthine",
+          "description": "Article URL: https://github.com/nuvious/pam-duress\nComments URL: https://news.ycombinator.com/item?id=28267975\nPoints: 371\n# Comments: 145",
+          "link": "https://github.com/nuvious/pam-duress",
+          "publishedOn": "2021-08-22T18:15:49.000Z",
+          "wordCount": 1456,
+          "title": "PAM Duress – Alternate passwords for panic situations"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28267954",
+          "author": "mot2ba",
+          "description": "Article URL: https://habr.com/en/post/574082/\nComments URL: https://news.ycombinator.com/item?id=28267954\nPoints: 108\n# Comments: 70",
+          "link": "https://habr.com/en/post/574082/",
+          "publishedOn": "2021-08-22T18:12:57.000Z",
+          "wordCount": 1358,
+          "title": "One does not simply calculate the absolute value"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28266889",
+          "author": "vikrum",
+          "description": "Article URL: http://iopenshell.usc.edu/pubs/pdf/jpcl_opinion_2021.pdf\nComments URL: https://news.ycombinator.com/item?id=28266889\nPoints: 118\n# Comments: 62",
+          "link": "http://iopenshell.usc.edu/pubs/pdf/jpcl_opinion_2021.pdf",
+          "publishedOn": "2021-08-22T16:35:16.000Z",
+          "wordCount": 111992,
+          "title": "The Peril of Politicizing Science [pdf]"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28266831",
+          "author": "codetrotter",
+          "description": "Article URL: https://fsnot.es/\nComments URL: https://news.ycombinator.com/item?id=28266831\nPoints: 190\n# Comments: 82",
+          "link": "https://fsnot.es/",
+          "publishedOn": "2021-08-22T16:29:41.000Z",
+          "wordCount": 348,
+          "title": "FSNotes: Notes manager for macOS and iOS – native, open source"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28266708",
+          "author": "deegles",
+          "description": "Article URL: https://twitter.com/trungtphan/status/1429464889307762688\nComments URL: https://news.ycombinator.com/item?id=28266708\nPoints: 364\n# Comments: 142",
+          "link": "https://twitter.com/trungtphan/status/1429464889307762688",
+          "publishedOn": "2021-08-22T16:16:28.000Z",
+          "wordCount": 196,
+          "title": "ASML, a $300B Dutch firm, makes the machines that make semiconductors"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28266658",
+          "author": "ff7f00",
+          "description": "Article URL: https://productivityhub.org/2019/04/19/how-to-deliver-constructive-feedback-in-difficult-situations/\nComments URL: https://news.ycombinator.com/item?id=28266658\nPoints: 190\n# Comments: 45",
+          "link": "https://productivityhub.org/2019/04/19/how-to-deliver-constructive-feedback-in-difficult-situations/",
+          "publishedOn": "2021-08-22T16:11:40.000Z",
+          "wordCount": 2677,
+          "title": "How to deliver constructive feedback in difficult situations (2019)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28266650",
+          "author": "arkadiyt",
+          "description": "Article URL: https://techcrunch.com/2021/08/19/google-geofence-warrants/\nComments URL: https://news.ycombinator.com/item?id=28266650\nPoints: 233\n# Comments: 166",
+          "link": "https://techcrunch.com/2021/08/19/google-geofence-warrants/",
+          "publishedOn": "2021-08-22T16:11:04.000Z",
+          "wordCount": 720,
+          "title": "Google says geofence warrants make up one-quarter of all US demands"
         }
       ]
     }

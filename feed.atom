@@ -1,267 +1,268 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-22T00:49:28.842Z</id>
+    <id>urn:2021-08-23T00:46:42.905Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-22T00:49:28.842Z</updated>
+    <updated>2021-08-23T00:46:42.905Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Tikz.net – Graphics with TikZ in LaTeX]]></title>
-        <id>https://news.ycombinator.com/item?id=28260875</id>
-        <link href="https://tikz.net/"/>
-        <updated>2021-08-21T21:49:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tikz.net/
-Comments URL: https://news.ycombinator.com/item?id=28260875
-Points: 50
-# Comments: 14]]></summary>
+        <title type="html"><![CDATA[Amazon Staffer Says She Was Fired over Bathroom Breaks for Bowel Issue]]></title>
+        <id>https://news.ycombinator.com/item?id=28270783</id>
+        <link href="https://www.businessinsider.com/amazon-staffer-bathroom-breaks-irritable-bowel-syndrome-lawsuit-2021-8"/>
+        <updated>2021-08-22T23:35:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/amazon-staffer-bathroom-breaks-irritable-bowel-syndrome-lawsuit-2021-8
+Comments URL: https://news.ycombinator.com/item?id=28270783
+Points: 34
+# Comments: 12]]></summary>
         <author>
-            <name>JohnHammersley</name>
+            <name>seigando</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators]]></title>
-        <id>https://news.ycombinator.com/item?id=28260536</id>
-        <link href="https://careers.atob.com/"/>
-        <updated>2021-08-21T21:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://careers.atob.com/
-Comments URL: https://news.ycombinator.com/item?id=28260536
-Points: 1
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Gnome Shell on the Apple M1, bare metal]]></title>
+        <id>https://news.ycombinator.com/item?id=28270680</id>
+        <link href="https://twitter.com/alyssarzg/status/1429579145827127296"/>
+        <updated>2021-08-22T23:21:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/alyssarzg/status/1429579145827127296
+Comments URL: https://news.ycombinator.com/item?id=28270680
+Points: 47
+# Comments: 7]]></summary>
         <author>
-            <name>harshitaisanerd</name>
+            <name>pthariensflame</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Schema on write is better to live by]]></title>
-        <id>https://news.ycombinator.com/item?id=28260328</id>
-        <link href="https://hrishioa.github.io/schema-on-write-is-better-to-live-by/"/>
-        <updated>2021-08-21T20:31:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://hrishioa.github.io/schema-on-write-is-better-to-live-by/
-Comments URL: https://news.ycombinator.com/item?id=28260328
-Points: 40
-# Comments: 14]]></summary>
+        <title type="html"><![CDATA[Why protecting privacy is a losing game today (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=28270570</id>
+        <link href="https://www.brookings.edu/research/why-protecting-privacy-is-a-losing-game-today-and-how-to-change-the-game/"/>
+        <updated>2021-08-22T23:03:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.brookings.edu/research/why-protecting-privacy-is-a-losing-game-today-and-how-to-change-the-game/
+Comments URL: https://news.ycombinator.com/item?id=28270570
+Points: 13
+# Comments: 1]]></summary>
         <author>
-            <name>hrishi</name>
+            <name>dredmorbius</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cyber Attack, Possible Serious Breach, at U.S. State Department]]></title>
-        <id>https://news.ycombinator.com/item?id=28260313</id>
-        <link href="https://twitter.com/JacquiHeinrich/status/1429173367643516936"/>
-        <updated>2021-08-21T20:29:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/JacquiHeinrich/status/1429173367643516936
-Comments URL: https://news.ycombinator.com/item?id=28260313
-Points: 90
-# Comments: 63]]></summary>
-        <author>
-            <name>BrianOnHN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t starve, Diablo – Parallax 7 (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=28260194</id>
-        <link href="http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/"/>
-        <updated>2021-08-21T20:15:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/
-Comments URL: https://news.ycombinator.com/item?id=28260194
-Points: 170
-# Comments: 11]]></summary>
-        <author>
-            <name>homarp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project Jupyter Celebrates 20 Years, Fernando Pérez Reflects on How It Started]]></title>
-        <id>https://news.ycombinator.com/item?id=28260020</id>
-        <link href="https://data.berkeley.edu/news/project-jupyter-celebrates-20-years-fernando-perez-reflects-how-it-started-open-sciences"/>
-        <updated>2021-08-21T19:54:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://data.berkeley.edu/news/project-jupyter-celebrates-20-years-fernando-perez-reflects-how-it-started-open-sciences
-Comments URL: https://news.ycombinator.com/item?id=28260020
-Points: 89
-# Comments: 20]]></summary>
-        <author>
-            <name>infodocket</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EFF Joins Global Coalition Asking Apple CEO Tim Cook to Stop Phone-Scanning]]></title>
-        <id>https://news.ycombinator.com/item?id=28259271</id>
-        <link href="https://www.eff.org/deeplinks/2021/08/eff-joins-global-coalition-asking-apple-ceo-tim-cook-stop-phone-scanning"/>
-        <updated>2021-08-21T18:23:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2021/08/eff-joins-global-coalition-asking-apple-ceo-tim-cook-stop-phone-scanning
-Comments URL: https://news.ycombinator.com/item?id=28259271
-Points: 378
-# Comments: 133]]></summary>
-        <author>
-            <name>DiabloD3</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strict Tables – Column type constraints in SQLite - Draft]]></title>
-        <id>https://news.ycombinator.com/item?id=28259104</id>
-        <link href="https://www.sqlite.org/draft/stricttables.html"/>
-        <updated>2021-08-21T18:03:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sqlite.org/draft/stricttables.html
-Comments URL: https://news.ycombinator.com/item?id=28259104
-Points: 189
-# Comments: 60]]></summary>
-        <author>
-            <name>thunderbong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parser generators vs. handwritten parsers: surveying major languages in 2021]]></title>
-        <id>https://news.ycombinator.com/item?id=28258945</id>
-        <link href="https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html"/>
-        <updated>2021-08-21T17:45:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html
-Comments URL: https://news.ycombinator.com/item?id=28258945
-Points: 104
-# Comments: 76]]></summary>
-        <author>
-            <name>eatonphil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beware state surveillance of your lives – governments can change for the worse]]></title>
-        <id>https://news.ycombinator.com/item?id=28258744</id>
-        <link href="https://www.theguardian.com/commentisfree/2021/aug/21/beware-state-surveillance-of-your-lives-governments-can-change-afghanistan"/>
-        <updated>2021-08-21T17:22:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/commentisfree/2021/aug/21/beware-state-surveillance-of-your-lives-governments-can-change-afghanistan
-Comments URL: https://news.ycombinator.com/item?id=28258744
-Points: 170
-# Comments: 26]]></summary>
-        <author>
-            <name>pseudolus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Issues-only project management]]></title>
-        <id>https://news.ycombinator.com/item?id=28258515</id>
-        <link href="https://blog.placemark.io/2021/07/19/issues-only-management.html"/>
-        <updated>2021-08-21T16:56:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.placemark.io/2021/07/19/issues-only-management.html
-Comments URL: https://news.ycombinator.com/item?id=28258515
-Points: 178
-# Comments: 87]]></summary>
-        <author>
-            <name>JonathanBuchh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Opinionated Guide to Xargs]]></title>
-        <id>https://news.ycombinator.com/item?id=28258189</id>
-        <link href="https://www.oilshell.org/blog/2021/08/xargs.html"/>
-        <updated>2021-08-21T16:21:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.oilshell.org/blog/2021/08/xargs.html
-Comments URL: https://news.ycombinator.com/item?id=28258189
-Points: 259
-# Comments: 105]]></summary>
+        <title type="html"><![CDATA[PlsExplain: A small dynamic programming language where every value is explained]]></title>
+        <id>https://news.ycombinator.com/item?id=28270249</id>
+        <link href="https://github.com/langjam/jam0001/tree/main/hope"/>
+        <updated>2021-08-22T22:22:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/langjam/jam0001/tree/main/hope
+Comments URL: https://news.ycombinator.com/item?id=28270249
+Points: 14
+# Comments: 5]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Facebook suppressed report that made it look bad]]></title>
-        <id>https://news.ycombinator.com/item?id=28257933</id>
-        <link href="https://www.theverge.com/2021/8/20/22634841/facebook-most-viewed-content-report-look-bad"/>
-        <updated>2021-08-21T15:51:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/8/20/22634841/facebook-most-viewed-content-report-look-bad
-Comments URL: https://news.ycombinator.com/item?id=28257933
-Points: 238
-# Comments: 32]]></summary>
+        <title type="html"><![CDATA[How can we make air conditioners 33% more efficient? A revolutionary solution]]></title>
+        <id>https://news.ycombinator.com/item?id=28270144</id>
+        <link href="https://youtube.com/watch?v=2TFiL5BM3ss"/>
+        <updated>2021-08-22T22:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://youtube.com/watch?v=2TFiL5BM3ss
+Comments URL: https://news.ycombinator.com/item?id=28270144
+Points: 102
+# Comments: 49]]></summary>
         <author>
-            <name>underscore_ku</name>
+            <name>zeristor</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The /bin/true Command and Copyright (2009)]]></title>
-        <id>https://news.ycombinator.com/item?id=28257666</id>
-        <link href="http://trillian.mit.edu/~jc/humor/ATT_Copyright_true.html"/>
-        <updated>2021-08-21T15:18:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://trillian.mit.edu/~jc/humor/ATT_Copyright_true.html
-Comments URL: https://news.ycombinator.com/item?id=28257666
-Points: 104
-# Comments: 53]]></summary>
+        <title type="html"><![CDATA[Show HN: GLAuth 2.0 out, only a year late]]></title>
+        <id>https://news.ycombinator.com/item?id=28270124</id>
+        <link href="https://glauth.github.io/"/>
+        <updated>2021-08-22T22:06:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://glauth.github.io/
+Comments URL: https://news.ycombinator.com/item?id=28270124
+Points: 16
+# Comments: 0]]></summary>
         <author>
-            <name>kmstout</name>
+            <name>cyansmoker</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Launch HN: Fella (YC W20) – Tackling men's obesity using medication and coaching]]></title>
-        <id>https://news.ycombinator.com/item?id=28257352</id>
-        <link href="https://news.ycombinator.com/item?id=28257352"/>
-        <updated>2021-08-21T14:36:36.000Z</updated>
-        <summary type="html"><![CDATA[Hey HN! I'm Richie from Fella (https://www.joinfella.com), a telehealth clinic for men with obesity. Fella helps men get to a healthier weight by matching them with a board-certified obesity doctor to prescribe an FDA-approved medication, while they undertake personalized health coaching.
-I personally struggled with stress eating for 6 years. During that time, I was at Cambridge University, then built and sold my first company working with the UK government. It was tough, and poor eating habits as a teenager became a coping mechanism as an adult.
-Fella first started as a "CBT+community" product to help men battling stress eating. It resonated due to the stigma around men's eating struggles. But we realized we were only half-serving most of our customers: even when no longer stress eating, …]]></summary>
+        <title type="html"><![CDATA[Countering climate change with cool pavements]]></title>
+        <id>https://news.ycombinator.com/item?id=28269707</id>
+        <link href="https://news.mit.edu/2021/countering-climate-change-cool-pavements-0822"/>
+        <updated>2021-08-22T21:17:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2021/countering-climate-change-cool-pavements-0822
+Comments URL: https://news.ycombinator.com/item?id=28269707
+Points: 50
+# Comments: 37]]></summary>
         <author>
-            <name>rich-cartwright</name>
+            <name>35_candelas</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IceFireDB: Distributed disk storage database based on Raft and Redis protocol]]></title>
-        <id>https://news.ycombinator.com/item?id=28257243</id>
-        <link href="https://github.com/gitsrc/IceFireDB"/>
-        <updated>2021-08-21T14:23:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/gitsrc/IceFireDB
-Comments URL: https://news.ycombinator.com/item?id=28257243
-Points: 128
-# Comments: 53]]></summary>
+        <title type="html"><![CDATA[Kraftful (YC S19) hiring SDRs to build the software layer for the physical world]]></title>
+        <id>https://news.ycombinator.com/item?id=28269566</id>
+        <link href="https://www.kraftful.com/team"/>
+        <updated>2021-08-22T21:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.kraftful.com/team
+Comments URL: https://news.ycombinator.com/item?id=28269566
+Points: 1
+# Comments: 0]]></summary>
         <author>
-            <name>thunderbong</name>
+            <name>Kraftful</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thoughts of work invaded my life until I learned how to unplug]]></title>
-        <id>https://news.ycombinator.com/item?id=28257197</id>
-        <link href="https://www.sciencemag.org/careers/2021/08/thoughts-work-invaded-my-life-until-i-learned-how-unplug"/>
-        <updated>2021-08-21T14:18:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sciencemag.org/careers/2021/08/thoughts-work-invaded-my-life-until-i-learned-how-unplug
-Comments URL: https://news.ycombinator.com/item?id=28257197
-Points: 225
-# Comments: 94]]></summary>
+        <title type="html"><![CDATA[A DIY E-bike Conversion on the Cheap]]></title>
+        <id>https://news.ycombinator.com/item?id=28269533</id>
+        <link href="https://spectrum.ieee.org/a-diy-e-bike-conversion-on-the-cheap"/>
+        <updated>2021-08-22T20:55:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/a-diy-e-bike-conversion-on-the-cheap
+Comments URL: https://news.ycombinator.com/item?id=28269533
+Points: 115
+# Comments: 96]]></summary>
         <author>
-            <name>Pikkie</name>
+            <name>PikelEmi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snap: A microkernel approach to host networking (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=28257098</id>
-        <link href="https://research.google/pubs/pub48630/"/>
-        <updated>2021-08-21T14:03:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://research.google/pubs/pub48630/
-Comments URL: https://news.ycombinator.com/item?id=28257098
-Points: 73
-# Comments: 9]]></summary>
+        <title type="html"><![CDATA[Bigger vehicles are directly resulting in more deaths of people walking]]></title>
+        <id>https://news.ycombinator.com/item?id=28269342</id>
+        <link href="https://smartgrowthamerica.org/bigger-vehicles-are-directly-resulting-in-more-deaths-of-people-walking/"/>
+        <updated>2021-08-22T20:34:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://smartgrowthamerica.org/bigger-vehicles-are-directly-resulting-in-more-deaths-of-people-walking/
+Comments URL: https://news.ycombinator.com/item?id=28269342
+Points: 135
+# Comments: 77]]></summary>
         <author>
-            <name>teleforce</name>
+            <name>tonyedgecombe</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Introduction to AI Story Generation]]></title>
-        <id>https://news.ycombinator.com/item?id=28256051</id>
-        <link href="https://thegradient.pub/an-introduction-to-ai-story-generation/"/>
-        <updated>2021-08-21T11:25:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thegradient.pub/an-introduction-to-ai-story-generation/
-Comments URL: https://news.ycombinator.com/item?id=28256051
-Points: 43
-# Comments: 6]]></summary>
+        <title type="html"><![CDATA[Dancoland]]></title>
+        <id>https://news.ycombinator.com/item?id=28269320</id>
+        <link href="https://alexdanco.com/2021/08/21/dancoland/"/>
+        <updated>2021-08-22T20:32:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://alexdanco.com/2021/08/21/dancoland/
+Comments URL: https://news.ycombinator.com/item?id=28269320
+Points: 8
+# Comments: 0]]></summary>
         <author>
-            <name>YeGoblynQueenne</name>
+            <name>jger15</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We don't 'do' learning. It does us]]></title>
-        <id>https://news.ycombinator.com/item?id=28255911</id>
-        <link href="https://danielbmarkham.com/we-dont-do-learning-we-direct-it/"/>
-        <updated>2021-08-21T10:52:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://danielbmarkham.com/we-dont-do-learning-we-direct-it/
-Comments URL: https://news.ycombinator.com/item?id=28255911
-Points: 35
-# Comments: 7]]></summary>
+        <title type="html"><![CDATA[Working towards a source-based bootstrapping path to a GNU+Linux system]]></title>
+        <id>https://news.ycombinator.com/item?id=28268667</id>
+        <link href="https://bootstrappable.org/projects/mes.html"/>
+        <updated>2021-08-22T19:27:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bootstrappable.org/projects/mes.html
+Comments URL: https://news.ycombinator.com/item?id=28268667
+Points: 30
+# Comments: 2]]></summary>
         <author>
-            <name>DanielBMarkham</name>
+            <name>podiki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the link between great thinking and obsessive walking]]></title>
+        <id>https://news.ycombinator.com/item?id=28268136</id>
+        <link href="https://lithub.com/on-the-link-between-great-thinking-and-obsessive-walking/"/>
+        <updated>2021-08-22T18:32:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lithub.com/on-the-link-between-great-thinking-and-obsessive-walking/
+Comments URL: https://news.ycombinator.com/item?id=28268136
+Points: 208
+# Comments: 60]]></summary>
+        <author>
+            <name>prostoalex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PAM Duress – Alternate passwords for panic situations]]></title>
+        <id>https://news.ycombinator.com/item?id=28267975</id>
+        <link href="https://github.com/nuvious/pam-duress"/>
+        <updated>2021-08-22T18:15:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/nuvious/pam-duress
+Comments URL: https://news.ycombinator.com/item?id=28267975
+Points: 371
+# Comments: 145]]></summary>
+        <author>
+            <name>xanthine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One does not simply calculate the absolute value]]></title>
+        <id>https://news.ycombinator.com/item?id=28267954</id>
+        <link href="https://habr.com/en/post/574082/"/>
+        <updated>2021-08-22T18:12:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://habr.com/en/post/574082/
+Comments URL: https://news.ycombinator.com/item?id=28267954
+Points: 108
+# Comments: 70]]></summary>
+        <author>
+            <name>mot2ba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Peril of Politicizing Science [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=28266889</id>
+        <link href="http://iopenshell.usc.edu/pubs/pdf/jpcl_opinion_2021.pdf"/>
+        <updated>2021-08-22T16:35:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://iopenshell.usc.edu/pubs/pdf/jpcl_opinion_2021.pdf
+Comments URL: https://news.ycombinator.com/item?id=28266889
+Points: 118
+# Comments: 62]]></summary>
+        <author>
+            <name>vikrum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FSNotes: Notes manager for macOS and iOS – native, open source]]></title>
+        <id>https://news.ycombinator.com/item?id=28266831</id>
+        <link href="https://fsnot.es/"/>
+        <updated>2021-08-22T16:29:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fsnot.es/
+Comments URL: https://news.ycombinator.com/item?id=28266831
+Points: 190
+# Comments: 82]]></summary>
+        <author>
+            <name>codetrotter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASML, a $300B Dutch firm, makes the machines that make semiconductors]]></title>
+        <id>https://news.ycombinator.com/item?id=28266708</id>
+        <link href="https://twitter.com/trungtphan/status/1429464889307762688"/>
+        <updated>2021-08-22T16:16:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/trungtphan/status/1429464889307762688
+Comments URL: https://news.ycombinator.com/item?id=28266708
+Points: 364
+# Comments: 142]]></summary>
+        <author>
+            <name>deegles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to deliver constructive feedback in difficult situations (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=28266658</id>
+        <link href="https://productivityhub.org/2019/04/19/how-to-deliver-constructive-feedback-in-difficult-situations/"/>
+        <updated>2021-08-22T16:11:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://productivityhub.org/2019/04/19/how-to-deliver-constructive-feedback-in-difficult-situations/
+Comments URL: https://news.ycombinator.com/item?id=28266658
+Points: 190
+# Comments: 45]]></summary>
+        <author>
+            <name>ff7f00</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google says geofence warrants make up one-quarter of all US demands]]></title>
+        <id>https://news.ycombinator.com/item?id=28266650</id>
+        <link href="https://techcrunch.com/2021/08/19/google-geofence-warrants/"/>
+        <updated>2021-08-22T16:11:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2021/08/19/google-geofence-warrants/
+Comments URL: https://news.ycombinator.com/item?id=28266650
+Points: 233
+# Comments: 166]]></summary>
+        <author>
+            <name>arkadiyt</name>
         </author>
     </entry>
 </feed>
