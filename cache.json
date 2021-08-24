@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=28270783",
-          "author": "seigando",
-          "description": "Article URL: https://www.businessinsider.com/amazon-staffer-bathroom-breaks-irritable-bowel-syndrome-lawsuit-2021-8\nComments URL: https://news.ycombinator.com/item?id=28270783\nPoints: 34\n# Comments: 12",
-          "link": "https://www.businessinsider.com/amazon-staffer-bathroom-breaks-irritable-bowel-syndrome-lawsuit-2021-8",
-          "publishedOn": "2021-08-22T23:35:55.000Z",
-          "wordCount": 1431,
-          "title": "Amazon Staffer Says She Was Fired over Bathroom Breaks for Bowel Issue"
+          "id": "https://news.ycombinator.com/item?id=28283263",
+          "author": "sicromoft",
+          "description": "Article URL: https://brandur.org/fragments/go-xerror\nComments URL: https://news.ycombinator.com/item?id=28283263\nPoints: 24\n# Comments: 22",
+          "link": "https://brandur.org/fragments/go-xerror",
+          "publishedOn": "2021-08-23T23:14:34.000Z",
+          "wordCount": 659,
+          "title": "Error stack traces in Go with x/xerror"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28270680",
-          "author": "pthariensflame",
-          "description": "Article URL: https://twitter.com/alyssarzg/status/1429579145827127296\nComments URL: https://news.ycombinator.com/item?id=28270680\nPoints: 47\n# Comments: 7",
-          "link": "https://twitter.com/alyssarzg/status/1429579145827127296",
-          "publishedOn": "2021-08-22T23:21:36.000Z",
+          "id": "https://news.ycombinator.com/item?id=28283030",
+          "author": "belter",
+          "description": "Article URL: https://sysprog21.github.io/lkmpg/\nComments URL: https://news.ycombinator.com/item?id=28283030\nPoints: 63\n# Comments: 9",
+          "link": "https://sysprog21.github.io/lkmpg/",
+          "publishedOn": "2021-08-23T22:49:01.000Z",
+          "wordCount": 26159,
+          "title": "The Linux Kernel Module Programming Guide"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28281882",
+          "author": "panabee",
+          "description": "Article URL: https://newsnetwork.mayoclinic.org/discussion/science-saturday-how-disease-diet-and-genomics-interact-with-gut-virome/\nComments URL: https://news.ycombinator.com/item?id=28281882\nPoints: 14\n# Comments: 0",
+          "link": "https://newsnetwork.mayoclinic.org/discussion/science-saturday-how-disease-diet-and-genomics-interact-with-gut-virome/",
+          "publishedOn": "2021-08-23T21:02:25.000Z",
+          "wordCount": 856,
+          "title": "Science Saturday: How disease, diet, and genomics interact with gut virome"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28281865",
+          "author": "FabioFleitas",
+          "description": "Article URL: https://www.tesorio.com/careers#job-openings\nComments URL: https://news.ycombinator.com/item?id=28281865\nPoints: 1\n# Comments: 0",
+          "link": "https://www.tesorio.com/careers#job-openings",
+          "publishedOn": "2021-08-23T21:00:32.000Z",
+          "wordCount": 395,
+          "title": "Tesorio (YC S15) is hiring – join our 100% distributed fintech team"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28281523",
+          "author": "gmays",
+          "description": "Article URL: https://www.caryinstitute.org/news-insights/media-coverage/how-one-local-mans-immunity-ticks-could-save-us-all\nComments URL: https://news.ycombinator.com/item?id=28281523\nPoints: 26\n# Comments: 13",
+          "link": "https://www.caryinstitute.org/news-insights/media-coverage/how-one-local-mans-immunity-ticks-could-save-us-all",
+          "publishedOn": "2021-08-23T20:33:15.000Z",
+          "wordCount": 1008,
+          "title": "One man's immunity to ticks (2015)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28280855",
+          "author": "oumua_don17",
+          "description": "Article URL: https://techinterviewhandbook.org/\nComments URL: https://news.ycombinator.com/item?id=28280855\nPoints: 148\n# Comments: 45",
+          "link": "https://techinterviewhandbook.org/",
+          "publishedOn": "2021-08-23T19:35:06.000Z",
+          "wordCount": 539,
+          "title": "Tech Interview Handbook"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28280239",
+          "author": "zdw",
+          "description": "Article URL: https://toronto.ctvnews.ca/plane-damaged-after-being-hit-by-york-police-drone-at-buttonville-airport-1.5554617\nComments URL: https://news.ycombinator.com/item?id=28280239\nPoints: 138\n# Comments: 76",
+          "link": "https://toronto.ctvnews.ca/plane-damaged-after-being-hit-by-york-police-drone-at-buttonville-airport-1.5554617",
+          "publishedOn": "2021-08-23T18:47:19.000Z",
+          "wordCount": 918,
+          "title": "Plane damaged after being hit by York police drone at Buttonville Airport"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28280051",
+          "author": "mrestko",
+          "description": "Article URL: https://how-i-experience-web-today.com/\nComments URL: https://news.ycombinator.com/item?id=28280051\nPoints: 515\n# Comments: 193",
+          "link": "https://how-i-experience-web-today.com/",
+          "publishedOn": "2021-08-23T18:32:59.000Z",
+          "wordCount": 41,
+          "title": "How I Experience Web Today"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28279497",
+          "author": "nabilhat",
+          "description": "Article URL: https://www.theverge.com/22618306/pacific-northwest-components-bike-company-quit-amazon-support-indie-shops\nComments URL: https://news.ycombinator.com/item?id=28279497\nPoints: 362\n# Comments: 215",
+          "link": "https://www.theverge.com/22618306/pacific-northwest-components-bike-company-quit-amazon-support-indie-shops",
+          "publishedOn": "2021-08-23T17:51:09.000Z",
+          "wordCount": 1331,
+          "title": "A bike parts company ditched Amazon to support indie shops instead"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28279365",
+          "author": "pramodbiligiri",
+          "description": "Article URL: https://arxiv.org/abs/2108.09293\nComments URL: https://news.ycombinator.com/item?id=28279365\nPoints: 86\n# Comments: 31",
+          "link": "https://arxiv.org/abs/2108.09293",
+          "publishedOn": "2021-08-23T17:41:06.000Z",
+          "wordCount": 621,
+          "title": "An empirical cybersecurity evaluation of GitHub Copilot's code contributions"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28279326",
+          "author": "OJFord",
+          "description": "Article URL: https://www.reddit.com/r/hacking/comments/kpeuj2/how_to_bypass_sprinttmobile_2fa_in_under_5_minutes/\nComments URL: https://news.ycombinator.com/item?id=28279326\nPoints: 207\n# Comments: 108",
+          "link": "https://www.reddit.com/r/hacking/comments/kpeuj2/how_to_bypass_sprinttmobile_2fa_in_under_5_minutes/",
+          "publishedOn": "2021-08-23T17:38:40.000Z",
+          "wordCount": 827,
+          "title": "How to bypass Sprint/T-Mobile 2FA in under 5 minutes"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28279127",
+          "author": "danboarder",
+          "description": "Article URL: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006439\nComments URL: https://news.ycombinator.com/item?id=28279127\nPoints: 179\n# Comments: 128",
+          "link": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006439",
+          "publishedOn": "2021-08-23T17:22:33.000Z",
+          "wordCount": 13132,
+          "title": "Mosquito saliva alone has profound effects on the human immune system (2018)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28278553",
+          "author": "yawaramin",
+          "description": "Article URL: https://twitter.com/adolfont/status/1429759258942377999\nComments URL: https://news.ycombinator.com/item?id=28278553\nPoints: 122\n# Comments: 63",
+          "link": "https://twitter.com/adolfont/status/1429759258942377999",
+          "publishedOn": "2021-08-23T16:43:04.000Z",
           "wordCount": 196,
-          "title": "Gnome Shell on the Apple M1, bare metal"
+          "title": "OCaml at Bloomberg"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28270570",
-          "author": "dredmorbius",
-          "description": "Article URL: https://www.brookings.edu/research/why-protecting-privacy-is-a-losing-game-today-and-how-to-change-the-game/\nComments URL: https://news.ycombinator.com/item?id=28270570\nPoints: 13\n# Comments: 1",
-          "link": "https://www.brookings.edu/research/why-protecting-privacy-is-a-losing-game-today-and-how-to-change-the-game/",
-          "publishedOn": "2021-08-22T23:03:48.000Z",
-          "wordCount": 6713,
-          "title": "Why protecting privacy is a losing game today (2018)"
+          "id": "https://news.ycombinator.com/item?id=28278515",
+          "author": "joefigura",
+          "description": "Hi, we’re Ben and Joe from Buoyant (https://www.buoyant.aero/). We build small unmanned cargo airships and use them to move air freight at half the cost per mile of a small plane.\nAn airship (or blimp) is an aircraft that gets most of its lift from a lifting gas like helium. It’s the most efficient way to fly, which means it’s cheaper than any other aircraft for many missions. We’re starting by building an aircraft for middle-mile air freight in remote and rural areas—warehouse-to-warehouse or post office to post office. This is a $6B market in the US alone, and freight volumes are only increasing. By building autonomous blimps, we can lower shipping costs, increase quality and speed of service, and cut out millions of tons of CO2 emissions.\nSo far, we’ve built and flown four airships. The…",
+          "link": "https://news.ycombinator.com/item?id=28278515",
+          "publishedOn": "2021-08-23T16:40:24.000Z",
+          "wordCount": 6239,
+          "title": "Launch HN: Buoyant (YC S21) – Blimp drones for air freight"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28270249",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://github.com/langjam/jam0001/tree/main/hope\nComments URL: https://news.ycombinator.com/item?id=28270249\nPoints: 14\n# Comments: 5",
-          "link": "https://github.com/langjam/jam0001/tree/main/hope",
-          "publishedOn": "2021-08-22T22:22:01.000Z",
-          "wordCount": 1700,
-          "title": "PlsExplain: A small dynamic programming language where every value is explained"
+          "id": "https://news.ycombinator.com/item?id=28277749",
+          "author": "Lockal",
+          "description": "Article URL: http://simia.net/wiki/Wikidata_or_scraping_Wikipedia\nComments URL: https://news.ycombinator.com/item?id=28277749\nPoints: 124\n# Comments: 45",
+          "link": "http://simia.net/wiki/Wikidata_or_scraping_Wikipedia",
+          "publishedOn": "2021-08-23T15:53:04.000Z",
+          "wordCount": null,
+          "title": "Wikidata or Scraping Wikipedia"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28270144",
-          "author": "zeristor",
-          "description": "Article URL: https://youtube.com/watch?v=2TFiL5BM3ss\nComments URL: https://news.ycombinator.com/item?id=28270144\nPoints: 102\n# Comments: 49",
-          "link": "https://youtube.com/watch?v=2TFiL5BM3ss",
-          "publishedOn": "2021-08-22T22:08:54.000Z",
-          "wordCount": 25,
-          "title": "How can we make air conditioners 33% more efficient? A revolutionary solution"
+          "id": "https://news.ycombinator.com/item?id=28276993",
+          "author": "theafh",
+          "description": "Article URL: https://www.quantamagazine.org/this-physicist-discovered-an-escape-from-hawkings-black-hole-paradox-20210823/\nComments URL: https://news.ycombinator.com/item?id=28276993\nPoints: 192\n# Comments: 115",
+          "link": "https://www.quantamagazine.org/this-physicist-discovered-an-escape-from-hawkings-black-hole-paradox-20210823/",
+          "publishedOn": "2021-08-23T15:10:53.000Z",
+          "wordCount": 3047,
+          "title": "Physicist discovered an escape from Hawking’s black hole paradox"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28270124",
-          "author": "cyansmoker",
-          "description": "Article URL: https://glauth.github.io/\nComments URL: https://news.ycombinator.com/item?id=28270124\nPoints: 16\n# Comments: 0",
-          "link": "https://glauth.github.io/",
-          "publishedOn": "2021-08-22T22:06:19.000Z",
-          "wordCount": 181,
-          "title": "Show HN: GLAuth 2.0 out, only a year late"
+          "id": "https://news.ycombinator.com/item?id=28276814",
+          "author": "Bostonian",
+          "description": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3459001\nComments URL: https://news.ycombinator.com/item?id=28276814\nPoints: 80\n# Comments: 42",
+          "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3459001",
+          "publishedOn": "2021-08-23T15:00:17.000Z",
+          "wordCount": 866,
+          "title": "The role of high-skilled foreign labor in startup performance"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28269707",
-          "author": "35_candelas",
-          "description": "Article URL: https://news.mit.edu/2021/countering-climate-change-cool-pavements-0822\nComments URL: https://news.ycombinator.com/item?id=28269707\nPoints: 50\n# Comments: 37",
-          "link": "https://news.mit.edu/2021/countering-climate-change-cool-pavements-0822",
-          "publishedOn": "2021-08-22T21:17:21.000Z",
-          "wordCount": 2168,
-          "title": "Countering climate change with cool pavements"
+          "id": "https://news.ycombinator.com/item?id=28275688",
+          "author": "diibv",
+          "description": "Article URL: https://ludotune.com/\nComments URL: https://news.ycombinator.com/item?id=28275688\nPoints: 136\n# Comments: 40",
+          "link": "https://ludotune.com/",
+          "publishedOn": "2021-08-23T13:51:26.000Z",
+          "wordCount": 10,
+          "title": "LudoTune, a 3D music sequencer in the browser"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28269566",
-          "author": "Kraftful",
-          "description": "Article URL: https://www.kraftful.com/team\nComments URL: https://news.ycombinator.com/item?id=28269566\nPoints: 1\n# Comments: 0",
-          "link": "https://www.kraftful.com/team",
-          "publishedOn": "2021-08-22T21:00:27.000Z",
-          "wordCount": 485,
-          "title": "Kraftful (YC S19) hiring SDRs to build the software layer for the physical world"
+          "id": "https://news.ycombinator.com/item?id=28275197",
+          "author": "robertwiblin",
+          "description": "Article URL: https://scholars-stage.org/fighting-like-taliban/\nComments URL: https://news.ycombinator.com/item?id=28275197\nPoints: 149\n# Comments: 126",
+          "link": "https://scholars-stage.org/fighting-like-taliban/",
+          "publishedOn": "2021-08-23T13:14:51.000Z",
+          "wordCount": 4010,
+          "title": "Fighting Like Taliban"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28269533",
-          "author": "PikelEmi",
-          "description": "Article URL: https://spectrum.ieee.org/a-diy-e-bike-conversion-on-the-cheap\nComments URL: https://news.ycombinator.com/item?id=28269533\nPoints: 115\n# Comments: 96",
-          "link": "https://spectrum.ieee.org/a-diy-e-bike-conversion-on-the-cheap",
-          "publishedOn": "2021-08-22T20:55:45.000Z",
-          "wordCount": 5015,
-          "title": "A DIY E-bike Conversion on the Cheap"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28269342",
-          "author": "tonyedgecombe",
-          "description": "Article URL: https://smartgrowthamerica.org/bigger-vehicles-are-directly-resulting-in-more-deaths-of-people-walking/\nComments URL: https://news.ycombinator.com/item?id=28269342\nPoints: 135\n# Comments: 77",
-          "link": "https://smartgrowthamerica.org/bigger-vehicles-are-directly-resulting-in-more-deaths-of-people-walking/",
-          "publishedOn": "2021-08-22T20:34:45.000Z",
-          "wordCount": 1746,
-          "title": "Bigger vehicles are directly resulting in more deaths of people walking"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28269320",
-          "author": "jger15",
-          "description": "Article URL: https://alexdanco.com/2021/08/21/dancoland/\nComments URL: https://news.ycombinator.com/item?id=28269320\nPoints: 8\n# Comments: 0",
-          "link": "https://alexdanco.com/2021/08/21/dancoland/",
-          "publishedOn": "2021-08-22T20:32:19.000Z",
-          "wordCount": 10441,
-          "title": "Dancoland"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28268667",
-          "author": "podiki",
-          "description": "Article URL: https://bootstrappable.org/projects/mes.html\nComments URL: https://news.ycombinator.com/item?id=28268667\nPoints: 30\n# Comments: 2",
-          "link": "https://bootstrappable.org/projects/mes.html",
-          "publishedOn": "2021-08-22T19:27:53.000Z",
-          "wordCount": 449,
-          "title": "Working towards a source-based bootstrapping path to a GNU+Linux system"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28268136",
-          "author": "prostoalex",
-          "description": "Article URL: https://lithub.com/on-the-link-between-great-thinking-and-obsessive-walking/\nComments URL: https://news.ycombinator.com/item?id=28268136\nPoints: 208\n# Comments: 60",
-          "link": "https://lithub.com/on-the-link-between-great-thinking-and-obsessive-walking/",
-          "publishedOn": "2021-08-22T18:32:49.000Z",
-          "wordCount": 2557,
-          "title": "On the link between great thinking and obsessive walking"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28267975",
-          "author": "xanthine",
-          "description": "Article URL: https://github.com/nuvious/pam-duress\nComments URL: https://news.ycombinator.com/item?id=28267975\nPoints: 371\n# Comments: 145",
-          "link": "https://github.com/nuvious/pam-duress",
-          "publishedOn": "2021-08-22T18:15:49.000Z",
-          "wordCount": 1456,
-          "title": "PAM Duress – Alternate passwords for panic situations"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28267954",
-          "author": "mot2ba",
-          "description": "Article URL: https://habr.com/en/post/574082/\nComments URL: https://news.ycombinator.com/item?id=28267954\nPoints: 108\n# Comments: 70",
-          "link": "https://habr.com/en/post/574082/",
-          "publishedOn": "2021-08-22T18:12:57.000Z",
-          "wordCount": 1358,
-          "title": "One does not simply calculate the absolute value"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28266889",
-          "author": "vikrum",
-          "description": "Article URL: http://iopenshell.usc.edu/pubs/pdf/jpcl_opinion_2021.pdf\nComments URL: https://news.ycombinator.com/item?id=28266889\nPoints: 118\n# Comments: 62",
-          "link": "http://iopenshell.usc.edu/pubs/pdf/jpcl_opinion_2021.pdf",
-          "publishedOn": "2021-08-22T16:35:16.000Z",
-          "wordCount": 111992,
-          "title": "The Peril of Politicizing Science [pdf]"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28266831",
-          "author": "codetrotter",
-          "description": "Article URL: https://fsnot.es/\nComments URL: https://news.ycombinator.com/item?id=28266831\nPoints: 190\n# Comments: 82",
-          "link": "https://fsnot.es/",
-          "publishedOn": "2021-08-22T16:29:41.000Z",
-          "wordCount": 348,
-          "title": "FSNotes: Notes manager for macOS and iOS – native, open source"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28266708",
-          "author": "deegles",
-          "description": "Article URL: https://twitter.com/trungtphan/status/1429464889307762688\nComments URL: https://news.ycombinator.com/item?id=28266708\nPoints: 364\n# Comments: 142",
-          "link": "https://twitter.com/trungtphan/status/1429464889307762688",
-          "publishedOn": "2021-08-22T16:16:28.000Z",
-          "wordCount": 196,
-          "title": "ASML, a $300B Dutch firm, makes the machines that make semiconductors"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28266658",
-          "author": "ff7f00",
-          "description": "Article URL: https://productivityhub.org/2019/04/19/how-to-deliver-constructive-feedback-in-difficult-situations/\nComments URL: https://news.ycombinator.com/item?id=28266658\nPoints: 190\n# Comments: 45",
-          "link": "https://productivityhub.org/2019/04/19/how-to-deliver-constructive-feedback-in-difficult-situations/",
-          "publishedOn": "2021-08-22T16:11:40.000Z",
-          "wordCount": 2677,
-          "title": "How to deliver constructive feedback in difficult situations (2019)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28266650",
-          "author": "arkadiyt",
-          "description": "Article URL: https://techcrunch.com/2021/08/19/google-geofence-warrants/\nComments URL: https://news.ycombinator.com/item?id=28266650\nPoints: 233\n# Comments: 166",
-          "link": "https://techcrunch.com/2021/08/19/google-geofence-warrants/",
-          "publishedOn": "2021-08-22T16:11:04.000Z",
-          "wordCount": 720,
-          "title": "Google says geofence warrants make up one-quarter of all US demands"
+          "id": "https://news.ycombinator.com/item?id=28275187",
+          "author": "riffraff",
+          "description": "Article URL: https://orangebeanindiana.com/2021/04/09/once-upon-a-time-america-had-an-atomic-mecha-warrior-robot/\nComments URL: https://news.ycombinator.com/item?id=28275187\nPoints: 236\n# Comments: 66",
+          "link": "https://orangebeanindiana.com/2021/04/09/once-upon-a-time-america-had-an-atomic-mecha-warrior-robot/",
+          "publishedOn": "2021-08-23T13:14:02.000Z",
+          "wordCount": 1892,
+          "title": "America Had an Atomic Mecha Warrior Robot"
         }
       ]
     }
