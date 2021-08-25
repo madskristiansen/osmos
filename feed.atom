@@ -1,267 +1,265 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-24T00:50:10.401Z</id>
+    <id>urn:2021-08-25T00:50:42.666Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-24T00:50:10.402Z</updated>
+    <updated>2021-08-25T00:50:42.666Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Error stack traces in Go with x/xerror]]></title>
-        <id>https://news.ycombinator.com/item?id=28283263</id>
-        <link href="https://brandur.org/fragments/go-xerror"/>
-        <updated>2021-08-23T23:14:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://brandur.org/fragments/go-xerror
-Comments URL: https://news.ycombinator.com/item?id=28283263
-Points: 24
-# Comments: 22]]></summary>
+        <title type="html"><![CDATA[Waymo has no viable business model]]></title>
+        <id>https://news.ycombinator.com/item?id=28296269</id>
+        <link href="https://provscons.com/why-will-waymo-fail/"/>
+        <updated>2021-08-24T23:26:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://provscons.com/why-will-waymo-fail/
+Comments URL: https://news.ycombinator.com/item?id=28296269
+Points: 8
+# Comments: 5]]></summary>
         <author>
-            <name>sicromoft</name>
+            <name>morpheos137</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Linux Kernel Module Programming Guide]]></title>
-        <id>https://news.ycombinator.com/item?id=28283030</id>
-        <link href="https://sysprog21.github.io/lkmpg/"/>
-        <updated>2021-08-23T22:49:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sysprog21.github.io/lkmpg/
-Comments URL: https://news.ycombinator.com/item?id=28283030
-Points: 63
+        <title type="html"><![CDATA[Jeff Varasano's NY Pizza Recipe (2008)]]></title>
+        <id>https://news.ycombinator.com/item?id=28296260</id>
+        <link href="http://www.varasanos.com/pizzarecipe.htm"/>
+        <updated>2021-08-24T23:25:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.varasanos.com/pizzarecipe.htm
+Comments URL: https://news.ycombinator.com/item?id=28296260
+Points: 42
+# Comments: 23]]></summary>
+        <author>
+            <name>Alupis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QEMU Version 6.1.0 Released]]></title>
+        <id>https://news.ycombinator.com/item?id=28296189</id>
+        <link href="https://www.qemu.org/2021/08/24/qemu-6-1-0/"/>
+        <updated>2021-08-24T23:17:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.qemu.org/2021/08/24/qemu-6-1-0/
+Comments URL: https://news.ycombinator.com/item?id=28296189
+Points: 29
+# Comments: 4]]></summary>
+        <author>
+            <name>marcodiego</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two perspectives on a designer who Steve Jobs could not hire]]></title>
+        <id>https://news.ycombinator.com/item?id=28295688</id>
+        <link href="https://www.arun.is/blog/richard-sapper/"/>
+        <updated>2021-08-24T22:19:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.arun.is/blog/richard-sapper/
+Comments URL: https://news.ycombinator.com/item?id=28295688
+Points: 28
 # Comments: 9]]></summary>
         <author>
-            <name>belter</name>
+            <name>conanxin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Science Saturday: How disease, diet, and genomics interact with gut virome]]></title>
-        <id>https://news.ycombinator.com/item?id=28281882</id>
-        <link href="https://newsnetwork.mayoclinic.org/discussion/science-saturday-how-disease-diet-and-genomics-interact-with-gut-virome/"/>
-        <updated>2021-08-23T21:02:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://newsnetwork.mayoclinic.org/discussion/science-saturday-how-disease-diet-and-genomics-interact-with-gut-virome/
-Comments URL: https://news.ycombinator.com/item?id=28281882
-Points: 14
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[The Case for a Shorter Workweek]]></title>
+        <id>https://news.ycombinator.com/item?id=28295676</id>
+        <link href="https://www.bbc.com/worklife/article/20210819-the-case-for-a-shorter-workweek"/>
+        <updated>2021-08-24T22:18:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/worklife/article/20210819-the-case-for-a-shorter-workweek
+Comments URL: https://news.ycombinator.com/item?id=28295676
+Points: 54
+# Comments: 22]]></summary>
         <author>
-            <name>panabee</name>
+            <name>pseudolus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tesorio (YC S15) is hiring – join our 100% distributed fintech team]]></title>
-        <id>https://news.ycombinator.com/item?id=28281865</id>
-        <link href="https://www.tesorio.com/careers#job-openings"/>
-        <updated>2021-08-23T21:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.tesorio.com/careers#job-openings
-Comments URL: https://news.ycombinator.com/item?id=28281865
+        <title type="html"><![CDATA[API Tokens: A Tedious Survey]]></title>
+        <id>https://news.ycombinator.com/item?id=28295348</id>
+        <link href="https://fly.io/blog/api-tokens-a-tedious-survey/"/>
+        <updated>2021-08-24T21:41:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fly.io/blog/api-tokens-a-tedious-survey/
+Comments URL: https://news.ycombinator.com/item?id=28295348
+Points: 99
+# Comments: 35]]></summary>
+        <author>
+            <name>enobrev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volley (YC W18) is hiring 12 roles in SF – “Netflix of Voice”]]></title>
+        <id>https://news.ycombinator.com/item?id=28294957</id>
+        <link href="https://jobs.lever.co/volleythat"/>
+        <updated>2021-08-24T21:01:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/volleythat
+Comments URL: https://news.ycombinator.com/item?id=28294957
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>FabioFleitas</name>
+            <name>jameswilsterman</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One man's immunity to ticks (2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=28281523</id>
-        <link href="https://www.caryinstitute.org/news-insights/media-coverage/how-one-local-mans-immunity-ticks-could-save-us-all"/>
-        <updated>2021-08-23T20:33:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.caryinstitute.org/news-insights/media-coverage/how-one-local-mans-immunity-ticks-could-save-us-all
-Comments URL: https://news.ycombinator.com/item?id=28281523
-Points: 26
-# Comments: 13]]></summary>
+        <title type="html"><![CDATA[Man steals 620k photos from iCloud accounts from home without Apple noticing]]></title>
+        <id>https://news.ycombinator.com/item?id=28294885</id>
+        <link href="https://www.latimes.com/california/story/2021-08-23/icloud-photo-theft-nude-women"/>
+        <updated>2021-08-24T20:54:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.latimes.com/california/story/2021-08-23/icloud-photo-theft-nude-women
+Comments URL: https://news.ycombinator.com/item?id=28294885
+Points: 189
+# Comments: 124]]></summary>
         <author>
-            <name>gmays</name>
+            <name>radicaldreamer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tech Interview Handbook]]></title>
-        <id>https://news.ycombinator.com/item?id=28280855</id>
-        <link href="https://techinterviewhandbook.org/"/>
-        <updated>2021-08-23T19:35:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://techinterviewhandbook.org/
-Comments URL: https://news.ycombinator.com/item?id=28280855
-Points: 148
-# Comments: 45]]></summary>
+        <title type="html"><![CDATA[SQLModel – SQL Databases in FastAPI]]></title>
+        <id>https://news.ycombinator.com/item?id=28294534</id>
+        <link href="https://github.com/tiangolo/sqlmodel"/>
+        <updated>2021-08-24T20:26:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/tiangolo/sqlmodel
+Comments URL: https://news.ycombinator.com/item?id=28294534
+Points: 88
+# Comments: 19]]></summary>
         <author>
-            <name>oumua_don17</name>
+            <name>dmart</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Plane damaged after being hit by York police drone at Buttonville Airport]]></title>
-        <id>https://news.ycombinator.com/item?id=28280239</id>
-        <link href="https://toronto.ctvnews.ca/plane-damaged-after-being-hit-by-york-police-drone-at-buttonville-airport-1.5554617"/>
-        <updated>2021-08-23T18:47:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://toronto.ctvnews.ca/plane-damaged-after-being-hit-by-york-police-drone-at-buttonville-airport-1.5554617
-Comments URL: https://news.ycombinator.com/item?id=28280239
-Points: 138
-# Comments: 76]]></summary>
+        <title type="html"><![CDATA[Googlespeak – How Google limits thought about antitrust]]></title>
+        <id>https://news.ycombinator.com/item?id=28294237</id>
+        <link href="https://zyppy.com/googlespeak/"/>
+        <updated>2021-08-24T20:06:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://zyppy.com/googlespeak/
+Comments URL: https://news.ycombinator.com/item?id=28294237
+Points: 336
+# Comments: 130]]></summary>
         <author>
-            <name>zdw</name>
+            <name>cyrusshepard</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Experience Web Today]]></title>
-        <id>https://news.ycombinator.com/item?id=28280051</id>
-        <link href="https://how-i-experience-web-today.com/"/>
-        <updated>2021-08-23T18:32:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://how-i-experience-web-today.com/
-Comments URL: https://news.ycombinator.com/item?id=28280051
-Points: 515
-# Comments: 193]]></summary>
+        <title type="html"><![CDATA[Nitter: Alternative Twitter Front-End]]></title>
+        <id>https://news.ycombinator.com/item?id=28294099</id>
+        <link href="https://github.com/zedeus/nitter"/>
+        <updated>2021-08-24T19:56:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/zedeus/nitter
+Comments URL: https://news.ycombinator.com/item?id=28294099
+Points: 152
+# Comments: 35]]></summary>
         <author>
-            <name>mrestko</name>
+            <name>ducktective</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A bike parts company ditched Amazon to support indie shops instead]]></title>
-        <id>https://news.ycombinator.com/item?id=28279497</id>
-        <link href="https://www.theverge.com/22618306/pacific-northwest-components-bike-company-quit-amazon-support-indie-shops"/>
-        <updated>2021-08-23T17:51:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/22618306/pacific-northwest-components-bike-company-quit-amazon-support-indie-shops
-Comments URL: https://news.ycombinator.com/item?id=28279497
-Points: 362
-# Comments: 215]]></summary>
+        <title type="html"><![CDATA[Nelua Programming Language]]></title>
+        <id>https://news.ycombinator.com/item?id=28293836</id>
+        <link href="https://nelua.io/"/>
+        <updated>2021-08-24T19:38:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nelua.io/
+Comments URL: https://news.ycombinator.com/item?id=28293836
+Points: 140
+# Comments: 67]]></summary>
         <author>
-            <name>nabilhat</name>
+            <name>nonbirithm</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An empirical cybersecurity evaluation of GitHub Copilot's code contributions]]></title>
-        <id>https://news.ycombinator.com/item?id=28279365</id>
-        <link href="https://arxiv.org/abs/2108.09293"/>
-        <updated>2021-08-23T17:41:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2108.09293
-Comments URL: https://news.ycombinator.com/item?id=28279365
-Points: 86
-# Comments: 31]]></summary>
+        <title type="html"><![CDATA[How Discord Stores Billions of Messages (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=28292369</id>
+        <link href="https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7"/>
+        <updated>2021-08-24T17:43:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7
+Comments URL: https://news.ycombinator.com/item?id=28292369
+Points: 396
+# Comments: 224]]></summary>
         <author>
-            <name>pramodbiligiri</name>
+            <name>ibraheemdev</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to bypass Sprint/T-Mobile 2FA in under 5 minutes]]></title>
-        <id>https://news.ycombinator.com/item?id=28279326</id>
-        <link href="https://www.reddit.com/r/hacking/comments/kpeuj2/how_to_bypass_sprinttmobile_2fa_in_under_5_minutes/"/>
-        <updated>2021-08-23T17:38:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/hacking/comments/kpeuj2/how_to_bypass_sprinttmobile_2fa_in_under_5_minutes/
-Comments URL: https://news.ycombinator.com/item?id=28279326
-Points: 207
-# Comments: 108]]></summary>
+        <title type="html"><![CDATA[Aggregate streaming data in real-time with WebAssembly]]></title>
+        <id>https://news.ycombinator.com/item?id=28292266</id>
+        <link href="https://infinyon.com/blog/2021/08/smartstream-aggregates"/>
+        <updated>2021-08-24T17:36:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://infinyon.com/blog/2021/08/smartstream-aggregates
+Comments URL: https://news.ycombinator.com/item?id=28292266
+Points: 62
+# Comments: 15]]></summary>
         <author>
-            <name>OJFord</name>
+            <name>ahunyady</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mosquito saliva alone has profound effects on the human immune system (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=28279127</id>
-        <link href="https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006439"/>
-        <updated>2021-08-23T17:22:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006439
-Comments URL: https://news.ycombinator.com/item?id=28279127
-Points: 179
-# Comments: 128]]></summary>
+        <title type="html"><![CDATA[Launch HN: SafeBeat Rx (YC S21)- At-home ECG software to replace hospitalization]]></title>
+        <id>https://news.ycombinator.com/item?id=28292206</id>
+        <link href="https://news.ycombinator.com/item?id=28292206"/>
+        <updated>2021-08-24T17:33:35.000Z</updated>
+        <summary type="html"><![CDATA[Hey HN! We're Rachita Navara, MD and Kunj Patel, MD, MSc: co-founders of SafeBeat Rx (https://www.safebeatrx.com). I (Rachita) am a bioengineer and cardiologist specializing in heart rhythm disorders, and Kunj is a pain physician with a Masters in applied mathematics. We make life-saving ECG software to replace a 3-day hospitalization and let patients start heart meds safely at home.
+34M people have atrial fibrillation (AFib), the most common heart rhythm disorder in the world. It causes 1 in 4 strokes in people over 40 and increases the risk of death by 4x. Antiarrhythmic meds improve symptoms and save lives. Unfortunately, these pills can only be started during a 3+ day hospitalization because early drug trials showed $26B in the US alone, 75% of which is for hospitalizations.
+As a cardi…]]></summary>
         <author>
-            <name>danboarder</name>
+            <name>rnavara</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OCaml at Bloomberg]]></title>
-        <id>https://news.ycombinator.com/item?id=28278553</id>
-        <link href="https://twitter.com/adolfont/status/1429759258942377999"/>
-        <updated>2021-08-23T16:43:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/adolfont/status/1429759258942377999
-Comments URL: https://news.ycombinator.com/item?id=28278553
-Points: 122
-# Comments: 63]]></summary>
+        <title type="html"><![CDATA[Launch HN: Level (YC S21) – Flexible financing for early-stage lending startups]]></title>
+        <id>https://news.ycombinator.com/item?id=28292078</id>
+        <link href="https://news.ycombinator.com/item?id=28292078"/>
+        <updated>2021-08-24T17:26:05.000Z</updated>
+        <summary type="html"><![CDATA[Hey Hacker News, We’re Vlad, Molly, and Asa from Level (https://trylevel.app/). We allow lending companies to trade their loan receivables into upfront working capital that gets them off the ground and grows with them as they scale.
+Building a lending company is challenging because it requires a lot of capital to get started. You need lending history to access capital, but you can’t access capital until you have a history of lending. To get around this, founders traditionally raise a large dilutive equity round and then lend off their balance sheet, or they find a family office or credit fund willing to offer a loan, which usually comes with high interest rates, warrants, and covenants. Even once your company succeeds in reaching the scale necessary to secure a traditional loan, the proces…]]></summary>
         <author>
-            <name>yawaramin</name>
+            <name>jetblowfish</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Launch HN: Buoyant (YC S21) – Blimp drones for air freight]]></title>
-        <id>https://news.ycombinator.com/item?id=28278515</id>
-        <link href="https://news.ycombinator.com/item?id=28278515"/>
-        <updated>2021-08-23T16:40:24.000Z</updated>
-        <summary type="html"><![CDATA[Hi, we’re Ben and Joe from Buoyant (https://www.buoyant.aero/). We build small unmanned cargo airships and use them to move air freight at half the cost per mile of a small plane.
-An airship (or blimp) is an aircraft that gets most of its lift from a lifting gas like helium. It’s the most efficient way to fly, which means it’s cheaper than any other aircraft for many missions. We’re starting by building an aircraft for middle-mile air freight in remote and rural areas—warehouse-to-warehouse or post office to post office. This is a $6B market in the US alone, and freight volumes are only increasing. By building autonomous blimps, we can lower shipping costs, increase quality and speed of service, and cut out millions of tons of CO2 emissions.
-So far, we’ve built and flown four airships. The…]]></summary>
+        <title type="html"><![CDATA[Ramp raises $300M]]></title>
+        <id>https://news.ycombinator.com/item?id=28291851</id>
+        <link href="https://ramp.com/blog/ramp-finance-automation-platform"/>
+        <updated>2021-08-24T17:11:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ramp.com/blog/ramp-finance-automation-platform
+Comments URL: https://news.ycombinator.com/item?id=28291851
+Points: 54
+# Comments: 32]]></summary>
         <author>
-            <name>joefigura</name>
+            <name>zuhayeer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wikidata or Scraping Wikipedia]]></title>
-        <id>https://news.ycombinator.com/item?id=28277749</id>
-        <link href="http://simia.net/wiki/Wikidata_or_scraping_Wikipedia"/>
-        <updated>2021-08-23T15:53:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://simia.net/wiki/Wikidata_or_scraping_Wikipedia
-Comments URL: https://news.ycombinator.com/item?id=28277749
-Points: 124
-# Comments: 45]]></summary>
+        <title type="html"><![CDATA[Old iPhones become faster if you change the region to France]]></title>
+        <id>https://news.ycombinator.com/item?id=28291768</id>
+        <link href="https://www.gizchina.com/2021/08/23/old-iphones-become-faster-if-you-change-the-region-to-france/"/>
+        <updated>2021-08-24T17:07:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.gizchina.com/2021/08/23/old-iphones-become-faster-if-you-change-the-region-to-france/
+Comments URL: https://news.ycombinator.com/item?id=28291768
+Points: 56
+# Comments: 20]]></summary>
         <author>
-            <name>Lockal</name>
+            <name>fomine3</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Physicist discovered an escape from Hawking’s black hole paradox]]></title>
-        <id>https://news.ycombinator.com/item?id=28276993</id>
-        <link href="https://www.quantamagazine.org/this-physicist-discovered-an-escape-from-hawkings-black-hole-paradox-20210823/"/>
-        <updated>2021-08-23T15:10:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/this-physicist-discovered-an-escape-from-hawkings-black-hole-paradox-20210823/
-Comments URL: https://news.ycombinator.com/item?id=28276993
-Points: 192
-# Comments: 115]]></summary>
+        <title type="html"><![CDATA[Show HN: Kryptor – A simple, modern, and secure encryption tool]]></title>
+        <id>https://news.ycombinator.com/item?id=28291374</id>
+        <link href="https://www.kryptor.co.uk/"/>
+        <updated>2021-08-24T16:45:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.kryptor.co.uk/
+Comments URL: https://news.ycombinator.com/item?id=28291374
+Points: 58
+# Comments: 25]]></summary>
         <author>
-            <name>theafh</name>
+            <name>samuel-lucas6</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The role of high-skilled foreign labor in startup performance]]></title>
-        <id>https://news.ycombinator.com/item?id=28276814</id>
-        <link href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3459001"/>
-        <updated>2021-08-23T15:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3459001
-Comments URL: https://news.ycombinator.com/item?id=28276814
-Points: 80
-# Comments: 42]]></summary>
+        <title type="html"><![CDATA[Charlie Watts has died]]></title>
+        <id>https://news.ycombinator.com/item?id=28291211</id>
+        <link href="https://www.bbc.com/news/entertainment-arts-58316842"/>
+        <updated>2021-08-24T16:37:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/entertainment-arts-58316842
+Comments URL: https://news.ycombinator.com/item?id=28291211
+Points: 312
+# Comments: 85]]></summary>
         <author>
-            <name>Bostonian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LudoTune, a 3D music sequencer in the browser]]></title>
-        <id>https://news.ycombinator.com/item?id=28275688</id>
-        <link href="https://ludotune.com/"/>
-        <updated>2021-08-23T13:51:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ludotune.com/
-Comments URL: https://news.ycombinator.com/item?id=28275688
-Points: 136
-# Comments: 40]]></summary>
-        <author>
-            <name>diibv</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fighting Like Taliban]]></title>
-        <id>https://news.ycombinator.com/item?id=28275197</id>
-        <link href="https://scholars-stage.org/fighting-like-taliban/"/>
-        <updated>2021-08-23T13:14:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://scholars-stage.org/fighting-like-taliban/
-Comments URL: https://news.ycombinator.com/item?id=28275197
-Points: 149
-# Comments: 126]]></summary>
-        <author>
-            <name>robertwiblin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[America Had an Atomic Mecha Warrior Robot]]></title>
-        <id>https://news.ycombinator.com/item?id=28275187</id>
-        <link href="https://orangebeanindiana.com/2021/04/09/once-upon-a-time-america-had-an-atomic-mecha-warrior-robot/"/>
-        <updated>2021-08-23T13:14:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://orangebeanindiana.com/2021/04/09/once-upon-a-time-america-had-an-atomic-mecha-warrior-robot/
-Comments URL: https://news.ycombinator.com/item?id=28275187
-Points: 236
-# Comments: 66]]></summary>
-        <author>
-            <name>riffraff</name>
+            <name>coloneltcb</name>
         </author>
     </entry>
 </feed>
