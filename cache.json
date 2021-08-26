@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=28296269",
-          "author": "morpheos137",
-          "description": "Article URL: https://provscons.com/why-will-waymo-fail/\nComments URL: https://news.ycombinator.com/item?id=28296269\nPoints: 8\n# Comments: 5",
-          "link": "https://provscons.com/why-will-waymo-fail/",
-          "publishedOn": "2021-08-24T23:26:41.000Z",
-          "wordCount": 1616,
-          "title": "Waymo has no viable business model"
+          "id": "https://news.ycombinator.com/item?id=28308970",
+          "author": "elsewhen",
+          "description": "Article URL: https://review.firstround.com/the-chief-people-officer-as-pm:-rethinking-the-systems-and-tools-that-run-the-company\nComments URL: https://news.ycombinator.com/item?id=28308970\nPoints: 6\n# Comments: 0",
+          "link": "https://review.firstround.com/the-chief-people-officer-as-pm:-rethinking-the-systems-and-tools-that-run-the-company",
+          "publishedOn": "2021-08-26T00:20:53.000Z",
+          "wordCount": 5464,
+          "title": "The Chief People Officer as PM: Rethinking Systems and Tools"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28296260",
-          "author": "Alupis",
-          "description": "Article URL: http://www.varasanos.com/pizzarecipe.htm\nComments URL: https://news.ycombinator.com/item?id=28296260\nPoints: 42\n# Comments: 23",
-          "link": "http://www.varasanos.com/pizzarecipe.htm",
-          "publishedOn": "2021-08-24T23:25:38.000Z",
-          "wordCount": 22285,
-          "title": "Jeff Varasano's NY Pizza Recipe (2008)"
+          "id": "https://news.ycombinator.com/item?id=28308082",
+          "author": "ecliptik",
+          "description": "Article URL: https://www.jelmer.uk/fresh-builds.html\nComments URL: https://news.ycombinator.com/item?id=28308082\nPoints: 11\n# Comments: 3",
+          "link": "https://www.jelmer.uk/fresh-builds.html",
+          "publishedOn": "2021-08-25T22:39:56.000Z",
+          "wordCount": 1316,
+          "title": "Thousands of Debian packages updated from their upstream Git repository"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28296189",
-          "author": "marcodiego",
-          "description": "Article URL: https://www.qemu.org/2021/08/24/qemu-6-1-0/\nComments URL: https://news.ycombinator.com/item?id=28296189\nPoints: 29\n# Comments: 4",
-          "link": "https://www.qemu.org/2021/08/24/qemu-6-1-0/",
-          "publishedOn": "2021-08-24T23:17:58.000Z",
-          "wordCount": 427,
-          "title": "QEMU Version 6.1.0 Released"
+          "id": "https://news.ycombinator.com/item?id=28307224",
+          "author": "yasp",
+          "description": "Article URL: https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1.full.pdf\nComments URL: https://news.ycombinator.com/item?id=28307224\nPoints: 59\n# Comments: 74",
+          "link": "https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1.full.pdf",
+          "publishedOn": "2021-08-25T21:23:19.000Z",
+          "wordCount": 4459,
+          "title": "Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity [pdf]"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28295688",
-          "author": "conanxin",
-          "description": "Article URL: https://www.arun.is/blog/richard-sapper/\nComments URL: https://news.ycombinator.com/item?id=28295688\nPoints: 28\n# Comments: 9",
-          "link": "https://www.arun.is/blog/richard-sapper/",
-          "publishedOn": "2021-08-24T22:19:12.000Z",
-          "wordCount": 2077,
-          "title": "Two perspectives on a designer who Steve Jobs could not hire"
+          "id": "https://news.ycombinator.com/item?id=28306938",
+          "author": "sangwen",
+          "description": "Article URL: https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567\nComments URL: https://news.ycombinator.com/item?id=28306938\nPoints: 1\n# Comments: 0",
+          "link": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567",
+          "publishedOn": "2021-08-25T21:00:50.000Z",
+          "wordCount": 505,
+          "title": "Smarking (YC W15) is hiring a head of engineering to help digitize parking"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28295676",
-          "author": "pseudolus",
-          "description": "Article URL: https://www.bbc.com/worklife/article/20210819-the-case-for-a-shorter-workweek\nComments URL: https://news.ycombinator.com/item?id=28295676\nPoints: 54\n# Comments: 22",
-          "link": "https://www.bbc.com/worklife/article/20210819-the-case-for-a-shorter-workweek",
-          "publishedOn": "2021-08-24T22:18:12.000Z",
-          "wordCount": 1664,
-          "title": "The Case for a Shorter Workweek"
+          "id": "https://news.ycombinator.com/item?id=28306869",
+          "author": "jelmer",
+          "description": "Article URL: https://jelmer.uk/fresh-builds.html\nComments URL: https://news.ycombinator.com/item?id=28306869\nPoints: 9\n# Comments: 3",
+          "link": "https://jelmer.uk/fresh-builds.html",
+          "publishedOn": "2021-08-25T20:56:16.000Z",
+          "wordCount": 1316,
+          "title": "Automatic daily updates for over 8000 Debian packages"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28295348",
-          "author": "enobrev",
-          "description": "Article URL: https://fly.io/blog/api-tokens-a-tedious-survey/\nComments URL: https://news.ycombinator.com/item?id=28295348\nPoints: 99\n# Comments: 35",
-          "link": "https://fly.io/blog/api-tokens-a-tedious-survey/",
-          "publishedOn": "2021-08-24T21:41:02.000Z",
-          "wordCount": 4618,
-          "title": "API Tokens: A Tedious Survey"
+          "id": "https://news.ycombinator.com/item?id=28306750",
+          "author": "czottmann",
+          "description": "Article URL: https://mayakaczorowski.com/blogs/burnout\nComments URL: https://news.ycombinator.com/item?id=28306750\nPoints: 502\n# Comments: 207",
+          "link": "https://mayakaczorowski.com/blogs/burnout",
+          "publishedOn": "2021-08-25T20:48:05.000Z",
+          "wordCount": 2523,
+          "title": "Burning out and quitting"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28294957",
-          "author": "jameswilsterman",
-          "description": "Article URL: https://jobs.lever.co/volleythat\nComments URL: https://news.ycombinator.com/item?id=28294957\nPoints: 1\n# Comments: 0",
-          "link": "https://jobs.lever.co/volleythat",
-          "publishedOn": "2021-08-24T21:01:07.000Z",
-          "wordCount": 89,
-          "title": "Volley (YC W18) is hiring 12 roles in SF – “Netflix of Voice”"
+          "id": "https://news.ycombinator.com/item?id=28306390",
+          "author": "pramodbiligiri",
+          "description": "Article URL: https://arxiv.org/abs/2105.13500\nComments URL: https://news.ycombinator.com/item?id=28306390\nPoints: 111\n# Comments: 20",
+          "link": "https://arxiv.org/abs/2105.13500",
+          "publishedOn": "2021-08-25T20:18:21.000Z",
+          "wordCount": 590,
+          "title": "An analysis of Amazon Echo's network behavior"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28294885",
-          "author": "radicaldreamer",
-          "description": "Article URL: https://www.latimes.com/california/story/2021-08-23/icloud-photo-theft-nude-women\nComments URL: https://news.ycombinator.com/item?id=28294885\nPoints: 189\n# Comments: 124",
-          "link": "https://www.latimes.com/california/story/2021-08-23/icloud-photo-theft-nude-women",
-          "publishedOn": "2021-08-24T20:54:48.000Z",
-          "wordCount": 1464,
-          "title": "Man steals 620k photos from iCloud accounts from home without Apple noticing"
+          "id": "https://news.ycombinator.com/item?id=28306305",
+          "author": "ingve",
+          "description": "Article URL: https://furbo.org/2021/08/25/jsc-my-new-best-friend/\nComments URL: https://news.ycombinator.com/item?id=28306305\nPoints: 43\n# Comments: 8",
+          "link": "https://furbo.org/2021/08/25/jsc-my-new-best-friend/",
+          "publishedOn": "2021-08-25T20:12:11.000Z",
+          "wordCount": 571,
+          "title": "Jsc: My New Best Friend"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28294534",
-          "author": "dmart",
-          "description": "Article URL: https://github.com/tiangolo/sqlmodel\nComments URL: https://news.ycombinator.com/item?id=28294534\nPoints: 88\n# Comments: 19",
-          "link": "https://github.com/tiangolo/sqlmodel",
-          "publishedOn": "2021-08-24T20:26:45.000Z",
-          "wordCount": 1396,
-          "title": "SQLModel – SQL Databases in FastAPI"
+          "id": "https://news.ycombinator.com/item?id=28306225",
+          "author": "marketingtech",
+          "description": "Article URL: https://digiday.com/marketing/wtf-is-server-side-conversion-tracking/\nComments URL: https://news.ycombinator.com/item?id=28306225\nPoints: 32\n# Comments: 19",
+          "link": "https://digiday.com/marketing/wtf-is-server-side-conversion-tracking/",
+          "publishedOn": "2021-08-25T20:04:54.000Z",
+          "wordCount": 1667,
+          "title": "WTF Is Server-Side Conversion Tracking"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28294237",
-          "author": "cyrusshepard",
-          "description": "Article URL: https://zyppy.com/googlespeak/\nComments URL: https://news.ycombinator.com/item?id=28294237\nPoints: 336\n# Comments: 130",
-          "link": "https://zyppy.com/googlespeak/",
-          "publishedOn": "2021-08-24T20:06:36.000Z",
-          "wordCount": 2004,
-          "title": "Googlespeak – How Google limits thought about antitrust"
+          "id": "https://news.ycombinator.com/item?id=28305600",
+          "author": "tonyedgecombe",
+          "description": "Article URL: https://panic.com/blog/the-story-of-playdate/\nComments URL: https://news.ycombinator.com/item?id=28305600\nPoints: 41\n# Comments: 7",
+          "link": "https://panic.com/blog/the-story-of-playdate/",
+          "publishedOn": "2021-08-25T19:09:11.000Z",
+          "wordCount": 17737,
+          "title": "The Story of Playdate"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28294099",
-          "author": "ducktective",
-          "description": "Article URL: https://github.com/zedeus/nitter\nComments URL: https://news.ycombinator.com/item?id=28294099\nPoints: 152\n# Comments: 35",
-          "link": "https://github.com/zedeus/nitter",
-          "publishedOn": "2021-08-24T19:56:22.000Z",
-          "wordCount": 1209,
-          "title": "Nitter: Alternative Twitter Front-End"
+          "id": "https://news.ycombinator.com/item?id=28305579",
+          "author": "grobbie",
+          "description": "Article URL: https://ubuntu.com/blog/happy-birthday-30-years-of-linux\nComments URL: https://news.ycombinator.com/item?id=28305579\nPoints: 167\n# Comments: 35",
+          "link": "https://ubuntu.com/blog/happy-birthday-30-years-of-linux",
+          "publishedOn": "2021-08-25T19:06:55.000Z",
+          "wordCount": 903,
+          "title": "Happy birthday – 30 years of Linux"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28293836",
-          "author": "nonbirithm",
-          "description": "Article URL: https://nelua.io/\nComments URL: https://news.ycombinator.com/item?id=28293836\nPoints: 140\n# Comments: 67",
-          "link": "https://nelua.io/",
-          "publishedOn": "2021-08-24T19:38:38.000Z",
-          "wordCount": 969,
-          "title": "Nelua Programming Language"
+          "id": "https://news.ycombinator.com/item?id=28305553",
+          "author": "robertwiblin",
+          "description": "Article URL: https://nautil.us/blog/12-mind_bending-perceptual-illusions\nComments URL: https://news.ycombinator.com/item?id=28305553\nPoints: 86\n# Comments: 18",
+          "link": "https://nautil.us/blog/12-mind_bending-perceptual-illusions",
+          "publishedOn": "2021-08-25T19:04:30.000Z",
+          "wordCount": 2055,
+          "title": "Perceptual Illusions (2018)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28292369",
-          "author": "ibraheemdev",
-          "description": "Article URL: https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7\nComments URL: https://news.ycombinator.com/item?id=28292369\nPoints: 396\n# Comments: 224",
-          "link": "https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7",
-          "publishedOn": "2021-08-24T17:43:02.000Z",
-          "wordCount": 2770,
-          "title": "How Discord Stores Billions of Messages (2017)"
+          "id": "https://news.ycombinator.com/item?id=28305191",
+          "author": "aarroyoc",
+          "description": "Article URL: https://www.haiku-os.org/news/2021-08-25_hiring_waddlesplash/\nComments URL: https://news.ycombinator.com/item?id=28305191\nPoints: 226\n# Comments: 54",
+          "link": "https://www.haiku-os.org/news/2021-08-25_hiring_waddlesplash/",
+          "publishedOn": "2021-08-25T18:33:42.000Z",
+          "wordCount": 445,
+          "title": "Haiku has hired an existing contributor to work on Haiku full-time"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28292266",
-          "author": "ahunyady",
-          "description": "Article URL: https://infinyon.com/blog/2021/08/smartstream-aggregates\nComments URL: https://news.ycombinator.com/item?id=28292266\nPoints: 62\n# Comments: 15",
-          "link": "https://infinyon.com/blog/2021/08/smartstream-aggregates",
-          "publishedOn": "2021-08-24T17:36:49.000Z",
-          "wordCount": 3378,
-          "title": "Aggregate streaming data in real-time with WebAssembly"
+          "id": "https://news.ycombinator.com/item?id=28304781",
+          "author": "amcaskill",
+          "description": "Hi HN! We’re Adam and Sean from Evidence (https://evidence.dev). We’re building a static site generator for data analysts. It's like Jekyll or Hugo for SQL analysts.\nIn Evidence, pages are markdown documents. When you write SQL inside that markdown, the SQL runs against your database (we support BigQuery, Snowflake, and Postgres - with more to come). You can reference the results of those queries using a simple templating syntax, which you can use to inline query results into text or to generate report sections from a query. Evidence also includes a component library that lets you do things like add charts and graphs (driven by your queries) by writing declarative tags like: \nHow is it different? Most BI tools use a no-code drag-and-drop interface. Analysts click around to build their quer…",
+          "link": "https://news.ycombinator.com/item?id=28304781",
+          "publishedOn": "2021-08-25T18:03:25.000Z",
+          "wordCount": 4421,
+          "title": "Launch HN: Evidence (YC S21) – Web framework for data analysts"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28292206",
-          "author": "rnavara",
-          "description": "Hey HN! We're Rachita Navara, MD and Kunj Patel, MD, MSc: co-founders of SafeBeat Rx (https://www.safebeatrx.com). I (Rachita) am a bioengineer and cardiologist specializing in heart rhythm disorders, and Kunj is a pain physician with a Masters in applied mathematics. We make life-saving ECG software to replace a 3-day hospitalization and let patients start heart meds safely at home.\n34M people have atrial fibrillation (AFib), the most common heart rhythm disorder in the world. It causes 1 in 4 strokes in people over 40 and increases the risk of death by 4x. Antiarrhythmic meds improve symptoms and save lives. Unfortunately, these pills can only be started during a 3+ day hospitalization because early drug trials showed $26B in the US alone, 75% of which is for hospitalizations.\nAs a cardi…",
-          "link": "https://news.ycombinator.com/item?id=28292206",
-          "publishedOn": "2021-08-24T17:33:35.000Z",
-          "wordCount": 2257,
-          "title": "Launch HN: SafeBeat Rx (YC S21)- At-home ECG software to replace hospitalization"
+          "id": "https://news.ycombinator.com/item?id=28303025",
+          "author": "Tomte",
+          "description": "Article URL: https://www.theverge.com/22632213/joe-rogan-experience-spotify-exclusive-audience-reach\nComments URL: https://news.ycombinator.com/item?id=28303025\nPoints: 367\n# Comments: 626",
+          "link": "https://www.theverge.com/22632213/joe-rogan-experience-spotify-exclusive-audience-reach",
+          "publishedOn": "2021-08-25T15:39:35.000Z",
+          "wordCount": 1901,
+          "title": "Joe Rogan, confined to Spotify, is losing influence"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28292078",
-          "author": "jetblowfish",
-          "description": "Hey Hacker News, We’re Vlad, Molly, and Asa from Level (https://trylevel.app/). We allow lending companies to trade their loan receivables into upfront working capital that gets them off the ground and grows with them as they scale.\nBuilding a lending company is challenging because it requires a lot of capital to get started. You need lending history to access capital, but you can’t access capital until you have a history of lending. To get around this, founders traditionally raise a large dilutive equity round and then lend off their balance sheet, or they find a family office or credit fund willing to offer a loan, which usually comes with high interest rates, warrants, and covenants. Even once your company succeeds in reaching the scale necessary to secure a traditional loan, the proces…",
-          "link": "https://news.ycombinator.com/item?id=28292078",
-          "publishedOn": "2021-08-24T17:26:05.000Z",
-          "wordCount": 2185,
-          "title": "Launch HN: Level (YC S21) – Flexible financing for early-stage lending startups"
+          "id": "https://news.ycombinator.com/item?id=28302995",
+          "author": "jonbaer",
+          "description": "Article URL: https://arxiv.org/abs/2108.08810\nComments URL: https://news.ycombinator.com/item?id=28302995\nPoints: 88\n# Comments: 38",
+          "link": "https://arxiv.org/abs/2108.08810",
+          "publishedOn": "2021-08-25T15:36:55.000Z",
+          "wordCount": 622,
+          "title": "Do vision transformers see like convolutional neural networks?"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28291851",
-          "author": "zuhayeer",
-          "description": "Article URL: https://ramp.com/blog/ramp-finance-automation-platform\nComments URL: https://news.ycombinator.com/item?id=28291851\nPoints: 54\n# Comments: 32",
-          "link": "https://ramp.com/blog/ramp-finance-automation-platform",
-          "publishedOn": "2021-08-24T17:11:51.000Z",
-          "wordCount": 2689,
-          "title": "Ramp raises $300M"
+          "id": "https://news.ycombinator.com/item?id=28302722",
+          "author": "ag8",
+          "description": "Article URL: https://twitter.com/Foone/status/1423369057181454339\nComments URL: https://news.ycombinator.com/item?id=28302722\nPoints: 86\n# Comments: 36",
+          "link": "https://twitter.com/Foone/status/1423369057181454339",
+          "publishedOn": "2021-08-25T15:18:23.000Z",
+          "wordCount": 196,
+          "title": "A Cartrivision Player TV"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28291768",
-          "author": "fomine3",
-          "description": "Article URL: https://www.gizchina.com/2021/08/23/old-iphones-become-faster-if-you-change-the-region-to-france/\nComments URL: https://news.ycombinator.com/item?id=28291768\nPoints: 56\n# Comments: 20",
-          "link": "https://www.gizchina.com/2021/08/23/old-iphones-become-faster-if-you-change-the-region-to-france/",
-          "publishedOn": "2021-08-24T17:07:15.000Z",
-          "wordCount": 980,
-          "title": "Old iPhones become faster if you change the region to France"
+          "id": "https://news.ycombinator.com/item?id=28300951",
+          "author": "sebg",
+          "description": "Article URL: https://github.com/marceloprates/prettymaps\nComments URL: https://news.ycombinator.com/item?id=28300951\nPoints: 722\n# Comments: 61",
+          "link": "https://github.com/marceloprates/prettymaps",
+          "publishedOn": "2021-08-25T12:48:26.000Z",
+          "wordCount": 880,
+          "title": "Prettymaps: Small Python library to draw customized maps from OpenStreetMap data"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28291374",
-          "author": "samuel-lucas6",
-          "description": "Article URL: https://www.kryptor.co.uk/\nComments URL: https://news.ycombinator.com/item?id=28291374\nPoints: 58\n# Comments: 25",
-          "link": "https://www.kryptor.co.uk/",
-          "publishedOn": "2021-08-24T16:45:48.000Z",
-          "wordCount": 486,
-          "title": "Show HN: Kryptor – A simple, modern, and secure encryption tool"
+          "id": "https://news.ycombinator.com/item?id=28300833",
+          "author": "pqvst",
+          "description": "Article URL: https://pqvst.com/2021/08/24/my-macbook-pro/\nComments URL: https://news.ycombinator.com/item?id=28300833\nPoints: 217\n# Comments: 379",
+          "link": "https://pqvst.com/2021/08/24/my-macbook-pro/",
+          "publishedOn": "2021-08-25T12:34:46.000Z",
+          "wordCount": 1421,
+          "title": "My MacBook Pro had over 10k USD in repairs"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28291211",
-          "author": "coloneltcb",
-          "description": "Article URL: https://www.bbc.com/news/entertainment-arts-58316842\nComments URL: https://news.ycombinator.com/item?id=28291211\nPoints: 312\n# Comments: 85",
-          "link": "https://www.bbc.com/news/entertainment-arts-58316842",
-          "publishedOn": "2021-08-24T16:37:18.000Z",
-          "wordCount": 1666,
-          "title": "Charlie Watts has died"
+          "id": "https://news.ycombinator.com/item?id=28300797",
+          "author": "uptown",
+          "description": "Article URL: https://variety.com/2021/digital/news/onlyfans-drops-porn-ban-sexually-explicit-policy-1235048705/\nComments URL: https://news.ycombinator.com/item?id=28300797\nPoints: 469\n# Comments: 113",
+          "link": "https://variety.com/2021/digital/news/onlyfans-drops-porn-ban-sexually-explicit-policy-1235048705/",
+          "publishedOn": "2021-08-25T12:30:14.000Z",
+          "wordCount": 1488,
+          "title": "OnlyFans drops planned porn ban"
         }
       ]
     }
