@@ -1,267 +1,278 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-26T00:48:39.147Z</id>
+    <id>urn:2021-08-27T00:54:36.160Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-26T00:48:39.147Z</updated>
+    <updated>2021-08-27T00:54:36.160Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[The Chief People Officer as PM: Rethinking Systems and Tools]]></title>
-        <id>https://news.ycombinator.com/item?id=28308970</id>
-        <link href="https://review.firstround.com/the-chief-people-officer-as-pm:-rethinking-the-systems-and-tools-that-run-the-company"/>
-        <updated>2021-08-26T00:20:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://review.firstround.com/the-chief-people-officer-as-pm:-rethinking-the-systems-and-tools-that-run-the-company
-Comments URL: https://news.ycombinator.com/item?id=28308970
-Points: 6
+        <title type="html"><![CDATA[Apple agrees to settle potential class action suit by U.S. developers]]></title>
+        <id>https://news.ycombinator.com/item?id=28322971</id>
+        <link href="https://www.axios.com/apple-settles-developer-class-action-c13bb308-daf3-4231-a399-ffd48b6b2c52.html"/>
+        <updated>2021-08-27T00:41:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.axios.com/apple-settles-developer-class-action-c13bb308-daf3-4231-a399-ffd48b6b2c52.html
+Comments URL: https://news.ycombinator.com/item?id=28322971
+Points: 3
 # Comments: 0]]></summary>
         <author>
-            <name>elsewhen</name>
+            <name>throwaway888abc</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thousands of Debian packages updated from their upstream Git repository]]></title>
-        <id>https://news.ycombinator.com/item?id=28308082</id>
-        <link href="https://www.jelmer.uk/fresh-builds.html"/>
-        <updated>2021-08-25T22:39:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.jelmer.uk/fresh-builds.html
-Comments URL: https://news.ycombinator.com/item?id=28308082
-Points: 11
-# Comments: 3]]></summary>
-        <author>
-            <name>ecliptik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=28307224</id>
-        <link href="https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1.full.pdf"/>
-        <updated>2021-08-25T21:23:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1.full.pdf
-Comments URL: https://news.ycombinator.com/item?id=28307224
-Points: 59
-# Comments: 74]]></summary>
-        <author>
-            <name>yasp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smarking (YC W15) is hiring a head of engineering to help digitize parking]]></title>
-        <id>https://news.ycombinator.com/item?id=28306938</id>
-        <link href="https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567"/>
-        <updated>2021-08-25T21:00:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567
-Comments URL: https://news.ycombinator.com/item?id=28306938
-Points: 1
+        <title type="html"><![CDATA[The QSBS Tax Exemption: A Valuable Benefit for Startup Founders and Builders]]></title>
+        <id>https://news.ycombinator.com/item?id=28322857</id>
+        <link href="https://www.brownadvisory.com/us/theadvisory/qsbs-tax-exemption-valuable-benefit-startup-founders-and-builders"/>
+        <updated>2021-08-27T00:28:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.brownadvisory.com/us/theadvisory/qsbs-tax-exemption-valuable-benefit-startup-founders-and-builders
+Comments URL: https://news.ycombinator.com/item?id=28322857
+Points: 5
 # Comments: 0]]></summary>
         <author>
-            <name>sangwen</name>
+            <name>omarfarooq</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Automatic daily updates for over 8000 Debian packages]]></title>
-        <id>https://news.ycombinator.com/item?id=28306869</id>
-        <link href="https://jelmer.uk/fresh-builds.html"/>
-        <updated>2021-08-25T20:56:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jelmer.uk/fresh-builds.html
-Comments URL: https://news.ycombinator.com/item?id=28306869
+        <title type="html"><![CDATA[Using Computer Vision to Win at Duck Hunt]]></title>
+        <id>https://news.ycombinator.com/item?id=28322813</id>
+        <link href="https://blog.roboflow.com/computer-vision-win-games-duck-hunt/"/>
+        <updated>2021-08-27T00:24:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.roboflow.com/computer-vision-win-games-duck-hunt/
+Comments URL: https://news.ycombinator.com/item?id=28322813
 Points: 9
-# Comments: 3]]></summary>
-        <author>
-            <name>jelmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Burning out and quitting]]></title>
-        <id>https://news.ycombinator.com/item?id=28306750</id>
-        <link href="https://mayakaczorowski.com/blogs/burnout"/>
-        <updated>2021-08-25T20:48:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mayakaczorowski.com/blogs/burnout
-Comments URL: https://news.ycombinator.com/item?id=28306750
-Points: 502
-# Comments: 207]]></summary>
-        <author>
-            <name>czottmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An analysis of Amazon Echo's network behavior]]></title>
-        <id>https://news.ycombinator.com/item?id=28306390</id>
-        <link href="https://arxiv.org/abs/2105.13500"/>
-        <updated>2021-08-25T20:18:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2105.13500
-Comments URL: https://news.ycombinator.com/item?id=28306390
-Points: 111
-# Comments: 20]]></summary>
-        <author>
-            <name>pramodbiligiri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jsc: My New Best Friend]]></title>
-        <id>https://news.ycombinator.com/item?id=28306305</id>
-        <link href="https://furbo.org/2021/08/25/jsc-my-new-best-friend/"/>
-        <updated>2021-08-25T20:12:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://furbo.org/2021/08/25/jsc-my-new-best-friend/
-Comments URL: https://news.ycombinator.com/item?id=28306305
-Points: 43
-# Comments: 8]]></summary>
-        <author>
-            <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WTF Is Server-Side Conversion Tracking]]></title>
-        <id>https://news.ycombinator.com/item?id=28306225</id>
-        <link href="https://digiday.com/marketing/wtf-is-server-side-conversion-tracking/"/>
-        <updated>2021-08-25T20:04:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://digiday.com/marketing/wtf-is-server-side-conversion-tracking/
-Comments URL: https://news.ycombinator.com/item?id=28306225
-Points: 32
-# Comments: 19]]></summary>
-        <author>
-            <name>marketingtech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Story of Playdate]]></title>
-        <id>https://news.ycombinator.com/item?id=28305600</id>
-        <link href="https://panic.com/blog/the-story-of-playdate/"/>
-        <updated>2021-08-25T19:09:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://panic.com/blog/the-story-of-playdate/
-Comments URL: https://news.ycombinator.com/item?id=28305600
-Points: 41
-# Comments: 7]]></summary>
-        <author>
-            <name>tonyedgecombe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy birthday – 30 years of Linux]]></title>
-        <id>https://news.ycombinator.com/item?id=28305579</id>
-        <link href="https://ubuntu.com/blog/happy-birthday-30-years-of-linux"/>
-        <updated>2021-08-25T19:06:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ubuntu.com/blog/happy-birthday-30-years-of-linux
-Comments URL: https://news.ycombinator.com/item?id=28305579
-Points: 167
-# Comments: 35]]></summary>
-        <author>
-            <name>grobbie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perceptual Illusions (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=28305553</id>
-        <link href="https://nautil.us/blog/12-mind_bending-perceptual-illusions"/>
-        <updated>2021-08-25T19:04:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nautil.us/blog/12-mind_bending-perceptual-illusions
-Comments URL: https://news.ycombinator.com/item?id=28305553
-Points: 86
-# Comments: 18]]></summary>
-        <author>
-            <name>robertwiblin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Haiku has hired an existing contributor to work on Haiku full-time]]></title>
-        <id>https://news.ycombinator.com/item?id=28305191</id>
-        <link href="https://www.haiku-os.org/news/2021-08-25_hiring_waddlesplash/"/>
-        <updated>2021-08-25T18:33:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.haiku-os.org/news/2021-08-25_hiring_waddlesplash/
-Comments URL: https://news.ycombinator.com/item?id=28305191
-Points: 226
-# Comments: 54]]></summary>
-        <author>
-            <name>aarroyoc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: Evidence (YC S21) – Web framework for data analysts]]></title>
-        <id>https://news.ycombinator.com/item?id=28304781</id>
-        <link href="https://news.ycombinator.com/item?id=28304781"/>
-        <updated>2021-08-25T18:03:25.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN! We’re Adam and Sean from Evidence (https://evidence.dev). We’re building a static site generator for data analysts. It's like Jekyll or Hugo for SQL analysts.
-In Evidence, pages are markdown documents. When you write SQL inside that markdown, the SQL runs against your database (we support BigQuery, Snowflake, and Postgres - with more to come). You can reference the results of those queries using a simple templating syntax, which you can use to inline query results into text or to generate report sections from a query. Evidence also includes a component library that lets you do things like add charts and graphs (driven by your queries) by writing declarative tags like: 
-How is it different? Most BI tools use a no-code drag-and-drop interface. Analysts click around to build their quer…]]></summary>
-        <author>
-            <name>amcaskill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joe Rogan, confined to Spotify, is losing influence]]></title>
-        <id>https://news.ycombinator.com/item?id=28303025</id>
-        <link href="https://www.theverge.com/22632213/joe-rogan-experience-spotify-exclusive-audience-reach"/>
-        <updated>2021-08-25T15:39:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/22632213/joe-rogan-experience-spotify-exclusive-audience-reach
-Comments URL: https://news.ycombinator.com/item?id=28303025
-Points: 367
-# Comments: 626]]></summary>
-        <author>
-            <name>Tomte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do vision transformers see like convolutional neural networks?]]></title>
-        <id>https://news.ycombinator.com/item?id=28302995</id>
-        <link href="https://arxiv.org/abs/2108.08810"/>
-        <updated>2021-08-25T15:36:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2108.08810
-Comments URL: https://news.ycombinator.com/item?id=28302995
-Points: 88
-# Comments: 38]]></summary>
+# Comments: 1]]></summary>
         <author>
             <name>jonbaer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Cartrivision Player TV]]></title>
-        <id>https://news.ycombinator.com/item?id=28302722</id>
-        <link href="https://twitter.com/Foone/status/1423369057181454339"/>
-        <updated>2021-08-25T15:18:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/Foone/status/1423369057181454339
-Comments URL: https://news.ycombinator.com/item?id=28302722
-Points: 86
-# Comments: 36]]></summary>
+        <title type="html"><![CDATA[Microsoft warns thousands of cloud customers of exposed databases]]></title>
+        <id>https://news.ycombinator.com/item?id=28322550</id>
+        <link href="https://www.reuters.com/technology/exclusive-microsoft-warns-thousands-cloud-customers-exposed-databases-emails-2021-08-26/"/>
+        <updated>2021-08-26T23:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/exclusive-microsoft-warns-thousands-cloud-customers-exposed-databases-emails-2021-08-26/
+Comments URL: https://news.ycombinator.com/item?id=28322550
+Points: 32
+# Comments: 15]]></summary>
         <author>
-            <name>ag8</name>
+            <name>wsostt</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prettymaps: Small Python library to draw customized maps from OpenStreetMap data]]></title>
-        <id>https://news.ycombinator.com/item?id=28300951</id>
-        <link href="https://github.com/marceloprates/prettymaps"/>
-        <updated>2021-08-25T12:48:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/marceloprates/prettymaps
-Comments URL: https://news.ycombinator.com/item?id=28300951
-Points: 722
-# Comments: 61]]></summary>
+        <title type="html"><![CDATA[TL;DR Chrome Extension [DistilBART]]]></title>
+        <id>https://news.ycombinator.com/item?id=28322429</id>
+        <link href="https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn"/>
+        <updated>2021-08-26T23:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn
+Comments URL: https://news.ycombinator.com/item?id=28322429
+Points: 4
+# Comments: 3]]></summary>
         <author>
-            <name>sebg</name>
+            <name>ignatif</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My MacBook Pro had over 10k USD in repairs]]></title>
-        <id>https://news.ycombinator.com/item?id=28300833</id>
-        <link href="https://pqvst.com/2021/08/24/my-macbook-pro/"/>
-        <updated>2021-08-25T12:34:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pqvst.com/2021/08/24/my-macbook-pro/
-Comments URL: https://news.ycombinator.com/item?id=28300833
-Points: 217
-# Comments: 379]]></summary>
+        <title type="html"><![CDATA[You and Your Research (1986)]]></title>
+        <id>https://news.ycombinator.com/item?id=28322153</id>
+        <link href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html"/>
+        <updated>2021-08-26T23:05:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
+Comments URL: https://news.ycombinator.com/item?id=28322153
+Points: 12
+# Comments: 3]]></summary>
         <author>
-            <name>pqvst</name>
+            <name>exolymph</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OnlyFans drops planned porn ban]]></title>
-        <id>https://news.ycombinator.com/item?id=28300797</id>
-        <link href="https://variety.com/2021/digital/news/onlyfans-drops-porn-ban-sexually-explicit-policy-1235048705/"/>
-        <updated>2021-08-25T12:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://variety.com/2021/digital/news/onlyfans-drops-porn-ban-sexually-explicit-policy-1235048705/
-Comments URL: https://news.ycombinator.com/item?id=28300797
-Points: 469
-# Comments: 113]]></summary>
+        <title type="html"><![CDATA[Writing a simple JSON library from scratch: a tour through modern C++]]></title>
+        <id>https://news.ycombinator.com/item?id=28320818</id>
+        <link href="https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html"/>
+        <updated>2021-08-26T21:10:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html
+Comments URL: https://news.ycombinator.com/item?id=28320818
+Points: 65
+# Comments: 26]]></summary>
         <author>
-            <name>uptown</name>
+            <name>eatonphil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Muse (YC W12) Is Hiring a Senior Growth/Front End Engineer]]></title>
+        <id>https://news.ycombinator.com/item?id=28320697</id>
+        <link href="https://www.themuse.com/jobs/themuse/senior-frontend-engineer"/>
+        <updated>2021-08-26T21:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.themuse.com/jobs/themuse/senior-frontend-engineer
+Comments URL: https://news.ycombinator.com/item?id=28320697
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>KMinshew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I switched from macOS to Linux after 15 years of Apple]]></title>
+        <id>https://news.ycombinator.com/item?id=28320404</id>
+        <link href="https://markosaric.com/linux/"/>
+        <updated>2021-08-26T20:40:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://markosaric.com/linux/
+Comments URL: https://news.ycombinator.com/item?id=28320404
+Points: 347
+# Comments: 404]]></summary>
+        <author>
+            <name>miles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: With a 9-5 job and 2 kids I have finally finished my first MVP]]></title>
+        <id>https://news.ycombinator.com/item?id=28320346</id>
+        <link href="https://news.ycombinator.com/item?id=28320346"/>
+        <updated>2021-08-26T20:36:22.000Z</updated>
+        <summary type="html"><![CDATA[Hello HN crowd.
+I worked on this project on weekends and evenings. I'm excited I made it into a presentable MVP, and it is so satisfying.
+I would like to get some honest feedback from this great community.
+I made https://freeoptionscreener.com/, to scratch a personal itch. I myself trade options as a hobby, and I didn't find a screener that satisfies my need to be able to explore raw options data freely and without preset constraints. So I made this app that allows playing with options market data and extract interesting opportunities.
+The techs used:
+- Laravel + Jquery + Mysql
+- Tradier API for market data 
+- DigitalOcean for hosting
+- OVH for domain name
+It costs me 5$/month to run the website. I'll be glade to continue if it proves to be a viable product in the long run and maybe I will take it to the next level and try monetize it.
+Note: the app is not suitable for phone screens yet, although this is a planned feature.
+Comments URL: https://news.ycombinator.com/item?id=28320346
+Points: 166
+# Comments: 67]]></summary>
+        <author>
+            <name>mrhichem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nauka's Troubled Flight–Before It Tumbled the ISS]]></title>
+        <id>https://news.ycombinator.com/item?id=28320222</id>
+        <link href="https://spectrum.ieee.org/naukas-troubled-flight-t"/>
+        <updated>2021-08-26T20:27:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/naukas-troubled-flight-t
+Comments URL: https://news.ycombinator.com/item?id=28320222
+Points: 34
+# Comments: 2]]></summary>
+        <author>
+            <name>samizdis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yt-dlp – A YouTube-dl fork with additional features and fixes]]></title>
+        <id>https://news.ycombinator.com/item?id=28319624</id>
+        <link href="https://github.com/yt-dlp/yt-dlp"/>
+        <updated>2021-08-26T19:42:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/yt-dlp/yt-dlp
+Comments URL: https://news.ycombinator.com/item?id=28319624
+Points: 342
+# Comments: 132]]></summary>
+        <author>
+            <name>makeworld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Work Hard (2007)]]></title>
+        <id>https://news.ycombinator.com/item?id=28318972</id>
+        <link href="https://terrytao.wordpress.com/career-advice/work-hard/"/>
+        <updated>2021-08-26T18:53:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://terrytao.wordpress.com/career-advice/work-hard/
+Comments URL: https://news.ycombinator.com/item?id=28318972
+Points: 261
+# Comments: 104]]></summary>
+        <author>
+            <name>somerandomness</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Tungsten Cube (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=28318754</id>
+        <link href="https://thume.ca/2019/03/03/my-tungsten-cube/"/>
+        <updated>2021-08-26T18:33:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thume.ca/2019/03/03/my-tungsten-cube/
+Comments URL: https://news.ycombinator.com/item?id=28318754
+Points: 190
+# Comments: 242]]></summary>
+        <author>
+            <name>defaulty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seeking early signals of dementia in driving and credit scores]]></title>
+        <id>https://news.ycombinator.com/item?id=28318462</id>
+        <link href="https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html"/>
+        <updated>2021-08-26T18:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html
+Comments URL: https://news.ycombinator.com/item?id=28318462
+Points: 75
+# Comments: 60]]></summary>
+        <author>
+            <name>tysone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High Performance Correctly Rounded Math Libraries for 32-Bit Floating Point]]></title>
+        <id>https://news.ycombinator.com/item?id=28318425</id>
+        <link href="https://blog.sigplan.org/2021/08/26/high-performance-correctly-rounded-math-libraries-for-32-bit-floating-point-representations/"/>
+        <updated>2021-08-26T18:10:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.sigplan.org/2021/08/26/high-performance-correctly-rounded-math-libraries-for-32-bit-floating-point-representations/
+Comments URL: https://news.ycombinator.com/item?id=28318425
+Points: 75
+# Comments: 51]]></summary>
+        <author>
+            <name>ingve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immunity Generated from Covid-19 Vaccines Differs from an Infection]]></title>
+        <id>https://news.ycombinator.com/item?id=28317866</id>
+        <link href="https://directorsblog.nih.gov/2021/06/22/how-immunity-generated-from-covid-19-vaccines-differs-from-an-infection/"/>
+        <updated>2021-08-26T17:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://directorsblog.nih.gov/2021/06/22/how-immunity-generated-from-covid-19-vaccines-differs-from-an-infection/
+Comments URL: https://news.ycombinator.com/item?id=28317866
+Points: 198
+# Comments: 147]]></summary>
+        <author>
+            <name>rolph</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monitoring Raspberry Pi Devices Using Telegraf, InfluxDB and Grafana]]></title>
+        <id>https://news.ycombinator.com/item?id=28317553</id>
+        <link href="https://blog.thecloudside.com/raspberry-pi-monitoring-using-telegraf-influxdb-and-grafana-defb63127fe3"/>
+        <updated>2021-08-26T17:04:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.thecloudside.com/raspberry-pi-monitoring-using-telegraf-influxdb-and-grafana-defb63127fe3
+Comments URL: https://news.ycombinator.com/item?id=28317553
+Points: 56
+# Comments: 10]]></summary>
+        <author>
+            <name>ashtavakra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Does induced demand apply to bike lanes?” and other questions]]></title>
+        <id>https://news.ycombinator.com/item?id=28317234</id>
+        <link href="https://www.strongtowns.org/journal/2021/8/24/does-induced-demand-apply-to-bike-lanes-and-other-questions"/>
+        <updated>2021-08-26T16:40:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.strongtowns.org/journal/2021/8/24/does-induced-demand-apply-to-bike-lanes-and-other-questions
+Comments URL: https://news.ycombinator.com/item?id=28317234
+Points: 72
+# Comments: 73]]></summary>
+        <author>
+            <name>zck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LimeSDR]]></title>
+        <id>https://news.ycombinator.com/item?id=28316117</id>
+        <link href="https://limemicro.com/products/boards/limesdr/"/>
+        <updated>2021-08-26T15:24:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://limemicro.com/products/boards/limesdr/
+Comments URL: https://news.ycombinator.com/item?id=28316117
+Points: 85
+# Comments: 106]]></summary>
+        <author>
+            <name>octopoc</name>
         </author>
     </entry>
 </feed>
