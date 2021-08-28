@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=28322971",
-          "author": "throwaway888abc",
-          "description": "Article URL: https://www.axios.com/apple-settles-developer-class-action-c13bb308-daf3-4231-a399-ffd48b6b2c52.html\nComments URL: https://news.ycombinator.com/item?id=28322971\nPoints: 3\n# Comments: 0",
-          "link": "https://www.axios.com/apple-settles-developer-class-action-c13bb308-daf3-4231-a399-ffd48b6b2c52.html",
-          "publishedOn": "2021-08-27T00:41:39.000Z",
-          "wordCount": 1525,
-          "title": "Apple agrees to settle potential class action suit by U.S. developers"
+          "id": "https://news.ycombinator.com/item?id=28334483",
+          "author": "akalin",
+          "description": "Article URL: https://danluu.com/why-benchmark/\nComments URL: https://news.ycombinator.com/item?id=28334483\nPoints: 3\n# Comments: 0",
+          "link": "https://danluu.com/why-benchmark/",
+          "publishedOn": "2021-08-28T00:33:37.000Z",
+          "wordCount": 4323,
+          "title": "Some Reasons to Measure"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28322857",
-          "author": "omarfarooq",
-          "description": "Article URL: https://www.brownadvisory.com/us/theadvisory/qsbs-tax-exemption-valuable-benefit-startup-founders-and-builders\nComments URL: https://news.ycombinator.com/item?id=28322857\nPoints: 5\n# Comments: 0",
-          "link": "https://www.brownadvisory.com/us/theadvisory/qsbs-tax-exemption-valuable-benefit-startup-founders-and-builders",
-          "publishedOn": "2021-08-27T00:28:56.000Z",
-          "wordCount": 1766,
-          "title": "The QSBS Tax Exemption: A Valuable Benefit for Startup Founders and Builders"
+          "id": "https://news.ycombinator.com/item?id=28334261",
+          "author": "walterbell",
+          "description": "Article URL: https://www.medrxiv.org/content/10.1101/2021.02.16.21251535v3\nComments URL: https://news.ycombinator.com/item?id=28334261\nPoints: 11\n# Comments: 1",
+          "link": "https://www.medrxiv.org/content/10.1101/2021.02.16.21251535v3",
+          "publishedOn": "2021-08-27T23:52:41.000Z",
+          "wordCount": 1657,
+          "title": "Viral dynamics of SARS-CoV-2 variants in vaccinated and unvaccinated individuals"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28322813",
-          "author": "jonbaer",
-          "description": "Article URL: https://blog.roboflow.com/computer-vision-win-games-duck-hunt/\nComments URL: https://news.ycombinator.com/item?id=28322813\nPoints: 9\n# Comments: 1",
-          "link": "https://blog.roboflow.com/computer-vision-win-games-duck-hunt/",
-          "publishedOn": "2021-08-27T00:24:41.000Z",
-          "wordCount": 875,
-          "title": "Using Computer Vision to Win at Duck Hunt"
+          "id": "https://news.ycombinator.com/item?id=28333608",
+          "author": "elchief",
+          "description": "Article URL: https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html\nComments URL: https://news.ycombinator.com/item?id=28333608\nPoints: 30\n# Comments: 7",
+          "link": "https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html",
+          "publishedOn": "2021-08-27T22:23:34.000Z",
+          "wordCount": 5733,
+          "title": "Recent and not so recent changes in OpenBSD that make life better"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28322550",
-          "author": "wsostt",
-          "description": "Article URL: https://www.reuters.com/technology/exclusive-microsoft-warns-thousands-cloud-customers-exposed-databases-emails-2021-08-26/\nComments URL: https://news.ycombinator.com/item?id=28322550\nPoints: 32\n# Comments: 15",
-          "link": "https://www.reuters.com/technology/exclusive-microsoft-warns-thousands-cloud-customers-exposed-databases-emails-2021-08-26/",
-          "publishedOn": "2021-08-26T23:52:00.000Z",
-          "wordCount": 1034,
-          "title": "Microsoft warns thousands of cloud customers of exposed databases"
+          "id": "https://news.ycombinator.com/item?id=28333360",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://semianalysis.com/the-semiconductor-heist-of-the-century-arm-china-has-gone-completely-rogue-operating-as-an-independent-company-with-their-own-ip/\nComments URL: https://news.ycombinator.com/item?id=28333360\nPoints: 148\n# Comments: 44",
+          "link": "https://semianalysis.com/the-semiconductor-heist-of-the-century-arm-china-has-gone-completely-rogue-operating-as-an-independent-company-with-their-own-ip/",
+          "publishedOn": "2021-08-27T21:52:16.000Z",
+          "wordCount": 1659,
+          "title": "The Semiconductor Heist of the Century"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28322429",
-          "author": "ignatif",
-          "description": "Article URL: https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn\nComments URL: https://news.ycombinator.com/item?id=28322429\nPoints: 4\n# Comments: 3",
-          "link": "https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn",
-          "publishedOn": "2021-08-26T23:36:53.000Z",
-          "wordCount": 241,
-          "title": "TL;DR Chrome Extension [DistilBART]"
+          "id": "https://news.ycombinator.com/item?id=28333326",
+          "author": "noja",
+          "description": "Article URL: https://forum.proxmox.com/threads/proxmox-ve-7-0-released.92006/\nComments URL: https://news.ycombinator.com/item?id=28333326\nPoints: 42\n# Comments: 18",
+          "link": "https://forum.proxmox.com/threads/proxmox-ve-7-0-released.92006/",
+          "publishedOn": "2021-08-27T21:48:30.000Z",
+          "wordCount": 814,
+          "title": "Proxmox VE 7.0 Released"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28322153",
-          "author": "exolymph",
-          "description": "Article URL: https://www.cs.virginia.edu/~robins/YouAndYourResearch.html\nComments URL: https://news.ycombinator.com/item?id=28322153\nPoints: 12\n# Comments: 3",
-          "link": "https://www.cs.virginia.edu/~robins/YouAndYourResearch.html",
-          "publishedOn": "2021-08-26T23:05:27.000Z",
-          "wordCount": 14446,
-          "title": "You and Your Research (1986)"
+          "id": "https://news.ycombinator.com/item?id=28332917",
+          "author": "irvinglin",
+          "description": "Article URL: https://www.humandx.org/team?gh_jid=4859261002\nComments URL: https://news.ycombinator.com/item?id=28332917\nPoints: 1\n# Comments: 0",
+          "link": "https://www.humandx.org/team?gh_jid=4859261002",
+          "publishedOn": "2021-08-27T21:00:04.000Z",
+          "wordCount": 266,
+          "title": "Human Dx is hiring part-time community/growth team members"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28320818",
-          "author": "eatonphil",
-          "description": "Article URL: https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html\nComments URL: https://news.ycombinator.com/item?id=28320818\nPoints: 65\n# Comments: 26",
-          "link": "https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html",
-          "publishedOn": "2021-08-26T21:10:15.000Z",
-          "wordCount": 3104,
-          "title": "Writing a simple JSON library from scratch: a tour through modern C++"
+          "id": "https://news.ycombinator.com/item?id=28332205",
+          "author": "gjvc",
+          "description": "Article URL: https://www.pldi21.org/prerecorded_hopl.17.html\nComments URL: https://news.ycombinator.com/item?id=28332205\nPoints: 123\n# Comments: 24",
+          "link": "https://www.pldi21.org/prerecorded_hopl.17.html",
+          "publishedOn": "2021-08-27T19:45:32.000Z",
+          "wordCount": 66,
+          "title": "The Evolution of Smalltalk from Smalltalk-72 to Squeak [video]"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28320697",
-          "author": "KMinshew",
-          "description": "Article URL: https://www.themuse.com/jobs/themuse/senior-frontend-engineer\nComments URL: https://news.ycombinator.com/item?id=28320697\nPoints: 1\n# Comments: 0",
-          "link": "https://www.themuse.com/jobs/themuse/senior-frontend-engineer",
-          "publishedOn": "2021-08-26T21:00:57.000Z",
-          "wordCount": 763,
-          "title": "The Muse (YC W12) Is Hiring a Senior Growth/Front End Engineer"
+          "id": "https://news.ycombinator.com/item?id=28331686",
+          "author": "prostoalex",
+          "description": "Article URL: https://techcrunch.com/2021/08/27/yc-grad-buoyant-wants-to-solve-middle-mile-delivery-with-cargo-airships/\nComments URL: https://news.ycombinator.com/item?id=28331686\nPoints: 38\n# Comments: 29",
+          "link": "https://techcrunch.com/2021/08/27/yc-grad-buoyant-wants-to-solve-middle-mile-delivery-with-cargo-airships/",
+          "publishedOn": "2021-08-27T18:58:26.000Z",
+          "wordCount": 853,
+          "title": "Buoyant wants to solve middle-mile delivery with cargo airships"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28320404",
-          "author": "miles",
-          "description": "Article URL: https://markosaric.com/linux/\nComments URL: https://news.ycombinator.com/item?id=28320404\nPoints: 347\n# Comments: 404",
-          "link": "https://markosaric.com/linux/",
-          "publishedOn": "2021-08-26T20:40:17.000Z",
-          "wordCount": 2259,
-          "title": "I switched from macOS to Linux after 15 years of Apple"
+          "id": "https://news.ycombinator.com/item?id=28331345",
+          "author": "f_allwein",
+          "description": "Article URL: https://www.theguardian.com/world/2021/aug/27/brussels-battles-old-prejudices-as-it-frees-unloved-river-senne-from-its-vault\nComments URL: https://news.ycombinator.com/item?id=28331345\nPoints: 87\n# Comments: 41",
+          "link": "https://www.theguardian.com/world/2021/aug/27/brussels-battles-old-prejudices-as-it-frees-unloved-river-senne-from-its-vault",
+          "publishedOn": "2021-08-27T18:27:47.000Z",
+          "wordCount": 1124,
+          "title": "Brussels battles old prejudices as it frees unloved river from its vault"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28320346",
-          "author": "mrhichem",
-          "description": "Hello HN crowd.\nI worked on this project on weekends and evenings. I'm excited I made it into a presentable MVP, and it is so satisfying.\nI would like to get some honest feedback from this great community.\nI made https://freeoptionscreener.com/, to scratch a personal itch. I myself trade options as a hobby, and I didn't find a screener that satisfies my need to be able to explore raw options data freely and without preset constraints. So I made this app that allows playing with options market data and extract interesting opportunities.\nThe techs used:\n- Laravel + Jquery + Mysql\n- Tradier API for market data \n- DigitalOcean for hosting\n- OVH for domain name\nIt costs me 5$/month to run the website. I'll be glade to continue if it proves to be a viable product in the long run and maybe I will take it to the next level and try monetize it.\nNote: the app is not suitable for phone screens yet, although this is a planned feature.\nComments URL: https://news.ycombinator.com/item?id=28320346\nPoints: 166\n# Comments: 67",
-          "link": "https://news.ycombinator.com/item?id=28320346",
-          "publishedOn": "2021-08-26T20:36:22.000Z",
-          "wordCount": 3819,
-          "title": "Show HN: With a 9-5 job and 2 kids I have finally finished my first MVP"
+          "id": "https://news.ycombinator.com/item?id=28330122",
+          "author": "axiomdata316",
+          "description": "Article URL: https://www.gq.com/story/the-dresden-job\nComments URL: https://news.ycombinator.com/item?id=28330122\nPoints: 51\n# Comments: 31",
+          "link": "https://www.gq.com/story/the-dresden-job",
+          "publishedOn": "2021-08-27T16:52:22.000Z",
+          "wordCount": 6876,
+          "title": "The Dresden Job"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28320222",
-          "author": "samizdis",
-          "description": "Article URL: https://spectrum.ieee.org/naukas-troubled-flight-t\nComments URL: https://news.ycombinator.com/item?id=28320222\nPoints: 34\n# Comments: 2",
-          "link": "https://spectrum.ieee.org/naukas-troubled-flight-t",
-          "publishedOn": "2021-08-26T20:27:59.000Z",
-          "wordCount": 5137,
-          "title": "Nauka's Troubled Flight–Before It Tumbled the ISS"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28319624",
-          "author": "makeworld",
-          "description": "Article URL: https://github.com/yt-dlp/yt-dlp\nComments URL: https://news.ycombinator.com/item?id=28319624\nPoints: 342\n# Comments: 132",
-          "link": "https://github.com/yt-dlp/yt-dlp",
-          "publishedOn": "2021-08-26T19:42:39.000Z",
-          "wordCount": 11997,
-          "title": "Yt-dlp – A YouTube-dl fork with additional features and fixes"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28318972",
-          "author": "somerandomness",
-          "description": "Article URL: https://terrytao.wordpress.com/career-advice/work-hard/\nComments URL: https://news.ycombinator.com/item?id=28318972\nPoints: 261\n# Comments: 104",
-          "link": "https://terrytao.wordpress.com/career-advice/work-hard/",
-          "publishedOn": "2021-08-26T18:53:23.000Z",
-          "wordCount": 4830,
-          "title": "Work Hard (2007)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28318754",
+          "id": "https://news.ycombinator.com/item?id=28329906",
           "author": "defaulty",
-          "description": "Article URL: https://thume.ca/2019/03/03/my-tungsten-cube/\nComments URL: https://news.ycombinator.com/item?id=28318754\nPoints: 190\n# Comments: 242",
-          "link": "https://thume.ca/2019/03/03/my-tungsten-cube/",
-          "publishedOn": "2021-08-26T18:33:32.000Z",
-          "wordCount": 624,
-          "title": "My Tungsten Cube (2019)"
+          "description": "Article URL: https://danluu.com/everything-is-broken/\nComments URL: https://news.ycombinator.com/item?id=28329906\nPoints: 84\n# Comments: 12",
+          "link": "https://danluu.com/everything-is-broken/",
+          "publishedOn": "2021-08-27T16:38:54.000Z",
+          "wordCount": 3491,
+          "title": "One Week of Bugs (2014)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28318462",
-          "author": "tysone",
-          "description": "Article URL: https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html\nComments URL: https://news.ycombinator.com/item?id=28318462\nPoints: 75\n# Comments: 60",
-          "link": "https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html",
-          "publishedOn": "2021-08-26T18:13:00.000Z",
-          "wordCount": 1464,
-          "title": "Seeking early signals of dementia in driving and credit scores"
+          "id": "https://news.ycombinator.com/item?id=28329731",
+          "author": "xbmcuser",
+          "description": "Article URL: https://semianalysis.substack.com/p/the-semiconductor-heist-of-the-century\nComments URL: https://news.ycombinator.com/item?id=28329731\nPoints: 747\n# Comments: 403",
+          "link": "https://semianalysis.substack.com/p/the-semiconductor-heist-of-the-century",
+          "publishedOn": "2021-08-27T16:25:47.000Z",
+          "wordCount": 1336,
+          "title": "Arm China Has Gone Rogue"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28318425",
-          "author": "ingve",
-          "description": "Article URL: https://blog.sigplan.org/2021/08/26/high-performance-correctly-rounded-math-libraries-for-32-bit-floating-point-representations/\nComments URL: https://news.ycombinator.com/item?id=28318425\nPoints: 75\n# Comments: 51",
-          "link": "https://blog.sigplan.org/2021/08/26/high-performance-correctly-rounded-math-libraries-for-32-bit-floating-point-representations/",
-          "publishedOn": "2021-08-26T18:10:19.000Z",
-          "wordCount": 2232,
-          "title": "High Performance Correctly Rounded Math Libraries for 32-Bit Floating Point"
+          "id": "https://news.ycombinator.com/item?id=28329672",
+          "author": "ducktective",
+          "description": "Article URL: https://github.com/nim-lang/nimforum\nComments URL: https://news.ycombinator.com/item?id=28329672\nPoints: 127\n# Comments: 77",
+          "link": "https://github.com/nim-lang/nimforum",
+          "publishedOn": "2021-08-27T16:20:28.000Z",
+          "wordCount": 1066,
+          "title": "Nimforum: Lightweight alternative to Discourse written in Nim"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28317866",
-          "author": "rolph",
-          "description": "Article URL: https://directorsblog.nih.gov/2021/06/22/how-immunity-generated-from-covid-19-vaccines-differs-from-an-infection/\nComments URL: https://news.ycombinator.com/item?id=28317866\nPoints: 198\n# Comments: 147",
-          "link": "https://directorsblog.nih.gov/2021/06/22/how-immunity-generated-from-covid-19-vaccines-differs-from-an-infection/",
-          "publishedOn": "2021-08-26T17:30:15.000Z",
-          "wordCount": 2175,
-          "title": "Immunity Generated from Covid-19 Vaccines Differs from an Infection"
+          "id": "https://news.ycombinator.com/item?id=28329444",
+          "author": "par",
+          "description": "Article URL: https://metameme.app/\nComments URL: https://news.ycombinator.com/item?id=28329444\nPoints: 208\n# Comments: 141",
+          "link": "https://metameme.app/",
+          "publishedOn": "2021-08-27T15:59:18.000Z",
+          "wordCount": 161,
+          "title": "Show HN: I made a meme creator that makes around $4k a month"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28317553",
-          "author": "ashtavakra",
-          "description": "Article URL: https://blog.thecloudside.com/raspberry-pi-monitoring-using-telegraf-influxdb-and-grafana-defb63127fe3\nComments URL: https://news.ycombinator.com/item?id=28317553\nPoints: 56\n# Comments: 10",
-          "link": "https://blog.thecloudside.com/raspberry-pi-monitoring-using-telegraf-influxdb-and-grafana-defb63127fe3",
-          "publishedOn": "2021-08-26T17:04:34.000Z",
-          "wordCount": 1583,
-          "title": "Monitoring Raspberry Pi Devices Using Telegraf, InfluxDB and Grafana"
+          "id": "https://news.ycombinator.com/item?id=28329286",
+          "author": "laurieg",
+          "description": "Article URL: https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/\nComments URL: https://news.ycombinator.com/item?id=28329286\nPoints: 275\n# Comments: 239",
+          "link": "https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/",
+          "publishedOn": "2021-08-27T15:45:30.000Z",
+          "wordCount": 2098,
+          "title": "App store payments will have increased competition"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28317234",
-          "author": "zck",
-          "description": "Article URL: https://www.strongtowns.org/journal/2021/8/24/does-induced-demand-apply-to-bike-lanes-and-other-questions\nComments URL: https://news.ycombinator.com/item?id=28317234\nPoints: 72\n# Comments: 73",
-          "link": "https://www.strongtowns.org/journal/2021/8/24/does-induced-demand-apply-to-bike-lanes-and-other-questions",
-          "publishedOn": "2021-08-26T16:40:41.000Z",
-          "wordCount": 2213,
-          "title": "“Does induced demand apply to bike lanes?” and other questions"
+          "id": "https://news.ycombinator.com/item?id=28329211",
+          "author": "ridwan_olalere1",
+          "description": "Hello Hacker News! Rian and I are co-founders of Lemonade Finance (https://lemonade.finance). Lemonade is a digital bank for the African diaspora. There are over 20M African immigrants in North America and Europe and many are running some form of business back home. We provide multi-currency accounts to help them manage their unique banking needs.\nRian and I have worked together over the last several years helping to build African fintechs such as Opay (in Nigeria) and Okash (in Kenya). As directors of operations and finance, we were instrumental in scaling Opay from $0 to $2B monthly transactions.\nIt stood out to us that Africans can pay up to 30% more than the global average to move money abroad, and most African countries are only enabled to receive, and unable to send. Looking further,…",
+          "link": "https://news.ycombinator.com/item?id=28329211",
+          "publishedOn": "2021-08-27T15:39:25.000Z",
+          "wordCount": 2411,
+          "title": "Launch HN: Lemonade Finance (YC S21) – Digital Bank for the African Diaspora"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28316117",
-          "author": "octopoc",
-          "description": "Article URL: https://limemicro.com/products/boards/limesdr/\nComments URL: https://news.ycombinator.com/item?id=28316117\nPoints: 85\n# Comments: 106",
-          "link": "https://limemicro.com/products/boards/limesdr/",
-          "publishedOn": "2021-08-26T15:24:45.000Z",
-          "wordCount": 1604,
-          "title": "LimeSDR"
+          "id": "https://news.ycombinator.com/item?id=28328657",
+          "author": "hfmuehleisen",
+          "description": "Article URL: https://duckdb.org/2021/08/27/external-sorting.html\nComments URL: https://news.ycombinator.com/item?id=28328657\nPoints: 92\n# Comments: 23",
+          "link": "https://duckdb.org/2021/08/27/external-sorting.html",
+          "publishedOn": "2021-08-27T14:56:41.000Z",
+          "wordCount": 5180,
+          "title": "Fastest table sort in the West – Redesigning DuckDB's sort"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28327694",
+          "author": "oedmarap",
+          "description": "Article URL: https://zwischenzugs.com/2021/08/27/five-ansible-techniques-i-wish-id-known-earlier/\nComments URL: https://news.ycombinator.com/item?id=28327694\nPoints: 250\n# Comments: 42",
+          "link": "https://zwischenzugs.com/2021/08/27/five-ansible-techniques-i-wish-id-known-earlier/",
+          "publishedOn": "2021-08-27T13:42:01.000Z",
+          "wordCount": 2618,
+          "title": "Ansible Techniques I Wish I’d Known Earlier"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28327660",
+          "author": "memset",
+          "description": "Hi! We're Jay and Len (kevlened) from Hotswap (https://www.hotswap.app). We automate the process of changing software vendors by helping you migrate user data during your onboarding process. In other words, we make it easy to steal customers from your competitors!\nWe've built a lot of enterprise software and done a lot of painful migrations over the years.\nI (Jay) have managed engineering teams at Frame.io, Squarespace, and Rent the Runway. Len was an early employee at Okta. At every single company we've worked at, we've spent a lot of time doing painful migrations. At Rent the Runway, we migrated our warehouse from UPS to FedEx. We changed credit card processors. We migrated ERP systems. It always took a ton of time, was not career-building work, and consultants charged $250/hr or more. W…",
+          "link": "https://news.ycombinator.com/item?id=28327660",
+          "publishedOn": "2021-08-27T13:39:29.000Z",
+          "wordCount": 8432,
+          "title": "Launch HN: Hotswap (YC S21) – Easily migrate customers away from competitors"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28327198",
+          "author": "mattjstar",
+          "description": "Article URL: https://www.narrator.ai/blog/when-correlation-is-better-than-causation/\nComments URL: https://news.ycombinator.com/item?id=28327198\nPoints: 18\n# Comments: 9",
+          "link": "https://www.narrator.ai/blog/when-correlation-is-better-than-causation/",
+          "publishedOn": "2021-08-27T12:55:51.000Z",
+          "wordCount": 1729,
+          "title": "When correlation is better than causation"
         }
       ]
     }
