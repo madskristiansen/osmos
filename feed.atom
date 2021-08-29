@@ -1,266 +1,268 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-28T00:47:25.973Z</id>
+    <id>urn:2021-08-29T00:53:16.872Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-28T00:47:25.973Z</updated>
+    <updated>2021-08-29T00:53:16.872Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Some Reasons to Measure]]></title>
-        <id>https://news.ycombinator.com/item?id=28334483</id>
-        <link href="https://danluu.com/why-benchmark/"/>
-        <updated>2021-08-28T00:33:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://danluu.com/why-benchmark/
-Comments URL: https://news.ycombinator.com/item?id=28334483
-Points: 3
-# Comments: 0]]></summary>
-        <author>
-            <name>akalin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viral dynamics of SARS-CoV-2 variants in vaccinated and unvaccinated individuals]]></title>
-        <id>https://news.ycombinator.com/item?id=28334261</id>
-        <link href="https://www.medrxiv.org/content/10.1101/2021.02.16.21251535v3"/>
-        <updated>2021-08-27T23:52:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.medrxiv.org/content/10.1101/2021.02.16.21251535v3
-Comments URL: https://news.ycombinator.com/item?id=28334261
+        <title type="html"><![CDATA[The Respected Scientists Who Pushed for Alcohol Prohibition in 1920]]></title>
+        <id>https://news.ycombinator.com/item?id=28342707</id>
+        <link href="https://brownstone.org/articles/the-respected-scientists-who-pushed-for-alcohol-prohibition-in-1920/"/>
+        <updated>2021-08-29T00:04:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brownstone.org/articles/the-respected-scientists-who-pushed-for-alcohol-prohibition-in-1920/
+Comments URL: https://news.ycombinator.com/item?id=28342707
 Points: 11
-# Comments: 1]]></summary>
+# Comments: 4]]></summary>
         <author>
-            <name>walterbell</name>
+            <name>mrfusion</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Recent and not so recent changes in OpenBSD that make life better]]></title>
-        <id>https://news.ycombinator.com/item?id=28333608</id>
-        <link href="https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html"/>
-        <updated>2021-08-27T22:23:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html
-Comments URL: https://news.ycombinator.com/item?id=28333608
-Points: 30
+        <title type="html"><![CDATA[Mean World Syndrome]]></title>
+        <id>https://news.ycombinator.com/item?id=28342662</id>
+        <link href="https://en.wikipedia.org/wiki/Mean_world_syndrome"/>
+        <updated>2021-08-28T23:55:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Mean_world_syndrome
+Comments URL: https://news.ycombinator.com/item?id=28342662
+Points: 9
 # Comments: 7]]></summary>
         <author>
-            <name>elchief</name>
+            <name>pessimizer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Semiconductor Heist of the Century]]></title>
-        <id>https://news.ycombinator.com/item?id=28333360</id>
-        <link href="https://semianalysis.com/the-semiconductor-heist-of-the-century-arm-china-has-gone-completely-rogue-operating-as-an-independent-company-with-their-own-ip/"/>
-        <updated>2021-08-27T21:52:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://semianalysis.com/the-semiconductor-heist-of-the-century-arm-china-has-gone-completely-rogue-operating-as-an-independent-company-with-their-own-ip/
-Comments URL: https://news.ycombinator.com/item?id=28333360
-Points: 148
-# Comments: 44]]></summary>
+        <title type="html"><![CDATA[US special operations vets carry out daring mission to save Afghan allies]]></title>
+        <id>https://news.ycombinator.com/item?id=28342534</id>
+        <link href="https://abcnews.go.com/Politics/us-special-operations-vets-carry-daring-mission-save/story?id=79670236"/>
+        <updated>2021-08-28T23:33:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://abcnews.go.com/Politics/us-special-operations-vets-carry-daring-mission-save/story?id=79670236
+Comments URL: https://news.ycombinator.com/item?id=28342534
+Points: 29
+# Comments: 12]]></summary>
         <author>
-            <name>todsacerdoti</name>
+            <name>unclebucknasty</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Proxmox VE 7.0 Released]]></title>
-        <id>https://news.ycombinator.com/item?id=28333326</id>
-        <link href="https://forum.proxmox.com/threads/proxmox-ve-7-0-released.92006/"/>
-        <updated>2021-08-27T21:48:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://forum.proxmox.com/threads/proxmox-ve-7-0-released.92006/
-Comments URL: https://news.ycombinator.com/item?id=28333326
-Points: 42
-# Comments: 18]]></summary>
+        <title type="html"><![CDATA[Ether Rock – Pet Rocks on the Blockchain]]></title>
+        <id>https://news.ycombinator.com/item?id=28342418</id>
+        <link href="https://etherrock.com/"/>
+        <updated>2021-08-28T23:16:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://etherrock.com/
+Comments URL: https://news.ycombinator.com/item?id=28342418
+Points: 23
+# Comments: 19]]></summary>
         <author>
-            <name>noja</name>
+            <name>sysadm1n</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Human Dx is hiring part-time community/growth team members]]></title>
-        <id>https://news.ycombinator.com/item?id=28332917</id>
-        <link href="https://www.humandx.org/team?gh_jid=4859261002"/>
-        <updated>2021-08-27T21:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.humandx.org/team?gh_jid=4859261002
-Comments URL: https://news.ycombinator.com/item?id=28332917
+        <title type="html"><![CDATA[Canada, April: Under-65 excess mortality exceeds under-65 Covid-19 deaths]]></title>
+        <id>https://news.ycombinator.com/item?id=28342378</id>
+        <link href="https://www150.statcan.gc.ca/n1/daily-quotidien/210712/dq210712b-eng.htm"/>
+        <updated>2021-08-28T23:11:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www150.statcan.gc.ca/n1/daily-quotidien/210712/dq210712b-eng.htm
+Comments URL: https://news.ycombinator.com/item?id=28342378
+Points: 73
+# Comments: 45]]></summary>
+        <author>
+            <name>angelzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TekSavvy Takes Pirate Site Blocking Battle to Canada’s Supreme Court]]></title>
+        <id>https://news.ycombinator.com/item?id=28342374</id>
+        <link href="https://torrentfreak.com/teksavvy-takes-pirate-site-blocking-battle-to-canadas-supreme-court-210826/"/>
+        <updated>2021-08-28T23:10:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://torrentfreak.com/teksavvy-takes-pirate-site-blocking-battle-to-canadas-supreme-court-210826/
+Comments URL: https://news.ycombinator.com/item?id=28342374
+Points: 49
+# Comments: 9]]></summary>
+        <author>
+            <name>curmudgeon22</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rescale (YC W12) Is Hiring Software Engineers]]></title>
+        <id>https://news.ycombinator.com/item?id=28341917</id>
+        <link href="https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&amp;lever-source%5B%5D=Hacker%20News"/>
+        <updated>2021-08-28T22:05:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News
+Comments URL: https://news.ycombinator.com/item?id=28341917
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>irvinglin</name>
+            <name>amckenzie</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Evolution of Smalltalk from Smalltalk-72 to Squeak [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=28332205</id>
-        <link href="https://www.pldi21.org/prerecorded_hopl.17.html"/>
-        <updated>2021-08-27T19:45:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.pldi21.org/prerecorded_hopl.17.html
-Comments URL: https://news.ycombinator.com/item?id=28332205
-Points: 123
-# Comments: 24]]></summary>
+        <title type="html"><![CDATA[FB messenger silently censoring links, claims they were sent]]></title>
+        <id>https://news.ycombinator.com/item?id=28341737</id>
+        <link href="https://twitter.com/kylejohnmorris/status/1431714982782066688"/>
+        <updated>2021-08-28T21:36:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/kylejohnmorris/status/1431714982782066688
+Comments URL: https://news.ycombinator.com/item?id=28341737
+Points: 282
+# Comments: 155]]></summary>
         <author>
-            <name>gjvc</name>
+            <name>votick</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Buoyant wants to solve middle-mile delivery with cargo airships]]></title>
-        <id>https://news.ycombinator.com/item?id=28331686</id>
-        <link href="https://techcrunch.com/2021/08/27/yc-grad-buoyant-wants-to-solve-middle-mile-delivery-with-cargo-airships/"/>
-        <updated>2021-08-27T18:58:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2021/08/27/yc-grad-buoyant-wants-to-solve-middle-mile-delivery-with-cargo-airships/
-Comments URL: https://news.ycombinator.com/item?id=28331686
-Points: 38
-# Comments: 29]]></summary>
+        <title type="html"><![CDATA[Apple can read your iMessages (even though they’re E2E encrypted)]]></title>
+        <id>https://news.ycombinator.com/item?id=28340542</id>
+        <link href="https://old.reddit.com/r/privacy/comments/pcb3ej/a_timely_reminder_that_apple_can_read_your/"/>
+        <updated>2021-08-28T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://old.reddit.com/r/privacy/comments/pcb3ej/a_timely_reminder_that_apple_can_read_your/
+Comments URL: https://news.ycombinator.com/item?id=28340542
+Points: 212
+# Comments: 90]]></summary>
         <author>
-            <name>prostoalex</name>
+            <name>decrypt</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brussels battles old prejudices as it frees unloved river from its vault]]></title>
-        <id>https://news.ycombinator.com/item?id=28331345</id>
-        <link href="https://www.theguardian.com/world/2021/aug/27/brussels-battles-old-prejudices-as-it-frees-unloved-river-senne-from-its-vault"/>
-        <updated>2021-08-27T18:27:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/world/2021/aug/27/brussels-battles-old-prejudices-as-it-frees-unloved-river-senne-from-its-vault
-Comments URL: https://news.ycombinator.com/item?id=28331345
-Points: 87
+        <title type="html"><![CDATA[Life After White Collar Crime]]></title>
+        <id>https://news.ycombinator.com/item?id=28340417</id>
+        <link href="https://www.newyorker.com/magazine/2021/08/30/life-after-white-collar-crime"/>
+        <updated>2021-08-28T18:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/magazine/2021/08/30/life-after-white-collar-crime
+Comments URL: https://news.ycombinator.com/item?id=28340417
+Points: 67
 # Comments: 41]]></summary>
         <author>
-            <name>f_allwein</name>
+            <name>bryanrasmussen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Dresden Job]]></title>
-        <id>https://news.ycombinator.com/item?id=28330122</id>
-        <link href="https://www.gq.com/story/the-dresden-job"/>
-        <updated>2021-08-27T16:52:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.gq.com/story/the-dresden-job
-Comments URL: https://news.ycombinator.com/item?id=28330122
+        <title type="html"><![CDATA[LucidVR open source force feedback VR gloves]]></title>
+        <id>https://news.ycombinator.com/item?id=28340330</id>
+        <link href="https://github.com/LucidVR/lucidgloves/releases/tag/Proto4"/>
+        <updated>2021-08-28T18:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/LucidVR/lucidgloves/releases/tag/Proto4
+Comments URL: https://news.ycombinator.com/item?id=28340330
+Points: 105
+# Comments: 29]]></summary>
+        <author>
+            <name>danboarder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corporations Are Crappy Archivists]]></title>
+        <id>https://news.ycombinator.com/item?id=28340272</id>
+        <link href="https://www.pcjs.org/blog/2017/10/13/"/>
+        <updated>2021-08-28T18:22:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pcjs.org/blog/2017/10/13/
+Comments URL: https://news.ycombinator.com/item?id=28340272
 Points: 51
-# Comments: 31]]></summary>
+# Comments: 6]]></summary>
         <author>
-            <name>axiomdata316</name>
+            <name>ingve</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One Week of Bugs (2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=28329906</id>
-        <link href="https://danluu.com/everything-is-broken/"/>
-        <updated>2021-08-27T16:38:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://danluu.com/everything-is-broken/
-Comments URL: https://news.ycombinator.com/item?id=28329906
-Points: 84
-# Comments: 12]]></summary>
+        <title type="html"><![CDATA[Launch HN: Kalam Labs (YC S21) – Science games and live game streaming for kids]]></title>
+        <id>https://news.ycombinator.com/item?id=28339991</id>
+        <link href="https://news.ycombinator.com/item?id=28339991"/>
+        <updated>2021-08-28T17:51:17.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN, we're Ahmad, Sashakt, and Harshit of Kalam Labs (https://www.kalamlabs.in/). Kalam Labs lets 6 to 14 year old kids learn their favourite science topics by watching live game streams and playing science games. It's like Twitch for science, except you also get to play :)
+Here's a sample video of our live stream: https://www.youtube.com/watch?v=QGMmUg0N0HE
+High curiosity in kids is directly linked to better academic performance and better outcomes when they grow up. However, school leads to a drop in curiosity as they discourage asking questions and encourage “focussing on the blackboard.” Parents don’t have a solution, as internet resources are unstructured and unreliable and encyclopedias are static and boring for the kids.
+We were batchmates at our undergraduate degrees and worked t…]]></summary>
         <author>
-            <name>defaulty</name>
+            <name>KLFaraaz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arm China Has Gone Rogue]]></title>
-        <id>https://news.ycombinator.com/item?id=28329731</id>
-        <link href="https://semianalysis.substack.com/p/the-semiconductor-heist-of-the-century"/>
-        <updated>2021-08-27T16:25:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://semianalysis.substack.com/p/the-semiconductor-heist-of-the-century
-Comments URL: https://news.ycombinator.com/item?id=28329731
-Points: 747
-# Comments: 403]]></summary>
+        <title type="html"><![CDATA[This Is Water (2005)]]></title>
+        <id>https://news.ycombinator.com/item?id=28339983</id>
+        <link href="https://fs.blog/2012/04/david-foster-wallace-this-is-water/"/>
+        <updated>2021-08-28T17:49:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fs.blog/2012/04/david-foster-wallace-this-is-water/
+Comments URL: https://news.ycombinator.com/item?id=28339983
+Points: 95
+# Comments: 34]]></summary>
         <author>
-            <name>xbmcuser</name>
+            <name>mrpf1ster</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nimforum: Lightweight alternative to Discourse written in Nim]]></title>
-        <id>https://news.ycombinator.com/item?id=28329672</id>
-        <link href="https://github.com/nim-lang/nimforum"/>
-        <updated>2021-08-27T16:20:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/nim-lang/nimforum
-Comments URL: https://news.ycombinator.com/item?id=28329672
-Points: 127
-# Comments: 77]]></summary>
+        <title type="html"><![CDATA[Researcher experiences of funder suppression of health trial findings]]></title>
+        <id>https://news.ycombinator.com/item?id=28339735</id>
+        <link href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255704"/>
+        <updated>2021-08-28T17:21:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255704
+Comments URL: https://news.ycombinator.com/item?id=28339735
+Points: 109
+# Comments: 18]]></summary>
         <author>
-            <name>ducktective</name>
+            <name>aww_dang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I made a meme creator that makes around $4k a month]]></title>
-        <id>https://news.ycombinator.com/item?id=28329444</id>
-        <link href="https://metameme.app/"/>
-        <updated>2021-08-27T15:59:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://metameme.app/
-Comments URL: https://news.ycombinator.com/item?id=28329444
-Points: 208
-# Comments: 141]]></summary>
+        <title type="html"><![CDATA[Show HN: Simple tool for creating commandline bar charts]]></title>
+        <id>https://news.ycombinator.com/item?id=28339545</id>
+        <link href="https://github.com/TurkeyMcMac/barchart"/>
+        <updated>2021-08-28T17:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/TurkeyMcMac/barchart
+Comments URL: https://news.ycombinator.com/item?id=28339545
+Points: 56
+# Comments: 13]]></summary>
         <author>
-            <name>par</name>
+            <name>jwmhjwmh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[App store payments will have increased competition]]></title>
-        <id>https://news.ycombinator.com/item?id=28329286</id>
-        <link href="https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/"/>
-        <updated>2021-08-27T15:45:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/
-Comments URL: https://news.ycombinator.com/item?id=28329286
-Points: 275
-# Comments: 239]]></summary>
+        <title type="html"><![CDATA[Vega Strike]]></title>
+        <id>https://news.ycombinator.com/item?id=28338937</id>
+        <link href="https://www.vega-strike.org/"/>
+        <updated>2021-08-28T15:43:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vega-strike.org/
+Comments URL: https://news.ycombinator.com/item?id=28338937
+Points: 31
+# Comments: 21]]></summary>
         <author>
-            <name>laurieg</name>
+            <name>marcodiego</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Launch HN: Lemonade Finance (YC S21) – Digital Bank for the African Diaspora]]></title>
-        <id>https://news.ycombinator.com/item?id=28329211</id>
-        <link href="https://news.ycombinator.com/item?id=28329211"/>
-        <updated>2021-08-27T15:39:25.000Z</updated>
-        <summary type="html"><![CDATA[Hello Hacker News! Rian and I are co-founders of Lemonade Finance (https://lemonade.finance). Lemonade is a digital bank for the African diaspora. There are over 20M African immigrants in North America and Europe and many are running some form of business back home. We provide multi-currency accounts to help them manage their unique banking needs.
-Rian and I have worked together over the last several years helping to build African fintechs such as Opay (in Nigeria) and Okash (in Kenya). As directors of operations and finance, we were instrumental in scaling Opay from $0 to $2B monthly transactions.
-It stood out to us that Africans can pay up to 30% more than the global average to move money abroad, and most African countries are only enabled to receive, and unable to send. Looking further,…]]></summary>
+        <title type="html"><![CDATA[After 18 years, SCO's IBM litigation may be settled for $14.5M]]></title>
+        <id>https://news.ycombinator.com/item?id=28338830</id>
+        <link href="https://news.slashdot.org/story/21/08/28/0237243/after-18-years-scos-ibm-litigation-may-be-settled-for-145-million"/>
+        <updated>2021-08-28T15:32:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://news.slashdot.org/story/21/08/28/0237243/after-18-years-scos-ibm-litigation-may-be-settled-for-145-million
+Comments URL: https://news.ycombinator.com/item?id=28338830
+Points: 111
+# Comments: 87]]></summary>
         <author>
-            <name>ridwan_olalere1</name>
+            <name>MilnerRoute</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fastest table sort in the West – Redesigning DuckDB's sort]]></title>
-        <id>https://news.ycombinator.com/item?id=28328657</id>
-        <link href="https://duckdb.org/2021/08/27/external-sorting.html"/>
-        <updated>2021-08-27T14:56:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://duckdb.org/2021/08/27/external-sorting.html
-Comments URL: https://news.ycombinator.com/item?id=28328657
-Points: 92
-# Comments: 23]]></summary>
+        <title type="html"><![CDATA[NetBSD Booting on the Apple M1]]></title>
+        <id>https://news.ycombinator.com/item?id=28338749</id>
+        <link href="https://twitter.com/jmcwhatever/status/1431575270436319235"/>
+        <updated>2021-08-28T15:22:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/jmcwhatever/status/1431575270436319235
+Comments URL: https://news.ycombinator.com/item?id=28338749
+Points: 153
+# Comments: 73]]></summary>
         <author>
-            <name>hfmuehleisen</name>
+            <name>jmmv</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ansible Techniques I Wish I’d Known Earlier]]></title>
-        <id>https://news.ycombinator.com/item?id=28327694</id>
-        <link href="https://zwischenzugs.com/2021/08/27/five-ansible-techniques-i-wish-id-known-earlier/"/>
-        <updated>2021-08-27T13:42:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://zwischenzugs.com/2021/08/27/five-ansible-techniques-i-wish-id-known-earlier/
-Comments URL: https://news.ycombinator.com/item?id=28327694
-Points: 250
-# Comments: 42]]></summary>
+        <title type="html"><![CDATA[Next-Gen Chips Will Be Powered from Below]]></title>
+        <id>https://news.ycombinator.com/item?id=28337836</id>
+        <link href="https://spectrum.ieee.org/next-gen-chips-will-be-powered-from-below"/>
+        <updated>2021-08-28T13:23:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/next-gen-chips-will-be-powered-from-below
+Comments URL: https://news.ycombinator.com/item?id=28337836
+Points: 131
+# Comments: 53]]></summary>
         <author>
-            <name>oedmarap</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: Hotswap (YC S21) – Easily migrate customers away from competitors]]></title>
-        <id>https://news.ycombinator.com/item?id=28327660</id>
-        <link href="https://news.ycombinator.com/item?id=28327660"/>
-        <updated>2021-08-27T13:39:29.000Z</updated>
-        <summary type="html"><![CDATA[Hi! We're Jay and Len (kevlened) from Hotswap (https://www.hotswap.app). We automate the process of changing software vendors by helping you migrate user data during your onboarding process. In other words, we make it easy to steal customers from your competitors!
-We've built a lot of enterprise software and done a lot of painful migrations over the years.
-I (Jay) have managed engineering teams at Frame.io, Squarespace, and Rent the Runway. Len was an early employee at Okta. At every single company we've worked at, we've spent a lot of time doing painful migrations. At Rent the Runway, we migrated our warehouse from UPS to FedEx. We changed credit card processors. We migrated ERP systems. It always took a ton of time, was not career-building work, and consultants charged $250/hr or more. W…]]></summary>
-        <author>
-            <name>memset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When correlation is better than causation]]></title>
-        <id>https://news.ycombinator.com/item?id=28327198</id>
-        <link href="https://www.narrator.ai/blog/when-correlation-is-better-than-causation/"/>
-        <updated>2021-08-27T12:55:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.narrator.ai/blog/when-correlation-is-better-than-causation/
-Comments URL: https://news.ycombinator.com/item?id=28327198
-Points: 18
-# Comments: 9]]></summary>
-        <author>
-            <name>mattjstar</name>
+            <name>jonbaer</name>
         </author>
     </entry>
 </feed>
