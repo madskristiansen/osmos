@@ -1,268 +1,268 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-29T00:53:16.872Z</id>
+    <id>urn:2021-08-30T00:49:49.275Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-29T00:53:16.872Z</updated>
+    <updated>2021-08-30T00:49:49.275Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[The Respected Scientists Who Pushed for Alcohol Prohibition in 1920]]></title>
-        <id>https://news.ycombinator.com/item?id=28342707</id>
-        <link href="https://brownstone.org/articles/the-respected-scientists-who-pushed-for-alcohol-prohibition-in-1920/"/>
-        <updated>2021-08-29T00:04:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://brownstone.org/articles/the-respected-scientists-who-pushed-for-alcohol-prohibition-in-1920/
-Comments URL: https://news.ycombinator.com/item?id=28342707
-Points: 11
-# Comments: 4]]></summary>
+        <title type="html"><![CDATA[Darktile – GPU rendered terminal emulator designed for tiling window managers]]></title>
+        <id>https://news.ycombinator.com/item?id=28351659</id>
+        <link href="https://github.com/liamg/darktile"/>
+        <updated>2021-08-30T00:06:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/liamg/darktile
+Comments URL: https://news.ycombinator.com/item?id=28351659
+Points: 7
+# Comments: 0]]></summary>
         <author>
-            <name>mrfusion</name>
+            <name>JNRowe</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mean World Syndrome]]></title>
-        <id>https://news.ycombinator.com/item?id=28342662</id>
-        <link href="https://en.wikipedia.org/wiki/Mean_world_syndrome"/>
-        <updated>2021-08-28T23:55:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Mean_world_syndrome
-Comments URL: https://news.ycombinator.com/item?id=28342662
-Points: 9
-# Comments: 7]]></summary>
+        <title type="html"><![CDATA[MarkMonitor left 60k domains for the taking]]></title>
+        <id>https://news.ycombinator.com/item?id=28351432</id>
+        <link href="https://ian.sh/markmonitor"/>
+        <updated>2021-08-29T23:27:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ian.sh/markmonitor
+Comments URL: https://news.ycombinator.com/item?id=28351432
+Points: 93
+# Comments: 13]]></summary>
         <author>
-            <name>pessimizer</name>
+            <name>agwa</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US special operations vets carry out daring mission to save Afghan allies]]></title>
-        <id>https://news.ycombinator.com/item?id=28342534</id>
-        <link href="https://abcnews.go.com/Politics/us-special-operations-vets-carry-daring-mission-save/story?id=79670236"/>
-        <updated>2021-08-28T23:33:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://abcnews.go.com/Politics/us-special-operations-vets-carry-daring-mission-save/story?id=79670236
-Comments URL: https://news.ycombinator.com/item?id=28342534
-Points: 29
-# Comments: 12]]></summary>
+        <title type="html"><![CDATA[Linux Kernel 5.14]]></title>
+        <id>https://news.ycombinator.com/item?id=28351420</id>
+        <link href="https://lwn.net/Articles/867706/"/>
+        <updated>2021-08-29T23:25:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/867706/
+Comments URL: https://news.ycombinator.com/item?id=28351420
+Points: 43
+# Comments: 2]]></summary>
         <author>
-            <name>unclebucknasty</name>
+            <name>nitinreddy88</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ether Rock – Pet Rocks on the Blockchain]]></title>
-        <id>https://news.ycombinator.com/item?id=28342418</id>
-        <link href="https://etherrock.com/"/>
-        <updated>2021-08-28T23:16:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://etherrock.com/
-Comments URL: https://news.ycombinator.com/item?id=28342418
-Points: 23
-# Comments: 19]]></summary>
+        <title type="html"><![CDATA[For security reasons, the following information is not to be shared with enduser]]></title>
+        <id>https://news.ycombinator.com/item?id=28351399</id>
+        <link href="https://community.flexera.com/t5/FlexNet-Publisher-Knowledge-Base/Receiving-FLEXlm-Error-88-309-System-Clock-Has-Been-Set-Back/ta-p/5825"/>
+        <updated>2021-08-29T23:21:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://community.flexera.com/t5/FlexNet-Publisher-Knowledge-Base/Receiving-FLEXlm-Error-88-309-System-Clock-Has-Been-Set-Back/ta-p/5825
+Comments URL: https://news.ycombinator.com/item?id=28351399
+Points: 62
+# Comments: 16]]></summary>
         <author>
-            <name>sysadm1n</name>
+            <name>parsecs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canada, April: Under-65 excess mortality exceeds under-65 Covid-19 deaths]]></title>
-        <id>https://news.ycombinator.com/item?id=28342378</id>
-        <link href="https://www150.statcan.gc.ca/n1/daily-quotidien/210712/dq210712b-eng.htm"/>
-        <updated>2021-08-28T23:11:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www150.statcan.gc.ca/n1/daily-quotidien/210712/dq210712b-eng.htm
-Comments URL: https://news.ycombinator.com/item?id=28342378
-Points: 73
-# Comments: 45]]></summary>
+        <title type="html"><![CDATA[Almost 600 Louisiana sites with toxic chemicals lie in Hurricane Ida's path]]></title>
+        <id>https://news.ycombinator.com/item?id=28350812</id>
+        <link href="https://www.nola.com/news/environment/article_85d4a426-0835-11ec-80b5-0b11ebddb24b.html"/>
+        <updated>2021-08-29T21:53:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nola.com/news/environment/article_85d4a426-0835-11ec-80b5-0b11ebddb24b.html
+Comments URL: https://news.ycombinator.com/item?id=28350812
+Points: 48
+# Comments: 10]]></summary>
         <author>
-            <name>angelzen</name>
+            <name>jdkee</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TekSavvy Takes Pirate Site Blocking Battle to Canada’s Supreme Court]]></title>
-        <id>https://news.ycombinator.com/item?id=28342374</id>
-        <link href="https://torrentfreak.com/teksavvy-takes-pirate-site-blocking-battle-to-canadas-supreme-court-210826/"/>
-        <updated>2021-08-28T23:10:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://torrentfreak.com/teksavvy-takes-pirate-site-blocking-battle-to-canadas-supreme-court-210826/
-Comments URL: https://news.ycombinator.com/item?id=28342374
-Points: 49
-# Comments: 9]]></summary>
+        <title type="html"><![CDATA[Helm is a personal server that lives where you do]]></title>
+        <id>https://news.ycombinator.com/item?id=28350466</id>
+        <link href="https://thehelm.com/"/>
+        <updated>2021-08-29T21:04:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thehelm.com/
+Comments URL: https://news.ycombinator.com/item?id=28350466
+Points: 127
+# Comments: 117]]></summary>
         <author>
-            <name>curmudgeon22</name>
+            <name>philips</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rescale (YC W12) Is Hiring Software Engineers]]></title>
-        <id>https://news.ycombinator.com/item?id=28341917</id>
-        <link href="https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&amp;lever-source%5B%5D=Hacker%20News"/>
-        <updated>2021-08-28T22:05:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News
-Comments URL: https://news.ycombinator.com/item?id=28341917
+        <title type="html"><![CDATA[Inspectify (YC S20) Is Hiring a Project Manager – Home Insights in Seattle]]></title>
+        <id>https://news.ycombinator.com/item?id=28350429</id>
+        <link href="https://www.ycombinator.com/companies/inspectify/jobs/GhiNAqq-project-manager-home-insights"/>
+        <updated>2021-08-29T21:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/inspectify/jobs/GhiNAqq-project-manager-home-insights
+Comments URL: https://news.ycombinator.com/item?id=28350429
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>amckenzie</name>
+            <name>DenisB</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FB messenger silently censoring links, claims they were sent]]></title>
-        <id>https://news.ycombinator.com/item?id=28341737</id>
-        <link href="https://twitter.com/kylejohnmorris/status/1431714982782066688"/>
-        <updated>2021-08-28T21:36:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/kylejohnmorris/status/1431714982782066688
-Comments URL: https://news.ycombinator.com/item?id=28341737
-Points: 282
-# Comments: 155]]></summary>
+        <title type="html"><![CDATA[Clustering Algorithms with Python]]></title>
+        <id>https://news.ycombinator.com/item?id=28350412</id>
+        <link href="https://machinelearningmastery.com/clustering-algorithms-with-python/"/>
+        <updated>2021-08-29T20:57:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://machinelearningmastery.com/clustering-algorithms-with-python/
+Comments URL: https://news.ycombinator.com/item?id=28350412
+Points: 30
+# Comments: 2]]></summary>
         <author>
-            <name>votick</name>
+            <name>rbanffy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple can read your iMessages (even though they’re E2E encrypted)]]></title>
-        <id>https://news.ycombinator.com/item?id=28340542</id>
-        <link href="https://old.reddit.com/r/privacy/comments/pcb3ej/a_timely_reminder_that_apple_can_read_your/"/>
-        <updated>2021-08-28T19:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://old.reddit.com/r/privacy/comments/pcb3ej/a_timely_reminder_that_apple_can_read_your/
-Comments URL: https://news.ycombinator.com/item?id=28340542
-Points: 212
-# Comments: 90]]></summary>
+        <title type="html"><![CDATA[Boys in Custody and the Women Who Abuse Them]]></title>
+        <id>https://news.ycombinator.com/item?id=28350142</id>
+        <link href="https://www.propublica.org/article/boys-in-custody-and-the-women-who-abuse-them"/>
+        <updated>2021-08-29T20:23:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.propublica.org/article/boys-in-custody-and-the-women-who-abuse-them
+Comments URL: https://news.ycombinator.com/item?id=28350142
+Points: 125
+# Comments: 49]]></summary>
         <author>
-            <name>decrypt</name>
+            <name>anchpop</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Life After White Collar Crime]]></title>
-        <id>https://news.ycombinator.com/item?id=28340417</id>
-        <link href="https://www.newyorker.com/magazine/2021/08/30/life-after-white-collar-crime"/>
-        <updated>2021-08-28T18:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/magazine/2021/08/30/life-after-white-collar-crime
-Comments URL: https://news.ycombinator.com/item?id=28340417
-Points: 67
-# Comments: 41]]></summary>
+        <title type="html"><![CDATA[Open Source Illustrations Kit]]></title>
+        <id>https://news.ycombinator.com/item?id=28349738</id>
+        <link href="https://illlustrations.co"/>
+        <updated>2021-08-29T19:33:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://illlustrations.co
+Comments URL: https://news.ycombinator.com/item?id=28349738
+Points: 77
+# Comments: 12]]></summary>
         <author>
-            <name>bryanrasmussen</name>
+            <name>damir</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LucidVR open source force feedback VR gloves]]></title>
-        <id>https://news.ycombinator.com/item?id=28340330</id>
-        <link href="https://github.com/LucidVR/lucidgloves/releases/tag/Proto4"/>
-        <updated>2021-08-28T18:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/LucidVR/lucidgloves/releases/tag/Proto4
-Comments URL: https://news.ycombinator.com/item?id=28340330
-Points: 105
-# Comments: 29]]></summary>
+        <title type="html"><![CDATA[Air Independent Propulsion Could Create Silent Killer Submarines]]></title>
+        <id>https://news.ycombinator.com/item?id=28349696</id>
+        <link href="https://nationalinterest.org/blog/reboot/air-independent-propulsion-could-create-silent-killer-submarines-192514"/>
+        <updated>2021-08-29T19:28:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nationalinterest.org/blog/reboot/air-independent-propulsion-could-create-silent-killer-submarines-192514
+Comments URL: https://news.ycombinator.com/item?id=28349696
+Points: 30
+# Comments: 20]]></summary>
         <author>
-            <name>danboarder</name>
+            <name>jdmark</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Corporations Are Crappy Archivists]]></title>
-        <id>https://news.ycombinator.com/item?id=28340272</id>
-        <link href="https://www.pcjs.org/blog/2017/10/13/"/>
-        <updated>2021-08-28T18:22:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.pcjs.org/blog/2017/10/13/
-Comments URL: https://news.ycombinator.com/item?id=28340272
-Points: 51
-# Comments: 6]]></summary>
+        <title type="html"><![CDATA[Programming, Math, Science: A list with links to useful resources]]></title>
+        <id>https://news.ycombinator.com/item?id=28349475</id>
+        <link href="https://github.com/bobeff/programming-math-science"/>
+        <updated>2021-08-29T18:59:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/bobeff/programming-math-science
+Comments URL: https://news.ycombinator.com/item?id=28349475
+Points: 92
+# Comments: 5]]></summary>
         <author>
-            <name>ingve</name>
+            <name>ibobev</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Launch HN: Kalam Labs (YC S21) – Science games and live game streaming for kids]]></title>
-        <id>https://news.ycombinator.com/item?id=28339991</id>
-        <link href="https://news.ycombinator.com/item?id=28339991"/>
-        <updated>2021-08-28T17:51:17.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN, we're Ahmad, Sashakt, and Harshit of Kalam Labs (https://www.kalamlabs.in/). Kalam Labs lets 6 to 14 year old kids learn their favourite science topics by watching live game streams and playing science games. It's like Twitch for science, except you also get to play :)
-Here's a sample video of our live stream: https://www.youtube.com/watch?v=QGMmUg0N0HE
-High curiosity in kids is directly linked to better academic performance and better outcomes when they grow up. However, school leads to a drop in curiosity as they discourage asking questions and encourage “focussing on the blackboard.” Parents don’t have a solution, as internet resources are unstructured and unreliable and encyclopedias are static and boring for the kids.
-We were batchmates at our undergraduate degrees and worked t…]]></summary>
-        <author>
-            <name>KLFaraaz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Is Water (2005)]]></title>
-        <id>https://news.ycombinator.com/item?id=28339983</id>
-        <link href="https://fs.blog/2012/04/david-foster-wallace-this-is-water/"/>
-        <updated>2021-08-28T17:49:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://fs.blog/2012/04/david-foster-wallace-this-is-water/
-Comments URL: https://news.ycombinator.com/item?id=28339983
-Points: 95
-# Comments: 34]]></summary>
-        <author>
-            <name>mrpf1ster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researcher experiences of funder suppression of health trial findings]]></title>
-        <id>https://news.ycombinator.com/item?id=28339735</id>
-        <link href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255704"/>
-        <updated>2021-08-28T17:21:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255704
-Comments URL: https://news.ycombinator.com/item?id=28339735
-Points: 109
+        <title type="html"><![CDATA[Spherical Panoramas]]></title>
+        <id>https://news.ycombinator.com/item?id=28349246</id>
+        <link href="https://stuvel.eu/articles/spherical-panoramas/"/>
+        <updated>2021-08-29T18:32:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stuvel.eu/articles/spherical-panoramas/
+Comments URL: https://news.ycombinator.com/item?id=28349246
+Points: 41
 # Comments: 18]]></summary>
         <author>
-            <name>aww_dang</name>
+            <name>app4soft</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Simple tool for creating commandline bar charts]]></title>
-        <id>https://news.ycombinator.com/item?id=28339545</id>
-        <link href="https://github.com/TurkeyMcMac/barchart"/>
-        <updated>2021-08-28T17:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/TurkeyMcMac/barchart
-Comments URL: https://news.ycombinator.com/item?id=28339545
-Points: 56
-# Comments: 13]]></summary>
+        <title type="html"><![CDATA[The Orbit of Planet Nine]]></title>
+        <id>https://news.ycombinator.com/item?id=28349201</id>
+        <link href="https://findplanetnine.blogspot.com/2021/08/the-orbit-of-planet-nine.html"/>
+        <updated>2021-08-29T18:26:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://findplanetnine.blogspot.com/2021/08/the-orbit-of-planet-nine.html
+Comments URL: https://news.ycombinator.com/item?id=28349201
+Points: 159
+# Comments: 40]]></summary>
         <author>
-            <name>jwmhjwmh</name>
+            <name>fogof</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vega Strike]]></title>
-        <id>https://news.ycombinator.com/item?id=28338937</id>
-        <link href="https://www.vega-strike.org/"/>
-        <updated>2021-08-28T15:43:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.vega-strike.org/
-Comments URL: https://news.ycombinator.com/item?id=28338937
-Points: 31
-# Comments: 21]]></summary>
+        <title type="html"><![CDATA[Esperanto Champions the Efficiency of Its 1,092-Core RISC-V Chip]]></title>
+        <id>https://news.ycombinator.com/item?id=28349068</id>
+        <link href="https://www.hpcwire.com/2021/08/27/esperanto-silicon-in-hand-champions-the-efficiency-of-its-1092-core-risc-v-chip/"/>
+        <updated>2021-08-29T18:12:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.hpcwire.com/2021/08/27/esperanto-silicon-in-hand-champions-the-efficiency-of-its-1092-core-risc-v-chip/
+Comments URL: https://news.ycombinator.com/item?id=28349068
+Points: 98
+# Comments: 42]]></summary>
         <author>
-            <name>marcodiego</name>
+            <name>rbanffy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[After 18 years, SCO's IBM litigation may be settled for $14.5M]]></title>
-        <id>https://news.ycombinator.com/item?id=28338830</id>
-        <link href="https://news.slashdot.org/story/21/08/28/0237243/after-18-years-scos-ibm-litigation-may-be-settled-for-145-million"/>
-        <updated>2021-08-28T15:32:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://news.slashdot.org/story/21/08/28/0237243/after-18-years-scos-ibm-litigation-may-be-settled-for-145-million
-Comments URL: https://news.ycombinator.com/item?id=28338830
-Points: 111
-# Comments: 87]]></summary>
+        <title type="html"><![CDATA[Train Wheels Are Cones]]></title>
+        <id>https://news.ycombinator.com/item?id=28348996</id>
+        <link href="http://awesci.com/train-wheels-are-amazing/"/>
+        <updated>2021-08-29T18:06:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://awesci.com/train-wheels-are-amazing/
+Comments URL: https://news.ycombinator.com/item?id=28348996
+Points: 230
+# Comments: 91]]></summary>
         <author>
-            <name>MilnerRoute</name>
+            <name>trekhleb</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NetBSD Booting on the Apple M1]]></title>
-        <id>https://news.ycombinator.com/item?id=28338749</id>
-        <link href="https://twitter.com/jmcwhatever/status/1431575270436319235"/>
-        <updated>2021-08-28T15:22:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/jmcwhatever/status/1431575270436319235
-Comments URL: https://news.ycombinator.com/item?id=28338749
-Points: 153
-# Comments: 73]]></summary>
+        <title type="html"><![CDATA[8Gb USB Flash Drive Endurance Test (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=28348844</id>
+        <link href="https://goughlui.com/2017/05/30/experiment-8gb-usb-flash-drive-endurance-test/"/>
+        <updated>2021-08-29T17:48:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://goughlui.com/2017/05/30/experiment-8gb-usb-flash-drive-endurance-test/
+Comments URL: https://news.ycombinator.com/item?id=28348844
+Points: 62
+# Comments: 33]]></summary>
         <author>
-            <name>jmmv</name>
+            <name>daxuak</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next-Gen Chips Will Be Powered from Below]]></title>
-        <id>https://news.ycombinator.com/item?id=28337836</id>
-        <link href="https://spectrum.ieee.org/next-gen-chips-will-be-powered-from-below"/>
-        <updated>2021-08-28T13:23:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/next-gen-chips-will-be-powered-from-below
-Comments URL: https://news.ycombinator.com/item?id=28337836
-Points: 131
-# Comments: 53]]></summary>
+        <title type="html"><![CDATA[5G from Space: An Overview of 3GPP Non-Terrestrial Networks]]></title>
+        <id>https://news.ycombinator.com/item?id=28348696</id>
+        <link href="https://arxiv.org/abs/2103.09156"/>
+        <updated>2021-08-29T17:30:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2103.09156
+Comments URL: https://news.ycombinator.com/item?id=28348696
+Points: 53
+# Comments: 4]]></summary>
         <author>
-            <name>jonbaer</name>
+            <name>ksec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Challenges students face when learning to work with relational databases and SQL]]></title>
+        <id>https://news.ycombinator.com/item?id=28348524</id>
+        <link href="https://www.growkudos.com/publications/10.1145%25252F3446871.3469759/reader"/>
+        <updated>2021-08-29T17:13:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.growkudos.com/publications/10.1145%25252F3446871.3469759/reader
+Comments URL: https://news.ycombinator.com/item?id=28348524
+Points: 89
+# Comments: 72]]></summary>
+        <author>
+            <name>gousiosg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A newfound biomolecule, consisting of RNA modified by sugars]]></title>
+        <id>https://news.ycombinator.com/item?id=28348110</id>
+        <link href="https://news.stanford.edu/2021/05/17/stanford-study-reveals-new-biomolecule/"/>
+        <updated>2021-08-29T16:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://news.stanford.edu/2021/05/17/stanford-study-reveals-new-biomolecule/
+Comments URL: https://news.ycombinator.com/item?id=28348110
+Points: 57
+# Comments: 6]]></summary>
+        <author>
+            <name>panabee</name>
         </author>
     </entry>
 </feed>
