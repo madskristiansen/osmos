@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=28351659",
-          "author": "JNRowe",
-          "description": "Article URL: https://github.com/liamg/darktile\nComments URL: https://news.ycombinator.com/item?id=28351659\nPoints: 7\n# Comments: 0",
-          "link": "https://github.com/liamg/darktile",
-          "publishedOn": "2021-08-30T00:06:39.000Z",
-          "wordCount": 1109,
-          "title": "Darktile – GPU rendered terminal emulator designed for tiling window managers"
+          "id": "https://news.ycombinator.com/item?id=28362557",
+          "author": "ejgreenwald",
+          "description": "Article URL: https://status.io/pages/incident/533c6539221ae15e3f000031/612d722c063764061e25aa70\nComments URL: https://news.ycombinator.com/item?id=28362557\nPoints: 3\n# Comments: 0",
+          "link": "https://status.io/pages/incident/533c6539221ae15e3f000031/612d722c063764061e25aa70",
+          "publishedOn": "2021-08-31T00:17:39.000Z",
+          "wordCount": 172,
+          "title": "DockerHub Pushing Issues"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28351432",
-          "author": "agwa",
-          "description": "Article URL: https://ian.sh/markmonitor\nComments URL: https://news.ycombinator.com/item?id=28351432\nPoints: 93\n# Comments: 13",
-          "link": "https://ian.sh/markmonitor",
-          "publishedOn": "2021-08-29T23:27:08.000Z",
-          "wordCount": 788,
-          "title": "MarkMonitor left 60k domains for the taking"
+          "id": "https://news.ycombinator.com/item?id=28362488",
+          "author": "ohashi",
+          "description": "VeriSign's price increase goes in effect September 1, 2021. This increase likely will be passed on by your registrar.\nGood time to remind everyone that VeriSign has a monopoly granted by ICANN to raise prices indefinitely with zero competition.\nComments URL: https://news.ycombinator.com/item?id=28362488\nPoints: 31\n# Comments: 2",
+          "link": "https://news.ycombinator.com/item?id=28362488",
+          "publishedOn": "2021-08-31T00:09:34.000Z",
+          "wordCount": 167,
+          "title": "Remind HN: .com prices increase Sep 1, 2021"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28351420",
-          "author": "nitinreddy88",
-          "description": "Article URL: https://lwn.net/Articles/867706/\nComments URL: https://news.ycombinator.com/item?id=28351420\nPoints: 43\n# Comments: 2",
-          "link": "https://lwn.net/Articles/867706/",
-          "publishedOn": "2021-08-29T23:25:26.000Z",
-          "wordCount": 229,
-          "title": "Linux Kernel 5.14"
+          "id": "https://news.ycombinator.com/item?id=28361600",
+          "author": "lukastyrychtr",
+          "description": "Article URL: https://blog.yoshuawuyts.com/async-overloading/\nComments URL: https://news.ycombinator.com/item?id=28361600\nPoints: 22\n# Comments: 18",
+          "link": "https://blog.yoshuawuyts.com/async-overloading/",
+          "publishedOn": "2021-08-30T22:22:28.000Z",
+          "wordCount": 3084,
+          "title": "Async Overloading"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28351399",
-          "author": "parsecs",
-          "description": "Article URL: https://community.flexera.com/t5/FlexNet-Publisher-Knowledge-Base/Receiving-FLEXlm-Error-88-309-System-Clock-Has-Been-Set-Back/ta-p/5825\nComments URL: https://news.ycombinator.com/item?id=28351399\nPoints: 62\n# Comments: 16",
-          "link": "https://community.flexera.com/t5/FlexNet-Publisher-Knowledge-Base/Receiving-FLEXlm-Error-88-309-System-Clock-Has-Been-Set-Back/ta-p/5825",
-          "publishedOn": "2021-08-29T23:21:16.000Z",
-          "wordCount": 556,
-          "title": "For security reasons, the following information is not to be shared with enduser"
+          "id": "https://news.ycombinator.com/item?id=28361320",
+          "author": "splch",
+          "description": "Article URL: https://slc.is/#The%20Best%20TLD%20is%20Not%20.com\nComments URL: https://news.ycombinator.com/item?id=28361320\nPoints: 36\n# Comments: 26",
+          "link": "https://slc.is/#The%20Best%20TLD%20is%20Not%20.com",
+          "publishedOn": "2021-08-30T21:52:01.000Z",
+          "wordCount": 11,
+          "title": "What Is the Most Free TLD?"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28350812",
-          "author": "jdkee",
-          "description": "Article URL: https://www.nola.com/news/environment/article_85d4a426-0835-11ec-80b5-0b11ebddb24b.html\nComments URL: https://news.ycombinator.com/item?id=28350812\nPoints: 48\n# Comments: 10",
-          "link": "https://www.nola.com/news/environment/article_85d4a426-0835-11ec-80b5-0b11ebddb24b.html",
-          "publishedOn": "2021-08-29T21:53:16.000Z",
-          "wordCount": 1889,
-          "title": "Almost 600 Louisiana sites with toxic chemicals lie in Hurricane Ida's path"
+          "id": "https://news.ycombinator.com/item?id=28361098",
+          "author": "azhenley",
+          "description": "Article URL: http://web.eecs.utk.edu/~jplank/plank/classes/cs140/Notes/Running_Times/voidstar.html\nComments URL: https://news.ycombinator.com/item?id=28361098\nPoints: 29\n# Comments: 17",
+          "link": "http://web.eecs.utk.edu/~jplank/plank/classes/cs140/Notes/Running_Times/voidstar.html",
+          "publishedOn": "2021-08-30T21:31:07.000Z",
+          "wordCount": 1877,
+          "title": "Implementing a class with void*"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28350466",
-          "author": "philips",
-          "description": "Article URL: https://thehelm.com/\nComments URL: https://news.ycombinator.com/item?id=28350466\nPoints: 127\n# Comments: 117",
-          "link": "https://thehelm.com/",
-          "publishedOn": "2021-08-29T21:04:51.000Z",
-          "wordCount": 573,
-          "title": "Helm is a personal server that lives where you do"
+          "id": "https://news.ycombinator.com/item?id=28360820",
+          "author": "gdeglin",
+          "description": "Article URL: https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96\nComments URL: https://news.ycombinator.com/item?id=28360820\nPoints: 1\n# Comments: 0",
+          "link": "https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96",
+          "publishedOn": "2021-08-30T21:00:49.000Z",
+          "wordCount": 169,
+          "title": "OneSignal (YC S11) Is Hiring Senior Product Engineers"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28350429",
-          "author": "DenisB",
-          "description": "Article URL: https://www.ycombinator.com/companies/inspectify/jobs/GhiNAqq-project-manager-home-insights\nComments URL: https://news.ycombinator.com/item?id=28350429\nPoints: 1\n# Comments: 0",
-          "link": "https://www.ycombinator.com/companies/inspectify/jobs/GhiNAqq-project-manager-home-insights",
-          "publishedOn": "2021-08-29T21:00:14.000Z",
-          "wordCount": 339,
-          "title": "Inspectify (YC S20) Is Hiring a Project Manager – Home Insights in Seattle"
+          "id": "https://news.ycombinator.com/item?id=28360139",
+          "author": "mooreds",
+          "description": "Article URL: https://crontab.guru/\nComments URL: https://news.ycombinator.com/item?id=28360139\nPoints: 125\n# Comments: 33",
+          "link": "https://crontab.guru/",
+          "publishedOn": "2021-08-30T19:53:24.000Z",
+          "wordCount": 99,
+          "title": "The quick and simple editor for cron schedule expressions"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28350412",
-          "author": "rbanffy",
-          "description": "Article URL: https://machinelearningmastery.com/clustering-algorithms-with-python/\nComments URL: https://news.ycombinator.com/item?id=28350412\nPoints: 30\n# Comments: 2",
-          "link": "https://machinelearningmastery.com/clustering-algorithms-with-python/",
-          "publishedOn": "2021-08-29T20:57:04.000Z",
-          "wordCount": 9848,
-          "title": "Clustering Algorithms with Python"
+          "id": "https://news.ycombinator.com/item?id=28360072",
+          "author": "hhs",
+          "description": "Article URL: https://www.ucsf.edu/news/2021/08/421316/struggling-learn-new-language-blame-it-your-stable-brain\nComments URL: https://news.ycombinator.com/item?id=28360072\nPoints: 69\n# Comments: 37",
+          "link": "https://www.ucsf.edu/news/2021/08/421316/struggling-learn-new-language-blame-it-your-stable-brain",
+          "publishedOn": "2021-08-30T19:47:26.000Z",
+          "wordCount": 1855,
+          "title": "Struggling to learn a new language? Blame it on your stable brain"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28350142",
-          "author": "anchpop",
-          "description": "Article URL: https://www.propublica.org/article/boys-in-custody-and-the-women-who-abuse-them\nComments URL: https://news.ycombinator.com/item?id=28350142\nPoints: 125\n# Comments: 49",
-          "link": "https://www.propublica.org/article/boys-in-custody-and-the-women-who-abuse-them",
-          "publishedOn": "2021-08-29T20:23:18.000Z",
-          "wordCount": 1886,
-          "title": "Boys in Custody and the Women Who Abuse Them"
+          "id": "https://news.ycombinator.com/item?id=28360069",
+          "author": "bpierre",
+          "description": "Article URL: https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds\nComments URL: https://news.ycombinator.com/item?id=28360069\nPoints: 120\n# Comments: 23",
+          "link": "https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds",
+          "publishedOn": "2021-08-30T19:47:03.000Z",
+          "wordCount": 2762,
+          "title": "Playdate Pulp: Zero to video game in 60 Seconds"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28349738",
-          "author": "damir",
-          "description": "Article URL: https://illlustrations.co\nComments URL: https://news.ycombinator.com/item?id=28349738\nPoints: 77\n# Comments: 12",
-          "link": "https://illlustrations.co",
-          "publishedOn": "2021-08-29T19:33:57.000Z",
-          "wordCount": 599,
-          "title": "Open Source Illustrations Kit"
+          "id": "https://news.ycombinator.com/item?id=28359911",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://hyperthings.garden/posts/2021-08-30/freeing-your-goats.html\nComments URL: https://news.ycombinator.com/item?id=28359911\nPoints: 55\n# Comments: 15",
+          "link": "https://hyperthings.garden/posts/2021-08-30/freeing-your-goats.html",
+          "publishedOn": "2021-08-30T19:32:43.000Z",
+          "wordCount": 1081,
+          "title": "Freeing Your Goats"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28349696",
-          "author": "jdmark",
-          "description": "Article URL: https://nationalinterest.org/blog/reboot/air-independent-propulsion-could-create-silent-killer-submarines-192514\nComments URL: https://news.ycombinator.com/item?id=28349696\nPoints: 30\n# Comments: 20",
-          "link": "https://nationalinterest.org/blog/reboot/air-independent-propulsion-could-create-silent-killer-submarines-192514",
-          "publishedOn": "2021-08-29T19:28:09.000Z",
-          "wordCount": 1640,
-          "title": "Air Independent Propulsion Could Create Silent Killer Submarines"
+          "id": "https://news.ycombinator.com/item?id=28359157",
+          "author": "afrcnc",
+          "description": "Article URL: https://www.zdnet.com/article/facebook-is-the-aol-of-2021/\nComments URL: https://news.ycombinator.com/item?id=28359157\nPoints: 211\n# Comments: 93",
+          "link": "https://www.zdnet.com/article/facebook-is-the-aol-of-2021/",
+          "publishedOn": "2021-08-30T18:29:06.000Z",
+          "wordCount": 2981,
+          "title": "Facebook Is the AOL of 2021"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28349475",
-          "author": "ibobev",
-          "description": "Article URL: https://github.com/bobeff/programming-math-science\nComments URL: https://news.ycombinator.com/item?id=28349475\nPoints: 92\n# Comments: 5",
-          "link": "https://github.com/bobeff/programming-math-science",
-          "publishedOn": "2021-08-29T18:59:01.000Z",
-          "wordCount": 1883,
-          "title": "Programming, Math, Science: A list with links to useful resources"
+          "id": "https://news.ycombinator.com/item?id=28358828",
+          "author": "Lammy",
+          "description": "Article URL: https://msfn.org/board/topic/109018-windows-98-in-dr-dos/?tab=comments#comment-721209\nComments URL: https://news.ycombinator.com/item?id=28358828\nPoints: 99\n# Comments: 28",
+          "link": "https://msfn.org/board/topic/109018-windows-98-in-dr-dos/?tab=comments#comment-721209",
+          "publishedOn": "2021-08-30T18:03:53.000Z",
+          "wordCount": 1748,
+          "title": "Ex-Caldera dev describes lost “WinBolt” Win9x-capable version of DR-DOS (2007)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28349246",
-          "author": "app4soft",
-          "description": "Article URL: https://stuvel.eu/articles/spherical-panoramas/\nComments URL: https://news.ycombinator.com/item?id=28349246\nPoints: 41\n# Comments: 18",
-          "link": "https://stuvel.eu/articles/spherical-panoramas/",
-          "publishedOn": "2021-08-29T18:32:34.000Z",
-          "wordCount": 1677,
-          "title": "Spherical Panoramas"
+          "id": "https://news.ycombinator.com/item?id=28358463",
+          "author": "quaintdev",
+          "description": "Article URL: https://stevenvanbael.com/open-calendar-task-space-is-a-mess\nComments URL: https://news.ycombinator.com/item?id=28358463\nPoints: 306\n# Comments: 161",
+          "link": "https://stevenvanbael.com/open-calendar-task-space-is-a-mess",
+          "publishedOn": "2021-08-30T17:37:26.000Z",
+          "wordCount": 1612,
+          "title": "The open calendar, task and note space is a mess"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28349201",
-          "author": "fogof",
-          "description": "Article URL: https://findplanetnine.blogspot.com/2021/08/the-orbit-of-planet-nine.html\nComments URL: https://news.ycombinator.com/item?id=28349201\nPoints: 159\n# Comments: 40",
-          "link": "https://findplanetnine.blogspot.com/2021/08/the-orbit-of-planet-nine.html",
-          "publishedOn": "2021-08-29T18:26:35.000Z",
-          "wordCount": 2001,
-          "title": "The Orbit of Planet Nine"
+          "id": "https://news.ycombinator.com/item?id=28358405",
+          "author": "prismatic",
+          "description": "Article URL: https://www.collectorsweekly.com/articles/bad-photography-and-good-pictures/\nComments URL: https://news.ycombinator.com/item?id=28358405\nPoints: 144\n# Comments: 104",
+          "link": "https://www.collectorsweekly.com/articles/bad-photography-and-good-pictures/",
+          "publishedOn": "2021-08-30T17:32:51.000Z",
+          "wordCount": 3331,
+          "title": "Photography technology has influenced what people consider a good picture"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28349068",
-          "author": "rbanffy",
-          "description": "Article URL: https://www.hpcwire.com/2021/08/27/esperanto-silicon-in-hand-champions-the-efficiency-of-its-1092-core-risc-v-chip/\nComments URL: https://news.ycombinator.com/item?id=28349068\nPoints: 98\n# Comments: 42",
-          "link": "https://www.hpcwire.com/2021/08/27/esperanto-silicon-in-hand-champions-the-efficiency-of-its-1092-core-risc-v-chip/",
-          "publishedOn": "2021-08-29T18:12:56.000Z",
-          "wordCount": 3399,
-          "title": "Esperanto Champions the Efficiency of Its 1,092-Core RISC-V Chip"
+          "id": "https://news.ycombinator.com/item?id=28358391",
+          "author": "feross",
+          "description": "Article URL: https://pudding.cool/2021/08/spades\nComments URL: https://news.ycombinator.com/item?id=28358391\nPoints: 101\n# Comments: 71",
+          "link": "https://pudding.cool/2021/08/spades",
+          "publishedOn": "2021-08-30T17:32:00.000Z",
+          "wordCount": 15,
+          "title": "How you play Spades is how you play life"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28348996",
-          "author": "trekhleb",
-          "description": "Article URL: http://awesci.com/train-wheels-are-amazing/\nComments URL: https://news.ycombinator.com/item?id=28348996\nPoints: 230\n# Comments: 91",
-          "link": "http://awesci.com/train-wheels-are-amazing/",
-          "publishedOn": "2021-08-29T18:06:01.000Z",
-          "wordCount": 918,
-          "title": "Train Wheels Are Cones"
+          "id": "https://news.ycombinator.com/item?id=28357462",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://www.apple.com/newsroom/2021/08/apple-acquires-classical-music-streaming-service-primephonic/\nComments URL: https://news.ycombinator.com/item?id=28357462\nPoints: 339\n# Comments: 242",
+          "link": "https://www.apple.com/newsroom/2021/08/apple-acquires-classical-music-streaming-service-primephonic/",
+          "publishedOn": "2021-08-30T16:32:14.000Z",
+          "wordCount": 1404,
+          "title": "Apple acquires classical music streaming service Primephonic"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28348844",
-          "author": "daxuak",
-          "description": "Article URL: https://goughlui.com/2017/05/30/experiment-8gb-usb-flash-drive-endurance-test/\nComments URL: https://news.ycombinator.com/item?id=28348844\nPoints: 62\n# Comments: 33",
-          "link": "https://goughlui.com/2017/05/30/experiment-8gb-usb-flash-drive-endurance-test/",
-          "publishedOn": "2021-08-29T17:48:17.000Z",
-          "wordCount": 6663,
-          "title": "8Gb USB Flash Drive Endurance Test (2017)"
+          "id": "https://news.ycombinator.com/item?id=28356638",
+          "author": "7402",
+          "description": "Article URL: http://www.arrl.org/news/view/fcc-grants-temporary-waiver-to-permit-higher-symbol-rate-data-transmissions-for-hurricane-ida-traffi\nComments URL: https://news.ycombinator.com/item?id=28356638\nPoints: 172\n# Comments: 90",
+          "link": "http://www.arrl.org/news/view/fcc-grants-temporary-waiver-to-permit-higher-symbol-rate-data-transmissions-for-hurricane-ida-traffi",
+          "publishedOn": "2021-08-30T15:31:37.000Z",
+          "wordCount": 860,
+          "title": "FCC Temporary Waiver Permits Higher Symbol Rate Data for Hurricane Ida Traffic"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28348696",
-          "author": "ksec",
-          "description": "Article URL: https://arxiv.org/abs/2103.09156\nComments URL: https://news.ycombinator.com/item?id=28348696\nPoints: 53\n# Comments: 4",
-          "link": "https://arxiv.org/abs/2103.09156",
-          "publishedOn": "2021-08-29T17:30:46.000Z",
-          "wordCount": 566,
-          "title": "5G from Space: An Overview of 3GPP Non-Terrestrial Networks"
+          "id": "https://news.ycombinator.com/item?id=28356141",
+          "author": "extesy",
+          "description": "Article URL: https://www.reuters.com/world/china/china-rolls-out-new-rules-minors-online-gaming-xinhua-2021-08-30/\nComments URL: https://news.ycombinator.com/item?id=28356141\nPoints: 821\n# Comments: 815",
+          "link": "https://www.reuters.com/world/china/china-rolls-out-new-rules-minors-online-gaming-xinhua-2021-08-30/",
+          "publishedOn": "2021-08-30T14:42:22.000Z",
+          "wordCount": 1131,
+          "title": "China has forbidden under-18s from playing games for more than three hours/week"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28348524",
-          "author": "gousiosg",
-          "description": "Article URL: https://www.growkudos.com/publications/10.1145%25252F3446871.3469759/reader\nComments URL: https://news.ycombinator.com/item?id=28348524\nPoints: 89\n# Comments: 72",
-          "link": "https://www.growkudos.com/publications/10.1145%25252F3446871.3469759/reader",
-          "publishedOn": "2021-08-29T17:13:38.000Z",
-          "wordCount": 714,
-          "title": "Challenges students face when learning to work with relational databases and SQL"
+          "id": "https://news.ycombinator.com/item?id=28355622",
+          "author": "whack",
+          "description": "Article URL: https://yingtongli.me/blog/2021/08/29/drm5-1.html\nComments URL: https://news.ycombinator.com/item?id=28355622\nPoints: 249\n# Comments: 61",
+          "link": "https://yingtongli.me/blog/2021/08/29/drm5-1.html",
+          "publishedOn": "2021-08-30T13:48:56.000Z",
+          "wordCount": 1843,
+          "title": "Reverse engineering software licensing from early-2000s abandonware"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28348110",
-          "author": "panabee",
-          "description": "Article URL: https://news.stanford.edu/2021/05/17/stanford-study-reveals-new-biomolecule/\nComments URL: https://news.ycombinator.com/item?id=28348110\nPoints: 57\n# Comments: 6",
-          "link": "https://news.stanford.edu/2021/05/17/stanford-study-reveals-new-biomolecule/",
-          "publishedOn": "2021-08-29T16:30:10.000Z",
-          "wordCount": 1541,
-          "title": "A newfound biomolecule, consisting of RNA modified by sugars"
+          "id": "https://news.ycombinator.com/item?id=28355502",
+          "author": "javahippie",
+          "description": "Article URL: https://javahippie.net/software/business/2021/08/30/enterprise-software-killed-the-developer.html\nComments URL: https://news.ycombinator.com/item?id=28355502\nPoints: 101\n# Comments: 68",
+          "link": "https://javahippie.net/software/business/2021/08/30/enterprise-software-killed-the-developer.html",
+          "publishedOn": "2021-08-30T13:36:02.000Z",
+          "wordCount": 1690,
+          "title": "Enterprise Software Projects Killed the Software Developer"
         }
       ]
     }
