@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=28379351",
-          "author": "alooPotato",
-          "description": "Article URL: https://www.streak.com/careers/product-engineer\nComments URL: https://news.ycombinator.com/item?id=28379351\nPoints: 1\n# Comments: 0",
-          "link": "https://www.streak.com/careers/product-engineer",
-          "publishedOn": "2021-09-01T13:07:39.000Z",
-          "wordCount": 1204,
-          "title": "Streak (YC S11) is hiring a TypeScript/React expert who likes shipping (remote)"
+          "id": "https://news.ycombinator.com/item?id=28386497",
+          "author": "mkeeter",
+          "description": "Article URL: https://help.twitter.com/en/using-twitter/super-follows\nComments URL: https://news.ycombinator.com/item?id=28386497\nPoints: 21\n# Comments: 18",
+          "link": "https://help.twitter.com/en/using-twitter/super-follows",
+          "publishedOn": "2021-09-01T22:49:16.000Z",
+          "wordCount": 1494,
+          "title": "About Super Follows"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28379307",
-          "author": "css",
-          "description": "Article URL: https://www.apple.com/newsroom/2021/09/apple-announces-first-states-to-adopt-drivers-licenses-and-state-ids-in-wallet/\nComments URL: https://news.ycombinator.com/item?id=28379307\nPoints: 10\n# Comments: 7",
-          "link": "https://www.apple.com/newsroom/2021/09/apple-announces-first-states-to-adopt-drivers-licenses-and-state-ids-in-wallet/",
-          "publishedOn": "2021-09-01T13:03:32.000Z",
-          "wordCount": 4174,
-          "title": "Apple announces first states to adopt driver’s licenses and IDs in Apple Wallet"
+          "id": "https://news.ycombinator.com/item?id=28385681",
+          "author": "infodocket",
+          "description": "Article URL: https://www.faa.gov/newsroom/faa-releases-data-showing-trends-dangerous-laser-strikes\nComments URL: https://news.ycombinator.com/item?id=28385681\nPoints: 27\n# Comments: 39",
+          "link": "https://www.faa.gov/newsroom/faa-releases-data-showing-trends-dangerous-laser-strikes",
+          "publishedOn": "2021-09-01T21:24:09.000Z",
+          "wordCount": 822,
+          "title": "FAA Releases Data Showing Trends in Dangerous Laser Strikes"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28379178",
-          "author": "mooreds",
-          "description": "Article URL: https://theovershoot.co/p/inequality-interest-rates-aging-and\nComments URL: https://news.ycombinator.com/item?id=28379178\nPoints: 35\n# Comments: 11",
-          "link": "https://theovershoot.co/p/inequality-interest-rates-aging-and",
-          "publishedOn": "2021-09-01T12:48:48.000Z",
-          "wordCount": 3281,
-          "title": "Inequality, Interest Rates, Aging, and the Role of Central Banks"
+          "id": "https://news.ycombinator.com/item?id=28385661",
+          "author": "AndrewBissell",
+          "description": "Article URL: https://www.npr.org/2021/09/01/1031053251/sackler-family-immunity-purdue-pharma-oxcyontin-opioid-epidemic\nComments URL: https://news.ycombinator.com/item?id=28385661\nPoints: 147\n# Comments: 93",
+          "link": "https://www.npr.org/2021/09/01/1031053251/sackler-family-immunity-purdue-pharma-oxcyontin-opioid-epidemic",
+          "publishedOn": "2021-09-01T21:21:30.000Z",
+          "wordCount": 1768,
+          "title": "The Sackler Family Wins Immunity from Future Opioid Lawsuits"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28379115",
-          "author": "janvdberg",
-          "description": "Article URL: https://www.bbc.com/worklife/article/20210830-how-narcissists-climb-the-career-ladder-quickly\nComments URL: https://news.ycombinator.com/item?id=28379115\nPoints: 11\n# Comments: 3",
-          "link": "https://www.bbc.com/worklife/article/20210830-how-narcissists-climb-the-career-ladder-quickly",
-          "publishedOn": "2021-09-01T12:42:16.000Z",
-          "wordCount": 1603,
-          "title": "How narcissists climb the career ladder quickly"
+          "id": "https://news.ycombinator.com/item?id=28385639",
+          "author": "neelnanda",
+          "description": "Article URL: https://www.neelnanda.io/blog/35-standards\nComments URL: https://news.ycombinator.com/item?id=28385639\nPoints: 90\n# Comments: 42",
+          "link": "https://www.neelnanda.io/blog/35-standards",
+          "publishedOn": "2021-09-01T21:18:56.000Z",
+          "wordCount": 4356,
+          "title": "Your Standards Are Too High"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28378789",
-          "author": "adriangrigore",
-          "description": "Article URL: https://mckinley.cc/blog/20210831.html\nComments URL: https://news.ycombinator.com/item?id=28378789\nPoints: 25\n# Comments: 17",
-          "link": "https://mckinley.cc/blog/20210831.html",
-          "publishedOn": "2021-09-01T12:07:38.000Z",
-          "wordCount": 762,
-          "title": "Documents ≠ Programs"
+          "id": "https://news.ycombinator.com/item?id=28385459",
+          "author": "mthomasb",
+          "description": "Article URL: https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing\nComments URL: https://news.ycombinator.com/item?id=28385459\nPoints: 1\n# Comments: 0",
+          "link": "https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing",
+          "publishedOn": "2021-09-01T21:00:01.000Z",
+          "wordCount": 842,
+          "title": "Bonsai (YC W16) Hiring Head of Growth Marketing"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28378215",
-          "author": "chmaynard",
-          "description": "Article URL: https://ben.balter.com/2021/09/01/how-i-re-over-engineered-my-home-network/\nComments URL: https://news.ycombinator.com/item?id=28378215\nPoints: 17\n# Comments: 1",
-          "link": "https://ben.balter.com/2021/09/01/how-i-re-over-engineered-my-home-network/",
-          "publishedOn": "2021-09-01T10:42:47.000Z",
-          "wordCount": 3259,
-          "title": "How I re–over-engineered my home network for privacy and security"
+          "id": "https://news.ycombinator.com/item?id=28385024",
+          "author": "zlsa",
+          "description": "Article URL: https://www.newyorker.com/news/news-desk/the-red-warning-light-on-richard-bransons-space-flight\nComments URL: https://news.ycombinator.com/item?id=28385024\nPoints: 193\n# Comments: 94",
+          "link": "https://www.newyorker.com/news/news-desk/the-red-warning-light-on-richard-bransons-space-flight",
+          "publishedOn": "2021-09-01T20:15:25.000Z",
+          "wordCount": 2522,
+          "title": "The Red Warning Light on Richard Branson’s Space Flight"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28378119",
-          "author": "belter",
-          "description": "Article URL: https://nltimes.nl/2021/09/01/entrepreneurs-avoiding-negative-interest-opening-multiple-bank-accounts\nComments URL: https://news.ycombinator.com/item?id=28378119\nPoints: 62\n# Comments: 121",
-          "link": "https://nltimes.nl/2021/09/01/entrepreneurs-avoiding-negative-interest-opening-multiple-bank-accounts",
-          "publishedOn": "2021-09-01T10:24:38.000Z",
-          "wordCount": 466,
-          "title": "Dutch Entrepreneurs avoiding negative interest by opening multiple bank accounts"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28377916",
+          "id": "https://news.ycombinator.com/item?id=28384808",
           "author": "samizdis",
-          "description": "Article URL: https://www.livescience.com/man-can-control-pupil-dilation.html\nComments URL: https://news.ycombinator.com/item?id=28377916\nPoints: 60\n# Comments: 34",
-          "link": "https://www.livescience.com/man-can-control-pupil-dilation.html",
-          "publishedOn": "2021-09-01T09:41:53.000Z",
-          "wordCount": 1270,
-          "title": "Man can change his pupil size on command, once thought an impossible feat"
+          "description": "Article URL: https://arstechnica.com/tech-policy/2021/09/spacex-slams-amazons-obstructionist-ploy-to-block-starlink-upgrade-plan/\nComments URL: https://news.ycombinator.com/item?id=28384808\nPoints: 245\n# Comments: 129",
+          "link": "https://arstechnica.com/tech-policy/2021/09/spacex-slams-amazons-obstructionist-ploy-to-block-starlink-upgrade-plan/",
+          "publishedOn": "2021-09-01T19:54:34.000Z",
+          "wordCount": 1476,
+          "title": "Amazon asked FCC to reject Starlink plan because it can’t compete, SpaceX says"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28377561",
-          "author": "pthariensflame",
-          "description": "Article URL: https://twitter.com/alyssarzg/status/1432927311058194436\nComments URL: https://news.ycombinator.com/item?id=28377561\nPoints: 147\n# Comments: 21",
-          "link": "https://twitter.com/alyssarzg/status/1432927311058194436",
-          "publishedOn": "2021-09-01T08:36:07.000Z",
-          "wordCount": 196,
-          "title": "Bare metal Apple M1 Debian at 4K 60"
+          "id": "https://news.ycombinator.com/item?id=28384695",
+          "author": "anigbrowl",
+          "description": "Article URL: https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-extradition-british-national-participation-online-film\nComments URL: https://news.ycombinator.com/item?id=28384695\nPoints: 80\n# Comments: 37",
+          "link": "https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-extradition-british-national-participation-online-film",
+          "publishedOn": "2021-09-01T19:44:39.000Z",
+          "wordCount": 1334,
+          "title": "UK national extradited to US for film/TV piracy"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28377401",
-          "author": "ingve",
-          "description": "Article URL: https://eclecticlight.co/2021/09/01/m1-icestorm-cores-can-still-perform-very-well/\nComments URL: https://news.ycombinator.com/item?id=28377401\nPoints: 108\n# Comments: 74",
-          "link": "https://eclecticlight.co/2021/09/01/m1-icestorm-cores-can-still-perform-very-well/",
-          "publishedOn": "2021-09-01T08:02:26.000Z",
-          "wordCount": 1983,
-          "title": "M1 Icestorm cores can still perform well"
+          "id": "https://news.ycombinator.com/item?id=28384169",
+          "author": "tyson-cadenhead",
+          "description": "Article URL: https://thenable.io/monorepos-will-ruin-your-life-but-theyre-worth-it\nComments URL: https://news.ycombinator.com/item?id=28384169\nPoints: 1\n# Comments: 0",
+          "link": "https://thenable.io/monorepos-will-ruin-your-life-but-theyre-worth-it",
+          "publishedOn": "2021-09-01T18:59:15.000Z",
+          "wordCount": 1578,
+          "title": "Monorepos will ruin your life – but they're worth it"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28377041",
-          "author": "pjmlp",
-          "description": "Article URL: https://github.com/MichalStrehovsky/zerosharp\nComments URL: https://news.ycombinator.com/item?id=28377041\nPoints: 143\n# Comments: 55",
-          "link": "https://github.com/MichalStrehovsky/zerosharp",
-          "publishedOn": "2021-09-01T06:45:38.000Z",
-          "wordCount": 930,
-          "title": "C# for Systems Programming"
+          "id": "https://news.ycombinator.com/item?id=28384121",
+          "author": "stumarkin",
+          "description": "Article URL: https://blog.kubecost.com/blog/kubernetes-labels/\nComments URL: https://news.ycombinator.com/item?id=28384121\nPoints: 1\n# Comments: 0",
+          "link": "https://blog.kubecost.com/blog/kubernetes-labels/",
+          "publishedOn": "2021-09-01T18:55:35.000Z",
+          "wordCount": 2229,
+          "title": "The Guide to Kubernetes Labels"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28376857",
-          "author": "rodrigo975",
-          "description": "Article URL: https://www.undeadly.org/cgi?action=article;sid=20210831050932\nComments URL: https://news.ycombinator.com/item?id=28376857\nPoints: 49\n# Comments: 15",
-          "link": "https://www.undeadly.org/cgi?action=article;sid=20210831050932",
-          "publishedOn": "2021-09-01T06:09:05.000Z",
-          "wordCount": 292,
-          "title": "OpenBSD: Hibernate Time Reduced"
+          "id": "https://news.ycombinator.com/item?id=28382873",
+          "author": "danbolt",
+          "description": "Article URL: https://helio.fm/\nComments URL: https://news.ycombinator.com/item?id=28382873\nPoints: 69\n# Comments: 14",
+          "link": "https://helio.fm/",
+          "publishedOn": "2021-09-01T17:27:01.000Z",
+          "wordCount": 181,
+          "title": "Helio Project: libre music composition software"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28376797",
-          "author": "Tomte",
-          "description": "Article URL: https://www.robertsapolskyrocks.com/depression.html\nComments URL: https://news.ycombinator.com/item?id=28376797\nPoints: 118\n# Comments: 42",
-          "link": "https://www.robertsapolskyrocks.com/depression.html",
-          "publishedOn": "2021-09-01T05:57:12.000Z",
-          "wordCount": 2598,
-          "title": "Robert Sapolsky on Depression (2009)"
+          "id": "https://news.ycombinator.com/item?id=28382821",
+          "author": "jonsen",
+          "description": "Article URL: https://psyche.co/guides/how-research-from-psychology-can-help-you-study-effectively\nComments URL: https://news.ycombinator.com/item?id=28382821\nPoints: 152\n# Comments: 80",
+          "link": "https://psyche.co/guides/how-research-from-psychology-can-help-you-study-effectively",
+          "publishedOn": "2021-09-01T17:23:41.000Z",
+          "wordCount": 3620,
+          "title": "How to Study Effectively"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28376796",
-          "author": "Tomte",
-          "description": "Article URL: https://lwn.net/SubscriberLink/867657/0efafb319ce20e3e/\nComments URL: https://news.ycombinator.com/item?id=28376796\nPoints: 80\n# Comments: 43",
-          "link": "https://lwn.net/SubscriberLink/867657/0efafb319ce20e3e/",
-          "publishedOn": "2021-09-01T05:56:37.000Z",
-          "wordCount": 4104,
-          "title": "Cooperative Package Management for Python"
+          "id": "https://news.ycombinator.com/item?id=28382737",
+          "author": "fezzez",
+          "description": "Article URL: https://signalsandthreads.com/writing-technically/\nComments URL: https://news.ycombinator.com/item?id=28382737\nPoints: 1\n# Comments: 0",
+          "link": "https://signalsandthreads.com/writing-technically/",
+          "publishedOn": "2021-09-01T17:16:36.000Z",
+          "wordCount": 11950,
+          "title": "Writing, Technically"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28376580",
+          "id": "https://news.ycombinator.com/item?id=28382585",
+          "author": "st3fan",
+          "description": "Article URL: https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53/\nComments URL: https://news.ycombinator.com/item?id=28382585\nPoints: 274\n# Comments: 135",
+          "link": "https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53/",
+          "publishedOn": "2021-09-01T17:06:45.000Z",
+          "wordCount": 955,
+          "title": "Mozilla VPN Completes Independent Security Audit by Cure53"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28382496",
           "author": "todsacerdoti",
-          "description": "Article URL: https://www.usenix.org/system/files/sec21-krachenfels.pdf\nComments URL: https://news.ycombinator.com/item?id=28376580\nPoints: 42\n# Comments: 8",
-          "link": "https://www.usenix.org/system/files/sec21-krachenfels.pdf",
-          "publishedOn": "2021-09-01T05:02:06.000Z",
-          "wordCount": 46148,
-          "title": "Automatic Extraction of Secrets from the Transistor Jungle Using Laser-Assisted [pdf]"
+          "description": "Article URL: https://github.blog/2021-09-01-improving-git-protocol-security-github/\nComments URL: https://news.ycombinator.com/item?id=28382496\nPoints: 1\n# Comments: 0",
+          "link": "https://github.blog/2021-09-01-improving-git-protocol-security-github/",
+          "publishedOn": "2021-09-01T17:01:11.000Z",
+          "wordCount": 1593,
+          "title": "Improving Git protocol security on GitHub"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28376079",
-          "author": "erickhill",
-          "description": "Article URL: http://vcfmw.org/\nComments URL: https://news.ycombinator.com/item?id=28376079\nPoints: 104\n# Comments: 47",
-          "link": "http://vcfmw.org/",
-          "publishedOn": "2021-09-01T03:06:20.000Z",
-          "wordCount": 116,
-          "title": "Vintage Computer Festival Midwest 16"
+          "id": "https://news.ycombinator.com/item?id=28382358",
+          "author": "hbcondo714",
+          "description": "Article URL: https://www.latimes.com/california/story/2021-09-01/california-college-financial-aid-scam-fake-students\nComments URL: https://news.ycombinator.com/item?id=28382358\nPoints: 220\n# Comments: 234",
+          "link": "https://www.latimes.com/california/story/2021-09-01/california-college-financial-aid-scam-fake-students",
+          "publishedOn": "2021-09-01T16:52:00.000Z",
+          "wordCount": 2074,
+          "title": "65k fake students applied for financial aid in wide community college scam"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28375596",
-          "author": "bpierre",
-          "description": "Article URL: https://www.w3.org/blog/news/archives/9236\nComments URL: https://news.ycombinator.com/item?id=28375596\nPoints: 158\n# Comments: 63",
-          "link": "https://www.w3.org/blog/news/archives/9236",
-          "publishedOn": "2021-09-01T01:32:14.000Z",
-          "wordCount": 989,
-          "title": "CSS Nesting Module"
+          "id": "https://news.ycombinator.com/item?id=28382081",
+          "author": "helsinkiandrew",
+          "description": "Article URL: https://twitter.com/benkrasnow/status/1433096367992295427\nComments URL: https://news.ycombinator.com/item?id=28382081\nPoints: 377\n# Comments: 206",
+          "link": "https://twitter.com/benkrasnow/status/1433096367992295427",
+          "publishedOn": "2021-09-01T16:35:05.000Z",
+          "wordCount": 196,
+          "title": "Lenovo tablet forced update shows un-dismissable, un-mutable, ad notifications"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28375096",
-          "author": "moinnadeem",
-          "description": "Article URL: https://arxiv.org/abs/2106.10860\nComments URL: https://news.ycombinator.com/item?id=28375096\nPoints: 195\n# Comments: 74",
-          "link": "https://arxiv.org/abs/2106.10860",
-          "publishedOn": "2021-09-01T00:02:33.000Z",
-          "wordCount": 596,
-          "title": "Multiplying Matrices Without Multiplying"
+          "id": "https://news.ycombinator.com/item?id=28381430",
+          "author": "tomhoward",
+          "description": "Article URL: https://www.wsj.com/articles/travel-advisers-delta-covid-11630442498\nComments URL: https://news.ycombinator.com/item?id=28381430\nPoints: 26\n# Comments: 22",
+          "link": "https://www.wsj.com/articles/travel-advisers-delta-covid-11630442498",
+          "publishedOn": "2021-09-01T15:56:36.000Z",
+          "wordCount": 1051,
+          "title": "Travel agencies are having a moment amid Covid-19"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28374523",
-          "author": "matt_d",
-          "description": "Article URL: https://www.usenix.org/conference/osdi21/presentation/fri-keynote\nComments URL: https://news.ycombinator.com/item?id=28374523\nPoints: 162\n# Comments: 66",
-          "link": "https://www.usenix.org/conference/osdi21/presentation/fri-keynote",
-          "publishedOn": "2021-08-31T22:41:18.000Z",
-          "wordCount": 542,
-          "title": "It's Time for Operating Systems to Rediscover Hardware"
+          "id": "https://news.ycombinator.com/item?id=28380959",
+          "author": "throwawaysea",
+          "description": "Article URL: https://frame.work/blog/linux-on-the-framework-laptop\nComments URL: https://news.ycombinator.com/item?id=28380959\nPoints: 462\n# Comments: 193",
+          "link": "https://frame.work/blog/linux-on-the-framework-laptop",
+          "publishedOn": "2021-09-01T15:20:14.000Z",
+          "wordCount": 644,
+          "title": "Linux on the Framework Laptop"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28371676",
-          "author": "jermaustin1",
-          "description": "Article URL: https://web.eecs.utk.edu/~azh/blog/solvingunknownproblems.html\nComments URL: https://news.ycombinator.com/item?id=28371676\nPoints: 43\n# Comments: 5",
-          "link": "https://web.eecs.utk.edu/~azh/blog/solvingunknownproblems.html",
-          "publishedOn": "2021-08-31T18:27:06.000Z",
-          "wordCount": 2004,
-          "title": "Building solutions to problems that no one knows exist yet"
+          "id": "https://news.ycombinator.com/item?id=28380661",
+          "author": "whoishiring",
+          "description": "Please state the location and include REMOTE, INTERNS and/or VISA\nwhen that sort of candidate is welcome. When remote work is not an option,\ninclude ONSITE.\nPlease only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. Only one post per company. If it isn't a household name,\nplease explain what your company does.\nCommenters: please don't reply to job posts to complain about\nsomething. It's off topic here.\nReaders: please only email if you are personally interested in the job.\nSearchers: try https://findwork.dev/?source=hn, https://kennytilton.github.io/whoishiring/,\nhttps://hnhired.com/, https://hnjobs.emilburzo.com, https://news.ycombinator.com/item?id=10313519.\nDon't miss these other fine threads:\nWho wants to be hired? https://news.ycombinator.com/item?id=28380659\nFreelancer? Seeking freelancer? https://news.ycombinator.com/item?id=28380660\nComments URL: https://news.ycombinator.com/item?id=28380661\nPoints: 272\n# Comments: 640",
+          "link": "https://news.ycombinator.com/item?id=28380661",
+          "publishedOn": "2021-09-01T15:00:46.000Z",
+          "wordCount": 38102,
+          "title": "Ask HN: Who is hiring? (September 2021)"
         }
       ]
     }
