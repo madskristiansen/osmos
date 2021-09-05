@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=28410807",
-          "author": "miles",
-          "description": "Article URL: https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/\nComments URL: https://news.ycombinator.com/item?id=28410807\nPoints: 4\n# Comments: 0",
-          "link": "https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/",
-          "publishedOn": "2021-09-04T00:03:02.000Z",
-          "wordCount": 881,
-          "title": "uBlock Origin–everything you need to know about the ad blocker"
+          "id": "https://news.ycombinator.com/item?id=28420769",
+          "author": "stock_toaster",
+          "description": "Article URL: https://openwrt.org/releases/21.02/notes-21.02.0\nComments URL: https://news.ycombinator.com/item?id=28420769\nPoints: 5\n# Comments: 0",
+          "link": "https://openwrt.org/releases/21.02/notes-21.02.0",
+          "publishedOn": "2021-09-05T00:46:52.000Z",
+          "wordCount": 1674,
+          "title": "OpenWrt 21.02.0 Released"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28410414",
-          "author": "excerionsforte",
-          "description": "Article URL: https://github.com/only-cliches/NoProto\nComments URL: https://news.ycombinator.com/item?id=28410414\nPoints: 17\n# Comments: 5",
-          "link": "https://github.com/only-cliches/NoProto",
-          "publishedOn": "2021-09-03T23:03:33.000Z",
-          "wordCount": 2818,
-          "title": "NoProto: Flexible, Fast and Compact Serialization with RPC"
+          "id": "https://news.ycombinator.com/item?id=28420753",
+          "author": "noduerme",
+          "description": "Article URL: https://www.prolifewhistleblower.net/blog/blog-post-one-7ttjl\nComments URL: https://news.ycombinator.com/item?id=28420753\nPoints: 6\n# Comments: 1",
+          "link": "https://www.prolifewhistleblower.net/blog/blog-post-one-7ttjl",
+          "publishedOn": "2021-09-05T00:44:08.000Z",
+          "wordCount": 636,
+          "title": "SEO warring against the Texas abortion snitch site"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28409379",
-          "author": "bryan0",
-          "description": "Article URL: https://www.bbc.com/news/health-58438669\nComments URL: https://news.ycombinator.com/item?id=28409379\nPoints: 51\n# Comments: 33",
-          "link": "https://www.bbc.com/news/health-58438669",
-          "publishedOn": "2021-09-03T21:02:50.000Z",
-          "wordCount": 1579,
-          "title": "UK scientists not backing Covid jabs for 12 to 15-year-olds"
+          "id": "https://news.ycombinator.com/item?id=28420468",
+          "author": "RachelF",
+          "description": "Article URL: https://spectrum.ieee.org/200-years-ago-faraday-invented-the-electric-motor\nComments URL: https://news.ycombinator.com/item?id=28420468\nPoints: 33\n# Comments: 4",
+          "link": "https://spectrum.ieee.org/200-years-ago-faraday-invented-the-electric-motor",
+          "publishedOn": "2021-09-04T23:45:49.000Z",
+          "wordCount": 5612,
+          "title": "200 Years Ago, Faraday Invented the Electric Motor"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28409354",
-          "author": "FabioFleitas",
-          "description": "Article URL: https://www.tesorio.com/careers#job-openings\nComments URL: https://news.ycombinator.com/item?id=28409354\nPoints: 1\n# Comments: 0",
-          "link": "https://www.tesorio.com/careers#job-openings",
-          "publishedOn": "2021-09-03T21:00:16.000Z",
-          "wordCount": 377,
-          "title": "Tesorio (YC S15) is hiring – join our fully distributed fintech team"
+          "id": "https://news.ycombinator.com/item?id=28420252",
+          "author": "x14km2d",
+          "description": "Article URL: https://news.mit.edu/2021/infinite-cooling-nuclear-0803\nComments URL: https://news.ycombinator.com/item?id=28420252\nPoints: 6\n# Comments: 0",
+          "link": "https://news.mit.edu/2021/infinite-cooling-nuclear-0803",
+          "publishedOn": "2021-09-04T23:14:25.000Z",
+          "wordCount": 2266,
+          "title": "Vapor-collection technology saves water while clearing the air"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28409200",
-          "author": "clockworksoul",
-          "description": "Article URL: https://technical.ly/2021/08/30/vacation-employee-burnout/\nComments URL: https://news.ycombinator.com/item?id=28409200\nPoints: 124\n# Comments: 137",
-          "link": "https://technical.ly/2021/08/30/vacation-employee-burnout/",
-          "publishedOn": "2021-09-03T20:45:28.000Z",
-          "wordCount": 1010,
-          "title": "Vacation isn’t the answer to employee burnout"
+          "id": "https://news.ycombinator.com/item?id=28420145",
+          "author": "tomohawk",
+          "description": "Article URL: https://mainichi.jp/english/articles/20210903/p2g/00m/0bu/040000c\nComments URL: https://news.ycombinator.com/item?id=28420145\nPoints: 11\n# Comments: 3",
+          "link": "https://mainichi.jp/english/articles/20210903/p2g/00m/0bu/040000c",
+          "publishedOn": "2021-09-04T22:59:35.000Z",
+          "wordCount": 834,
+          "title": "ANA, JAL plan drone services to boost remote areas, own bottom lines"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28409123",
-          "author": "kungfudoi",
-          "description": "Article URL: https://news.stanford.edu/2021/09/03/researchers-develop-hypercompact-crispr/\nComments URL: https://news.ycombinator.com/item?id=28409123\nPoints: 64\n# Comments: 3",
-          "link": "https://news.stanford.edu/2021/09/03/researchers-develop-hypercompact-crispr/",
-          "publishedOn": "2021-09-03T20:38:49.000Z",
-          "wordCount": 1221,
-          "title": "Stanford researchers develop an engineered 'mini' CRISPR genome editing system"
+          "id": "https://news.ycombinator.com/item?id=28419811",
+          "author": "walterbell",
+          "description": "Article URL: https://www.newyorker.com/news/news-desk/unearthing-the-city-grid-that-would-have-been-in-central-park\nComments URL: https://news.ycombinator.com/item?id=28419811\nPoints: 10\n# Comments: 0",
+          "link": "https://www.newyorker.com/news/news-desk/unearthing-the-city-grid-that-would-have-been-in-central-park",
+          "publishedOn": "2021-09-04T22:10:39.000Z",
+          "wordCount": 2488,
+          "title": "Unearthing the City Grid That Would Have Been in Central Park (2016)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28408682",
-          "author": "gjvc",
-          "description": "Article URL: https://github.com/mathaou/sqlite-tui\nComments URL: https://news.ycombinator.com/item?id=28408682\nPoints: 24\n# Comments: 0",
-          "link": "https://github.com/mathaou/sqlite-tui",
-          "publishedOn": "2021-09-03T19:59:07.000Z",
-          "wordCount": 719,
-          "title": "SQLite-TUI: A TUI for viewing SQLite databases, written in Go"
+          "id": "https://news.ycombinator.com/item?id=28419759",
+          "author": "azhenley",
+          "description": "Article URL: https://www.johndcook.com/blog/2021/09/04/morse-code-palindromes/\nComments URL: https://news.ycombinator.com/item?id=28419759\nPoints: 14\n# Comments: 2",
+          "link": "https://www.johndcook.com/blog/2021/09/04/morse-code-palindromes/",
+          "publishedOn": "2021-09-04T22:05:57.000Z",
+          "wordCount": 809,
+          "title": "Morse Code Palindromes"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28407656",
-          "author": "giuliomagnifico",
-          "description": "Article URL: https://lapcatsoftware.com/articles/chrome-cookie.html\nComments URL: https://news.ycombinator.com/item?id=28407656\nPoints: 529\n# Comments: 212",
-          "link": "https://lapcatsoftware.com/articles/chrome-cookie.html",
-          "publishedOn": "2021-09-03T18:29:23.000Z",
-          "wordCount": 656,
-          "title": "Google Chrome to remove detailed cookie and site data controls"
+          "id": "https://news.ycombinator.com/item?id=28419727",
+          "author": "privacyisntdead",
+          "description": "From a privacy perspective, how much does not signing into a Google account help at device setup?\nThinking about picking up a 5a but CalyxOS isn’t ready for it yet.\nComments URL: https://news.ycombinator.com/item?id=28419727\nPoints: 42\n# Comments: 3",
+          "link": "https://news.ycombinator.com/item?id=28419727",
+          "publishedOn": "2021-09-04T22:01:56.000Z",
+          "wordCount": 383,
+          "title": "Ask HN: How much is Google collecting and keeping on Android if not signed in?"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28407155",
-          "author": "gmays",
-          "description": "Article URL: https://www.chemistryworld.com/news/hardest-amorphous-material-can-scratch-even-diamond/4014257.article\nComments URL: https://news.ycombinator.com/item?id=28407155\nPoints: 58\n# Comments: 30",
-          "link": "https://www.chemistryworld.com/news/hardest-amorphous-material-can-scratch-even-diamond/4014257.article",
-          "publishedOn": "2021-09-03T17:44:29.000Z",
-          "wordCount": 685,
-          "title": "Hardest amorphous material can scratch even diamond"
+          "id": "https://news.ycombinator.com/item?id=28419160",
+          "author": "mkx",
+          "description": "Article URL: https://dover.com/careers\nComments URL: https://news.ycombinator.com/item?id=28419160\nPoints: 1\n# Comments: 0",
+          "link": "https://dover.com/careers",
+          "publishedOn": "2021-09-04T21:01:03.000Z",
+          "wordCount": 452,
+          "title": "Dover (YC S19) is hiring for all roles"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28406931",
-          "author": "pps",
-          "description": "Article URL: https://psyche.co/ideas/the-fungal-mind-on-the-evidence-for-mushroom-intelligence\nComments URL: https://news.ycombinator.com/item?id=28406931\nPoints: 134\n# Comments: 95",
-          "link": "https://psyche.co/ideas/the-fungal-mind-on-the-evidence-for-mushroom-intelligence",
-          "publishedOn": "2021-09-03T17:24:35.000Z",
-          "wordCount": 2052,
-          "title": "The fungal mind: on the evidence for mushroom intelligence"
+          "id": "https://news.ycombinator.com/item?id=28419103",
+          "author": "jkaftzan",
+          "description": "Article URL: https://github.com/armosec/kubescape\nComments URL: https://news.ycombinator.com/item?id=28419103\nPoints: 141\n# Comments: 39",
+          "link": "https://github.com/armosec/kubescape",
+          "publishedOn": "2021-09-04T20:55:08.000Z",
+          "wordCount": 1144,
+          "title": "Kubescape - first open-source tool to test K8s according to NSA and CISA"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28406505",
-          "author": "kencausey",
-          "description": "Article URL: https://www.os2museum.com/wp/pc-86-dos/\nComments URL: https://news.ycombinator.com/item?id=28406505\nPoints: 80\n# Comments: 11",
-          "link": "https://www.os2museum.com/wp/pc-86-dos/",
-          "publishedOn": "2021-09-03T16:45:31.000Z",
-          "wordCount": 1768,
-          "title": "PC-86-DOS"
+          "id": "https://news.ycombinator.com/item?id=28418925",
+          "author": "siddhant",
+          "description": "Article URL: https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/\nComments URL: https://news.ycombinator.com/item?id=28418925\nPoints: 72\n# Comments: 29",
+          "link": "https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/",
+          "publishedOn": "2021-09-04T20:40:30.000Z",
+          "wordCount": 2140,
+          "title": "How you can track your personal finances using Python"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28405847",
-          "author": "azalemeth",
-          "description": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912074\nComments URL: https://news.ycombinator.com/item?id=28405847\nPoints: 341\n# Comments: 84",
-          "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912074",
-          "publishedOn": "2021-09-03T15:56:06.000Z",
-          "wordCount": 608,
-          "title": "Software Piracy and IP Management: Strategic Responses to Imitation"
+          "id": "https://news.ycombinator.com/item?id=28418674",
+          "author": "beshrkayali",
+          "description": "Article URL: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f7464060f7ab9a2424428008f0ee9f1e267e410f\nComments URL: https://news.ycombinator.com/item?id=28418674\nPoints: 116\n# Comments: 34",
+          "link": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f7464060f7ab9a2424428008f0ee9f1e267e410f",
+          "publishedOn": "2021-09-04T20:15:32.000Z",
+          "wordCount": 92569,
+          "title": "New NTFS Read-Write Driver from Paragon Merged to Linux Kernel"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28405675",
-          "author": "huftis",
-          "description": "Article URL: https://mathlets.org/mathlets/\nComments URL: https://news.ycombinator.com/item?id=28405675\nPoints: 199\n# Comments: 25",
-          "link": "https://mathlets.org/mathlets/",
-          "publishedOn": "2021-09-03T15:43:40.000Z",
-          "wordCount": 1392,
-          "title": "MIT Mathlets"
+          "id": "https://news.ycombinator.com/item?id=28418350",
+          "author": "ivanb",
+          "description": "Article URL: https://www.pollen.style/\nComments URL: https://news.ycombinator.com/item?id=28418350\nPoints: 53\n# Comments: 17",
+          "link": "https://www.pollen.style/",
+          "publishedOn": "2021-09-04T19:37:15.000Z",
+          "wordCount": 133,
+          "title": "Pollen – A library of CSS variables inspired by TailwindCSS"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28405026",
-          "author": "ghuntley",
-          "description": "Article URL: https://www.gitpod.io/blog/cake\nComments URL: https://news.ycombinator.com/item?id=28405026\nPoints: 197\n# Comments: 67",
-          "link": "https://www.gitpod.io/blog/cake",
-          "publishedOn": "2021-09-03T14:54:22.000Z",
-          "wordCount": 1332,
-          "title": "Gitpod shipped GitHub a launch cake for Codespaces"
+          "id": "https://news.ycombinator.com/item?id=28416997",
+          "author": "andreyk",
+          "description": "Article URL: https://onezero.medium.com/openai-sold-its-soul-for-1-billion-cf35ff9e8cd4\nComments URL: https://news.ycombinator.com/item?id=28416997\nPoints: 193\n# Comments: 51",
+          "link": "https://onezero.medium.com/openai-sold-its-soul-for-1-billion-cf35ff9e8cd4",
+          "publishedOn": "2021-09-04T17:23:20.000Z",
+          "wordCount": 89,
+          "title": "OpenAI Sold its Soul for $1B"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28404703",
-          "author": "PaulHoule",
-          "description": "Article URL: https://news.cornell.edu/stories/2021/08/rejected-internal-applicants-twice-likely-quit\nComments URL: https://news.ycombinator.com/item?id=28404703\nPoints: 356\n# Comments: 183",
-          "link": "https://news.cornell.edu/stories/2021/08/rejected-internal-applicants-twice-likely-quit",
-          "publishedOn": "2021-09-03T14:32:47.000Z",
-          "wordCount": 692,
-          "title": "Rejected internal job applicants are twice as likely to quit"
+          "id": "https://news.ycombinator.com/item?id=28416767",
+          "author": "Wowfunhappy",
+          "description": "Article URL: http://paulgraham.com/essay.html\nComments URL: https://news.ycombinator.com/item?id=28416767\nPoints: 31\n# Comments: 6",
+          "link": "http://paulgraham.com/essay.html",
+          "publishedOn": "2021-09-04T16:59:29.000Z",
+          "wordCount": 4470,
+          "title": "The Age of the Essay (2004)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28404332",
-          "author": "MBCook",
-          "description": "Article URL: https://www.ctrl.blog/entry/windows11-empty-taskbar.html\nComments URL: https://news.ycombinator.com/item?id=28404332\nPoints: 331\n# Comments: 313",
-          "link": "https://www.ctrl.blog/entry/windows11-empty-taskbar.html",
-          "publishedOn": "2021-09-03T14:00:20.000Z",
-          "wordCount": 696,
-          "title": "Why can an ad break the Windows 11 desktop and taskbar?"
+          "id": "https://news.ycombinator.com/item?id=28416269",
+          "author": "ainzzorl",
+          "description": "Article URL: https://codecatalog.org/2021/09/04/well-documented-code.html\nComments URL: https://news.ycombinator.com/item?id=28416269\nPoints: 228\n# Comments: 114",
+          "link": "https://codecatalog.org/2021/09/04/well-documented-code.html",
+          "publishedOn": "2021-09-04T16:07:01.000Z",
+          "wordCount": 5598,
+          "title": "Writing Well-Documented Code – Learn from Examples"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28403759",
-          "author": "juokaz",
-          "description": "Article URL: https://www.wsj.com/articles/cvs-home-depot-theft-organized-crime-11630505851\nComments URL: https://news.ycombinator.com/item?id=28403759\nPoints: 149\n# Comments: 243",
-          "link": "https://www.wsj.com/articles/cvs-home-depot-theft-organized-crime-11630505851",
-          "publishedOn": "2021-09-03T13:16:39.000Z",
-          "wordCount": 324,
-          "title": "Retailers are spending millions to combat organized theft from stores"
+          "id": "https://news.ycombinator.com/item?id=28414806",
+          "author": "mellosouls",
+          "description": "Article URL: https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann\nComments URL: https://news.ycombinator.com/item?id=28414806\nPoints: 183\n# Comments: 205",
+          "link": "https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann",
+          "publishedOn": "2021-09-04T13:15:31.000Z",
+          "wordCount": 1961,
+          "title": "Many young people diagnosed with Tourette’s after watching a YouTube channel"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28403727",
-          "author": "nycdatasci",
-          "description": "Article URL: https://www.macrumors.com/2021/09/03/apple-delaying-rollout-of-child-safety-features/\nComments URL: https://news.ycombinator.com/item?id=28403727\nPoints: 1083\n# Comments: 707",
-          "link": "https://www.macrumors.com/2021/09/03/apple-delaying-rollout-of-child-safety-features/",
-          "publishedOn": "2021-09-03T13:13:59.000Z",
-          "wordCount": 2244,
-          "title": "Apple Delays Rollout of Child Safety Features"
+          "id": "https://news.ycombinator.com/item?id=28414724",
+          "author": "tomcam",
+          "description": "Article URL: https://en.wikipedia.org/wiki/Kei_car\nComments URL: https://news.ycombinator.com/item?id=28414724\nPoints: 113\n# Comments: 140",
+          "link": "https://en.wikipedia.org/wiki/Kei_car",
+          "publishedOn": "2021-09-04T13:03:43.000Z",
+          "wordCount": 3695,
+          "title": "Kei Car"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28403672",
-          "author": "nameequalsmain",
-          "description": "Article URL: https://openmoji.org\nComments URL: https://news.ycombinator.com/item?id=28403672\nPoints: 302\n# Comments: 53",
-          "link": "https://openmoji.org",
-          "publishedOn": "2021-09-03T13:09:59.000Z",
-          "wordCount": 680,
-          "title": "OpenMoji: Open-source emojis"
+          "id": "https://news.ycombinator.com/item?id=28414354",
+          "author": "jger15",
+          "description": "Article URL: https://tedgioia.substack.com/p/why-do-they-burn-a-man-at-burning\nComments URL: https://news.ycombinator.com/item?id=28414354\nPoints: 76\n# Comments: 87",
+          "link": "https://tedgioia.substack.com/p/why-do-they-burn-a-man-at-burning",
+          "publishedOn": "2021-09-04T12:09:40.000Z",
+          "wordCount": 3164,
+          "title": "Why do they burn a man at Burning Man?"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28403588",
-          "author": "jalcazar",
-          "description": "Article URL: http://jeffreycarr.blogspot.com/2014/02/six-cryptographers-whose-work-on-dual.html\nComments URL: https://news.ycombinator.com/item?id=28403588\nPoints: 169\n# Comments: 39",
-          "link": "http://jeffreycarr.blogspot.com/2014/02/six-cryptographers-whose-work-on-dual.html",
-          "publishedOn": "2021-09-03T13:03:22.000Z",
-          "wordCount": 3087,
-          "title": "RSA chief believed cryptographers’ warnings on Dual EC DRBG lacked merit (2014)"
+          "id": "https://news.ycombinator.com/item?id=28414180",
+          "author": "rbanffy",
+          "description": "Article URL: https://phys.org/news/2021-09-fish-eyes-grown-petri-dish.html\nComments URL: https://news.ycombinator.com/item?id=28414180\nPoints: 70\n# Comments: 14",
+          "link": "https://phys.org/news/2021-09-fish-eyes-grown-petri-dish.html",
+          "publishedOn": "2021-09-04T11:37:16.000Z",
+          "wordCount": 1708,
+          "title": "Fish eyes grown in a petri dish from embryonic stem cells"
         }
       ]
     }

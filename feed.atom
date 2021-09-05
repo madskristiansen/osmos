@@ -1,268 +1,269 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-04T00:51:37.864Z</id>
+    <id>urn:2021-09-05T00:54:15.194Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-04T00:51:37.864Z</updated>
+    <updated>2021-09-05T00:54:15.194Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[uBlock Origin–everything you need to know about the ad blocker]]></title>
-        <id>https://news.ycombinator.com/item?id=28410807</id>
-        <link href="https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/"/>
-        <updated>2021-09-04T00:03:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/
-Comments URL: https://news.ycombinator.com/item?id=28410807
-Points: 4
+        <title type="html"><![CDATA[OpenWrt 21.02.0 Released]]></title>
+        <id>https://news.ycombinator.com/item?id=28420769</id>
+        <link href="https://openwrt.org/releases/21.02/notes-21.02.0"/>
+        <updated>2021-09-05T00:46:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openwrt.org/releases/21.02/notes-21.02.0
+Comments URL: https://news.ycombinator.com/item?id=28420769
+Points: 5
 # Comments: 0]]></summary>
         <author>
-            <name>miles</name>
+            <name>stock_toaster</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NoProto: Flexible, Fast and Compact Serialization with RPC]]></title>
-        <id>https://news.ycombinator.com/item?id=28410414</id>
-        <link href="https://github.com/only-cliches/NoProto"/>
-        <updated>2021-09-03T23:03:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/only-cliches/NoProto
-Comments URL: https://news.ycombinator.com/item?id=28410414
-Points: 17
-# Comments: 5]]></summary>
+        <title type="html"><![CDATA[SEO warring against the Texas abortion snitch site]]></title>
+        <id>https://news.ycombinator.com/item?id=28420753</id>
+        <link href="https://www.prolifewhistleblower.net/blog/blog-post-one-7ttjl"/>
+        <updated>2021-09-05T00:44:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.prolifewhistleblower.net/blog/blog-post-one-7ttjl
+Comments URL: https://news.ycombinator.com/item?id=28420753
+Points: 6
+# Comments: 1]]></summary>
         <author>
-            <name>excerionsforte</name>
+            <name>noduerme</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UK scientists not backing Covid jabs for 12 to 15-year-olds]]></title>
-        <id>https://news.ycombinator.com/item?id=28409379</id>
-        <link href="https://www.bbc.com/news/health-58438669"/>
-        <updated>2021-09-03T21:02:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/health-58438669
-Comments URL: https://news.ycombinator.com/item?id=28409379
-Points: 51
-# Comments: 33]]></summary>
+        <title type="html"><![CDATA[200 Years Ago, Faraday Invented the Electric Motor]]></title>
+        <id>https://news.ycombinator.com/item?id=28420468</id>
+        <link href="https://spectrum.ieee.org/200-years-ago-faraday-invented-the-electric-motor"/>
+        <updated>2021-09-04T23:45:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/200-years-ago-faraday-invented-the-electric-motor
+Comments URL: https://news.ycombinator.com/item?id=28420468
+Points: 33
+# Comments: 4]]></summary>
         <author>
-            <name>bryan0</name>
+            <name>RachelF</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tesorio (YC S15) is hiring – join our fully distributed fintech team]]></title>
-        <id>https://news.ycombinator.com/item?id=28409354</id>
-        <link href="https://www.tesorio.com/careers#job-openings"/>
-        <updated>2021-09-03T21:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.tesorio.com/careers#job-openings
-Comments URL: https://news.ycombinator.com/item?id=28409354
+        <title type="html"><![CDATA[Vapor-collection technology saves water while clearing the air]]></title>
+        <id>https://news.ycombinator.com/item?id=28420252</id>
+        <link href="https://news.mit.edu/2021/infinite-cooling-nuclear-0803"/>
+        <updated>2021-09-04T23:14:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2021/infinite-cooling-nuclear-0803
+Comments URL: https://news.ycombinator.com/item?id=28420252
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>x14km2d</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ANA, JAL plan drone services to boost remote areas, own bottom lines]]></title>
+        <id>https://news.ycombinator.com/item?id=28420145</id>
+        <link href="https://mainichi.jp/english/articles/20210903/p2g/00m/0bu/040000c"/>
+        <updated>2021-09-04T22:59:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mainichi.jp/english/articles/20210903/p2g/00m/0bu/040000c
+Comments URL: https://news.ycombinator.com/item?id=28420145
+Points: 11
+# Comments: 3]]></summary>
+        <author>
+            <name>tomohawk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unearthing the City Grid That Would Have Been in Central Park (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=28419811</id>
+        <link href="https://www.newyorker.com/news/news-desk/unearthing-the-city-grid-that-would-have-been-in-central-park"/>
+        <updated>2021-09-04T22:10:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/news/news-desk/unearthing-the-city-grid-that-would-have-been-in-central-park
+Comments URL: https://news.ycombinator.com/item?id=28419811
+Points: 10
+# Comments: 0]]></summary>
+        <author>
+            <name>walterbell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morse Code Palindromes]]></title>
+        <id>https://news.ycombinator.com/item?id=28419759</id>
+        <link href="https://www.johndcook.com/blog/2021/09/04/morse-code-palindromes/"/>
+        <updated>2021-09-04T22:05:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.johndcook.com/blog/2021/09/04/morse-code-palindromes/
+Comments URL: https://news.ycombinator.com/item?id=28419759
+Points: 14
+# Comments: 2]]></summary>
+        <author>
+            <name>azhenley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How much is Google collecting and keeping on Android if not signed in?]]></title>
+        <id>https://news.ycombinator.com/item?id=28419727</id>
+        <link href="https://news.ycombinator.com/item?id=28419727"/>
+        <updated>2021-09-04T22:01:56.000Z</updated>
+        <summary type="html"><![CDATA[From a privacy perspective, how much does not signing into a Google account help at device setup?
+Thinking about picking up a 5a but CalyxOS isn’t ready for it yet.
+Comments URL: https://news.ycombinator.com/item?id=28419727
+Points: 42
+# Comments: 3]]></summary>
+        <author>
+            <name>privacyisntdead</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dover (YC S19) is hiring for all roles]]></title>
+        <id>https://news.ycombinator.com/item?id=28419160</id>
+        <link href="https://dover.com/careers"/>
+        <updated>2021-09-04T21:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dover.com/careers
+Comments URL: https://news.ycombinator.com/item?id=28419160
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>FabioFleitas</name>
+            <name>mkx</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vacation isn’t the answer to employee burnout]]></title>
-        <id>https://news.ycombinator.com/item?id=28409200</id>
-        <link href="https://technical.ly/2021/08/30/vacation-employee-burnout/"/>
-        <updated>2021-09-03T20:45:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://technical.ly/2021/08/30/vacation-employee-burnout/
-Comments URL: https://news.ycombinator.com/item?id=28409200
-Points: 124
-# Comments: 137]]></summary>
-        <author>
-            <name>clockworksoul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stanford researchers develop an engineered 'mini' CRISPR genome editing system]]></title>
-        <id>https://news.ycombinator.com/item?id=28409123</id>
-        <link href="https://news.stanford.edu/2021/09/03/researchers-develop-hypercompact-crispr/"/>
-        <updated>2021-09-03T20:38:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://news.stanford.edu/2021/09/03/researchers-develop-hypercompact-crispr/
-Comments URL: https://news.ycombinator.com/item?id=28409123
-Points: 64
-# Comments: 3]]></summary>
-        <author>
-            <name>kungfudoi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLite-TUI: A TUI for viewing SQLite databases, written in Go]]></title>
-        <id>https://news.ycombinator.com/item?id=28408682</id>
-        <link href="https://github.com/mathaou/sqlite-tui"/>
-        <updated>2021-09-03T19:59:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/mathaou/sqlite-tui
-Comments URL: https://news.ycombinator.com/item?id=28408682
-Points: 24
-# Comments: 0]]></summary>
-        <author>
-            <name>gjvc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Chrome to remove detailed cookie and site data controls]]></title>
-        <id>https://news.ycombinator.com/item?id=28407656</id>
-        <link href="https://lapcatsoftware.com/articles/chrome-cookie.html"/>
-        <updated>2021-09-03T18:29:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lapcatsoftware.com/articles/chrome-cookie.html
-Comments URL: https://news.ycombinator.com/item?id=28407656
-Points: 529
-# Comments: 212]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hardest amorphous material can scratch even diamond]]></title>
-        <id>https://news.ycombinator.com/item?id=28407155</id>
-        <link href="https://www.chemistryworld.com/news/hardest-amorphous-material-can-scratch-even-diamond/4014257.article"/>
-        <updated>2021-09-03T17:44:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.chemistryworld.com/news/hardest-amorphous-material-can-scratch-even-diamond/4014257.article
-Comments URL: https://news.ycombinator.com/item?id=28407155
-Points: 58
-# Comments: 30]]></summary>
-        <author>
-            <name>gmays</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The fungal mind: on the evidence for mushroom intelligence]]></title>
-        <id>https://news.ycombinator.com/item?id=28406931</id>
-        <link href="https://psyche.co/ideas/the-fungal-mind-on-the-evidence-for-mushroom-intelligence"/>
-        <updated>2021-09-03T17:24:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://psyche.co/ideas/the-fungal-mind-on-the-evidence-for-mushroom-intelligence
-Comments URL: https://news.ycombinator.com/item?id=28406931
-Points: 134
-# Comments: 95]]></summary>
-        <author>
-            <name>pps</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PC-86-DOS]]></title>
-        <id>https://news.ycombinator.com/item?id=28406505</id>
-        <link href="https://www.os2museum.com/wp/pc-86-dos/"/>
-        <updated>2021-09-03T16:45:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.os2museum.com/wp/pc-86-dos/
-Comments URL: https://news.ycombinator.com/item?id=28406505
-Points: 80
-# Comments: 11]]></summary>
-        <author>
-            <name>kencausey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software Piracy and IP Management: Strategic Responses to Imitation]]></title>
-        <id>https://news.ycombinator.com/item?id=28405847</id>
-        <link href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912074"/>
-        <updated>2021-09-03T15:56:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912074
-Comments URL: https://news.ycombinator.com/item?id=28405847
-Points: 341
-# Comments: 84]]></summary>
-        <author>
-            <name>azalemeth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIT Mathlets]]></title>
-        <id>https://news.ycombinator.com/item?id=28405675</id>
-        <link href="https://mathlets.org/mathlets/"/>
-        <updated>2021-09-03T15:43:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mathlets.org/mathlets/
-Comments URL: https://news.ycombinator.com/item?id=28405675
-Points: 199
-# Comments: 25]]></summary>
-        <author>
-            <name>huftis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitpod shipped GitHub a launch cake for Codespaces]]></title>
-        <id>https://news.ycombinator.com/item?id=28405026</id>
-        <link href="https://www.gitpod.io/blog/cake"/>
-        <updated>2021-09-03T14:54:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.gitpod.io/blog/cake
-Comments URL: https://news.ycombinator.com/item?id=28405026
-Points: 197
-# Comments: 67]]></summary>
-        <author>
-            <name>ghuntley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rejected internal job applicants are twice as likely to quit]]></title>
-        <id>https://news.ycombinator.com/item?id=28404703</id>
-        <link href="https://news.cornell.edu/stories/2021/08/rejected-internal-applicants-twice-likely-quit"/>
-        <updated>2021-09-03T14:32:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://news.cornell.edu/stories/2021/08/rejected-internal-applicants-twice-likely-quit
-Comments URL: https://news.ycombinator.com/item?id=28404703
-Points: 356
-# Comments: 183]]></summary>
-        <author>
-            <name>PaulHoule</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why can an ad break the Windows 11 desktop and taskbar?]]></title>
-        <id>https://news.ycombinator.com/item?id=28404332</id>
-        <link href="https://www.ctrl.blog/entry/windows11-empty-taskbar.html"/>
-        <updated>2021-09-03T14:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ctrl.blog/entry/windows11-empty-taskbar.html
-Comments URL: https://news.ycombinator.com/item?id=28404332
-Points: 331
-# Comments: 313]]></summary>
-        <author>
-            <name>MBCook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retailers are spending millions to combat organized theft from stores]]></title>
-        <id>https://news.ycombinator.com/item?id=28403759</id>
-        <link href="https://www.wsj.com/articles/cvs-home-depot-theft-organized-crime-11630505851"/>
-        <updated>2021-09-03T13:16:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/cvs-home-depot-theft-organized-crime-11630505851
-Comments URL: https://news.ycombinator.com/item?id=28403759
-Points: 149
-# Comments: 243]]></summary>
-        <author>
-            <name>juokaz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Delays Rollout of Child Safety Features]]></title>
-        <id>https://news.ycombinator.com/item?id=28403727</id>
-        <link href="https://www.macrumors.com/2021/09/03/apple-delaying-rollout-of-child-safety-features/"/>
-        <updated>2021-09-03T13:13:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.macrumors.com/2021/09/03/apple-delaying-rollout-of-child-safety-features/
-Comments URL: https://news.ycombinator.com/item?id=28403727
-Points: 1083
-# Comments: 707]]></summary>
-        <author>
-            <name>nycdatasci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenMoji: Open-source emojis]]></title>
-        <id>https://news.ycombinator.com/item?id=28403672</id>
-        <link href="https://openmoji.org"/>
-        <updated>2021-09-03T13:09:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openmoji.org
-Comments URL: https://news.ycombinator.com/item?id=28403672
-Points: 302
-# Comments: 53]]></summary>
-        <author>
-            <name>nameequalsmain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSA chief believed cryptographers’ warnings on Dual EC DRBG lacked merit (2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=28403588</id>
-        <link href="http://jeffreycarr.blogspot.com/2014/02/six-cryptographers-whose-work-on-dual.html"/>
-        <updated>2021-09-03T13:03:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://jeffreycarr.blogspot.com/2014/02/six-cryptographers-whose-work-on-dual.html
-Comments URL: https://news.ycombinator.com/item?id=28403588
-Points: 169
+        <title type="html"><![CDATA[Kubescape - first open-source tool to test K8s according to NSA and CISA]]></title>
+        <id>https://news.ycombinator.com/item?id=28419103</id>
+        <link href="https://github.com/armosec/kubescape"/>
+        <updated>2021-09-04T20:55:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/armosec/kubescape
+Comments URL: https://news.ycombinator.com/item?id=28419103
+Points: 141
 # Comments: 39]]></summary>
         <author>
-            <name>jalcazar</name>
+            <name>jkaftzan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How you can track your personal finances using Python]]></title>
+        <id>https://news.ycombinator.com/item?id=28418925</id>
+        <link href="https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/"/>
+        <updated>2021-09-04T20:40:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/
+Comments URL: https://news.ycombinator.com/item?id=28418925
+Points: 72
+# Comments: 29]]></summary>
+        <author>
+            <name>siddhant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New NTFS Read-Write Driver from Paragon Merged to Linux Kernel]]></title>
+        <id>https://news.ycombinator.com/item?id=28418674</id>
+        <link href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f7464060f7ab9a2424428008f0ee9f1e267e410f"/>
+        <updated>2021-09-04T20:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f7464060f7ab9a2424428008f0ee9f1e267e410f
+Comments URL: https://news.ycombinator.com/item?id=28418674
+Points: 116
+# Comments: 34]]></summary>
+        <author>
+            <name>beshrkayali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pollen – A library of CSS variables inspired by TailwindCSS]]></title>
+        <id>https://news.ycombinator.com/item?id=28418350</id>
+        <link href="https://www.pollen.style/"/>
+        <updated>2021-09-04T19:37:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pollen.style/
+Comments URL: https://news.ycombinator.com/item?id=28418350
+Points: 53
+# Comments: 17]]></summary>
+        <author>
+            <name>ivanb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Sold its Soul for $1B]]></title>
+        <id>https://news.ycombinator.com/item?id=28416997</id>
+        <link href="https://onezero.medium.com/openai-sold-its-soul-for-1-billion-cf35ff9e8cd4"/>
+        <updated>2021-09-04T17:23:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://onezero.medium.com/openai-sold-its-soul-for-1-billion-cf35ff9e8cd4
+Comments URL: https://news.ycombinator.com/item?id=28416997
+Points: 193
+# Comments: 51]]></summary>
+        <author>
+            <name>andreyk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Age of the Essay (2004)]]></title>
+        <id>https://news.ycombinator.com/item?id=28416767</id>
+        <link href="http://paulgraham.com/essay.html"/>
+        <updated>2021-09-04T16:59:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://paulgraham.com/essay.html
+Comments URL: https://news.ycombinator.com/item?id=28416767
+Points: 31
+# Comments: 6]]></summary>
+        <author>
+            <name>Wowfunhappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing Well-Documented Code – Learn from Examples]]></title>
+        <id>https://news.ycombinator.com/item?id=28416269</id>
+        <link href="https://codecatalog.org/2021/09/04/well-documented-code.html"/>
+        <updated>2021-09-04T16:07:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://codecatalog.org/2021/09/04/well-documented-code.html
+Comments URL: https://news.ycombinator.com/item?id=28416269
+Points: 228
+# Comments: 114]]></summary>
+        <author>
+            <name>ainzzorl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Many young people diagnosed with Tourette’s after watching a YouTube channel]]></title>
+        <id>https://news.ycombinator.com/item?id=28414806</id>
+        <link href="https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann"/>
+        <updated>2021-09-04T13:15:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann
+Comments URL: https://news.ycombinator.com/item?id=28414806
+Points: 183
+# Comments: 205]]></summary>
+        <author>
+            <name>mellosouls</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kei Car]]></title>
+        <id>https://news.ycombinator.com/item?id=28414724</id>
+        <link href="https://en.wikipedia.org/wiki/Kei_car"/>
+        <updated>2021-09-04T13:03:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Kei_car
+Comments URL: https://news.ycombinator.com/item?id=28414724
+Points: 113
+# Comments: 140]]></summary>
+        <author>
+            <name>tomcam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why do they burn a man at Burning Man?]]></title>
+        <id>https://news.ycombinator.com/item?id=28414354</id>
+        <link href="https://tedgioia.substack.com/p/why-do-they-burn-a-man-at-burning"/>
+        <updated>2021-09-04T12:09:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tedgioia.substack.com/p/why-do-they-burn-a-man-at-burning
+Comments URL: https://news.ycombinator.com/item?id=28414354
+Points: 76
+# Comments: 87]]></summary>
+        <author>
+            <name>jger15</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fish eyes grown in a petri dish from embryonic stem cells]]></title>
+        <id>https://news.ycombinator.com/item?id=28414180</id>
+        <link href="https://phys.org/news/2021-09-fish-eyes-grown-petri-dish.html"/>
+        <updated>2021-09-04T11:37:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-09-fish-eyes-grown-petri-dish.html
+Comments URL: https://news.ycombinator.com/item?id=28414180
+Points: 70
+# Comments: 14]]></summary>
+        <author>
+            <name>rbanffy</name>
         </author>
     </entry>
 </feed>
