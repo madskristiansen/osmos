@@ -1,269 +1,269 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-05T00:54:15.194Z</id>
+    <id>urn:2021-09-06T00:57:20.348Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-05T00:54:15.194Z</updated>
+    <updated>2021-09-06T00:57:20.348Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[OpenWrt 21.02.0 Released]]></title>
-        <id>https://news.ycombinator.com/item?id=28420769</id>
-        <link href="https://openwrt.org/releases/21.02/notes-21.02.0"/>
-        <updated>2021-09-05T00:46:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openwrt.org/releases/21.02/notes-21.02.0
-Comments URL: https://news.ycombinator.com/item?id=28420769
-Points: 5
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Towards a taxonomy of cliches in Space Opera]]></title>
+        <id>https://news.ycombinator.com/item?id=28428024</id>
+        <link href="http://www.antipope.org/charlie/blog-static/2016/03/towards-a-taxonomy-of-cliches-.html"/>
+        <updated>2021-09-05T21:33:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.antipope.org/charlie/blog-static/2016/03/towards-a-taxonomy-of-cliches-.html
+Comments URL: https://news.ycombinator.com/item?id=28428024
+Points: 27
+# Comments: 12]]></summary>
         <author>
-            <name>stock_toaster</name>
+            <name>georgecmu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SEO warring against the Texas abortion snitch site]]></title>
-        <id>https://news.ycombinator.com/item?id=28420753</id>
-        <link href="https://www.prolifewhistleblower.net/blog/blog-post-one-7ttjl"/>
-        <updated>2021-09-05T00:44:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.prolifewhistleblower.net/blog/blog-post-one-7ttjl
-Comments URL: https://news.ycombinator.com/item?id=28420753
-Points: 6
-# Comments: 1]]></summary>
-        <author>
-            <name>noduerme</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[200 Years Ago, Faraday Invented the Electric Motor]]></title>
-        <id>https://news.ycombinator.com/item?id=28420468</id>
-        <link href="https://spectrum.ieee.org/200-years-ago-faraday-invented-the-electric-motor"/>
-        <updated>2021-09-04T23:45:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/200-years-ago-faraday-invented-the-electric-motor
-Comments URL: https://news.ycombinator.com/item?id=28420468
-Points: 33
-# Comments: 4]]></summary>
-        <author>
-            <name>RachelF</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vapor-collection technology saves water while clearing the air]]></title>
-        <id>https://news.ycombinator.com/item?id=28420252</id>
-        <link href="https://news.mit.edu/2021/infinite-cooling-nuclear-0803"/>
-        <updated>2021-09-04T23:14:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2021/infinite-cooling-nuclear-0803
-Comments URL: https://news.ycombinator.com/item?id=28420252
-Points: 6
-# Comments: 0]]></summary>
-        <author>
-            <name>x14km2d</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ANA, JAL plan drone services to boost remote areas, own bottom lines]]></title>
-        <id>https://news.ycombinator.com/item?id=28420145</id>
-        <link href="https://mainichi.jp/english/articles/20210903/p2g/00m/0bu/040000c"/>
-        <updated>2021-09-04T22:59:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mainichi.jp/english/articles/20210903/p2g/00m/0bu/040000c
-Comments URL: https://news.ycombinator.com/item?id=28420145
-Points: 11
-# Comments: 3]]></summary>
-        <author>
-            <name>tomohawk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unearthing the City Grid That Would Have Been in Central Park (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=28419811</id>
-        <link href="https://www.newyorker.com/news/news-desk/unearthing-the-city-grid-that-would-have-been-in-central-park"/>
-        <updated>2021-09-04T22:10:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/news/news-desk/unearthing-the-city-grid-that-would-have-been-in-central-park
-Comments URL: https://news.ycombinator.com/item?id=28419811
-Points: 10
-# Comments: 0]]></summary>
-        <author>
-            <name>walterbell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morse Code Palindromes]]></title>
-        <id>https://news.ycombinator.com/item?id=28419759</id>
-        <link href="https://www.johndcook.com/blog/2021/09/04/morse-code-palindromes/"/>
-        <updated>2021-09-04T22:05:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.johndcook.com/blog/2021/09/04/morse-code-palindromes/
-Comments URL: https://news.ycombinator.com/item?id=28419759
-Points: 14
-# Comments: 2]]></summary>
-        <author>
-            <name>azhenley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: How much is Google collecting and keeping on Android if not signed in?]]></title>
-        <id>https://news.ycombinator.com/item?id=28419727</id>
-        <link href="https://news.ycombinator.com/item?id=28419727"/>
-        <updated>2021-09-04T22:01:56.000Z</updated>
-        <summary type="html"><![CDATA[From a privacy perspective, how much does not signing into a Google account help at device setup?
-Thinking about picking up a 5a but CalyxOS isn’t ready for it yet.
-Comments URL: https://news.ycombinator.com/item?id=28419727
-Points: 42
-# Comments: 3]]></summary>
-        <author>
-            <name>privacyisntdead</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dover (YC S19) is hiring for all roles]]></title>
-        <id>https://news.ycombinator.com/item?id=28419160</id>
-        <link href="https://dover.com/careers"/>
-        <updated>2021-09-04T21:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dover.com/careers
-Comments URL: https://news.ycombinator.com/item?id=28419160
+        <title type="html"><![CDATA[EasyPost (YC S13) is profitable and hiring]]></title>
+        <id>https://news.ycombinator.com/item?id=28427726</id>
+        <link href="https://www.easypost.com/careers"/>
+        <updated>2021-09-05T21:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.easypost.com/careers
+Comments URL: https://news.ycombinator.com/item?id=28427726
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>mkx</name>
+            <name>jstreebin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kubescape - first open-source tool to test K8s according to NSA and CISA]]></title>
-        <id>https://news.ycombinator.com/item?id=28419103</id>
-        <link href="https://github.com/armosec/kubescape"/>
-        <updated>2021-09-04T20:55:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/armosec/kubescape
-Comments URL: https://news.ycombinator.com/item?id=28419103
-Points: 141
-# Comments: 39]]></summary>
+        <title type="html"><![CDATA[Application of automotive alternators in small wind turbines (2012)]]></title>
+        <id>https://news.ycombinator.com/item?id=28427271</id>
+        <link href="https://repository.tudelft.nl/islandora/object/uuid%3A60a3ca0e-25f0-4892-ae52-300dcb4443ab"/>
+        <updated>2021-09-05T20:01:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://repository.tudelft.nl/islandora/object/uuid%3A60a3ca0e-25f0-4892-ae52-300dcb4443ab
+Comments URL: https://news.ycombinator.com/item?id=28427271
+Points: 15
+# Comments: 4]]></summary>
         <author>
-            <name>jkaftzan</name>
+            <name>rolph</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How you can track your personal finances using Python]]></title>
-        <id>https://news.ycombinator.com/item?id=28418925</id>
-        <link href="https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/"/>
-        <updated>2021-09-04T20:40:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/
-Comments URL: https://news.ycombinator.com/item?id=28418925
-Points: 72
-# Comments: 29]]></summary>
+        <title type="html"><![CDATA[Climate activist arrested after ProtonMail provided his IP address]]></title>
+        <id>https://news.ycombinator.com/item?id=28427259</id>
+        <link href="https://twitter.com/tenacioustek/status/1434604102676271106"/>
+        <updated>2021-09-05T19:59:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/tenacioustek/status/1434604102676271106
+Comments URL: https://news.ycombinator.com/item?id=28427259
+Points: 541
+# Comments: 261]]></summary>
         <author>
-            <name>siddhant</name>
+            <name>kdunglas</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New NTFS Read-Write Driver from Paragon Merged to Linux Kernel]]></title>
-        <id>https://news.ycombinator.com/item?id=28418674</id>
-        <link href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f7464060f7ab9a2424428008f0ee9f1e267e410f"/>
-        <updated>2021-09-04T20:15:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f7464060f7ab9a2424428008f0ee9f1e267e410f
-Comments URL: https://news.ycombinator.com/item?id=28418674
-Points: 116
-# Comments: 34]]></summary>
+        <title type="html"><![CDATA[E-Ink Typewriter]]></title>
+        <id>https://news.ycombinator.com/item?id=28426741</id>
+        <link href="https://github.com/olup/kobowriter"/>
+        <updated>2021-09-05T18:56:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/olup/kobowriter
+Comments URL: https://news.ycombinator.com/item?id=28426741
+Points: 21
+# Comments: 0]]></summary>
         <author>
-            <name>beshrkayali</name>
+            <name>olup</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pollen – A library of CSS variables inspired by TailwindCSS]]></title>
-        <id>https://news.ycombinator.com/item?id=28418350</id>
-        <link href="https://www.pollen.style/"/>
-        <updated>2021-09-04T19:37:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.pollen.style/
-Comments URL: https://news.ycombinator.com/item?id=28418350
-Points: 53
-# Comments: 17]]></summary>
+        <title type="html"><![CDATA[Art student’s 407-piece hand-carved wooden clock (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=28426701</id>
+        <link href="https://www.ablogtowatch.com/suzuki-kango-plock-wooden-automaton-time-writing-clock/"/>
+        <updated>2021-09-05T18:51:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ablogtowatch.com/suzuki-kango-plock-wooden-automaton-time-writing-clock/
+Comments URL: https://news.ycombinator.com/item?id=28426701
+Points: 291
+# Comments: 52]]></summary>
         <author>
-            <name>ivanb</name>
+            <name>_Microft</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Sold its Soul for $1B]]></title>
-        <id>https://news.ycombinator.com/item?id=28416997</id>
-        <link href="https://onezero.medium.com/openai-sold-its-soul-for-1-billion-cf35ff9e8cd4"/>
-        <updated>2021-09-04T17:23:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://onezero.medium.com/openai-sold-its-soul-for-1-billion-cf35ff9e8cd4
-Comments URL: https://news.ycombinator.com/item?id=28416997
-Points: 193
-# Comments: 51]]></summary>
+        <title type="html"><![CDATA[Terraform is currently not reviewing community pull requests]]></title>
+        <id>https://news.ycombinator.com/item?id=28425849</id>
+        <link href="https://github.com/hashicorp/terraform/commit/6562466c32a8750d7a71a6cc6232e6b5a28fe13a"/>
+        <updated>2021-09-05T17:11:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/hashicorp/terraform/commit/6562466c32a8750d7a71a6cc6232e6b5a28fe13a
+Comments URL: https://news.ycombinator.com/item?id=28425849
+Points: 110
+# Comments: 36]]></summary>
         <author>
-            <name>andreyk</name>
+            <name>jaxxstorm</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Age of the Essay (2004)]]></title>
-        <id>https://news.ycombinator.com/item?id=28416767</id>
-        <link href="http://paulgraham.com/essay.html"/>
-        <updated>2021-09-04T16:59:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://paulgraham.com/essay.html
-Comments URL: https://news.ycombinator.com/item?id=28416767
-Points: 31
-# Comments: 6]]></summary>
+        <title type="html"><![CDATA[Ask HN: What could a modern database do that PostgreSQL and MySQL can't]]></title>
+        <id>https://news.ycombinator.com/item?id=28425379</id>
+        <link href="https://news.ycombinator.com/item?id=28425379"/>
+        <updated>2021-09-05T16:11:42.000Z</updated>
+        <summary type="html"><![CDATA[If there were a general-purpose OLTP SQL database that was developed today, what features or design decisions would it pick that PostgreSQL and MySQL cannot adapt for historic reasons?
+Or put another way, what are some cutting edge OLTP database techniques/features/architectures that PostgreSQL and MySQL would have a hard time supporting?
+Comments URL: https://news.ycombinator.com/item?id=28425379
+Points: 154
+# Comments: 154]]></summary>
         <author>
-            <name>Wowfunhappy</name>
+            <name>eatonphil</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Writing Well-Documented Code – Learn from Examples]]></title>
-        <id>https://news.ycombinator.com/item?id=28416269</id>
-        <link href="https://codecatalog.org/2021/09/04/well-documented-code.html"/>
-        <updated>2021-09-04T16:07:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://codecatalog.org/2021/09/04/well-documented-code.html
-Comments URL: https://news.ycombinator.com/item?id=28416269
-Points: 228
-# Comments: 114]]></summary>
+        <title type="html"><![CDATA[Juniper breach mystery starts to clear with new details on hackers and U.S. role]]></title>
+        <id>https://news.ycombinator.com/item?id=28425354</id>
+        <link href="https://www.bloomberg.com/news/features/2021-09-02/juniper-mystery-attacks-traced-to-pentagon-role-and-chinese-hackers"/>
+        <updated>2021-09-05T16:07:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/features/2021-09-02/juniper-mystery-attacks-traced-to-pentagon-role-and-chinese-hackers
+Comments URL: https://news.ycombinator.com/item?id=28425354
+Points: 360
+# Comments: 112]]></summary>
         <author>
-            <name>ainzzorl</name>
+            <name>merrier</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Many young people diagnosed with Tourette’s after watching a YouTube channel]]></title>
-        <id>https://news.ycombinator.com/item?id=28414806</id>
-        <link href="https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann"/>
-        <updated>2021-09-04T13:15:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann
-Comments URL: https://news.ycombinator.com/item?id=28414806
-Points: 183
-# Comments: 205]]></summary>
+        <title type="html"><![CDATA[Fast Rust Builds]]></title>
+        <id>https://news.ycombinator.com/item?id=28425095</id>
+        <link href="https://matklad.github.io/2021/09/04/fast-rust-builds.html"/>
+        <updated>2021-09-05T15:36:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://matklad.github.io/2021/09/04/fast-rust-builds.html
+Comments URL: https://news.ycombinator.com/item?id=28425095
+Points: 191
+# Comments: 148]]></summary>
         <author>
-            <name>mellosouls</name>
+            <name>agluszak</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kei Car]]></title>
-        <id>https://news.ycombinator.com/item?id=28414724</id>
-        <link href="https://en.wikipedia.org/wiki/Kei_car"/>
-        <updated>2021-09-04T13:03:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Kei_car
-Comments URL: https://news.ycombinator.com/item?id=28414724
-Points: 113
-# Comments: 140]]></summary>
+        <title type="html"><![CDATA[New Orleans levees passed their first major test]]></title>
+        <id>https://news.ycombinator.com/item?id=28424544</id>
+        <link href="https://www.nationalgeographic.com/environment/article/new-orleans-levees-passed-their-first-major-test"/>
+        <updated>2021-09-05T14:20:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.com/environment/article/new-orleans-levees-passed-their-first-major-test
+Comments URL: https://news.ycombinator.com/item?id=28424544
+Points: 82
+# Comments: 95]]></summary>
         <author>
-            <name>tomcam</name>
+            <name>yread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why do they burn a man at Burning Man?]]></title>
-        <id>https://news.ycombinator.com/item?id=28414354</id>
-        <link href="https://tedgioia.substack.com/p/why-do-they-burn-a-man-at-burning"/>
-        <updated>2021-09-04T12:09:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tedgioia.substack.com/p/why-do-they-burn-a-man-at-burning
-Comments URL: https://news.ycombinator.com/item?id=28414354
-Points: 76
-# Comments: 87]]></summary>
+        <title type="html"><![CDATA[Incident: Airbus A330 at Taipei, primary computers failed on touchdown (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=28424482</id>
+        <link href="https://avherald.com/h?article=4d97ca46&amp;opt=0"/>
+        <updated>2021-09-05T14:12:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://avherald.com/h?article=4d97ca46&opt=0
+Comments URL: https://news.ycombinator.com/item?id=28424482
+Points: 253
+# Comments: 100]]></summary>
         <author>
-            <name>jger15</name>
+            <name>akamaka</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fish eyes grown in a petri dish from embryonic stem cells]]></title>
-        <id>https://news.ycombinator.com/item?id=28414180</id>
-        <link href="https://phys.org/news/2021-09-fish-eyes-grown-petri-dish.html"/>
-        <updated>2021-09-04T11:37:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-09-fish-eyes-grown-petri-dish.html
-Comments URL: https://news.ycombinator.com/item?id=28414180
-Points: 70
-# Comments: 14]]></summary>
+        <title type="html"><![CDATA[Larry Page: “I think we should look into acquiring YouTube” (2005)]]></title>
+        <id>https://news.ycombinator.com/item?id=28424339</id>
+        <link href="https://twitter.com/TechEmails/status/1433837480449613839"/>
+        <updated>2021-09-05T13:50:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/TechEmails/status/1433837480449613839
+Comments URL: https://news.ycombinator.com/item?id=28424339
+Points: 310
+# Comments: 195]]></summary>
         <author>
-            <name>rbanffy</name>
+            <name>ent101</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suture: A Ruby gem that helps you refactor your legacy code]]></title>
+        <id>https://news.ycombinator.com/item?id=28424217</id>
+        <link href="https://github.com/testdouble/suture"/>
+        <updated>2021-09-05T13:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/testdouble/suture
+Comments URL: https://news.ycombinator.com/item?id=28424217
+Points: 111
+# Comments: 18]]></summary>
+        <author>
+            <name>mooreds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Increased risk of traffic accidents in subjects with latent toxoplasmosis (2002)]]></title>
+        <id>https://news.ycombinator.com/item?id=28424007</id>
+        <link href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC117239/"/>
+        <updated>2021-09-05T12:58:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC117239/
+Comments URL: https://news.ycombinator.com/item?id=28424007
+Points: 83
+# Comments: 35]]></summary>
+        <author>
+            <name>ansaso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make a Joule Thief (2002)]]></title>
+        <id>https://news.ycombinator.com/item?id=28424000</id>
+        <link href="http://bigclive.com/joule.htm"/>
+        <updated>2021-09-05T12:56:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://bigclive.com/joule.htm
+Comments URL: https://news.ycombinator.com/item?id=28424000
+Points: 65
+# Comments: 33]]></summary>
+        <author>
+            <name>bariumbitmap</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git-cliff – Generate changelog files from the Git history]]></title>
+        <id>https://news.ycombinator.com/item?id=28423843</id>
+        <link href="https://github.com/orhun/git-cliff"/>
+        <updated>2021-09-05T12:31:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/orhun/git-cliff
+Comments URL: https://news.ycombinator.com/item?id=28423843
+Points: 196
+# Comments: 47]]></summary>
+        <author>
+            <name>ducktective</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Progress on C23]]></title>
+        <id>https://news.ycombinator.com/item?id=28423793</id>
+        <link href="https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting"/>
+        <updated>2021-09-05T12:22:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting
+Comments URL: https://news.ycombinator.com/item?id=28423793
+Points: 84
+# Comments: 38]]></summary>
+        <author>
+            <name>ingve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dogs distinguish human intentional and unintentional action]]></title>
+        <id>https://news.ycombinator.com/item?id=28423122</id>
+        <link href="https://www.nature.com/articles/s41598-021-94374-3"/>
+        <updated>2021-09-05T10:36:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41598-021-94374-3
+Comments URL: https://news.ycombinator.com/item?id=28423122
+Points: 287
+# Comments: 125]]></summary>
+        <author>
+            <name>sam345</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arc – A P2P CDN that runs in the browser]]></title>
+        <id>https://news.ycombinator.com/item?id=28423069</id>
+        <link href="https://arc.io"/>
+        <updated>2021-09-05T10:26:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arc.io
+Comments URL: https://news.ycombinator.com/item?id=28423069
+Points: 90
+# Comments: 56]]></summary>
+        <author>
+            <name>sansui12</name>
         </author>
     </entry>
 </feed>
