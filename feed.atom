@@ -1,269 +1,268 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-06T00:57:20.348Z</id>
+    <id>urn:2021-09-07T00:49:54.654Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-06T00:57:20.348Z</updated>
+    <updated>2021-09-07T00:49:54.654Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Towards a taxonomy of cliches in Space Opera]]></title>
-        <id>https://news.ycombinator.com/item?id=28428024</id>
-        <link href="http://www.antipope.org/charlie/blog-static/2016/03/towards-a-taxonomy-of-cliches-.html"/>
-        <updated>2021-09-05T21:33:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.antipope.org/charlie/blog-static/2016/03/towards-a-taxonomy-of-cliches-.html
-Comments URL: https://news.ycombinator.com/item?id=28428024
-Points: 27
-# Comments: 12]]></summary>
+        <title type="html"><![CDATA[Missing businesswoman urges ex-husband not to publish book critical of China]]></title>
+        <id>https://news.ycombinator.com/item?id=28439448</id>
+        <link href="https://www.npr.org/2021/09/06/1034556269/red-roulette-reveals-the-inside-of-chinas-wealth-making-machine"/>
+        <updated>2021-09-07T00:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/09/06/1034556269/red-roulette-reveals-the-inside-of-chinas-wealth-making-machine
+Comments URL: https://news.ycombinator.com/item?id=28439448
+Points: 35
+# Comments: 7]]></summary>
         <author>
-            <name>georgecmu</name>
+            <name>ilamont</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EasyPost (YC S13) is profitable and hiring]]></title>
-        <id>https://news.ycombinator.com/item?id=28427726</id>
-        <link href="https://www.easypost.com/careers"/>
-        <updated>2021-09-05T21:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.easypost.com/careers
-Comments URL: https://news.ycombinator.com/item?id=28427726
+        <title type="html"><![CDATA[Libwebsockets a powerful and lightweight pure C library]]></title>
+        <id>https://news.ycombinator.com/item?id=28439447</id>
+        <link href="https://libwebsockets.org/"/>
+        <updated>2021-09-07T00:06:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://libwebsockets.org/
+Comments URL: https://news.ycombinator.com/item?id=28439447
+Points: 13
+# Comments: 0]]></summary>
+        <author>
+            <name>khoobid_shoma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Updating an App to Use Swift Concurrency]]></title>
+        <id>https://news.ycombinator.com/item?id=28439339</id>
+        <link href="https://developer.apple.com/documentation/swift/swift_standard_library/concurrency/updating_an_app_to_use_swift_concurrency"/>
+        <updated>2021-09-06T23:44:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://developer.apple.com/documentation/swift/swift_standard_library/concurrency/updating_an_app_to_use_swift_concurrency
+Comments URL: https://news.ycombinator.com/item?id=28439339
+Points: 7
+# Comments: 2]]></summary>
+        <author>
+            <name>Austin_Conlon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SystemE – A lightweight systemd replacement written in Emacs Lisp]]></title>
+        <id>https://news.ycombinator.com/item?id=28439275</id>
+        <link href="https://github.com/a-schaefers/systemE"/>
+        <updated>2021-09-06T23:32:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/a-schaefers/systemE
+Comments URL: https://news.ycombinator.com/item?id=28439275
+Points: 23
+# Comments: 3]]></summary>
+        <author>
+            <name>pabs3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intermediate Algebra]]></title>
+        <id>https://news.ycombinator.com/item?id=28438595</id>
+        <link href="https://saylordotorg.github.io/text_intermediate-algebra/index.html"/>
+        <updated>2021-09-06T22:02:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://saylordotorg.github.io/text_intermediate-algebra/index.html
+Comments URL: https://news.ycombinator.com/item?id=28438595
+Points: 51
+# Comments: 39]]></summary>
+        <author>
+            <name>parsecs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Micro-GPS: High-Precision Localization Using Ground Texture (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=28438457</id>
+        <link href="https://microgps.cs.princeton.edu/"/>
+        <updated>2021-09-06T21:45:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://microgps.cs.princeton.edu/
+Comments URL: https://news.ycombinator.com/item?id=28438457
+Points: 36
+# Comments: 7]]></summary>
+        <author>
+            <name>miduil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hummingbirds can smell their way out of danger]]></title>
+        <id>https://news.ycombinator.com/item?id=28438202</id>
+        <link href="https://news.ucr.edu/articles/2021/09/06/hummingbirds-can-smell-their-way-out-danger"/>
+        <updated>2021-09-06T21:16:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://news.ucr.edu/articles/2021/09/06/hummingbirds-can-smell-their-way-out-danger
+Comments URL: https://news.ycombinator.com/item?id=28438202
+Points: 19
+# Comments: 0]]></summary>
+        <author>
+            <name>hhs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The mystery of Truman Capote's final novel]]></title>
+        <id>https://news.ycombinator.com/item?id=28438167</id>
+        <link href="https://www.townandcountrymag.com/society/money-and-power/a36740693/truman-capote-la-cote-basque-scandal-answered-prayers-mystery/"/>
+        <updated>2021-09-06T21:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.townandcountrymag.com/society/money-and-power/a36740693/truman-capote-la-cote-basque-scandal-answered-prayers-mystery/
+Comments URL: https://news.ycombinator.com/item?id=28438167
+Points: 17
+# Comments: 9]]></summary>
+        <author>
+            <name>ascertain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keeper Tax (YC W19) is hiring an engineer in San Francisco]]></title>
+        <id>https://news.ycombinator.com/item?id=28438062</id>
+        <link href="https://angel.co/l/2vLWVu"/>
+        <updated>2021-09-06T21:01:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://angel.co/l/2vLWVu
+Comments URL: https://news.ycombinator.com/item?id=28438062
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>jstreebin</name>
+            <name>pkoullick92</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Application of automotive alternators in small wind turbines (2012)]]></title>
-        <id>https://news.ycombinator.com/item?id=28427271</id>
-        <link href="https://repository.tudelft.nl/islandora/object/uuid%3A60a3ca0e-25f0-4892-ae52-300dcb4443ab"/>
-        <updated>2021-09-05T20:01:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://repository.tudelft.nl/islandora/object/uuid%3A60a3ca0e-25f0-4892-ae52-300dcb4443ab
-Comments URL: https://news.ycombinator.com/item?id=28427271
-Points: 15
-# Comments: 4]]></summary>
+        <title type="html"><![CDATA[Greedy AI agents learn to cooperate]]></title>
+        <id>https://news.ycombinator.com/item?id=28437797</id>
+        <link href="https://spectrum.ieee.org/reinforcement-learning"/>
+        <updated>2021-09-06T20:36:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/reinforcement-learning
+Comments URL: https://news.ycombinator.com/item?id=28437797
+Points: 47
+# Comments: 8]]></summary>
         <author>
-            <name>rolph</name>
+            <name>ystad</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Climate activist arrested after ProtonMail provided his IP address]]></title>
-        <id>https://news.ycombinator.com/item?id=28427259</id>
-        <link href="https://twitter.com/tenacioustek/status/1434604102676271106"/>
-        <updated>2021-09-05T19:59:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/tenacioustek/status/1434604102676271106
-Comments URL: https://news.ycombinator.com/item?id=28427259
-Points: 541
-# Comments: 261]]></summary>
+        <title type="html"><![CDATA[Plans are useless, but planning is indispensable (2005)]]></title>
+        <id>https://news.ycombinator.com/item?id=28437278</id>
+        <link href="https://www.pmi.org/learning/library/planning-process-indispensable-software-projects-7487"/>
+        <updated>2021-09-06T19:48:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pmi.org/learning/library/planning-process-indispensable-software-projects-7487
+Comments URL: https://news.ycombinator.com/item?id=28437278
+Points: 38
+# Comments: 3]]></summary>
         <author>
-            <name>kdunglas</name>
+            <name>cjg</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[E-Ink Typewriter]]></title>
-        <id>https://news.ycombinator.com/item?id=28426741</id>
-        <link href="https://github.com/olup/kobowriter"/>
-        <updated>2021-09-05T18:56:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/olup/kobowriter
-Comments URL: https://news.ycombinator.com/item?id=28426741
-Points: 21
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Notcurses 2.4]]></title>
+        <id>https://news.ycombinator.com/item?id=28437173</id>
+        <link href="https://github.com/dankamongmen/notcurses/releases/tag/v2.4.0"/>
+        <updated>2021-09-06T19:39:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/dankamongmen/notcurses/releases/tag/v2.4.0
+Comments URL: https://news.ycombinator.com/item?id=28437173
+Points: 55
+# Comments: 24]]></summary>
         <author>
-            <name>olup</name>
+            <name>marcodiego</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Art student’s 407-piece hand-carved wooden clock (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=28426701</id>
-        <link href="https://www.ablogtowatch.com/suzuki-kango-plock-wooden-automaton-time-writing-clock/"/>
-        <updated>2021-09-05T18:51:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ablogtowatch.com/suzuki-kango-plock-wooden-automaton-time-writing-clock/
-Comments URL: https://news.ycombinator.com/item?id=28426701
-Points: 291
-# Comments: 52]]></summary>
+        <title type="html"><![CDATA[Apple iMessage Zero-Click Hacks]]></title>
+        <id>https://news.ycombinator.com/item?id=28436768</id>
+        <link href="https://www.wired.com/story/apple-imessage-zero-click-hacks/"/>
+        <updated>2021-09-06T18:53:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/apple-imessage-zero-click-hacks/
+Comments URL: https://news.ycombinator.com/item?id=28436768
+Points: 114
+# Comments: 65]]></summary>
         <author>
-            <name>_Microft</name>
+            <name>curmudgeon22</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Terraform is currently not reviewing community pull requests]]></title>
-        <id>https://news.ycombinator.com/item?id=28425849</id>
-        <link href="https://github.com/hashicorp/terraform/commit/6562466c32a8750d7a71a6cc6232e6b5a28fe13a"/>
-        <updated>2021-09-05T17:11:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/hashicorp/terraform/commit/6562466c32a8750d7a71a6cc6232e6b5a28fe13a
-Comments URL: https://news.ycombinator.com/item?id=28425849
-Points: 110
-# Comments: 36]]></summary>
+        <title type="html"><![CDATA[Chia Coin Miners Are Reselling Used SSDs as New]]></title>
+        <id>https://news.ycombinator.com/item?id=28436558</id>
+        <link href="https://www.tomshardware.com/news/used-chia-ssds-resold"/>
+        <updated>2021-09-06T18:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.tomshardware.com/news/used-chia-ssds-resold
+Comments URL: https://news.ycombinator.com/item?id=28436558
+Points: 174
+# Comments: 117]]></summary>
         <author>
-            <name>jaxxstorm</name>
+            <name>thedday</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: What could a modern database do that PostgreSQL and MySQL can't]]></title>
-        <id>https://news.ycombinator.com/item?id=28425379</id>
-        <link href="https://news.ycombinator.com/item?id=28425379"/>
-        <updated>2021-09-05T16:11:42.000Z</updated>
-        <summary type="html"><![CDATA[If there were a general-purpose OLTP SQL database that was developed today, what features or design decisions would it pick that PostgreSQL and MySQL cannot adapt for historic reasons?
-Or put another way, what are some cutting edge OLTP database techniques/features/architectures that PostgreSQL and MySQL would have a hard time supporting?
-Comments URL: https://news.ycombinator.com/item?id=28425379
-Points: 154
-# Comments: 154]]></summary>
-        <author>
-            <name>eatonphil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Juniper breach mystery starts to clear with new details on hackers and U.S. role]]></title>
-        <id>https://news.ycombinator.com/item?id=28425354</id>
-        <link href="https://www.bloomberg.com/news/features/2021-09-02/juniper-mystery-attacks-traced-to-pentagon-role-and-chinese-hackers"/>
-        <updated>2021-09-05T16:07:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/features/2021-09-02/juniper-mystery-attacks-traced-to-pentagon-role-and-chinese-hackers
-Comments URL: https://news.ycombinator.com/item?id=28425354
-Points: 360
-# Comments: 112]]></summary>
-        <author>
-            <name>merrier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast Rust Builds]]></title>
-        <id>https://news.ycombinator.com/item?id=28425095</id>
-        <link href="https://matklad.github.io/2021/09/04/fast-rust-builds.html"/>
-        <updated>2021-09-05T15:36:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://matklad.github.io/2021/09/04/fast-rust-builds.html
-Comments URL: https://news.ycombinator.com/item?id=28425095
-Points: 191
-# Comments: 148]]></summary>
-        <author>
-            <name>agluszak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Orleans levees passed their first major test]]></title>
-        <id>https://news.ycombinator.com/item?id=28424544</id>
-        <link href="https://www.nationalgeographic.com/environment/article/new-orleans-levees-passed-their-first-major-test"/>
-        <updated>2021-09-05T14:20:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.com/environment/article/new-orleans-levees-passed-their-first-major-test
-Comments URL: https://news.ycombinator.com/item?id=28424544
-Points: 82
-# Comments: 95]]></summary>
-        <author>
-            <name>yread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Incident: Airbus A330 at Taipei, primary computers failed on touchdown (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=28424482</id>
-        <link href="https://avherald.com/h?article=4d97ca46&amp;opt=0"/>
-        <updated>2021-09-05T14:12:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://avherald.com/h?article=4d97ca46&opt=0
-Comments URL: https://news.ycombinator.com/item?id=28424482
-Points: 253
-# Comments: 100]]></summary>
-        <author>
-            <name>akamaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Larry Page: “I think we should look into acquiring YouTube” (2005)]]></title>
-        <id>https://news.ycombinator.com/item?id=28424339</id>
-        <link href="https://twitter.com/TechEmails/status/1433837480449613839"/>
-        <updated>2021-09-05T13:50:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/TechEmails/status/1433837480449613839
-Comments URL: https://news.ycombinator.com/item?id=28424339
-Points: 310
-# Comments: 195]]></summary>
-        <author>
-            <name>ent101</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suture: A Ruby gem that helps you refactor your legacy code]]></title>
-        <id>https://news.ycombinator.com/item?id=28424217</id>
-        <link href="https://github.com/testdouble/suture"/>
-        <updated>2021-09-05T13:30:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/testdouble/suture
-Comments URL: https://news.ycombinator.com/item?id=28424217
-Points: 111
-# Comments: 18]]></summary>
-        <author>
-            <name>mooreds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Increased risk of traffic accidents in subjects with latent toxoplasmosis (2002)]]></title>
-        <id>https://news.ycombinator.com/item?id=28424007</id>
-        <link href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC117239/"/>
-        <updated>2021-09-05T12:58:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC117239/
-Comments URL: https://news.ycombinator.com/item?id=28424007
-Points: 83
-# Comments: 35]]></summary>
-        <author>
-            <name>ansaso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make a Joule Thief (2002)]]></title>
-        <id>https://news.ycombinator.com/item?id=28424000</id>
-        <link href="http://bigclive.com/joule.htm"/>
-        <updated>2021-09-05T12:56:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://bigclive.com/joule.htm
-Comments URL: https://news.ycombinator.com/item?id=28424000
-Points: 65
-# Comments: 33]]></summary>
-        <author>
-            <name>bariumbitmap</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git-cliff – Generate changelog files from the Git history]]></title>
-        <id>https://news.ycombinator.com/item?id=28423843</id>
-        <link href="https://github.com/orhun/git-cliff"/>
-        <updated>2021-09-05T12:31:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/orhun/git-cliff
-Comments URL: https://news.ycombinator.com/item?id=28423843
-Points: 196
+        <title type="html"><![CDATA[A $10k poker win changed how I think]]></title>
+        <id>https://news.ycombinator.com/item?id=28436541</id>
+        <link href="https://www.bbc.com/future/article/20210517-how-a-10k-poker-win-changed-how-i-think"/>
+        <updated>2021-09-06T18:28:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/future/article/20210517-how-a-10k-poker-win-changed-how-i-think
+Comments URL: https://news.ycombinator.com/item?id=28436541
+Points: 150
 # Comments: 47]]></summary>
         <author>
-            <name>ducktective</name>
+            <name>cjg</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Progress on C23]]></title>
-        <id>https://news.ycombinator.com/item?id=28423793</id>
-        <link href="https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting"/>
-        <updated>2021-09-05T12:22:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting
-Comments URL: https://news.ycombinator.com/item?id=28423793
-Points: 84
-# Comments: 38]]></summary>
+        <title type="html"><![CDATA[Minus]]></title>
+        <id>https://news.ycombinator.com/item?id=28436395</id>
+        <link href="https://minus.social/"/>
+        <updated>2021-09-06T18:10:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://minus.social/
+Comments URL: https://news.ycombinator.com/item?id=28436395
+Points: 325
+# Comments: 103]]></summary>
         <author>
-            <name>ingve</name>
+            <name>fredley</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dogs distinguish human intentional and unintentional action]]></title>
-        <id>https://news.ycombinator.com/item?id=28423122</id>
-        <link href="https://www.nature.com/articles/s41598-021-94374-3"/>
-        <updated>2021-09-05T10:36:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41598-021-94374-3
-Comments URL: https://news.ycombinator.com/item?id=28423122
-Points: 287
-# Comments: 125]]></summary>
+        <title type="html"><![CDATA[Show HN: Age 1.0 – Simple, modern and secure file encryption]]></title>
+        <id>https://news.ycombinator.com/item?id=28435613</id>
+        <link href="https://github.com/FiloSottile/age/releases/tag/v1.0.0"/>
+        <updated>2021-09-06T16:53:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/FiloSottile/age/releases/tag/v1.0.0
+Comments URL: https://news.ycombinator.com/item?id=28435613
+Points: 288
+# Comments: 53]]></summary>
         <author>
-            <name>sam345</name>
+            <name>FiloSottile</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arc – A P2P CDN that runs in the browser]]></title>
-        <id>https://news.ycombinator.com/item?id=28423069</id>
-        <link href="https://arc.io"/>
-        <updated>2021-09-05T10:26:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arc.io
-Comments URL: https://news.ycombinator.com/item?id=28423069
-Points: 90
-# Comments: 56]]></summary>
+        <title type="html"><![CDATA[Plans for a new city in the American desert]]></title>
+        <id>https://news.ycombinator.com/item?id=28434514</id>
+        <link href="https://www.cnn.com/style/article/telosa-marc-lore-blake-ingels-new-city/index.html"/>
+        <updated>2021-09-06T15:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnn.com/style/article/telosa-marc-lore-blake-ingels-new-city/index.html
+Comments URL: https://news.ycombinator.com/item?id=28434514
+Points: 89
+# Comments: 150]]></summary>
         <author>
-            <name>sansui12</name>
+            <name>daegloe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolt: Open-source alternative to Discord]]></title>
+        <id>https://news.ycombinator.com/item?id=28434012</id>
+        <link href="https://revolt.chat/"/>
+        <updated>2021-09-06T14:29:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://revolt.chat/
+Comments URL: https://news.ycombinator.com/item?id=28434012
+Points: 529
+# Comments: 321]]></summary>
+        <author>
+            <name>adamnemecek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok overtakes YouTube for average watch time in US and UK]]></title>
+        <id>https://news.ycombinator.com/item?id=28433552</id>
+        <link href="https://www.bbc.co.uk/news/technology-58464745"/>
+        <updated>2021-09-06T13:44:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/technology-58464745
+Comments URL: https://news.ycombinator.com/item?id=28433552
+Points: 198
+# Comments: 256]]></summary>
+        <author>
+            <name>iamnotarobotman</name>
         </author>
     </entry>
 </feed>
