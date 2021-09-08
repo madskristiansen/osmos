@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=28439448",
-          "author": "ilamont",
-          "description": "Article URL: https://www.npr.org/2021/09/06/1034556269/red-roulette-reveals-the-inside-of-chinas-wealth-making-machine\nComments URL: https://news.ycombinator.com/item?id=28439448\nPoints: 35\n# Comments: 7",
-          "link": "https://www.npr.org/2021/09/06/1034556269/red-roulette-reveals-the-inside-of-chinas-wealth-making-machine",
-          "publishedOn": "2021-09-07T00:06:28.000Z",
-          "wordCount": 1568,
-          "title": "Missing businesswoman urges ex-husband not to publish book critical of China"
+          "id": "https://news.ycombinator.com/item?id=28451352",
+          "author": "bgrgndzz",
+          "description": "Article URL: https://bugragunduz.com/blog/hustle-culture/\nComments URL: https://news.ycombinator.com/item?id=28451352\nPoints: 7\n# Comments: 5",
+          "link": "https://bugragunduz.com/blog/hustle-culture/",
+          "publishedOn": "2021-09-08T00:07:30.000Z",
+          "wordCount": 402,
+          "title": "Hustle culture is not toxic"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28439447",
-          "author": "khoobid_shoma",
-          "description": "Article URL: https://libwebsockets.org/\nComments URL: https://news.ycombinator.com/item?id=28439447\nPoints: 13\n# Comments: 0",
-          "link": "https://libwebsockets.org/",
-          "publishedOn": "2021-09-07T00:06:20.000Z",
-          "wordCount": null,
-          "title": "Libwebsockets a powerful and lightweight pure C library"
+          "id": "https://news.ycombinator.com/item?id=28451253",
+          "author": "dogecoinbase",
+          "description": "Article URL: https://www.theregister.com/2021/09/07/hashicorp_pause/\nComments URL: https://news.ycombinator.com/item?id=28451253\nPoints: 16\n# Comments: 2",
+          "link": "https://www.theregister.com/2021/09/07/hashicorp_pause/",
+          "publishedOn": "2021-09-07T23:51:00.000Z",
+          "wordCount": 2421,
+          "title": "HashiCorp runs low on staff, calls a halt to Terraform pull requests"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28439339",
-          "author": "Austin_Conlon",
-          "description": "Article URL: https://developer.apple.com/documentation/swift/swift_standard_library/concurrency/updating_an_app_to_use_swift_concurrency\nComments URL: https://news.ycombinator.com/item?id=28439339\nPoints: 7\n# Comments: 2",
-          "link": "https://developer.apple.com/documentation/swift/swift_standard_library/concurrency/updating_an_app_to_use_swift_concurrency",
-          "publishedOn": "2021-09-06T23:44:30.000Z",
-          "wordCount": 53,
-          "title": "Updating an App to Use Swift Concurrency"
+          "id": "https://news.ycombinator.com/item?id=28451082",
+          "author": "Rayaneh11",
+          "description": "Article URL: https://javani.substack.com/p/big-brothers-has-privatized\nComments URL: https://news.ycombinator.com/item?id=28451082\nPoints: 27\n# Comments: 11",
+          "link": "https://javani.substack.com/p/big-brothers-has-privatized",
+          "publishedOn": "2021-09-07T23:27:14.000Z",
+          "wordCount": 2390,
+          "title": "Big Brothers Has Privatized"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28439275",
-          "author": "pabs3",
-          "description": "Article URL: https://github.com/a-schaefers/systemE\nComments URL: https://news.ycombinator.com/item?id=28439275\nPoints: 23\n# Comments: 3",
-          "link": "https://github.com/a-schaefers/systemE",
-          "publishedOn": "2021-09-06T23:32:06.000Z",
-          "wordCount": 908,
-          "title": "SystemE – A lightweight systemd replacement written in Emacs Lisp"
+          "id": "https://news.ycombinator.com/item?id=28451071",
+          "author": "westcort",
+          "description": "Article URL: https://www.locserendipity.com/PushPlay.html\nComments URL: https://news.ycombinator.com/item?id=28451071\nPoints: 23\n# Comments: 4",
+          "link": "https://www.locserendipity.com/PushPlay.html",
+          "publishedOn": "2021-09-07T23:26:20.000Z",
+          "wordCount": 25,
+          "title": "Show HN: An infinite record playlist of out-of-copyright works"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28438595",
-          "author": "parsecs",
-          "description": "Article URL: https://saylordotorg.github.io/text_intermediate-algebra/index.html\nComments URL: https://news.ycombinator.com/item?id=28438595\nPoints: 51\n# Comments: 39",
-          "link": "https://saylordotorg.github.io/text_intermediate-algebra/index.html",
-          "publishedOn": "2021-09-06T22:02:38.000Z",
-          "wordCount": 360,
-          "title": "Intermediate Algebra"
+          "id": "https://news.ycombinator.com/item?id=28451066",
+          "author": "soylentbeige",
+          "description": "Article URL: https://digitalrightswatch.org.au/2021/09/02/australias-new-mass-surveillance-mandate/\nComments URL: https://news.ycombinator.com/item?id=28451066\nPoints: 84\n# Comments: 29",
+          "link": "https://digitalrightswatch.org.au/2021/09/02/australias-new-mass-surveillance-mandate/",
+          "publishedOn": "2021-09-07T23:25:26.000Z",
+          "wordCount": 2094,
+          "title": "Australia’s new mass surveillance mandate"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28438457",
-          "author": "miduil",
-          "description": "Article URL: https://microgps.cs.princeton.edu/\nComments URL: https://news.ycombinator.com/item?id=28438457\nPoints: 36\n# Comments: 7",
-          "link": "https://microgps.cs.princeton.edu/",
-          "publishedOn": "2021-09-06T21:45:06.000Z",
-          "wordCount": 273,
-          "title": "Micro-GPS: High-Precision Localization Using Ground Texture (2018)"
+          "id": "https://news.ycombinator.com/item?id=28451027",
+          "author": "benbreen",
+          "description": "Article URL: https://blogs.bl.uk/asian-and-african/2021/08/epic-iran-some-zoroastrian-treasures.html\nComments URL: https://news.ycombinator.com/item?id=28451027\nPoints: 9\n# Comments: 1",
+          "link": "https://blogs.bl.uk/asian-and-african/2021/08/epic-iran-some-zoroastrian-treasures.html",
+          "publishedOn": "2021-09-07T23:18:41.000Z",
+          "wordCount": 1641,
+          "title": "Epic Iran: Some Zoroastrian Treasures"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28438202",
-          "author": "hhs",
-          "description": "Article URL: https://news.ucr.edu/articles/2021/09/06/hummingbirds-can-smell-their-way-out-danger\nComments URL: https://news.ycombinator.com/item?id=28438202\nPoints: 19\n# Comments: 0",
-          "link": "https://news.ucr.edu/articles/2021/09/06/hummingbirds-can-smell-their-way-out-danger",
-          "publishedOn": "2021-09-06T21:16:29.000Z",
-          "wordCount": 920,
-          "title": "Hummingbirds can smell their way out of danger"
+          "id": "https://news.ycombinator.com/item?id=28450566",
+          "author": "kloch",
+          "description": "Article URL: https://esamultimedia.esa.int/docs/science/Webb-LaunchKit_EN.pdf\nComments URL: https://news.ycombinator.com/item?id=28450566\nPoints: 62\n# Comments: 38",
+          "link": "https://esamultimedia.esa.int/docs/science/Webb-LaunchKit_EN.pdf",
+          "publishedOn": "2021-09-07T22:13:28.000Z",
+          "wordCount": 661799,
+          "title": "James Webb Space Telescope launch media kit [pdf]"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28438167",
-          "author": "ascertain",
-          "description": "Article URL: https://www.townandcountrymag.com/society/money-and-power/a36740693/truman-capote-la-cote-basque-scandal-answered-prayers-mystery/\nComments URL: https://news.ycombinator.com/item?id=28438167\nPoints: 17\n# Comments: 9",
-          "link": "https://www.townandcountrymag.com/society/money-and-power/a36740693/truman-capote-la-cote-basque-scandal-answered-prayers-mystery/",
-          "publishedOn": "2021-09-06T21:13:50.000Z",
-          "wordCount": 3216,
-          "title": "The mystery of Truman Capote's final novel"
+          "id": "https://news.ycombinator.com/item?id=28450558",
+          "author": "elsewhen",
+          "description": "Article URL: https://www.nber.org/papers/w29214#fromrss\nComments URL: https://news.ycombinator.com/item?id=28450558\nPoints: 9\n# Comments: 0",
+          "link": "https://www.nber.org/papers/w29214#fromrss",
+          "publishedOn": "2021-09-07T22:11:55.000Z",
+          "wordCount": 928,
+          "title": "Private Information and the Missing Markets for Financing Human Capital"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28438062",
-          "author": "pkoullick92",
-          "description": "Article URL: https://angel.co/l/2vLWVu\nComments URL: https://news.ycombinator.com/item?id=28438062\nPoints: 1\n# Comments: 0",
-          "link": "https://angel.co/l/2vLWVu",
-          "publishedOn": "2021-09-06T21:01:07.000Z",
-          "wordCount": null,
-          "title": "Keeper Tax (YC W19) is hiring an engineer in San Francisco"
+          "id": "https://news.ycombinator.com/item?id=28450473",
+          "author": "isaac21259",
+          "description": "Article URL: https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/\nComments URL: https://news.ycombinator.com/item?id=28450473\nPoints: 59\n# Comments: 3",
+          "link": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
+          "publishedOn": "2021-09-07T22:01:10.000Z",
+          "wordCount": 4538,
+          "title": "SBCL: The Assembly Code Breadboard (2014)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28437797",
-          "author": "ystad",
-          "description": "Article URL: https://spectrum.ieee.org/reinforcement-learning\nComments URL: https://news.ycombinator.com/item?id=28437797\nPoints: 47\n# Comments: 8",
-          "link": "https://spectrum.ieee.org/reinforcement-learning",
-          "publishedOn": "2021-09-06T20:36:54.000Z",
-          "wordCount": 5396,
-          "title": "Greedy AI agents learn to cooperate"
+          "id": "https://news.ycombinator.com/item?id=28449923",
+          "author": "domrdy",
+          "description": "Article URL: https://www.folklore.org/StoryView.py?project=Macintosh&story=90_Hours_A_Week_And_Loving_It.txt&sortOrder=Sort+by+Date\nComments URL: https://news.ycombinator.com/item?id=28449923\nPoints: 20\n# Comments: 12",
+          "link": "https://www.folklore.org/StoryView.py?project=Macintosh&story=90_Hours_A_Week_And_Loving_It.txt&sortOrder=Sort+by+Date",
+          "publishedOn": "2021-09-07T21:02:57.000Z",
+          "wordCount": 779,
+          "title": "90 Hours a Week and Loving It"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28437278",
-          "author": "cjg",
-          "description": "Article URL: https://www.pmi.org/learning/library/planning-process-indispensable-software-projects-7487\nComments URL: https://news.ycombinator.com/item?id=28437278\nPoints: 38\n# Comments: 3",
-          "link": "https://www.pmi.org/learning/library/planning-process-indispensable-software-projects-7487",
-          "publishedOn": "2021-09-06T19:48:54.000Z",
-          "wordCount": null,
-          "title": "Plans are useless, but planning is indispensable (2005)"
+          "id": "https://news.ycombinator.com/item?id=28449903",
+          "author": "amasad",
+          "description": "Article URL: https://replit.com/site/careers\nComments URL: https://news.ycombinator.com/item?id=28449903\nPoints: 1\n# Comments: 0",
+          "link": "https://replit.com/site/careers",
+          "publishedOn": "2021-09-07T21:01:06.000Z",
+          "wordCount": 755,
+          "title": "Replit (YC W18) Is Hiring Engineers/Designers to Invent the Future of Programming"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28437173",
-          "author": "marcodiego",
-          "description": "Article URL: https://github.com/dankamongmen/notcurses/releases/tag/v2.4.0\nComments URL: https://news.ycombinator.com/item?id=28437173\nPoints: 55\n# Comments: 24",
-          "link": "https://github.com/dankamongmen/notcurses/releases/tag/v2.4.0",
-          "publishedOn": "2021-09-06T19:39:37.000Z",
-          "wordCount": 865,
-          "title": "Notcurses 2.4"
+          "id": "https://news.ycombinator.com/item?id=28449779",
+          "author": "aaronbrindle",
+          "description": "Article URL: https://www.fastcompany.com/90670635/ex-googlers-raise-40-million-to-democratize-natural-language-ai\nComments URL: https://news.ycombinator.com/item?id=28449779\nPoints: 29\n# Comments: 23",
+          "link": "https://www.fastcompany.com/90670635/ex-googlers-raise-40-million-to-democratize-natural-language-ai",
+          "publishedOn": "2021-09-07T20:51:19.000Z",
+          "wordCount": 1434,
+          "title": "Ex-Googlers raise $40M to democratize natural-language AI"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28436768",
-          "author": "curmudgeon22",
-          "description": "Article URL: https://www.wired.com/story/apple-imessage-zero-click-hacks/\nComments URL: https://news.ycombinator.com/item?id=28436768\nPoints: 114\n# Comments: 65",
-          "link": "https://www.wired.com/story/apple-imessage-zero-click-hacks/",
-          "publishedOn": "2021-09-06T18:53:53.000Z",
-          "wordCount": 1481,
-          "title": "Apple iMessage Zero-Click Hacks"
+          "id": "https://news.ycombinator.com/item?id=28449607",
+          "author": "hazzamanic",
+          "description": "Article URL: https://arstechnica.com/gadgets/2021/09/misbehaving-microsoft-teams-ad-brings-down-the-entire-windows-11-desktop\nComments URL: https://news.ycombinator.com/item?id=28449607\nPoints: 127\n# Comments: 62",
+          "link": "https://arstechnica.com/gadgets/2021/09/misbehaving-microsoft-teams-ad-brings-down-the-entire-windows-11-desktop",
+          "publishedOn": "2021-09-07T20:35:27.000Z",
+          "wordCount": 852,
+          "title": "Misbehaving Microsoft Teams ad brings down the entire Windows 11 desktop"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28436558",
-          "author": "thedday",
-          "description": "Article URL: https://www.tomshardware.com/news/used-chia-ssds-resold\nComments URL: https://news.ycombinator.com/item?id=28436558\nPoints: 174\n# Comments: 117",
-          "link": "https://www.tomshardware.com/news/used-chia-ssds-resold",
-          "publishedOn": "2021-09-06T18:30:04.000Z",
-          "wordCount": 1702,
-          "title": "Chia Coin Miners Are Reselling Used SSDs as New"
+          "id": "https://news.ycombinator.com/item?id=28449201",
+          "author": "zetalyrae",
+          "description": "Article URL: https://www.nationalboard.org/Index.aspx?pageID=164&ID=226\nComments URL: https://news.ycombinator.com/item?id=28449201\nPoints: 50\n# Comments: 24",
+          "link": "https://www.nationalboard.org/Index.aspx?pageID=164&ID=226",
+          "publishedOn": "2021-09-07T20:05:23.000Z",
+          "wordCount": 2223,
+          "title": "Anatomy of a Catastrophic Boiler Accident (1997)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28436541",
-          "author": "cjg",
-          "description": "Article URL: https://www.bbc.com/future/article/20210517-how-a-10k-poker-win-changed-how-i-think\nComments URL: https://news.ycombinator.com/item?id=28436541\nPoints: 150\n# Comments: 47",
-          "link": "https://www.bbc.com/future/article/20210517-how-a-10k-poker-win-changed-how-i-think",
-          "publishedOn": "2021-09-06T18:28:52.000Z",
-          "wordCount": 5271,
-          "title": "A $10k poker win changed how I think"
+          "id": "https://news.ycombinator.com/item?id=28449182",
+          "author": "prosim",
+          "description": "Article URL: https://blog.spiceai.org/posts/2021/09/07/introducing-spice.ai-open-source-time-series-ai-for-developers/\nComments URL: https://news.ycombinator.com/item?id=28449182\nPoints: 73\n# Comments: 24",
+          "link": "https://blog.spiceai.org/posts/2021/09/07/introducing-spice.ai-open-source-time-series-ai-for-developers/",
+          "publishedOn": "2021-09-07T20:03:20.000Z",
+          "wordCount": 836,
+          "title": "Spice.ai – open-source, time series AI for developers"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28436395",
-          "author": "fredley",
-          "description": "Article URL: https://minus.social/\nComments URL: https://news.ycombinator.com/item?id=28436395\nPoints: 325\n# Comments: 103",
-          "link": "https://minus.social/",
-          "publishedOn": "2021-09-06T18:10:38.000Z",
-          "wordCount": 269,
-          "title": "Minus"
+          "id": "https://news.ycombinator.com/item?id=28449162",
+          "author": "mark_mcnally_je",
+          "description": "Article URL: https://mark.mcnally.je/blog/post/My%20%C2%A34%20a%20month%20server%20can%20handle%204.2%20million%20requests%20a%20day\nComments URL: https://news.ycombinator.com/item?id=28449162\nPoints: 355\n# Comments: 198",
+          "link": "https://mark.mcnally.je/blog/post/My%20%C2%A34%20a%20month%20server%20can%20handle%204.2%20million%20requests%20a%20day",
+          "publishedOn": "2021-09-07T20:01:23.000Z",
+          "wordCount": 594,
+          "title": "My £4 a month server can handle 4.2M requests a day"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28435613",
-          "author": "FiloSottile",
-          "description": "Article URL: https://github.com/FiloSottile/age/releases/tag/v1.0.0\nComments URL: https://news.ycombinator.com/item?id=28435613\nPoints: 288\n# Comments: 53",
-          "link": "https://github.com/FiloSottile/age/releases/tag/v1.0.0",
-          "publishedOn": "2021-09-06T16:53:54.000Z",
-          "wordCount": 473,
-          "title": "Show HN: Age 1.0 – Simple, modern and secure file encryption"
+          "id": "https://news.ycombinator.com/item?id=28448283",
+          "author": "ColinWright",
+          "description": "Article URL: https://malisper.me/building-fizzbuzz-fractran-bottom/\nComments URL: https://news.ycombinator.com/item?id=28448283\nPoints: 37\n# Comments: 4",
+          "link": "https://malisper.me/building-fizzbuzz-fractran-bottom/",
+          "publishedOn": "2021-09-07T18:38:47.000Z",
+          "wordCount": 4802,
+          "title": "Building Fizzbuzz in Fractran from the Bottom Up (2016)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28434514",
-          "author": "daegloe",
-          "description": "Article URL: https://www.cnn.com/style/article/telosa-marc-lore-blake-ingels-new-city/index.html\nComments URL: https://news.ycombinator.com/item?id=28434514\nPoints: 89\n# Comments: 150",
-          "link": "https://www.cnn.com/style/article/telosa-marc-lore-blake-ingels-new-city/index.html",
-          "publishedOn": "2021-09-06T15:17:26.000Z",
-          "wordCount": 819,
-          "title": "Plans for a new city in the American desert"
+          "id": "https://news.ycombinator.com/item?id=28447820",
+          "author": "pueblito",
+          "description": "Article URL: https://archive.org/details/nro-dorian-mol/01-MOL-MISC-PHOTOS/mode/2up\nComments URL: https://news.ycombinator.com/item?id=28447820\nPoints: 52\n# Comments: 16",
+          "link": "https://archive.org/details/nro-dorian-mol/01-MOL-MISC-PHOTOS/mode/2up",
+          "publishedOn": "2021-09-07T18:03:50.000Z",
+          "wordCount": 6130,
+          "title": "NRO Manned Orbiting Laboratory"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28434012",
-          "author": "adamnemecek",
-          "description": "Article URL: https://revolt.chat/\nComments URL: https://news.ycombinator.com/item?id=28434012\nPoints: 529\n# Comments: 321",
-          "link": "https://revolt.chat/",
-          "publishedOn": "2021-09-06T14:29:30.000Z",
-          "wordCount": 207,
-          "title": "Revolt: Open-source alternative to Discord"
+          "id": "https://news.ycombinator.com/item?id=28447778",
+          "author": "sizzle",
+          "description": "Article URL: https://spectrum.ieee.org/a-soft-wearable-brain-machine-interface\nComments URL: https://news.ycombinator.com/item?id=28447778\nPoints: 100\n# Comments: 37",
+          "link": "https://spectrum.ieee.org/a-soft-wearable-brain-machine-interface",
+          "publishedOn": "2021-09-07T17:59:45.000Z",
+          "wordCount": 4343,
+          "title": "A soft, wearable brain–machine interface"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28433552",
-          "author": "iamnotarobotman",
-          "description": "Article URL: https://www.bbc.co.uk/news/technology-58464745\nComments URL: https://news.ycombinator.com/item?id=28433552\nPoints: 198\n# Comments: 256",
-          "link": "https://www.bbc.co.uk/news/technology-58464745",
-          "publishedOn": "2021-09-06T13:44:01.000Z",
-          "wordCount": 1085,
-          "title": "TikTok overtakes YouTube for average watch time in US and UK"
+          "id": "https://news.ycombinator.com/item?id=28447672",
+          "author": "enbugger",
+          "description": "Article URL: https://pdfpiw.uspto.gov/.piw?PageNum=0&docid=10599560\nComments URL: https://news.ycombinator.com/item?id=28447672\nPoints: 264\n# Comments: 112",
+          "link": "https://pdfpiw.uspto.gov/.piw?PageNum=0&docid=10599560",
+          "publishedOn": "2021-09-07T17:50:42.000Z",
+          "wordCount": 36,
+          "title": "Unity patents ECS"
         }
       ]
     }

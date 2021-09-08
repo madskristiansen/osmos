@@ -1,268 +1,268 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-07T00:49:54.654Z</id>
+    <id>urn:2021-09-08T00:51:41.265Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-07T00:49:54.654Z</updated>
+    <updated>2021-09-08T00:51:41.265Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Missing businesswoman urges ex-husband not to publish book critical of China]]></title>
-        <id>https://news.ycombinator.com/item?id=28439448</id>
-        <link href="https://www.npr.org/2021/09/06/1034556269/red-roulette-reveals-the-inside-of-chinas-wealth-making-machine"/>
-        <updated>2021-09-07T00:06:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/09/06/1034556269/red-roulette-reveals-the-inside-of-chinas-wealth-making-machine
-Comments URL: https://news.ycombinator.com/item?id=28439448
-Points: 35
-# Comments: 7]]></summary>
-        <author>
-            <name>ilamont</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Libwebsockets a powerful and lightweight pure C library]]></title>
-        <id>https://news.ycombinator.com/item?id=28439447</id>
-        <link href="https://libwebsockets.org/"/>
-        <updated>2021-09-07T00:06:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://libwebsockets.org/
-Comments URL: https://news.ycombinator.com/item?id=28439447
-Points: 13
-# Comments: 0]]></summary>
-        <author>
-            <name>khoobid_shoma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Updating an App to Use Swift Concurrency]]></title>
-        <id>https://news.ycombinator.com/item?id=28439339</id>
-        <link href="https://developer.apple.com/documentation/swift/swift_standard_library/concurrency/updating_an_app_to_use_swift_concurrency"/>
-        <updated>2021-09-06T23:44:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://developer.apple.com/documentation/swift/swift_standard_library/concurrency/updating_an_app_to_use_swift_concurrency
-Comments URL: https://news.ycombinator.com/item?id=28439339
+        <title type="html"><![CDATA[Hustle culture is not toxic]]></title>
+        <id>https://news.ycombinator.com/item?id=28451352</id>
+        <link href="https://bugragunduz.com/blog/hustle-culture/"/>
+        <updated>2021-09-08T00:07:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bugragunduz.com/blog/hustle-culture/
+Comments URL: https://news.ycombinator.com/item?id=28451352
 Points: 7
+# Comments: 5]]></summary>
+        <author>
+            <name>bgrgndzz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HashiCorp runs low on staff, calls a halt to Terraform pull requests]]></title>
+        <id>https://news.ycombinator.com/item?id=28451253</id>
+        <link href="https://www.theregister.com/2021/09/07/hashicorp_pause/"/>
+        <updated>2021-09-07T23:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2021/09/07/hashicorp_pause/
+Comments URL: https://news.ycombinator.com/item?id=28451253
+Points: 16
 # Comments: 2]]></summary>
         <author>
-            <name>Austin_Conlon</name>
+            <name>dogecoinbase</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SystemE – A lightweight systemd replacement written in Emacs Lisp]]></title>
-        <id>https://news.ycombinator.com/item?id=28439275</id>
-        <link href="https://github.com/a-schaefers/systemE"/>
-        <updated>2021-09-06T23:32:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/a-schaefers/systemE
-Comments URL: https://news.ycombinator.com/item?id=28439275
+        <title type="html"><![CDATA[Big Brothers Has Privatized]]></title>
+        <id>https://news.ycombinator.com/item?id=28451082</id>
+        <link href="https://javani.substack.com/p/big-brothers-has-privatized"/>
+        <updated>2021-09-07T23:27:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://javani.substack.com/p/big-brothers-has-privatized
+Comments URL: https://news.ycombinator.com/item?id=28451082
+Points: 27
+# Comments: 11]]></summary>
+        <author>
+            <name>Rayaneh11</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: An infinite record playlist of out-of-copyright works]]></title>
+        <id>https://news.ycombinator.com/item?id=28451071</id>
+        <link href="https://www.locserendipity.com/PushPlay.html"/>
+        <updated>2021-09-07T23:26:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.locserendipity.com/PushPlay.html
+Comments URL: https://news.ycombinator.com/item?id=28451071
 Points: 23
-# Comments: 3]]></summary>
+# Comments: 4]]></summary>
         <author>
-            <name>pabs3</name>
+            <name>westcort</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intermediate Algebra]]></title>
-        <id>https://news.ycombinator.com/item?id=28438595</id>
-        <link href="https://saylordotorg.github.io/text_intermediate-algebra/index.html"/>
-        <updated>2021-09-06T22:02:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://saylordotorg.github.io/text_intermediate-algebra/index.html
-Comments URL: https://news.ycombinator.com/item?id=28438595
-Points: 51
-# Comments: 39]]></summary>
+        <title type="html"><![CDATA[Australia’s new mass surveillance mandate]]></title>
+        <id>https://news.ycombinator.com/item?id=28451066</id>
+        <link href="https://digitalrightswatch.org.au/2021/09/02/australias-new-mass-surveillance-mandate/"/>
+        <updated>2021-09-07T23:25:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://digitalrightswatch.org.au/2021/09/02/australias-new-mass-surveillance-mandate/
+Comments URL: https://news.ycombinator.com/item?id=28451066
+Points: 84
+# Comments: 29]]></summary>
         <author>
-            <name>parsecs</name>
+            <name>soylentbeige</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Micro-GPS: High-Precision Localization Using Ground Texture (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=28438457</id>
-        <link href="https://microgps.cs.princeton.edu/"/>
-        <updated>2021-09-06T21:45:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://microgps.cs.princeton.edu/
-Comments URL: https://news.ycombinator.com/item?id=28438457
-Points: 36
-# Comments: 7]]></summary>
+        <title type="html"><![CDATA[Epic Iran: Some Zoroastrian Treasures]]></title>
+        <id>https://news.ycombinator.com/item?id=28451027</id>
+        <link href="https://blogs.bl.uk/asian-and-african/2021/08/epic-iran-some-zoroastrian-treasures.html"/>
+        <updated>2021-09-07T23:18:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blogs.bl.uk/asian-and-african/2021/08/epic-iran-some-zoroastrian-treasures.html
+Comments URL: https://news.ycombinator.com/item?id=28451027
+Points: 9
+# Comments: 1]]></summary>
         <author>
-            <name>miduil</name>
+            <name>benbreen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hummingbirds can smell their way out of danger]]></title>
-        <id>https://news.ycombinator.com/item?id=28438202</id>
-        <link href="https://news.ucr.edu/articles/2021/09/06/hummingbirds-can-smell-their-way-out-danger"/>
-        <updated>2021-09-06T21:16:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://news.ucr.edu/articles/2021/09/06/hummingbirds-can-smell-their-way-out-danger
-Comments URL: https://news.ycombinator.com/item?id=28438202
-Points: 19
+        <title type="html"><![CDATA[James Webb Space Telescope launch media kit [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=28450566</id>
+        <link href="https://esamultimedia.esa.int/docs/science/Webb-LaunchKit_EN.pdf"/>
+        <updated>2021-09-07T22:13:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://esamultimedia.esa.int/docs/science/Webb-LaunchKit_EN.pdf
+Comments URL: https://news.ycombinator.com/item?id=28450566
+Points: 62
+# Comments: 38]]></summary>
+        <author>
+            <name>kloch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Private Information and the Missing Markets for Financing Human Capital]]></title>
+        <id>https://news.ycombinator.com/item?id=28450558</id>
+        <link href="https://www.nber.org/papers/w29214#fromrss"/>
+        <updated>2021-09-07T22:11:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nber.org/papers/w29214#fromrss
+Comments URL: https://news.ycombinator.com/item?id=28450558
+Points: 9
 # Comments: 0]]></summary>
         <author>
-            <name>hhs</name>
+            <name>elsewhen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The mystery of Truman Capote's final novel]]></title>
-        <id>https://news.ycombinator.com/item?id=28438167</id>
-        <link href="https://www.townandcountrymag.com/society/money-and-power/a36740693/truman-capote-la-cote-basque-scandal-answered-prayers-mystery/"/>
-        <updated>2021-09-06T21:13:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.townandcountrymag.com/society/money-and-power/a36740693/truman-capote-la-cote-basque-scandal-answered-prayers-mystery/
-Comments URL: https://news.ycombinator.com/item?id=28438167
-Points: 17
-# Comments: 9]]></summary>
+        <title type="html"><![CDATA[SBCL: The Assembly Code Breadboard (2014)]]></title>
+        <id>https://news.ycombinator.com/item?id=28450473</id>
+        <link href="https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/"/>
+        <updated>2021-09-07T22:01:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/
+Comments URL: https://news.ycombinator.com/item?id=28450473
+Points: 59
+# Comments: 3]]></summary>
         <author>
-            <name>ascertain</name>
+            <name>isaac21259</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Keeper Tax (YC W19) is hiring an engineer in San Francisco]]></title>
-        <id>https://news.ycombinator.com/item?id=28438062</id>
-        <link href="https://angel.co/l/2vLWVu"/>
-        <updated>2021-09-06T21:01:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://angel.co/l/2vLWVu
-Comments URL: https://news.ycombinator.com/item?id=28438062
+        <title type="html"><![CDATA[90 Hours a Week and Loving It]]></title>
+        <id>https://news.ycombinator.com/item?id=28449923</id>
+        <link href="https://www.folklore.org/StoryView.py?project=Macintosh&amp;story=90_Hours_A_Week_And_Loving_It.txt&amp;sortOrder=Sort+by+Date"/>
+        <updated>2021-09-07T21:02:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.folklore.org/StoryView.py?project=Macintosh&story=90_Hours_A_Week_And_Loving_It.txt&sortOrder=Sort+by+Date
+Comments URL: https://news.ycombinator.com/item?id=28449923
+Points: 20
+# Comments: 12]]></summary>
+        <author>
+            <name>domrdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replit (YC W18) Is Hiring Engineers/Designers to Invent the Future of Programming]]></title>
+        <id>https://news.ycombinator.com/item?id=28449903</id>
+        <link href="https://replit.com/site/careers"/>
+        <updated>2021-09-07T21:01:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://replit.com/site/careers
+Comments URL: https://news.ycombinator.com/item?id=28449903
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>pkoullick92</name>
+            <name>amasad</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Greedy AI agents learn to cooperate]]></title>
-        <id>https://news.ycombinator.com/item?id=28437797</id>
-        <link href="https://spectrum.ieee.org/reinforcement-learning"/>
-        <updated>2021-09-06T20:36:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/reinforcement-learning
-Comments URL: https://news.ycombinator.com/item?id=28437797
-Points: 47
-# Comments: 8]]></summary>
+        <title type="html"><![CDATA[Ex-Googlers raise $40M to democratize natural-language AI]]></title>
+        <id>https://news.ycombinator.com/item?id=28449779</id>
+        <link href="https://www.fastcompany.com/90670635/ex-googlers-raise-40-million-to-democratize-natural-language-ai"/>
+        <updated>2021-09-07T20:51:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.fastcompany.com/90670635/ex-googlers-raise-40-million-to-democratize-natural-language-ai
+Comments URL: https://news.ycombinator.com/item?id=28449779
+Points: 29
+# Comments: 23]]></summary>
         <author>
-            <name>ystad</name>
+            <name>aaronbrindle</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Plans are useless, but planning is indispensable (2005)]]></title>
-        <id>https://news.ycombinator.com/item?id=28437278</id>
-        <link href="https://www.pmi.org/learning/library/planning-process-indispensable-software-projects-7487"/>
-        <updated>2021-09-06T19:48:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.pmi.org/learning/library/planning-process-indispensable-software-projects-7487
-Comments URL: https://news.ycombinator.com/item?id=28437278
-Points: 38
-# Comments: 3]]></summary>
+        <title type="html"><![CDATA[Misbehaving Microsoft Teams ad brings down the entire Windows 11 desktop]]></title>
+        <id>https://news.ycombinator.com/item?id=28449607</id>
+        <link href="https://arstechnica.com/gadgets/2021/09/misbehaving-microsoft-teams-ad-brings-down-the-entire-windows-11-desktop"/>
+        <updated>2021-09-07T20:35:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/09/misbehaving-microsoft-teams-ad-brings-down-the-entire-windows-11-desktop
+Comments URL: https://news.ycombinator.com/item?id=28449607
+Points: 127
+# Comments: 62]]></summary>
         <author>
-            <name>cjg</name>
+            <name>hazzamanic</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Notcurses 2.4]]></title>
-        <id>https://news.ycombinator.com/item?id=28437173</id>
-        <link href="https://github.com/dankamongmen/notcurses/releases/tag/v2.4.0"/>
-        <updated>2021-09-06T19:39:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/dankamongmen/notcurses/releases/tag/v2.4.0
-Comments URL: https://news.ycombinator.com/item?id=28437173
-Points: 55
+        <title type="html"><![CDATA[Anatomy of a Catastrophic Boiler Accident (1997)]]></title>
+        <id>https://news.ycombinator.com/item?id=28449201</id>
+        <link href="https://www.nationalboard.org/Index.aspx?pageID=164&amp;ID=226"/>
+        <updated>2021-09-07T20:05:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nationalboard.org/Index.aspx?pageID=164&ID=226
+Comments URL: https://news.ycombinator.com/item?id=28449201
+Points: 50
 # Comments: 24]]></summary>
         <author>
-            <name>marcodiego</name>
+            <name>zetalyrae</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple iMessage Zero-Click Hacks]]></title>
-        <id>https://news.ycombinator.com/item?id=28436768</id>
-        <link href="https://www.wired.com/story/apple-imessage-zero-click-hacks/"/>
-        <updated>2021-09-06T18:53:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/apple-imessage-zero-click-hacks/
-Comments URL: https://news.ycombinator.com/item?id=28436768
-Points: 114
-# Comments: 65]]></summary>
+        <title type="html"><![CDATA[Spice.ai – open-source, time series AI for developers]]></title>
+        <id>https://news.ycombinator.com/item?id=28449182</id>
+        <link href="https://blog.spiceai.org/posts/2021/09/07/introducing-spice.ai-open-source-time-series-ai-for-developers/"/>
+        <updated>2021-09-07T20:03:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.spiceai.org/posts/2021/09/07/introducing-spice.ai-open-source-time-series-ai-for-developers/
+Comments URL: https://news.ycombinator.com/item?id=28449182
+Points: 73
+# Comments: 24]]></summary>
         <author>
-            <name>curmudgeon22</name>
+            <name>prosim</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chia Coin Miners Are Reselling Used SSDs as New]]></title>
-        <id>https://news.ycombinator.com/item?id=28436558</id>
-        <link href="https://www.tomshardware.com/news/used-chia-ssds-resold"/>
-        <updated>2021-09-06T18:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.tomshardware.com/news/used-chia-ssds-resold
-Comments URL: https://news.ycombinator.com/item?id=28436558
-Points: 174
-# Comments: 117]]></summary>
+        <title type="html"><![CDATA[My £4 a month server can handle 4.2M requests a day]]></title>
+        <id>https://news.ycombinator.com/item?id=28449162</id>
+        <link href="https://mark.mcnally.je/blog/post/My%20%C2%A34%20a%20month%20server%20can%20handle%204.2%20million%20requests%20a%20day"/>
+        <updated>2021-09-07T20:01:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mark.mcnally.je/blog/post/My%20%C2%A34%20a%20month%20server%20can%20handle%204.2%20million%20requests%20a%20day
+Comments URL: https://news.ycombinator.com/item?id=28449162
+Points: 355
+# Comments: 198]]></summary>
         <author>
-            <name>thedday</name>
+            <name>mark_mcnally_je</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A $10k poker win changed how I think]]></title>
-        <id>https://news.ycombinator.com/item?id=28436541</id>
-        <link href="https://www.bbc.com/future/article/20210517-how-a-10k-poker-win-changed-how-i-think"/>
-        <updated>2021-09-06T18:28:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/future/article/20210517-how-a-10k-poker-win-changed-how-i-think
-Comments URL: https://news.ycombinator.com/item?id=28436541
-Points: 150
-# Comments: 47]]></summary>
+        <title type="html"><![CDATA[Building Fizzbuzz in Fractran from the Bottom Up (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=28448283</id>
+        <link href="https://malisper.me/building-fizzbuzz-fractran-bottom/"/>
+        <updated>2021-09-07T18:38:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://malisper.me/building-fizzbuzz-fractran-bottom/
+Comments URL: https://news.ycombinator.com/item?id=28448283
+Points: 37
+# Comments: 4]]></summary>
         <author>
-            <name>cjg</name>
+            <name>ColinWright</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Minus]]></title>
-        <id>https://news.ycombinator.com/item?id=28436395</id>
-        <link href="https://minus.social/"/>
-        <updated>2021-09-06T18:10:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://minus.social/
-Comments URL: https://news.ycombinator.com/item?id=28436395
-Points: 325
-# Comments: 103]]></summary>
+        <title type="html"><![CDATA[NRO Manned Orbiting Laboratory]]></title>
+        <id>https://news.ycombinator.com/item?id=28447820</id>
+        <link href="https://archive.org/details/nro-dorian-mol/01-MOL-MISC-PHOTOS/mode/2up"/>
+        <updated>2021-09-07T18:03:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://archive.org/details/nro-dorian-mol/01-MOL-MISC-PHOTOS/mode/2up
+Comments URL: https://news.ycombinator.com/item?id=28447820
+Points: 52
+# Comments: 16]]></summary>
         <author>
-            <name>fredley</name>
+            <name>pueblito</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Age 1.0 – Simple, modern and secure file encryption]]></title>
-        <id>https://news.ycombinator.com/item?id=28435613</id>
-        <link href="https://github.com/FiloSottile/age/releases/tag/v1.0.0"/>
-        <updated>2021-09-06T16:53:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/FiloSottile/age/releases/tag/v1.0.0
-Comments URL: https://news.ycombinator.com/item?id=28435613
-Points: 288
-# Comments: 53]]></summary>
+        <title type="html"><![CDATA[A soft, wearable brain–machine interface]]></title>
+        <id>https://news.ycombinator.com/item?id=28447778</id>
+        <link href="https://spectrum.ieee.org/a-soft-wearable-brain-machine-interface"/>
+        <updated>2021-09-07T17:59:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/a-soft-wearable-brain-machine-interface
+Comments URL: https://news.ycombinator.com/item?id=28447778
+Points: 100
+# Comments: 37]]></summary>
         <author>
-            <name>FiloSottile</name>
+            <name>sizzle</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Plans for a new city in the American desert]]></title>
-        <id>https://news.ycombinator.com/item?id=28434514</id>
-        <link href="https://www.cnn.com/style/article/telosa-marc-lore-blake-ingels-new-city/index.html"/>
-        <updated>2021-09-06T15:17:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnn.com/style/article/telosa-marc-lore-blake-ingels-new-city/index.html
-Comments URL: https://news.ycombinator.com/item?id=28434514
-Points: 89
-# Comments: 150]]></summary>
+        <title type="html"><![CDATA[Unity patents ECS]]></title>
+        <id>https://news.ycombinator.com/item?id=28447672</id>
+        <link href="https://pdfpiw.uspto.gov/.piw?PageNum=0&amp;docid=10599560"/>
+        <updated>2021-09-07T17:50:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pdfpiw.uspto.gov/.piw?PageNum=0&docid=10599560
+Comments URL: https://news.ycombinator.com/item?id=28447672
+Points: 264
+# Comments: 112]]></summary>
         <author>
-            <name>daegloe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revolt: Open-source alternative to Discord]]></title>
-        <id>https://news.ycombinator.com/item?id=28434012</id>
-        <link href="https://revolt.chat/"/>
-        <updated>2021-09-06T14:29:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://revolt.chat/
-Comments URL: https://news.ycombinator.com/item?id=28434012
-Points: 529
-# Comments: 321]]></summary>
-        <author>
-            <name>adamnemecek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok overtakes YouTube for average watch time in US and UK]]></title>
-        <id>https://news.ycombinator.com/item?id=28433552</id>
-        <link href="https://www.bbc.co.uk/news/technology-58464745"/>
-        <updated>2021-09-06T13:44:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/technology-58464745
-Comments URL: https://news.ycombinator.com/item?id=28433552
-Points: 198
-# Comments: 256]]></summary>
-        <author>
-            <name>iamnotarobotman</name>
+            <name>enbugger</name>
         </author>
     </entry>
 </feed>
