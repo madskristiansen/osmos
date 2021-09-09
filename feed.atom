@@ -1,268 +1,270 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-08T00:51:41.265Z</id>
+    <id>urn:2021-09-09T00:55:18.755Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-08T00:51:41.265Z</updated>
+    <updated>2021-09-09T00:55:18.755Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Hustle culture is not toxic]]></title>
-        <id>https://news.ycombinator.com/item?id=28451352</id>
-        <link href="https://bugragunduz.com/blog/hustle-culture/"/>
-        <updated>2021-09-08T00:07:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bugragunduz.com/blog/hustle-culture/
-Comments URL: https://news.ycombinator.com/item?id=28451352
-Points: 7
-# Comments: 5]]></summary>
-        <author>
-            <name>bgrgndzz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HashiCorp runs low on staff, calls a halt to Terraform pull requests]]></title>
-        <id>https://news.ycombinator.com/item?id=28451253</id>
-        <link href="https://www.theregister.com/2021/09/07/hashicorp_pause/"/>
-        <updated>2021-09-07T23:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2021/09/07/hashicorp_pause/
-Comments URL: https://news.ycombinator.com/item?id=28451253
-Points: 16
-# Comments: 2]]></summary>
-        <author>
-            <name>dogecoinbase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big Brothers Has Privatized]]></title>
-        <id>https://news.ycombinator.com/item?id=28451082</id>
-        <link href="https://javani.substack.com/p/big-brothers-has-privatized"/>
-        <updated>2021-09-07T23:27:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://javani.substack.com/p/big-brothers-has-privatized
-Comments URL: https://news.ycombinator.com/item?id=28451082
+        <title type="html"><![CDATA[Amazon Elasticsearch Service Is Now Amazon OpenSearch Service]]></title>
+        <id>https://news.ycombinator.com/item?id=28464224</id>
+        <link href="https://aws.amazon.com/blogs/aws/amazon-elasticsearch-service-is-now-amazon-opensearch-service-and-supports-opensearch-10/"/>
+        <updated>2021-09-08T23:14:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://aws.amazon.com/blogs/aws/amazon-elasticsearch-service-is-now-amazon-opensearch-service-and-supports-opensearch-10/
+Comments URL: https://news.ycombinator.com/item?id=28464224
 Points: 27
-# Comments: 11]]></summary>
-        <author>
-            <name>Rayaneh11</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: An infinite record playlist of out-of-copyright works]]></title>
-        <id>https://news.ycombinator.com/item?id=28451071</id>
-        <link href="https://www.locserendipity.com/PushPlay.html"/>
-        <updated>2021-09-07T23:26:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.locserendipity.com/PushPlay.html
-Comments URL: https://news.ycombinator.com/item?id=28451071
-Points: 23
-# Comments: 4]]></summary>
-        <author>
-            <name>westcort</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australia’s new mass surveillance mandate]]></title>
-        <id>https://news.ycombinator.com/item?id=28451066</id>
-        <link href="https://digitalrightswatch.org.au/2021/09/02/australias-new-mass-surveillance-mandate/"/>
-        <updated>2021-09-07T23:25:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://digitalrightswatch.org.au/2021/09/02/australias-new-mass-surveillance-mandate/
-Comments URL: https://news.ycombinator.com/item?id=28451066
-Points: 84
-# Comments: 29]]></summary>
-        <author>
-            <name>soylentbeige</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Iran: Some Zoroastrian Treasures]]></title>
-        <id>https://news.ycombinator.com/item?id=28451027</id>
-        <link href="https://blogs.bl.uk/asian-and-african/2021/08/epic-iran-some-zoroastrian-treasures.html"/>
-        <updated>2021-09-07T23:18:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blogs.bl.uk/asian-and-african/2021/08/epic-iran-some-zoroastrian-treasures.html
-Comments URL: https://news.ycombinator.com/item?id=28451027
-Points: 9
-# Comments: 1]]></summary>
-        <author>
-            <name>benbreen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[James Webb Space Telescope launch media kit [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=28450566</id>
-        <link href="https://esamultimedia.esa.int/docs/science/Webb-LaunchKit_EN.pdf"/>
-        <updated>2021-09-07T22:13:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://esamultimedia.esa.int/docs/science/Webb-LaunchKit_EN.pdf
-Comments URL: https://news.ycombinator.com/item?id=28450566
-Points: 62
-# Comments: 38]]></summary>
-        <author>
-            <name>kloch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Private Information and the Missing Markets for Financing Human Capital]]></title>
-        <id>https://news.ycombinator.com/item?id=28450558</id>
-        <link href="https://www.nber.org/papers/w29214#fromrss"/>
-        <updated>2021-09-07T22:11:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nber.org/papers/w29214#fromrss
-Comments URL: https://news.ycombinator.com/item?id=28450558
-Points: 9
-# Comments: 0]]></summary>
-        <author>
-            <name>elsewhen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBCL: The Assembly Code Breadboard (2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=28450473</id>
-        <link href="https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/"/>
-        <updated>2021-09-07T22:01:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/
-Comments URL: https://news.ycombinator.com/item?id=28450473
-Points: 59
-# Comments: 3]]></summary>
-        <author>
-            <name>isaac21259</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[90 Hours a Week and Loving It]]></title>
-        <id>https://news.ycombinator.com/item?id=28449923</id>
-        <link href="https://www.folklore.org/StoryView.py?project=Macintosh&amp;story=90_Hours_A_Week_And_Loving_It.txt&amp;sortOrder=Sort+by+Date"/>
-        <updated>2021-09-07T21:02:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.folklore.org/StoryView.py?project=Macintosh&story=90_Hours_A_Week_And_Loving_It.txt&sortOrder=Sort+by+Date
-Comments URL: https://news.ycombinator.com/item?id=28449923
-Points: 20
 # Comments: 12]]></summary>
         <author>
-            <name>domrdy</name>
+            <name>daigoba66</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Replit (YC W18) Is Hiring Engineers/Designers to Invent the Future of Programming]]></title>
-        <id>https://news.ycombinator.com/item?id=28449903</id>
-        <link href="https://replit.com/site/careers"/>
-        <updated>2021-09-07T21:01:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://replit.com/site/careers
-Comments URL: https://news.ycombinator.com/item?id=28449903
-Points: 1
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Turning the Labor Shortage Up to 11]]></title>
+        <id>https://news.ycombinator.com/item?id=28464184</id>
+        <link href="https://alhambrapartners.com/2021/09/08/turning-the-labor-shortage-up-to-11/"/>
+        <updated>2021-09-08T23:09:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://alhambrapartners.com/2021/09/08/turning-the-labor-shortage-up-to-11/
+Comments URL: https://news.ycombinator.com/item?id=28464184
+Points: 32
+# Comments: 34]]></summary>
         <author>
-            <name>amasad</name>
+            <name>cinquemb</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ex-Googlers raise $40M to democratize natural-language AI]]></title>
-        <id>https://news.ycombinator.com/item?id=28449779</id>
-        <link href="https://www.fastcompany.com/90670635/ex-googlers-raise-40-million-to-democratize-natural-language-ai"/>
-        <updated>2021-09-07T20:51:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.fastcompany.com/90670635/ex-googlers-raise-40-million-to-democratize-natural-language-ai
-Comments URL: https://news.ycombinator.com/item?id=28449779
-Points: 29
-# Comments: 23]]></summary>
-        <author>
-            <name>aaronbrindle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Misbehaving Microsoft Teams ad brings down the entire Windows 11 desktop]]></title>
-        <id>https://news.ycombinator.com/item?id=28449607</id>
-        <link href="https://arstechnica.com/gadgets/2021/09/misbehaving-microsoft-teams-ad-brings-down-the-entire-windows-11-desktop"/>
-        <updated>2021-09-07T20:35:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/09/misbehaving-microsoft-teams-ad-brings-down-the-entire-windows-11-desktop
-Comments URL: https://news.ycombinator.com/item?id=28449607
-Points: 127
-# Comments: 62]]></summary>
-        <author>
-            <name>hazzamanic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anatomy of a Catastrophic Boiler Accident (1997)]]></title>
-        <id>https://news.ycombinator.com/item?id=28449201</id>
-        <link href="https://www.nationalboard.org/Index.aspx?pageID=164&amp;ID=226"/>
-        <updated>2021-09-07T20:05:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nationalboard.org/Index.aspx?pageID=164&ID=226
-Comments URL: https://news.ycombinator.com/item?id=28449201
+        <title type="html"><![CDATA[How strong would a magnetic field have to be to kill you?]]></title>
+        <id>https://news.ycombinator.com/item?id=28463855</id>
+        <link href="https://gravityandlevity.wordpress.com/2015/01/12/how-strong-would-a-magnetic-field-have-to-be-to-kill-you/#comment-3929"/>
+        <updated>2021-09-08T22:31:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gravityandlevity.wordpress.com/2015/01/12/how-strong-would-a-magnetic-field-have-to-be-to-kill-you/#comment-3929
+Comments URL: https://news.ycombinator.com/item?id=28463855
 Points: 50
-# Comments: 24]]></summary>
+# Comments: 15]]></summary>
+        <author>
+            <name>mrlonglong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Doctors die. It’s not like the rest of us (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=28463482</id>
+        <link href="https://archive.cancerworld.net/featured/how-doctors-die/"/>
+        <updated>2021-09-08T21:49:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://archive.cancerworld.net/featured/how-doctors-die/
+Comments URL: https://news.ycombinator.com/item?id=28463482
+Points: 74
+# Comments: 48]]></summary>
+        <author>
+            <name>jimmckin1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soar Cognitive Architecture]]></title>
+        <id>https://news.ycombinator.com/item?id=28463289</id>
+        <link href="https://soar.eecs.umich.edu/"/>
+        <updated>2021-09-08T21:28:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://soar.eecs.umich.edu/
+Comments URL: https://news.ycombinator.com/item?id=28463289
+Points: 30
+# Comments: 3]]></summary>
         <author>
             <name>zetalyrae</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spice.ai – open-source, time series AI for developers]]></title>
-        <id>https://news.ycombinator.com/item?id=28449182</id>
-        <link href="https://blog.spiceai.org/posts/2021/09/07/introducing-spice.ai-open-source-time-series-ai-for-developers/"/>
-        <updated>2021-09-07T20:03:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.spiceai.org/posts/2021/09/07/introducing-spice.ai-open-source-time-series-ai-for-developers/
-Comments URL: https://news.ycombinator.com/item?id=28449182
-Points: 73
-# Comments: 24]]></summary>
+        <title type="html"><![CDATA[NASA's James Webb Space Telescope Launch Delayed to December]]></title>
+        <id>https://news.ycombinator.com/item?id=28463044</id>
+        <link href="https://www.space.com/james-webb-space-telescope-launch-december-2021"/>
+        <updated>2021-09-08T21:04:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.space.com/james-webb-space-telescope-launch-december-2021
+Comments URL: https://news.ycombinator.com/item?id=28463044
+Points: 77
+# Comments: 46]]></summary>
         <author>
-            <name>prosim</name>
+            <name>asmithmd1</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My £4 a month server can handle 4.2M requests a day]]></title>
-        <id>https://news.ycombinator.com/item?id=28449162</id>
-        <link href="https://mark.mcnally.je/blog/post/My%20%C2%A34%20a%20month%20server%20can%20handle%204.2%20million%20requests%20a%20day"/>
-        <updated>2021-09-07T20:01:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mark.mcnally.je/blog/post/My%20%C2%A34%20a%20month%20server%20can%20handle%204.2%20million%20requests%20a%20day
-Comments URL: https://news.ycombinator.com/item?id=28449162
-Points: 355
-# Comments: 198]]></summary>
+        <title type="html"><![CDATA[Triplebyte Hiring Head of Engineering]]></title>
+        <id>https://news.ycombinator.com/item?id=28462991</id>
+        <link href="https://news.ycombinator.com/item?id=28462991"/>
+        <updated>2021-09-08T21:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Hello! We're hiring a Head of Engineering to join our core leadership team. We're building a job search platform that puts engineers in control, solves the problem of recruiter ghosting, and helps engineers without credentials break into the industry. This approach is growing quickly. The number of engineer joining Triplebtye grew 400% over the last quarter.
+We're looking for someone with startup engineering experience to help us scale our team. We don't need previous executive experience. We're open to remote. We wrote more about the job at https://boards.greenhouse.io/triplebyte/jobs/4700194003>.
+If you're interested, email our CEO at ammon@triplebyte.com!
+Comments URL: https://news.ycombinator.com/item?id=28462991
+Points: 1
+# Comments: 0]]></summary>
         <author>
-            <name>mark_mcnally_je</name>
+            <name>ammon</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Fizzbuzz in Fractran from the Bottom Up (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=28448283</id>
-        <link href="https://malisper.me/building-fizzbuzz-fractran-bottom/"/>
-        <updated>2021-09-07T18:38:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://malisper.me/building-fizzbuzz-fractran-bottom/
-Comments URL: https://news.ycombinator.com/item?id=28448283
-Points: 37
-# Comments: 4]]></summary>
-        <author>
-            <name>ColinWright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NRO Manned Orbiting Laboratory]]></title>
-        <id>https://news.ycombinator.com/item?id=28447820</id>
-        <link href="https://archive.org/details/nro-dorian-mol/01-MOL-MISC-PHOTOS/mode/2up"/>
-        <updated>2021-09-07T18:03:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://archive.org/details/nro-dorian-mol/01-MOL-MISC-PHOTOS/mode/2up
-Comments URL: https://news.ycombinator.com/item?id=28447820
-Points: 52
-# Comments: 16]]></summary>
-        <author>
-            <name>pueblito</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A soft, wearable brain–machine interface]]></title>
-        <id>https://news.ycombinator.com/item?id=28447778</id>
-        <link href="https://spectrum.ieee.org/a-soft-wearable-brain-machine-interface"/>
-        <updated>2021-09-07T17:59:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/a-soft-wearable-brain-machine-interface
-Comments URL: https://news.ycombinator.com/item?id=28447778
-Points: 100
+        <title type="html"><![CDATA[Should you delete social media? That’s the wrong question.]]></title>
+        <id>https://news.ycombinator.com/item?id=28462650</id>
+        <link href="https://mehretbiruk.com/delete-social-media/"/>
+        <updated>2021-09-08T20:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mehretbiruk.com/delete-social-media/
+Comments URL: https://news.ycombinator.com/item?id=28462650
+Points: 41
 # Comments: 37]]></summary>
         <author>
-            <name>sizzle</name>
+            <name>digitalminimal</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unity patents ECS]]></title>
-        <id>https://news.ycombinator.com/item?id=28447672</id>
-        <link href="https://pdfpiw.uspto.gov/.piw?PageNum=0&amp;docid=10599560"/>
-        <updated>2021-09-07T17:50:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pdfpiw.uspto.gov/.piw?PageNum=0&docid=10599560
-Comments URL: https://news.ycombinator.com/item?id=28447672
-Points: 264
-# Comments: 112]]></summary>
+        <title type="html"><![CDATA[How to Replace Docker with Podman on a Mac]]></title>
+        <id>https://news.ycombinator.com/item?id=28462495</id>
+        <link href="https://www.redhat.com/sysadmin/replace-docker-podman-macos"/>
+        <updated>2021-09-08T20:18:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.redhat.com/sysadmin/replace-docker-podman-macos
+Comments URL: https://news.ycombinator.com/item?id=28462495
+Points: 163
+# Comments: 46]]></summary>
         <author>
-            <name>enbugger</name>
+            <name>molecule</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silanano launches the first new commercial battery chemistry since 1991]]></title>
+        <id>https://news.ycombinator.com/item?id=28462298</id>
+        <link href="https://silanano.com/news/one-small-new-battery-one-giant-leap-for-our-energy-future/?referrer"/>
+        <updated>2021-09-08T20:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://silanano.com/news/one-small-new-battery-one-giant-leap-for-our-energy-future/?referrer
+Comments URL: https://news.ycombinator.com/item?id=28462298
+Points: 42
+# Comments: 12]]></summary>
+        <author>
+            <name>spullara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Massive animal species discovered in half-billion-year-old Burgess Shale]]></title>
+        <id>https://news.ycombinator.com/item?id=28462182</id>
+        <link href="https://www.rom.on.ca/en/about-us/newsroom/press-releases/massive-new-animal-species-discovered-in-half-billion-year-old"/>
+        <updated>2021-09-08T19:52:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.rom.on.ca/en/about-us/newsroom/press-releases/massive-new-animal-species-discovered-in-half-billion-year-old
+Comments URL: https://news.ycombinator.com/item?id=28462182
+Points: 96
+# Comments: 38]]></summary>
+        <author>
+            <name>hhs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Went All In on sqlc/pgx for Postgres and Go]]></title>
+        <id>https://news.ycombinator.com/item?id=28462162</id>
+        <link href="https://brandur.org/sqlc"/>
+        <updated>2021-09-08T19:51:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brandur.org/sqlc
+Comments URL: https://news.ycombinator.com/item?id=28462162
+Points: 137
+# Comments: 64]]></summary>
+        <author>
+            <name>conroy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIT-designed project achieves major advance toward fusion energy]]></title>
+        <id>https://news.ycombinator.com/item?id=28462151</id>
+        <link href="https://news.mit.edu/2021/MIT-CFS-major-advance-toward-fusion-energy-0908"/>
+        <updated>2021-09-08T19:50:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2021/MIT-CFS-major-advance-toward-fusion-energy-0908
+Comments URL: https://news.ycombinator.com/item?id=28462151
+Points: 324
+# Comments: 123]]></summary>
+        <author>
+            <name>klintcho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FD 100]]></title>
+        <id>https://news.ycombinator.com/item?id=28461915</id>
+        <link href="https://susam.in/maze/fd-100.html"/>
+        <updated>2021-09-08T19:32:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://susam.in/maze/fd-100.html
+Comments URL: https://news.ycombinator.com/item?id=28461915
+Points: 47
+# Comments: 6]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LAPD officers told to collect social media data on every civilian they stop]]></title>
+        <id>https://news.ycombinator.com/item?id=28461848</id>
+        <link href="https://www.theguardian.com/us-news/2021/sep/08/revealed-los-angeles-police-officers-gathering-social-media"/>
+        <updated>2021-09-08T19:24:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/us-news/2021/sep/08/revealed-los-angeles-police-officers-gathering-social-media
+Comments URL: https://news.ycombinator.com/item?id=28461848
+Points: 335
+# Comments: 287]]></summary>
+        <author>
+            <name>perihelions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Actions limitations and gotchas]]></title>
+        <id>https://news.ycombinator.com/item?id=28460342</id>
+        <link href="https://www.cbui.dev/github-actions-limitations-and-gotchas/"/>
+        <updated>2021-09-08T17:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cbui.dev/github-actions-limitations-and-gotchas/
+Comments URL: https://news.ycombinator.com/item?id=28460342
+Points: 145
+# Comments: 88]]></summary>
+        <author>
+            <name>147</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Docker broke in half]]></title>
+        <id>https://news.ycombinator.com/item?id=28459145</id>
+        <link href="https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html"/>
+        <updated>2021-09-08T16:10:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html
+Comments URL: https://news.ycombinator.com/item?id=28459145
+Points: 153
+# Comments: 121]]></summary>
+        <author>
+            <name>pauljonas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pedalboard: Spotify’s Audio Effects Library for Python]]></title>
+        <id>https://news.ycombinator.com/item?id=28458930</id>
+        <link href="https://engineering.atspotify.com/2021/09/07/introducing-pedalboard-spotifys-audio-effects-library-for-python/"/>
+        <updated>2021-09-08T15:56:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://engineering.atspotify.com/2021/09/07/introducing-pedalboard-spotifys-audio-effects-library-for-python/
+Comments URL: https://news.ycombinator.com/item?id=28458930
+Points: 184
+# Comments: 41]]></summary>
+        <author>
+            <name>bobbiechen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generating a QR code with only ARM Assembly]]></title>
+        <id>https://news.ycombinator.com/item?id=28458818</id>
+        <link href="https://github.com/barrettotte/qr-asm"/>
+        <updated>2021-09-08T15:49:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/barrettotte/qr-asm
+Comments URL: https://news.ycombinator.com/item?id=28458818
+Points: 69
+# Comments: 29]]></summary>
+        <author>
+            <name>barrettotte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maintain It with Zig]]></title>
+        <id>https://news.ycombinator.com/item?id=28458713</id>
+        <link href="https://kristoff.it/blog/maintain-it-with-zig/"/>
+        <updated>2021-09-08T15:40:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kristoff.it/blog/maintain-it-with-zig/
+Comments URL: https://news.ycombinator.com/item?id=28458713
+Points: 330
+# Comments: 198]]></summary>
+        <author>
+            <name>Tomte</name>
         </author>
     </entry>
 </feed>
