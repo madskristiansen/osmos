@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=28464224",
-          "author": "daigoba66",
-          "description": "Article URL: https://aws.amazon.com/blogs/aws/amazon-elasticsearch-service-is-now-amazon-opensearch-service-and-supports-opensearch-10/\nComments URL: https://news.ycombinator.com/item?id=28464224\nPoints: 27\n# Comments: 12",
-          "link": "https://aws.amazon.com/blogs/aws/amazon-elasticsearch-service-is-now-amazon-opensearch-service-and-supports-opensearch-10/",
-          "publishedOn": "2021-09-08T23:14:09.000Z",
-          "wordCount": 1707,
-          "title": "Amazon Elasticsearch Service Is Now Amazon OpenSearch Service"
+          "id": "https://news.ycombinator.com/item?id=28476153",
+          "author": "mdoms",
+          "description": "Article URL: https://www.theverge.com/2021/9/9/22665826/epic-games-apple-reinstate-fortnite-ios-korea-app-store-payment\nComments URL: https://news.ycombinator.com/item?id=28476153\nPoints: 28\n# Comments: 4",
+          "link": "https://www.theverge.com/2021/9/9/22665826/epic-games-apple-reinstate-fortnite-ios-korea-app-store-payment",
+          "publishedOn": "2021-09-09T23:55:19.000Z",
+          "wordCount": 643,
+          "title": "Epic tests Apple with new request: let us relaunch Fortnite in Korea"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28464184",
-          "author": "cinquemb",
-          "description": "Article URL: https://alhambrapartners.com/2021/09/08/turning-the-labor-shortage-up-to-11/\nComments URL: https://news.ycombinator.com/item?id=28464184\nPoints: 32\n# Comments: 34",
-          "link": "https://alhambrapartners.com/2021/09/08/turning-the-labor-shortage-up-to-11/",
-          "publishedOn": "2021-09-08T23:09:02.000Z",
-          "wordCount": 1813,
-          "title": "Turning the Labor Shortage Up to 11"
+          "id": "https://news.ycombinator.com/item?id=28476074",
+          "author": "classichasclass",
+          "description": "Article URL: https://oldvcr.blogspot.com/2021/09/the-incredible-kimplement-02b-kim-1.html\nComments URL: https://news.ycombinator.com/item?id=28476074\nPoints: 5\n# Comments: 0",
+          "link": "https://oldvcr.blogspot.com/2021/09/the-incredible-kimplement-02b-kim-1.html",
+          "publishedOn": "2021-09-09T23:45:37.000Z",
+          "wordCount": 1834,
+          "title": "The KIMplement 0.2b: a KIM-1 emulator for the Commodore 64"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28463855",
-          "author": "mrlonglong",
-          "description": "Article URL: https://gravityandlevity.wordpress.com/2015/01/12/how-strong-would-a-magnetic-field-have-to-be-to-kill-you/#comment-3929\nComments URL: https://news.ycombinator.com/item?id=28463855\nPoints: 50\n# Comments: 15",
-          "link": "https://gravityandlevity.wordpress.com/2015/01/12/how-strong-would-a-magnetic-field-have-to-be-to-kill-you/#comment-3929",
-          "publishedOn": "2021-09-08T22:31:51.000Z",
-          "wordCount": 6816,
-          "title": "How strong would a magnetic field have to be to kill you?"
+          "id": "https://news.ycombinator.com/item?id=28475704",
+          "author": "leotravis10",
+          "description": "Article URL: https://gizmodo.com/hacker-lawyer-jay-leiderman-is-dead-at-50-1847646284\nComments URL: https://news.ycombinator.com/item?id=28475704\nPoints: 20\n# Comments: 1",
+          "link": "https://gizmodo.com/hacker-lawyer-jay-leiderman-is-dead-at-50-1847646284",
+          "publishedOn": "2021-09-09T23:00:40.000Z",
+          "wordCount": 669,
+          "title": "Jay Leiderman Has Died"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28463482",
-          "author": "jimmckin1",
-          "description": "Article URL: https://archive.cancerworld.net/featured/how-doctors-die/\nComments URL: https://news.ycombinator.com/item?id=28463482\nPoints: 74\n# Comments: 48",
-          "link": "https://archive.cancerworld.net/featured/how-doctors-die/",
-          "publishedOn": "2021-09-08T21:49:16.000Z",
-          "wordCount": null,
-          "title": "How Doctors die. It’s not like the rest of us (2016)"
+          "id": "https://news.ycombinator.com/item?id=28475650",
+          "author": "hncurious",
+          "description": "Article URL: https://www.politico.com/news/2021/09/09/andrew-yang-third-party-511033\nComments URL: https://news.ycombinator.com/item?id=28475650\nPoints: 84\n# Comments: 81",
+          "link": "https://www.politico.com/news/2021/09/09/andrew-yang-third-party-511033",
+          "publishedOn": "2021-09-09T22:54:59.000Z",
+          "wordCount": 582,
+          "title": "Andrew Yang to launch a third party"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28463289",
-          "author": "zetalyrae",
-          "description": "Article URL: https://soar.eecs.umich.edu/\nComments URL: https://news.ycombinator.com/item?id=28463289\nPoints: 30\n# Comments: 3",
-          "link": "https://soar.eecs.umich.edu/",
-          "publishedOn": "2021-09-08T21:28:09.000Z",
-          "wordCount": 1782,
-          "title": "Soar Cognitive Architecture"
+          "id": "https://news.ycombinator.com/item?id=28475459",
+          "author": "NKosmatos",
+          "description": "Article URL: https://arstechnica.com/science/2021/09/feline-acoustics-the-smell-of-fear-and-more-receive-2021-ig-nobel-prizes/\nComments URL: https://news.ycombinator.com/item?id=28475459\nPoints: 15\n# Comments: 3",
+          "link": "https://arstechnica.com/science/2021/09/feline-acoustics-the-smell-of-fear-and-more-receive-2021-ig-nobel-prizes/",
+          "publishedOn": "2021-09-09T22:33:41.000Z",
+          "wordCount": 1480,
+          "title": "2021 Ig Nobels"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28463044",
-          "author": "asmithmd1",
-          "description": "Article URL: https://www.space.com/james-webb-space-telescope-launch-december-2021\nComments URL: https://news.ycombinator.com/item?id=28463044\nPoints: 77\n# Comments: 46",
-          "link": "https://www.space.com/james-webb-space-telescope-launch-december-2021",
-          "publishedOn": "2021-09-08T21:04:29.000Z",
-          "wordCount": 957,
-          "title": "NASA's James Webb Space Telescope Launch Delayed to December"
+          "id": "https://news.ycombinator.com/item?id=28474611",
+          "author": "jason_wang",
+          "description": "Article URL: https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-vp-engineering\nComments URL: https://news.ycombinator.com/item?id=28474611\nPoints: 1\n# Comments: 0",
+          "link": "https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-vp-engineering",
+          "publishedOn": "2021-09-09T21:01:12.000Z",
+          "wordCount": 683,
+          "title": "TrueVault (YC W14) Is Hiring a VP of Eng to Help SMBs with Data Privacy Laws"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28462991",
-          "author": "ammon",
-          "description": "Hello! We're hiring a Head of Engineering to join our core leadership team. We're building a job search platform that puts engineers in control, solves the problem of recruiter ghosting, and helps engineers without credentials break into the industry. This approach is growing quickly. The number of engineer joining Triplebtye grew 400% over the last quarter.\nWe're looking for someone with startup engineering experience to help us scale our team. We don't need previous executive experience. We're open to remote. We wrote more about the job at https://boards.greenhouse.io/triplebyte/jobs/4700194003>.\nIf you're interested, email our CEO at ammon@triplebyte.com!\nComments URL: https://news.ycombinator.com/item?id=28462991\nPoints: 1\n# Comments: 0",
-          "link": "https://news.ycombinator.com/item?id=28462991",
-          "publishedOn": "2021-09-08T21:00:11.000Z",
-          "wordCount": 154,
-          "title": "Triplebyte Hiring Head of Engineering"
+          "id": "https://news.ycombinator.com/item?id=28474162",
+          "author": "geox",
+          "description": "Article URL: https://www.nist.gov/news-events/news/2021/09/groundbreaking-technique-yields-important-new-details-silicon-subatomic\nComments URL: https://news.ycombinator.com/item?id=28474162\nPoints: 178\n# Comments: 76",
+          "link": "https://www.nist.gov/news-events/news/2021/09/groundbreaking-technique-yields-important-new-details-silicon-subatomic",
+          "publishedOn": "2021-09-09T20:18:00.000Z",
+          "wordCount": 1842,
+          "title": "NIST research reveals new details about a possible fifth force of nature"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28462650",
-          "author": "digitalminimal",
-          "description": "Article URL: https://mehretbiruk.com/delete-social-media/\nComments URL: https://news.ycombinator.com/item?id=28462650\nPoints: 41\n# Comments: 37",
-          "link": "https://mehretbiruk.com/delete-social-media/",
-          "publishedOn": "2021-09-08T20:30:53.000Z",
-          "wordCount": 868,
-          "title": "Should you delete social media? That’s the wrong question."
+          "id": "https://news.ycombinator.com/item?id=28474123",
+          "author": "FridayoLeary",
+          "description": "Article URL: https://www.bbc.co.uk/news/world-asia-china-58506598\nComments URL: https://news.ycombinator.com/item?id=28474123\nPoints: 440\n# Comments: 231",
+          "link": "https://www.bbc.co.uk/news/world-asia-china-58506598",
+          "publishedOn": "2021-09-09T20:13:45.000Z",
+          "wordCount": 844,
+          "title": "Hong Kong: Police Raid Tiananmen Square Museum"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28462495",
-          "author": "molecule",
-          "description": "Article URL: https://www.redhat.com/sysadmin/replace-docker-podman-macos\nComments URL: https://news.ycombinator.com/item?id=28462495\nPoints: 163\n# Comments: 46",
-          "link": "https://www.redhat.com/sysadmin/replace-docker-podman-macos",
-          "publishedOn": "2021-09-08T20:18:58.000Z",
-          "wordCount": 1426,
-          "title": "How to Replace Docker with Podman on a Mac"
+          "id": "https://news.ycombinator.com/item?id=28473894",
+          "author": "domino",
+          "description": "Article URL: https://blog.clubhouse.com/shipping-clubhouse-on-android-in-10-weeks/\nComments URL: https://news.ycombinator.com/item?id=28473894\nPoints: 84\n# Comments: 42",
+          "link": "https://blog.clubhouse.com/shipping-clubhouse-on-android-in-10-weeks/",
+          "publishedOn": "2021-09-09T19:51:19.000Z",
+          "wordCount": 1628,
+          "title": "Shipping Clubhouse on Android in 10 Weeks"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28462298",
-          "author": "spullara",
-          "description": "Article URL: https://silanano.com/news/one-small-new-battery-one-giant-leap-for-our-energy-future/?referrer\nComments URL: https://news.ycombinator.com/item?id=28462298\nPoints: 42\n# Comments: 12",
-          "link": "https://silanano.com/news/one-small-new-battery-one-giant-leap-for-our-energy-future/?referrer",
-          "publishedOn": "2021-09-08T20:00:58.000Z",
-          "wordCount": 1011,
-          "title": "Silanano launches the first new commercial battery chemistry since 1991"
+          "id": "https://news.ycombinator.com/item?id=28473713",
+          "author": "babuskov",
+          "description": "Article URL: https://www.investigate-europe.eu/en/2019/undercover-at-a-troll-farm/\nComments URL: https://news.ycombinator.com/item?id=28473713\nPoints: 81\n# Comments: 43",
+          "link": "https://www.investigate-europe.eu/en/2019/undercover-at-a-troll-farm/",
+          "publishedOn": "2021-09-09T19:34:55.000Z",
+          "wordCount": 2883,
+          "title": "Undercover at a Troll Farm (2019)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28462182",
-          "author": "hhs",
-          "description": "Article URL: https://www.rom.on.ca/en/about-us/newsroom/press-releases/massive-new-animal-species-discovered-in-half-billion-year-old\nComments URL: https://news.ycombinator.com/item?id=28462182\nPoints: 96\n# Comments: 38",
-          "link": "https://www.rom.on.ca/en/about-us/newsroom/press-releases/massive-new-animal-species-discovered-in-half-billion-year-old",
-          "publishedOn": "2021-09-08T19:52:42.000Z",
-          "wordCount": 1203,
-          "title": "Massive animal species discovered in half-billion-year-old Burgess Shale"
+          "id": "https://news.ycombinator.com/item?id=28473709",
+          "author": "porterde",
+          "description": "Article URL: https://www.apa.org/news/press/releases/2021/09/too-much-free-time\nComments URL: https://news.ycombinator.com/item?id=28473709\nPoints: 57\n# Comments: 31",
+          "link": "https://www.apa.org/news/press/releases/2021/09/too-much-free-time",
+          "publishedOn": "2021-09-09T19:34:33.000Z",
+          "wordCount": 6,
+          "title": "Too much free time may be almost as bad as too little"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28462162",
-          "author": "conroy",
-          "description": "Article URL: https://brandur.org/sqlc\nComments URL: https://news.ycombinator.com/item?id=28462162\nPoints: 137\n# Comments: 64",
-          "link": "https://brandur.org/sqlc",
-          "publishedOn": "2021-09-08T19:51:10.000Z",
-          "wordCount": 1827,
-          "title": "How We Went All In on sqlc/pgx for Postgres and Go"
+          "id": "https://news.ycombinator.com/item?id=28473496",
+          "author": "zuhayeer",
+          "description": "Article URL: https://huggingface.co/spaces/akhaliq/PaddleOCR\nComments URL: https://news.ycombinator.com/item?id=28473496\nPoints: 93\n# Comments: 24",
+          "link": "https://huggingface.co/spaces/akhaliq/PaddleOCR",
+          "publishedOn": "2021-09-09T19:14:40.000Z",
+          "wordCount": 125,
+          "title": "PaddleOCR: Lightweight, 80 Langauge OCR"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28462151",
-          "author": "klintcho",
-          "description": "Article URL: https://news.mit.edu/2021/MIT-CFS-major-advance-toward-fusion-energy-0908\nComments URL: https://news.ycombinator.com/item?id=28462151\nPoints: 324\n# Comments: 123",
-          "link": "https://news.mit.edu/2021/MIT-CFS-major-advance-toward-fusion-energy-0908",
-          "publishedOn": "2021-09-08T19:50:36.000Z",
-          "wordCount": 3083,
-          "title": "MIT-designed project achieves major advance toward fusion energy"
+          "id": "https://news.ycombinator.com/item?id=28472350",
+          "author": "dang",
+          "description": "A few days ago we got an email from HN user thehodge (https://news.ycombinator.com/user?id=thehodge), aka Dom Hodgson, telling us that HN's SSL cert was about to expire—as indeed it was. All the renewal notices had been going to Scott's old YC email, which no longer works.\nDom runs https://littlewarden.com/, which monitors sites for upcoming issues and lets you know when you're about to publicly embarrass yourself. In a twist on eat-your-own-dog-food (eat someone else's dog food as a service?), he had set up alerts for HN in their system. Lo and behold, it delivered the goods, and that is why you're reading HN as usual today instead of certificate scoldings, and therefore also why my ass is in a saved state, which is how I like it.\nI figure the least we can do is proclaim our thanks, so all hail Dom and Little Warden! Yes, I know most of you can do this in 3 lines of Python and a cron job, and yes yes, there are other alert services—but only one has personally helped you waste time unimpeded on the internet. That is all.\nComments URL: https://news.ycombinator.com/item?id=28472350\nPoints: 857\n# Comments: 55",
+          "link": "https://news.ycombinator.com/item?id=28472350",
+          "publishedOn": "2021-09-09T17:35:45.000Z",
+          "wordCount": 2810,
+          "title": "Tell HN: Thanks to thehodge and littlewarden.com, this site is up today"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28461915",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://susam.in/maze/fd-100.html\nComments URL: https://news.ycombinator.com/item?id=28461915\nPoints: 47\n# Comments: 6",
-          "link": "https://susam.in/maze/fd-100.html",
-          "publishedOn": "2021-09-08T19:32:01.000Z",
-          "wordCount": 352,
-          "title": "FD 100"
+          "id": "https://news.ycombinator.com/item?id=28471644",
+          "author": "starkd",
+          "description": "Article URL: https://www.axios.com/facebook-ray-ban-wayfarer-stories-5f113bfa-797f-4e2d-b99c-7d65a8726607.html\nComments URL: https://news.ycombinator.com/item?id=28471644\nPoints: 167\n# Comments: 238",
+          "link": "https://www.axios.com/facebook-ray-ban-wayfarer-stories-5f113bfa-797f-4e2d-b99c-7d65a8726607.html",
+          "publishedOn": "2021-09-09T16:41:35.000Z",
+          "wordCount": 1516,
+          "title": "Facebook, Ray-Ban debut picture-taking smart glasses"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28461848",
-          "author": "perihelions",
-          "description": "Article URL: https://www.theguardian.com/us-news/2021/sep/08/revealed-los-angeles-police-officers-gathering-social-media\nComments URL: https://news.ycombinator.com/item?id=28461848\nPoints: 335\n# Comments: 287",
-          "link": "https://www.theguardian.com/us-news/2021/sep/08/revealed-los-angeles-police-officers-gathering-social-media",
-          "publishedOn": "2021-09-08T19:24:27.000Z",
-          "wordCount": 1797,
-          "title": "LAPD officers told to collect social media data on every civilian they stop"
+          "id": "https://news.ycombinator.com/item?id=28471159",
+          "author": "theafh",
+          "description": "Article URL: https://www.quantamagazine.org/new-math-book-rescues-landmark-topology-proof-20210909/\nComments URL: https://news.ycombinator.com/item?id=28471159\nPoints: 269\n# Comments: 103",
+          "link": "https://www.quantamagazine.org/new-math-book-rescues-landmark-topology-proof-20210909/",
+          "publishedOn": "2021-09-09T16:00:46.000Z",
+          "wordCount": 4358,
+          "title": "New math book rescues landmark topology proof"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28460342",
-          "author": "147",
-          "description": "Article URL: https://www.cbui.dev/github-actions-limitations-and-gotchas/\nComments URL: https://news.ycombinator.com/item?id=28460342\nPoints: 145\n# Comments: 88",
-          "link": "https://www.cbui.dev/github-actions-limitations-and-gotchas/",
-          "publishedOn": "2021-09-08T17:30:39.000Z",
-          "wordCount": 1561,
-          "title": "GitHub Actions limitations and gotchas"
+          "id": "https://news.ycombinator.com/item?id=28470984",
+          "author": "feross",
+          "description": "Article URL: https://portswigger.net/daily-swig/haproxy-vulnerability-enables-http-request-smuggling-attacks\nComments URL: https://news.ycombinator.com/item?id=28470984\nPoints: 79\n# Comments: 16",
+          "link": "https://portswigger.net/daily-swig/haproxy-vulnerability-enables-http-request-smuggling-attacks",
+          "publishedOn": "2021-09-09T15:48:35.000Z",
+          "wordCount": 1028,
+          "title": "HAProxy vulnerability enables HTTP request smuggling attacks"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28459145",
-          "author": "pauljonas",
-          "description": "Article URL: https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html\nComments URL: https://news.ycombinator.com/item?id=28459145\nPoints: 153\n# Comments: 121",
-          "link": "https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html",
-          "publishedOn": "2021-09-08T16:10:02.000Z",
-          "wordCount": 2545,
-          "title": "How Docker broke in half"
+          "id": "https://news.ycombinator.com/item?id=28470748",
+          "author": "cjlm",
+          "description": "Article URL: https://www.mastercard.com/news/press/2021/september/mastercard-acquires-ciphertrace-to-enhance-crypto-capabilities/\nComments URL: https://news.ycombinator.com/item?id=28470748\nPoints: 123\n# Comments: 87",
+          "link": "https://www.mastercard.com/news/press/2021/september/mastercard-acquires-ciphertrace-to-enhance-crypto-capabilities/",
+          "publishedOn": "2021-09-09T15:27:38.000Z",
+          "wordCount": 1417,
+          "title": "MasterCard Acquires CipherTrace"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28458930",
-          "author": "bobbiechen",
-          "description": "Article URL: https://engineering.atspotify.com/2021/09/07/introducing-pedalboard-spotifys-audio-effects-library-for-python/\nComments URL: https://news.ycombinator.com/item?id=28458930\nPoints: 184\n# Comments: 41",
-          "link": "https://engineering.atspotify.com/2021/09/07/introducing-pedalboard-spotifys-audio-effects-library-for-python/",
-          "publishedOn": "2021-09-08T15:56:42.000Z",
-          "wordCount": 932,
-          "title": "Pedalboard: Spotify’s Audio Effects Library for Python"
+          "id": "https://news.ycombinator.com/item?id=28470146",
+          "author": "gmays",
+          "description": "Article URL: https://www.nyu.edu/about/news-publications/news/2021/september/artificial-cells.html\nComments URL: https://news.ycombinator.com/item?id=28470146\nPoints: 68\n# Comments: 15",
+          "link": "https://www.nyu.edu/about/news-publications/news/2021/september/artificial-cells.html",
+          "publishedOn": "2021-09-09T14:35:36.000Z",
+          "wordCount": 1878,
+          "title": "Artificial Cells That Mimic Living Cells’ Ability to Capture, Process and Expel"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28458818",
-          "author": "barrettotte",
-          "description": "Article URL: https://github.com/barrettotte/qr-asm\nComments URL: https://news.ycombinator.com/item?id=28458818\nPoints: 69\n# Comments: 29",
-          "link": "https://github.com/barrettotte/qr-asm",
-          "publishedOn": "2021-09-08T15:49:33.000Z",
-          "wordCount": 841,
-          "title": "Generating a QR code with only ARM Assembly"
+          "id": "https://news.ycombinator.com/item?id=28470125",
+          "author": "DocFeind",
+          "description": "Article URL: https://www.reuters.com/technology/paid-influencers-must-label-posts-ads-german-court-rules-2021-09-09/\nComments URL: https://news.ycombinator.com/item?id=28470125\nPoints: 685\n# Comments: 157",
+          "link": "https://www.reuters.com/technology/paid-influencers-must-label-posts-ads-german-court-rules-2021-09-09/",
+          "publishedOn": "2021-09-09T14:33:57.000Z",
+          "wordCount": 545,
+          "title": "Paid influencers must label some posts as ads, German court rules"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28458713",
-          "author": "Tomte",
-          "description": "Article URL: https://kristoff.it/blog/maintain-it-with-zig/\nComments URL: https://news.ycombinator.com/item?id=28458713\nPoints: 330\n# Comments: 198",
-          "link": "https://kristoff.it/blog/maintain-it-with-zig/",
-          "publishedOn": "2021-09-08T15:40:58.000Z",
-          "wordCount": 1669,
-          "title": "Maintain It with Zig"
+          "id": "https://news.ycombinator.com/item?id=28469899",
+          "author": "redwoolf",
+          "description": "Article URL: https://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/moralia/sayings_of_spartan_women*.html\nComments URL: https://news.ycombinator.com/item?id=28469899\nPoints: 135\n# Comments: 171",
+          "link": "https://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/moralia/sayings_of_spartan_women*.html",
+          "publishedOn": "2021-09-09T14:12:34.000Z",
+          "wordCount": 2615,
+          "title": "Sayings of Spartan women"
         }
       ]
     }
