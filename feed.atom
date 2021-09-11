@@ -1,270 +1,268 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-10T00:56:03.096Z</id>
+    <id>urn:2021-09-11T00:50:50.629Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-10T00:56:03.096Z</updated>
+    <updated>2021-09-11T00:50:50.629Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Epic tests Apple with new request: let us relaunch Fortnite in Korea]]></title>
-        <id>https://news.ycombinator.com/item?id=28476153</id>
-        <link href="https://www.theverge.com/2021/9/9/22665826/epic-games-apple-reinstate-fortnite-ios-korea-app-store-payment"/>
-        <updated>2021-09-09T23:55:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/9/9/22665826/epic-games-apple-reinstate-fortnite-ios-korea-app-store-payment
-Comments URL: https://news.ycombinator.com/item?id=28476153
-Points: 28
-# Comments: 4]]></summary>
-        <author>
-            <name>mdoms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The KIMplement 0.2b: a KIM-1 emulator for the Commodore 64]]></title>
-        <id>https://news.ycombinator.com/item?id=28476074</id>
-        <link href="https://oldvcr.blogspot.com/2021/09/the-incredible-kimplement-02b-kim-1.html"/>
-        <updated>2021-09-09T23:45:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://oldvcr.blogspot.com/2021/09/the-incredible-kimplement-02b-kim-1.html
-Comments URL: https://news.ycombinator.com/item?id=28476074
-Points: 5
+        <title type="html"><![CDATA[Details of rare bronze age coffin found in golf course pond revealed]]></title>
+        <id>https://news.ycombinator.com/item?id=28487834</id>
+        <link href="https://www.theguardian.com/science/2021/sep/10/rare-bronze-age-coffin-found-golf-course-pond-axe"/>
+        <updated>2021-09-10T23:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/science/2021/sep/10/rare-bronze-age-coffin-found-golf-course-pond-axe
+Comments URL: https://news.ycombinator.com/item?id=28487834
+Points: 6
 # Comments: 0]]></summary>
         <author>
-            <name>classichasclass</name>
+            <name>benbreen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jay Leiderman Has Died]]></title>
-        <id>https://news.ycombinator.com/item?id=28475704</id>
-        <link href="https://gizmodo.com/hacker-lawyer-jay-leiderman-is-dead-at-50-1847646284"/>
-        <updated>2021-09-09T23:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gizmodo.com/hacker-lawyer-jay-leiderman-is-dead-at-50-1847646284
-Comments URL: https://news.ycombinator.com/item?id=28475704
-Points: 20
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[PalmOS on Raspberry Pi]]></title>
+        <id>https://news.ycombinator.com/item?id=28487817</id>
+        <link href="https://pmig96.wordpress.com/2021/04/29/palmos-on-raspberry-pi/"/>
+        <updated>2021-09-10T22:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pmig96.wordpress.com/2021/04/29/palmos-on-raspberry-pi/
+Comments URL: https://news.ycombinator.com/item?id=28487817
+Points: 34
+# Comments: 11]]></summary>
         <author>
-            <name>leotravis10</name>
+            <name>Tijdreiziger</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Andrew Yang to launch a third party]]></title>
-        <id>https://news.ycombinator.com/item?id=28475650</id>
-        <link href="https://www.politico.com/news/2021/09/09/andrew-yang-third-party-511033"/>
-        <updated>2021-09-09T22:54:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.politico.com/news/2021/09/09/andrew-yang-third-party-511033
-Comments URL: https://news.ycombinator.com/item?id=28475650
-Points: 84
-# Comments: 81]]></summary>
+        <title type="html"><![CDATA[Andreessen Pulls a Bezos]]></title>
+        <id>https://news.ycombinator.com/item?id=28487746</id>
+        <link href="https://www.drorpoleg.com/pulling-a-bezos/"/>
+        <updated>2021-09-10T22:49:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.drorpoleg.com/pulling-a-bezos/
+Comments URL: https://news.ycombinator.com/item?id=28487746
+Points: 37
+# Comments: 2]]></summary>
         <author>
-            <name>hncurious</name>
+            <name>ZephyrBlu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 Ig Nobels]]></title>
-        <id>https://news.ycombinator.com/item?id=28475459</id>
-        <link href="https://arstechnica.com/science/2021/09/feline-acoustics-the-smell-of-fear-and-more-receive-2021-ig-nobel-prizes/"/>
-        <updated>2021-09-09T22:33:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/09/feline-acoustics-the-smell-of-fear-and-more-receive-2021-ig-nobel-prizes/
-Comments URL: https://news.ycombinator.com/item?id=28475459
-Points: 15
+        <title type="html"><![CDATA[Indra – Hackers Behind Recent Attacks on Iran]]></title>
+        <id>https://news.ycombinator.com/item?id=28487665</id>
+        <link href="https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/"/>
+        <updated>2021-09-10T22:36:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/
+Comments URL: https://news.ycombinator.com/item?id=28487665
+Points: 16
+# Comments: 5]]></summary>
+        <author>
+            <name>KangLi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trolls convinced journalists they were “abortion bounty hunters”]]></title>
+        <id>https://news.ycombinator.com/item?id=28487620</id>
+        <link href="https://tracingwoodgrains.medium.com/how-one-tight-knit-circle-of-internet-troublemakers-convinced-professional-journalists-they-were-ac05459aa4c5"/>
+        <updated>2021-09-10T22:29:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tracingwoodgrains.medium.com/how-one-tight-knit-circle-of-internet-troublemakers-convinced-professional-journalists-they-were-ac05459aa4c5
+Comments URL: https://news.ycombinator.com/item?id=28487620
+Points: 71
+# Comments: 72]]></summary>
+        <author>
+            <name>exolymph</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: LunarVim – An opinionated, extensible, and fast IDE layer for Neovim]]></title>
+        <id>https://news.ycombinator.com/item?id=28487337</id>
+        <link href="https://www.lunarvim.org"/>
+        <updated>2021-09-10T21:55:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.lunarvim.org
+Comments URL: https://news.ycombinator.com/item?id=28487337
+Points: 19
 # Comments: 3]]></summary>
         <author>
-            <name>NKosmatos</name>
+            <name>seik</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TrueVault (YC W14) Is Hiring a VP of Eng to Help SMBs with Data Privacy Laws]]></title>
-        <id>https://news.ycombinator.com/item?id=28474611</id>
-        <link href="https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-vp-engineering"/>
-        <updated>2021-09-09T21:01:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-vp-engineering
-Comments URL: https://news.ycombinator.com/item?id=28474611
+        <title type="html"><![CDATA[Wait, Did AS8003 just disappear?]]></title>
+        <id>https://news.ycombinator.com/item?id=28487284</id>
+        <link href="https://www.kentik.com/blog/wait-did-as8003-just-disappear/"/>
+        <updated>2021-09-10T21:49:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.kentik.com/blog/wait-did-as8003-just-disappear/
+Comments URL: https://news.ycombinator.com/item?id=28487284
+Points: 79
+# Comments: 13]]></summary>
+        <author>
+            <name>Aaronn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POW Captcha: a lightweight, self-hosted proof-of-work captcha]]></title>
+        <id>https://news.ycombinator.com/item?id=28486918</id>
+        <link href="https://git.sequentialread.com/forest/pow-captcha"/>
+        <updated>2021-09-10T21:09:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://git.sequentialread.com/forest/pow-captcha
+Comments URL: https://news.ycombinator.com/item?id=28486918
+Points: 65
+# Comments: 50]]></summary>
+        <author>
+            <name>wchar_t</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators]]></title>
+        <id>https://news.ycombinator.com/item?id=28486828</id>
+        <link href="https://careers.atob.com/"/>
+        <updated>2021-09-10T21:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://careers.atob.com/
+Comments URL: https://news.ycombinator.com/item?id=28486828
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>jason_wang</name>
+            <name>vignanv8</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NIST research reveals new details about a possible fifth force of nature]]></title>
-        <id>https://news.ycombinator.com/item?id=28474162</id>
-        <link href="https://www.nist.gov/news-events/news/2021/09/groundbreaking-technique-yields-important-new-details-silicon-subatomic"/>
-        <updated>2021-09-09T20:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nist.gov/news-events/news/2021/09/groundbreaking-technique-yields-important-new-details-silicon-subatomic
-Comments URL: https://news.ycombinator.com/item?id=28474162
-Points: 178
-# Comments: 76]]></summary>
+        <title type="html"><![CDATA[A second hexagon in the stratosphere of Saturn]]></title>
+        <id>https://news.ycombinator.com/item?id=28486647</id>
+        <link href="https://mesonstars.com/inteteresting/they-find-a-second-hexagon-in-the-stratosphere-of-saturn/"/>
+        <updated>2021-09-10T20:41:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mesonstars.com/inteteresting/they-find-a-second-hexagon-in-the-stratosphere-of-saturn/
+Comments URL: https://news.ycombinator.com/item?id=28486647
+Points: 56
+# Comments: 19]]></summary>
         <author>
-            <name>geox</name>
+            <name>jdkee</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hong Kong: Police Raid Tiananmen Square Museum]]></title>
-        <id>https://news.ycombinator.com/item?id=28474123</id>
-        <link href="https://www.bbc.co.uk/news/world-asia-china-58506598"/>
-        <updated>2021-09-09T20:13:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-asia-china-58506598
-Comments URL: https://news.ycombinator.com/item?id=28474123
-Points: 440
-# Comments: 231]]></summary>
+        <title type="html"><![CDATA[Index bloat reduced in PostgreSQL v14]]></title>
+        <id>https://news.ycombinator.com/item?id=28486623</id>
+        <link href="https://www.cybertec-postgresql.com/en/index-bloat-reduced-in-postgresql-v14/"/>
+        <updated>2021-09-10T20:39:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cybertec-postgresql.com/en/index-bloat-reduced-in-postgresql-v14/
+Comments URL: https://news.ycombinator.com/item?id=28486623
+Points: 19
+# Comments: 0]]></summary>
         <author>
-            <name>FridayoLeary</name>
+            <name>petergeoghegan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shipping Clubhouse on Android in 10 Weeks]]></title>
-        <id>https://news.ycombinator.com/item?id=28473894</id>
-        <link href="https://blog.clubhouse.com/shipping-clubhouse-on-android-in-10-weeks/"/>
-        <updated>2021-09-09T19:51:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.clubhouse.com/shipping-clubhouse-on-android-in-10-weeks/
-Comments URL: https://news.ycombinator.com/item?id=28473894
-Points: 84
-# Comments: 42]]></summary>
+        <title type="html"><![CDATA[Windy.com]]></title>
+        <id>https://news.ycombinator.com/item?id=28486389</id>
+        <link href="https://windy.com"/>
+        <updated>2021-09-10T20:15:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://windy.com
+Comments URL: https://news.ycombinator.com/item?id=28486389
+Points: 439
+# Comments: 106]]></summary>
         <author>
-            <name>domino</name>
+            <name>kaycebasques</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Undercover at a Troll Farm (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=28473713</id>
-        <link href="https://www.investigate-europe.eu/en/2019/undercover-at-a-troll-farm/"/>
-        <updated>2021-09-09T19:34:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.investigate-europe.eu/en/2019/undercover-at-a-troll-farm/
-Comments URL: https://news.ycombinator.com/item?id=28473713
-Points: 81
-# Comments: 43]]></summary>
+        <title type="html"><![CDATA[Windows Subsystem for Linux GUI]]></title>
+        <id>https://news.ycombinator.com/item?id=28486133</id>
+        <link href="https://github.com/microsoft/wslg"/>
+        <updated>2021-09-10T19:45:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/microsoft/wslg
+Comments URL: https://news.ycombinator.com/item?id=28486133
+Points: 279
+# Comments: 194]]></summary>
         <author>
-            <name>babuskov</name>
+            <name>anchpop</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Too much free time may be almost as bad as too little]]></title>
-        <id>https://news.ycombinator.com/item?id=28473709</id>
-        <link href="https://www.apa.org/news/press/releases/2021/09/too-much-free-time"/>
-        <updated>2021-09-09T19:34:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.apa.org/news/press/releases/2021/09/too-much-free-time
-Comments URL: https://news.ycombinator.com/item?id=28473709
-Points: 57
-# Comments: 31]]></summary>
+        <title type="html"><![CDATA[Google illegally underpaid thousands of workers]]></title>
+        <id>https://news.ycombinator.com/item?id=28485905</id>
+        <link href="https://www.theguardian.com/technology/2021/sep/10/google-underpaid-workers-illegal-pay-disparity-documents"/>
+        <updated>2021-09-10T19:19:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/technology/2021/sep/10/google-underpaid-workers-illegal-pay-disparity-documents
+Comments URL: https://news.ycombinator.com/item?id=28485905
+Points: 351
+# Comments: 105]]></summary>
         <author>
-            <name>porterde</name>
+            <name>jdkee</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PaddleOCR: Lightweight, 80 Langauge OCR]]></title>
-        <id>https://news.ycombinator.com/item?id=28473496</id>
-        <link href="https://huggingface.co/spaces/akhaliq/PaddleOCR"/>
-        <updated>2021-09-09T19:14:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://huggingface.co/spaces/akhaliq/PaddleOCR
-Comments URL: https://news.ycombinator.com/item?id=28473496
-Points: 93
-# Comments: 24]]></summary>
-        <author>
-            <name>zuhayeer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tell HN: Thanks to thehodge and littlewarden.com, this site is up today]]></title>
-        <id>https://news.ycombinator.com/item?id=28472350</id>
-        <link href="https://news.ycombinator.com/item?id=28472350"/>
-        <updated>2021-09-09T17:35:45.000Z</updated>
-        <summary type="html"><![CDATA[A few days ago we got an email from HN user thehodge (https://news.ycombinator.com/user?id=thehodge), aka Dom Hodgson, telling us that HN's SSL cert was about to expire—as indeed it was. All the renewal notices had been going to Scott's old YC email, which no longer works.
-Dom runs https://littlewarden.com/, which monitors sites for upcoming issues and lets you know when you're about to publicly embarrass yourself. In a twist on eat-your-own-dog-food (eat someone else's dog food as a service?), he had set up alerts for HN in their system. Lo and behold, it delivered the goods, and that is why you're reading HN as usual today instead of certificate scoldings, and therefore also why my ass is in a saved state, which is how I like it.
-I figure the least we can do is proclaim our thanks, so all hail Dom and Little Warden! Yes, I know most of you can do this in 3 lines of Python and a cron job, and yes yes, there are other alert services—but only one has personally helped you waste time unimpeded on the internet. That is all.
-Comments URL: https://news.ycombinator.com/item?id=28472350
-Points: 857
-# Comments: 55]]></summary>
-        <author>
-            <name>dang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook, Ray-Ban debut picture-taking smart glasses]]></title>
-        <id>https://news.ycombinator.com/item?id=28471644</id>
-        <link href="https://www.axios.com/facebook-ray-ban-wayfarer-stories-5f113bfa-797f-4e2d-b99c-7d65a8726607.html"/>
-        <updated>2021-09-09T16:41:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.axios.com/facebook-ray-ban-wayfarer-stories-5f113bfa-797f-4e2d-b99c-7d65a8726607.html
-Comments URL: https://news.ycombinator.com/item?id=28471644
-Points: 167
-# Comments: 238]]></summary>
-        <author>
-            <name>starkd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New math book rescues landmark topology proof]]></title>
-        <id>https://news.ycombinator.com/item?id=28471159</id>
-        <link href="https://www.quantamagazine.org/new-math-book-rescues-landmark-topology-proof-20210909/"/>
-        <updated>2021-09-09T16:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/new-math-book-rescues-landmark-topology-proof-20210909/
-Comments URL: https://news.ycombinator.com/item?id=28471159
-Points: 269
-# Comments: 103]]></summary>
-        <author>
-            <name>theafh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HAProxy vulnerability enables HTTP request smuggling attacks]]></title>
-        <id>https://news.ycombinator.com/item?id=28470984</id>
-        <link href="https://portswigger.net/daily-swig/haproxy-vulnerability-enables-http-request-smuggling-attacks"/>
-        <updated>2021-09-09T15:48:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://portswigger.net/daily-swig/haproxy-vulnerability-enables-http-request-smuggling-attacks
-Comments URL: https://news.ycombinator.com/item?id=28470984
-Points: 79
+        <title type="html"><![CDATA[Atomic Gardening]]></title>
+        <id>https://news.ycombinator.com/item?id=28485115</id>
+        <link href="https://www.atlasobscura.com/articles/radioactive-atomic-gardening"/>
+        <updated>2021-09-10T18:05:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/radioactive-atomic-gardening
+Comments URL: https://news.ycombinator.com/item?id=28485115
+Points: 52
 # Comments: 16]]></summary>
         <author>
-            <name>feross</name>
+            <name>Borrible</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MasterCard Acquires CipherTrace]]></title>
-        <id>https://news.ycombinator.com/item?id=28470748</id>
-        <link href="https://www.mastercard.com/news/press/2021/september/mastercard-acquires-ciphertrace-to-enhance-crypto-capabilities/"/>
-        <updated>2021-09-09T15:27:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.mastercard.com/news/press/2021/september/mastercard-acquires-ciphertrace-to-enhance-crypto-capabilities/
-Comments URL: https://news.ycombinator.com/item?id=28470748
-Points: 123
-# Comments: 87]]></summary>
+        <title type="html"><![CDATA[Coalton: How to Have Our (Typed) Cake and (Safely) Eat It Too, in Common Lisp]]></title>
+        <id>https://news.ycombinator.com/item?id=28484850</id>
+        <link href="https://coalton-lang.github.io/20211010-introducing-coalton/"/>
+        <updated>2021-09-10T17:42:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://coalton-lang.github.io/20211010-introducing-coalton/
+Comments URL: https://news.ycombinator.com/item?id=28484850
+Points: 108
+# Comments: 16]]></summary>
         <author>
-            <name>cjlm</name>
+            <name>reikonomusha</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Artificial Cells That Mimic Living Cells’ Ability to Capture, Process and Expel]]></title>
-        <id>https://news.ycombinator.com/item?id=28470146</id>
-        <link href="https://www.nyu.edu/about/news-publications/news/2021/september/artificial-cells.html"/>
-        <updated>2021-09-09T14:35:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nyu.edu/about/news-publications/news/2021/september/artificial-cells.html
-Comments URL: https://news.ycombinator.com/item?id=28470146
-Points: 68
-# Comments: 15]]></summary>
+        <title type="html"><![CDATA[WhatsApp – Security of End-to-End Encrypted Backups [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=28484681</id>
+        <link href="https://www.whatsapp.com/security/WhatsApp_Security_Encrypted_Backups_Whitepaper.pdf"/>
+        <updated>2021-09-10T17:28:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.whatsapp.com/security/WhatsApp_Security_Encrypted_Backups_Whitepaper.pdf
+Comments URL: https://news.ycombinator.com/item?id=28484681
+Points: 98
+# Comments: 56]]></summary>
         <author>
-            <name>gmays</name>
+            <name>FiloSottile</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Paid influencers must label some posts as ads, German court rules]]></title>
-        <id>https://news.ycombinator.com/item?id=28470125</id>
-        <link href="https://www.reuters.com/technology/paid-influencers-must-label-posts-ads-german-court-rules-2021-09-09/"/>
-        <updated>2021-09-09T14:33:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/paid-influencers-must-label-posts-ads-german-court-rules-2021-09-09/
-Comments URL: https://news.ycombinator.com/item?id=28470125
-Points: 685
-# Comments: 157]]></summary>
+        <title type="html"><![CDATA[YOLOv5 on CPUs: Sparsifying to Achieve GPU-Level Performance]]></title>
+        <id>https://news.ycombinator.com/item?id=28484373</id>
+        <link href="https://neuralmagic.com/blog/benchmark-yolov5-on-cpus-with-deepsparse/"/>
+        <updated>2021-09-10T17:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://neuralmagic.com/blog/benchmark-yolov5-on-cpus-with-deepsparse/
+Comments URL: https://news.ycombinator.com/item?id=28484373
+Points: 88
+# Comments: 34]]></summary>
         <author>
-            <name>DocFeind</name>
+            <name>T-A</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sayings of Spartan women]]></title>
-        <id>https://news.ycombinator.com/item?id=28469899</id>
-        <link href="https://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/moralia/sayings_of_spartan_women*.html"/>
-        <updated>2021-09-09T14:12:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/moralia/sayings_of_spartan_women*.html
-Comments URL: https://news.ycombinator.com/item?id=28469899
-Points: 135
-# Comments: 171]]></summary>
+        <title type="html"><![CDATA[Write More, but Shorter]]></title>
+        <id>https://news.ycombinator.com/item?id=28483671</id>
+        <link href="https://blog.kewah.com/2021/write-more-but-shorter/"/>
+        <updated>2021-09-10T16:16:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.kewah.com/2021/write-more-but-shorter/
+Comments URL: https://news.ycombinator.com/item?id=28483671
+Points: 162
+# Comments: 73]]></summary>
         <author>
-            <name>redwoolf</name>
+            <name>defaulty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Court issues permanent injunction in Epic vs. Apple case]]></title>
+        <id>https://news.ycombinator.com/item?id=28482895</id>
+        <link href="https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store"/>
+        <updated>2021-09-10T15:26:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store
+Comments URL: https://news.ycombinator.com/item?id=28482895
+Points: 1106
+# Comments: 703]]></summary>
+        <author>
+            <name>freddier</name>
         </author>
     </entry>
 </feed>
