@@ -1,268 +1,268 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-11T00:50:50.629Z</id>
+    <id>urn:2021-09-12T00:54:56.375Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-11T00:50:50.629Z</updated>
+    <updated>2021-09-12T00:54:56.375Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Details of rare bronze age coffin found in golf course pond revealed]]></title>
-        <id>https://news.ycombinator.com/item?id=28487834</id>
-        <link href="https://www.theguardian.com/science/2021/sep/10/rare-bronze-age-coffin-found-golf-course-pond-axe"/>
-        <updated>2021-09-10T23:01:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/science/2021/sep/10/rare-bronze-age-coffin-found-golf-course-pond-axe
-Comments URL: https://news.ycombinator.com/item?id=28487834
-Points: 6
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Samantha considering the prospect of being monitored for violations by OpenAI]]></title>
+        <id>https://news.ycombinator.com/item?id=28497256</id>
+        <link href="https://twitter.com/jasonrohrer/status/1419795724217331716"/>
+        <updated>2021-09-11T23:57:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/jasonrohrer/status/1419795724217331716
+Comments URL: https://news.ycombinator.com/item?id=28497256
+Points: 21
+# Comments: 1]]></summary>
         <author>
-            <name>benbreen</name>
+            <name>aliabd</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PalmOS on Raspberry Pi]]></title>
-        <id>https://news.ycombinator.com/item?id=28487817</id>
-        <link href="https://pmig96.wordpress.com/2021/04/29/palmos-on-raspberry-pi/"/>
-        <updated>2021-09-10T22:59:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pmig96.wordpress.com/2021/04/29/palmos-on-raspberry-pi/
-Comments URL: https://news.ycombinator.com/item?id=28487817
-Points: 34
-# Comments: 11]]></summary>
-        <author>
-            <name>Tijdreiziger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Andreessen Pulls a Bezos]]></title>
-        <id>https://news.ycombinator.com/item?id=28487746</id>
-        <link href="https://www.drorpoleg.com/pulling-a-bezos/"/>
-        <updated>2021-09-10T22:49:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.drorpoleg.com/pulling-a-bezos/
-Comments URL: https://news.ycombinator.com/item?id=28487746
-Points: 37
+        <title type="html"><![CDATA[Welcome to Cloudintosh]]></title>
+        <id>https://news.ycombinator.com/item?id=28497096</id>
+        <link href="https://cloudintosh.sharedigm.com"/>
+        <updated>2021-09-11T23:31:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cloudintosh.sharedigm.com
+Comments URL: https://news.ycombinator.com/item?id=28497096
+Points: 13
 # Comments: 2]]></summary>
         <author>
-            <name>ZephyrBlu</name>
+            <name>jdkee</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Indra – Hackers Behind Recent Attacks on Iran]]></title>
-        <id>https://news.ycombinator.com/item?id=28487665</id>
-        <link href="https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/"/>
-        <updated>2021-09-10T22:36:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/
-Comments URL: https://news.ycombinator.com/item?id=28487665
-Points: 16
-# Comments: 5]]></summary>
+        <title type="html"><![CDATA[Code Coverage for Zig with Callgrind]]></title>
+        <id>https://news.ycombinator.com/item?id=28496973</id>
+        <link href="https://www.ryanliptak.com/blog/code-coverage-zig-callgrind/"/>
+        <updated>2021-09-11T23:12:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ryanliptak.com/blog/code-coverage-zig-callgrind/
+Comments URL: https://news.ycombinator.com/item?id=28496973
+Points: 10
+# Comments: 0]]></summary>
         <author>
-            <name>KangLi</name>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trolls convinced journalists they were “abortion bounty hunters”]]></title>
-        <id>https://news.ycombinator.com/item?id=28487620</id>
-        <link href="https://tracingwoodgrains.medium.com/how-one-tight-knit-circle-of-internet-troublemakers-convinced-professional-journalists-they-were-ac05459aa4c5"/>
-        <updated>2021-09-10T22:29:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tracingwoodgrains.medium.com/how-one-tight-knit-circle-of-internet-troublemakers-convinced-professional-journalists-they-were-ac05459aa4c5
-Comments URL: https://news.ycombinator.com/item?id=28487620
-Points: 71
-# Comments: 72]]></summary>
+        <title type="html"><![CDATA[My Room in 3D]]></title>
+        <id>https://news.ycombinator.com/item?id=28496650</id>
+        <link href="https://my-room-in-3d.vercel.app/"/>
+        <updated>2021-09-11T22:25:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://my-room-in-3d.vercel.app/
+Comments URL: https://news.ycombinator.com/item?id=28496650
+Points: 122
+# Comments: 20]]></summary>
         <author>
-            <name>exolymph</name>
+            <name>dkthehuman</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: LunarVim – An opinionated, extensible, and fast IDE layer for Neovim]]></title>
-        <id>https://news.ycombinator.com/item?id=28487337</id>
-        <link href="https://www.lunarvim.org"/>
-        <updated>2021-09-10T21:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.lunarvim.org
-Comments URL: https://news.ycombinator.com/item?id=28487337
-Points: 19
-# Comments: 3]]></summary>
-        <author>
-            <name>seik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wait, Did AS8003 just disappear?]]></title>
-        <id>https://news.ycombinator.com/item?id=28487284</id>
-        <link href="https://www.kentik.com/blog/wait-did-as8003-just-disappear/"/>
-        <updated>2021-09-10T21:49:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.kentik.com/blog/wait-did-as8003-just-disappear/
-Comments URL: https://news.ycombinator.com/item?id=28487284
+        <title type="html"><![CDATA[Epic vs. Apple injunction doesn't allow for alternative in-app payment mechanism]]></title>
+        <id>https://news.ycombinator.com/item?id=28496416</id>
+        <link href="http://www.fosspatents.com/2021/09/no-epic-v-apple-injunction-absolutely.html"/>
+        <updated>2021-09-11T21:52:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.fosspatents.com/2021/09/no-epic-v-apple-injunction-absolutely.html
+Comments URL: https://news.ycombinator.com/item?id=28496416
 Points: 79
-# Comments: 13]]></summary>
+# Comments: 54]]></summary>
         <author>
-            <name>Aaronn</name>
+            <name>GeekyBear</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[POW Captcha: a lightweight, self-hosted proof-of-work captcha]]></title>
-        <id>https://news.ycombinator.com/item?id=28486918</id>
-        <link href="https://git.sequentialread.com/forest/pow-captcha"/>
-        <updated>2021-09-10T21:09:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://git.sequentialread.com/forest/pow-captcha
-Comments URL: https://news.ycombinator.com/item?id=28486918
-Points: 65
-# Comments: 50]]></summary>
+        <title type="html"><![CDATA[Cross-Account Container Takeover in Azure Container Instances]]></title>
+        <id>https://news.ycombinator.com/item?id=28496349</id>
+        <link href="https://unit42.paloaltonetworks.com/azure-container-instances/"/>
+        <updated>2021-09-11T21:45:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://unit42.paloaltonetworks.com/azure-container-instances/
+Comments URL: https://news.ycombinator.com/item?id=28496349
+Points: 18
+# Comments: 2]]></summary>
         <author>
-            <name>wchar_t</name>
+            <name>arkadiyt</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators]]></title>
-        <id>https://news.ycombinator.com/item?id=28486828</id>
-        <link href="https://careers.atob.com/"/>
-        <updated>2021-09-10T21:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://careers.atob.com/
-Comments URL: https://news.ycombinator.com/item?id=28486828
+        <title type="html"><![CDATA[AlphaGo: The Documentary]]></title>
+        <id>https://news.ycombinator.com/item?id=28496328</id>
+        <link href="https://www.youtube.com/watch?v=WXuK6gekU1Y"/>
+        <updated>2021-09-11T21:43:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=WXuK6gekU1Y
+Comments URL: https://news.ycombinator.com/item?id=28496328
+Points: 75
+# Comments: 8]]></summary>
+        <author>
+            <name>rdli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BuildZoom (better way to build custom homes) Is hiring a Growth Associate]]></title>
+        <id>https://news.ycombinator.com/item?id=28495945</id>
+        <link href="https://jobs.lever.co/buildzoom"/>
+        <updated>2021-09-11T21:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/buildzoom
+Comments URL: https://news.ycombinator.com/item?id=28495945
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>vignanv8</name>
+            <name>the_economist</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A second hexagon in the stratosphere of Saturn]]></title>
-        <id>https://news.ycombinator.com/item?id=28486647</id>
-        <link href="https://mesonstars.com/inteteresting/they-find-a-second-hexagon-in-the-stratosphere-of-saturn/"/>
-        <updated>2021-09-10T20:41:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mesonstars.com/inteteresting/they-find-a-second-hexagon-in-the-stratosphere-of-saturn/
-Comments URL: https://news.ycombinator.com/item?id=28486647
-Points: 56
-# Comments: 19]]></summary>
+        <title type="html"><![CDATA[Phony Diagnoses Hide High Rates of Drugging at Nursing Homes]]></title>
+        <id>https://news.ycombinator.com/item?id=28495941</id>
+        <link href="https://www.nytimes.com/2021/09/11/health/nursing-homes-schizophrenia-antipsychotics.html"/>
+        <updated>2021-09-11T21:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/09/11/health/nursing-homes-schizophrenia-antipsychotics.html
+Comments URL: https://news.ycombinator.com/item?id=28495941
+Points: 123
+# Comments: 89]]></summary>
         <author>
-            <name>jdkee</name>
+            <name>woodruffw</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Index bloat reduced in PostgreSQL v14]]></title>
-        <id>https://news.ycombinator.com/item?id=28486623</id>
-        <link href="https://www.cybertec-postgresql.com/en/index-bloat-reduced-in-postgresql-v14/"/>
-        <updated>2021-09-10T20:39:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cybertec-postgresql.com/en/index-bloat-reduced-in-postgresql-v14/
-Comments URL: https://news.ycombinator.com/item?id=28486623
+        <title type="html"><![CDATA[Structured Bible Data API in Multiple Translations]]></title>
+        <id>https://news.ycombinator.com/item?id=28495914</id>
+        <link href="https://freebibleapi.com"/>
+        <updated>2021-09-11T20:58:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://freebibleapi.com
+Comments URL: https://news.ycombinator.com/item?id=28495914
 Points: 19
-# Comments: 0]]></summary>
+# Comments: 3]]></summary>
         <author>
-            <name>petergeoghegan</name>
+            <name>jakecyr</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windy.com]]></title>
-        <id>https://news.ycombinator.com/item?id=28486389</id>
-        <link href="https://windy.com"/>
-        <updated>2021-09-10T20:15:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://windy.com
-Comments URL: https://news.ycombinator.com/item?id=28486389
-Points: 439
-# Comments: 106]]></summary>
+        <title type="html"><![CDATA[Social Networks: It's worse than you think (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=28495912</id>
+        <link href="https://meta.ath0.com/2020/12/social-notwork/"/>
+        <updated>2021-09-11T20:57:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://meta.ath0.com/2020/12/social-notwork/
+Comments URL: https://news.ycombinator.com/item?id=28495912
+Points: 116
+# Comments: 28]]></summary>
         <author>
-            <name>kaycebasques</name>
+            <name>ColinWright</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows Subsystem for Linux GUI]]></title>
-        <id>https://news.ycombinator.com/item?id=28486133</id>
-        <link href="https://github.com/microsoft/wslg"/>
-        <updated>2021-09-10T19:45:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/microsoft/wslg
-Comments URL: https://news.ycombinator.com/item?id=28486133
-Points: 279
-# Comments: 194]]></summary>
+        <title type="html"><![CDATA[The effects of remote work on collaboration among information workers]]></title>
+        <id>https://news.ycombinator.com/item?id=28494920</id>
+        <link href="https://www.nature.com/articles/s41562-021-01196-4"/>
+        <updated>2021-09-11T19:11:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41562-021-01196-4
+Comments URL: https://news.ycombinator.com/item?id=28494920
+Points: 164
+# Comments: 120]]></summary>
         <author>
-            <name>anchpop</name>
+            <name>agomez314</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google illegally underpaid thousands of workers]]></title>
-        <id>https://news.ycombinator.com/item?id=28485905</id>
-        <link href="https://www.theguardian.com/technology/2021/sep/10/google-underpaid-workers-illegal-pay-disparity-documents"/>
-        <updated>2021-09-10T19:19:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/technology/2021/sep/10/google-underpaid-workers-illegal-pay-disparity-documents
-Comments URL: https://news.ycombinator.com/item?id=28485905
-Points: 351
-# Comments: 105]]></summary>
+        <title type="html"><![CDATA[The effects of a warmer world are visible in animals’ bodies]]></title>
+        <id>https://news.ycombinator.com/item?id=28493901</id>
+        <link href="https://www.economist.com/science-and-technology/2021/09/11/the-effects-of-a-warmer-world-are-visible-in-animals-bodies"/>
+        <updated>2021-09-11T17:33:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/09/11/the-effects-of-a-warmer-world-are-visible-in-animals-bodies
+Comments URL: https://news.ycombinator.com/item?id=28493901
+Points: 66
+# Comments: 30]]></summary>
         <author>
-            <name>jdkee</name>
+            <name>jkuria</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Atomic Gardening]]></title>
-        <id>https://news.ycombinator.com/item?id=28485115</id>
-        <link href="https://www.atlasobscura.com/articles/radioactive-atomic-gardening"/>
-        <updated>2021-09-10T18:05:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/radioactive-atomic-gardening
-Comments URL: https://news.ycombinator.com/item?id=28485115
-Points: 52
-# Comments: 16]]></summary>
-        <author>
-            <name>Borrible</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coalton: How to Have Our (Typed) Cake and (Safely) Eat It Too, in Common Lisp]]></title>
-        <id>https://news.ycombinator.com/item?id=28484850</id>
-        <link href="https://coalton-lang.github.io/20211010-introducing-coalton/"/>
-        <updated>2021-09-10T17:42:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://coalton-lang.github.io/20211010-introducing-coalton/
-Comments URL: https://news.ycombinator.com/item?id=28484850
-Points: 108
-# Comments: 16]]></summary>
-        <author>
-            <name>reikonomusha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WhatsApp – Security of End-to-End Encrypted Backups [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=28484681</id>
-        <link href="https://www.whatsapp.com/security/WhatsApp_Security_Encrypted_Backups_Whitepaper.pdf"/>
-        <updated>2021-09-10T17:28:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.whatsapp.com/security/WhatsApp_Security_Encrypted_Backups_Whitepaper.pdf
-Comments URL: https://news.ycombinator.com/item?id=28484681
-Points: 98
-# Comments: 56]]></summary>
-        <author>
-            <name>FiloSottile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOLOv5 on CPUs: Sparsifying to Achieve GPU-Level Performance]]></title>
-        <id>https://news.ycombinator.com/item?id=28484373</id>
-        <link href="https://neuralmagic.com/blog/benchmark-yolov5-on-cpus-with-deepsparse/"/>
-        <updated>2021-09-10T17:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://neuralmagic.com/blog/benchmark-yolov5-on-cpus-with-deepsparse/
-Comments URL: https://news.ycombinator.com/item?id=28484373
-Points: 88
-# Comments: 34]]></summary>
-        <author>
-            <name>T-A</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Write More, but Shorter]]></title>
-        <id>https://news.ycombinator.com/item?id=28483671</id>
-        <link href="https://blog.kewah.com/2021/write-more-but-shorter/"/>
-        <updated>2021-09-10T16:16:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.kewah.com/2021/write-more-but-shorter/
-Comments URL: https://news.ycombinator.com/item?id=28483671
-Points: 162
-# Comments: 73]]></summary>
+        <title type="html"><![CDATA[Storybook: UI component explorer for front end developers]]></title>
+        <id>https://news.ycombinator.com/item?id=28493328</id>
+        <link href="https://storybook.js.org/"/>
+        <updated>2021-09-11T16:36:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://storybook.js.org/
+Comments URL: https://news.ycombinator.com/item?id=28493328
+Points: 127
+# Comments: 42]]></summary>
         <author>
             <name>defaulty</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Court issues permanent injunction in Epic vs. Apple case]]></title>
-        <id>https://news.ycombinator.com/item?id=28482895</id>
-        <link href="https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store"/>
-        <updated>2021-09-10T15:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store
-Comments URL: https://news.ycombinator.com/item?id=28482895
-Points: 1106
-# Comments: 703]]></summary>
+        <title type="html"><![CDATA[K Programming Language]]></title>
+        <id>https://news.ycombinator.com/item?id=28493283</id>
+        <link href="https://kparc.com/"/>
+        <updated>2021-09-11T16:31:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kparc.com/
+Comments URL: https://news.ycombinator.com/item?id=28493283
+Points: 102
+# Comments: 43]]></summary>
         <author>
-            <name>freddier</name>
+            <name>ColinWright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A cheat-sheet for mathematical notation in code form]]></title>
+        <id>https://news.ycombinator.com/item?id=28493031</id>
+        <link href="https://github.com/Jam3/math-as-code"/>
+        <updated>2021-09-11T16:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/Jam3/math-as-code
+Comments URL: https://news.ycombinator.com/item?id=28493031
+Points: 115
+# Comments: 27]]></summary>
+        <author>
+            <name>TechBro8615</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[September 11, 2001 media synced in real-time]]></title>
+        <id>https://news.ycombinator.com/item?id=28492719</id>
+        <link href="https://911realtime.org/"/>
+        <updated>2021-09-11T15:24:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://911realtime.org/
+Comments URL: https://news.ycombinator.com/item?id=28492719
+Points: 607
+# Comments: 318]]></summary>
+        <author>
+            <name>smohnot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interpretable Model-Based Hierarchical RL Using Inductive Logic Programming]]></title>
+        <id>https://news.ycombinator.com/item?id=28492644</id>
+        <link href="https://arxiv.org/abs/2106.11417"/>
+        <updated>2021-09-11T15:16:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2106.11417
+Comments URL: https://news.ycombinator.com/item?id=28492644
+Points: 52
+# Comments: 7]]></summary>
+        <author>
+            <name>YeGoblynQueenne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To Don't – The reverse to-do list]]></title>
+        <id>https://news.ycombinator.com/item?id=28490755</id>
+        <link href="https://crazymarvin.com/to-dont/"/>
+        <updated>2021-09-11T10:13:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://crazymarvin.com/to-dont/
+Comments URL: https://news.ycombinator.com/item?id=28490755
+Points: 131
+# Comments: 37]]></summary>
+        <author>
+            <name>scns</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geizhals – Tech Product Price Comparison and Tracking]]></title>
+        <id>https://news.ycombinator.com/item?id=28490656</id>
+        <link href="https://geizhals.eu"/>
+        <updated>2021-09-11T09:43:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://geizhals.eu
+Comments URL: https://news.ycombinator.com/item?id=28490656
+Points: 267
+# Comments: 97]]></summary>
+        <author>
+            <name>schleck8</name>
         </author>
     </entry>
 </feed>

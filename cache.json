@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=28487834",
-          "author": "benbreen",
-          "description": "Article URL: https://www.theguardian.com/science/2021/sep/10/rare-bronze-age-coffin-found-golf-course-pond-axe\nComments URL: https://news.ycombinator.com/item?id=28487834\nPoints: 6\n# Comments: 0",
-          "link": "https://www.theguardian.com/science/2021/sep/10/rare-bronze-age-coffin-found-golf-course-pond-axe",
-          "publishedOn": "2021-09-10T23:01:54.000Z",
-          "wordCount": 790,
-          "title": "Details of rare bronze age coffin found in golf course pond revealed"
+          "id": "https://news.ycombinator.com/item?id=28497256",
+          "author": "aliabd",
+          "description": "Article URL: https://twitter.com/jasonrohrer/status/1419795724217331716\nComments URL: https://news.ycombinator.com/item?id=28497256\nPoints: 21\n# Comments: 1",
+          "link": "https://twitter.com/jasonrohrer/status/1419795724217331716",
+          "publishedOn": "2021-09-11T23:57:54.000Z",
+          "wordCount": 196,
+          "title": "Samantha considering the prospect of being monitored for violations by OpenAI"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28487817",
-          "author": "Tijdreiziger",
-          "description": "Article URL: https://pmig96.wordpress.com/2021/04/29/palmos-on-raspberry-pi/\nComments URL: https://news.ycombinator.com/item?id=28487817\nPoints: 34\n# Comments: 11",
-          "link": "https://pmig96.wordpress.com/2021/04/29/palmos-on-raspberry-pi/",
-          "publishedOn": "2021-09-10T22:59:53.000Z",
-          "wordCount": 973,
-          "title": "PalmOS on Raspberry Pi"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28487746",
-          "author": "ZephyrBlu",
-          "description": "Article URL: https://www.drorpoleg.com/pulling-a-bezos/\nComments URL: https://news.ycombinator.com/item?id=28487746\nPoints: 37\n# Comments: 2",
-          "link": "https://www.drorpoleg.com/pulling-a-bezos/",
-          "publishedOn": "2021-09-10T22:49:07.000Z",
-          "wordCount": 1004,
-          "title": "Andreessen Pulls a Bezos"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28487665",
-          "author": "KangLi",
-          "description": "Article URL: https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/\nComments URL: https://news.ycombinator.com/item?id=28487665\nPoints: 16\n# Comments: 5",
-          "link": "https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/",
-          "publishedOn": "2021-09-10T22:36:29.000Z",
-          "wordCount": 6384,
-          "title": "Indra – Hackers Behind Recent Attacks on Iran"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28487620",
-          "author": "exolymph",
-          "description": "Article URL: https://tracingwoodgrains.medium.com/how-one-tight-knit-circle-of-internet-troublemakers-convinced-professional-journalists-they-were-ac05459aa4c5\nComments URL: https://news.ycombinator.com/item?id=28487620\nPoints: 71\n# Comments: 72",
-          "link": "https://tracingwoodgrains.medium.com/how-one-tight-knit-circle-of-internet-troublemakers-convinced-professional-journalists-they-were-ac05459aa4c5",
-          "publishedOn": "2021-09-10T22:29:59.000Z",
-          "wordCount": 1992,
-          "title": "Trolls convinced journalists they were “abortion bounty hunters”"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28487337",
-          "author": "seik",
-          "description": "Article URL: https://www.lunarvim.org\nComments URL: https://news.ycombinator.com/item?id=28487337\nPoints: 19\n# Comments: 3",
-          "link": "https://www.lunarvim.org",
-          "publishedOn": "2021-09-10T21:55:11.000Z",
-          "wordCount": 205,
-          "title": "Show HN: LunarVim – An opinionated, extensible, and fast IDE layer for Neovim"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28487284",
-          "author": "Aaronn",
-          "description": "Article URL: https://www.kentik.com/blog/wait-did-as8003-just-disappear/\nComments URL: https://news.ycombinator.com/item?id=28487284\nPoints: 79\n# Comments: 13",
-          "link": "https://www.kentik.com/blog/wait-did-as8003-just-disappear/",
-          "publishedOn": "2021-09-10T21:49:32.000Z",
-          "wordCount": 655,
-          "title": "Wait, Did AS8003 just disappear?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28486918",
-          "author": "wchar_t",
-          "description": "Article URL: https://git.sequentialread.com/forest/pow-captcha\nComments URL: https://news.ycombinator.com/item?id=28486918\nPoints: 65\n# Comments: 50",
-          "link": "https://git.sequentialread.com/forest/pow-captcha",
-          "publishedOn": "2021-09-10T21:09:09.000Z",
-          "wordCount": 4323,
-          "title": "POW Captcha: a lightweight, self-hosted proof-of-work captcha"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28486828",
-          "author": "vignanv8",
-          "description": "Article URL: https://careers.atob.com/\nComments URL: https://news.ycombinator.com/item?id=28486828\nPoints: 1\n# Comments: 0",
-          "link": "https://careers.atob.com/",
-          "publishedOn": "2021-09-10T21:00:10.000Z",
-          "wordCount": 303,
-          "title": "AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28486647",
+          "id": "https://news.ycombinator.com/item?id=28497096",
           "author": "jdkee",
-          "description": "Article URL: https://mesonstars.com/inteteresting/they-find-a-second-hexagon-in-the-stratosphere-of-saturn/\nComments URL: https://news.ycombinator.com/item?id=28486647\nPoints: 56\n# Comments: 19",
-          "link": "https://mesonstars.com/inteteresting/they-find-a-second-hexagon-in-the-stratosphere-of-saturn/",
-          "publishedOn": "2021-09-10T20:41:44.000Z",
-          "wordCount": 814,
-          "title": "A second hexagon in the stratosphere of Saturn"
+          "description": "Article URL: https://cloudintosh.sharedigm.com\nComments URL: https://news.ycombinator.com/item?id=28497096\nPoints: 13\n# Comments: 2",
+          "link": "https://cloudintosh.sharedigm.com",
+          "publishedOn": "2021-09-11T23:31:55.000Z",
+          "wordCount": 2,
+          "title": "Welcome to Cloudintosh"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28486623",
-          "author": "petergeoghegan",
-          "description": "Article URL: https://www.cybertec-postgresql.com/en/index-bloat-reduced-in-postgresql-v14/\nComments URL: https://news.ycombinator.com/item?id=28486623\nPoints: 19\n# Comments: 0",
-          "link": "https://www.cybertec-postgresql.com/en/index-bloat-reduced-in-postgresql-v14/",
-          "publishedOn": "2021-09-10T20:39:08.000Z",
-          "wordCount": 1781,
-          "title": "Index bloat reduced in PostgreSQL v14"
+          "id": "https://news.ycombinator.com/item?id=28496973",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://www.ryanliptak.com/blog/code-coverage-zig-callgrind/\nComments URL: https://news.ycombinator.com/item?id=28496973\nPoints: 10\n# Comments: 0",
+          "link": "https://www.ryanliptak.com/blog/code-coverage-zig-callgrind/",
+          "publishedOn": "2021-09-11T23:12:03.000Z",
+          "wordCount": 3301,
+          "title": "Code Coverage for Zig with Callgrind"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28486389",
-          "author": "kaycebasques",
-          "description": "Article URL: https://windy.com\nComments URL: https://news.ycombinator.com/item?id=28486389\nPoints: 439\n# Comments: 106",
-          "link": "https://windy.com",
-          "publishedOn": "2021-09-10T20:15:02.000Z",
-          "wordCount": 9,
-          "title": "Windy.com"
+          "id": "https://news.ycombinator.com/item?id=28496650",
+          "author": "dkthehuman",
+          "description": "Article URL: https://my-room-in-3d.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=28496650\nPoints: 122\n# Comments: 20",
+          "link": "https://my-room-in-3d.vercel.app/",
+          "publishedOn": "2021-09-11T22:25:56.000Z",
+          "wordCount": 12,
+          "title": "My Room in 3D"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28486133",
-          "author": "anchpop",
-          "description": "Article URL: https://github.com/microsoft/wslg\nComments URL: https://news.ycombinator.com/item?id=28486133\nPoints: 279\n# Comments: 194",
-          "link": "https://github.com/microsoft/wslg",
-          "publishedOn": "2021-09-10T19:45:49.000Z",
-          "wordCount": 4113,
-          "title": "Windows Subsystem for Linux GUI"
+          "id": "https://news.ycombinator.com/item?id=28496416",
+          "author": "GeekyBear",
+          "description": "Article URL: http://www.fosspatents.com/2021/09/no-epic-v-apple-injunction-absolutely.html\nComments URL: https://news.ycombinator.com/item?id=28496416\nPoints: 79\n# Comments: 54",
+          "link": "http://www.fosspatents.com/2021/09/no-epic-v-apple-injunction-absolutely.html",
+          "publishedOn": "2021-09-11T21:52:56.000Z",
+          "wordCount": 1822,
+          "title": "Epic vs. Apple injunction doesn't allow for alternative in-app payment mechanism"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28485905",
-          "author": "jdkee",
-          "description": "Article URL: https://www.theguardian.com/technology/2021/sep/10/google-underpaid-workers-illegal-pay-disparity-documents\nComments URL: https://news.ycombinator.com/item?id=28485905\nPoints: 351\n# Comments: 105",
-          "link": "https://www.theguardian.com/technology/2021/sep/10/google-underpaid-workers-illegal-pay-disparity-documents",
-          "publishedOn": "2021-09-10T19:19:07.000Z",
-          "wordCount": 2403,
-          "title": "Google illegally underpaid thousands of workers"
+          "id": "https://news.ycombinator.com/item?id=28496349",
+          "author": "arkadiyt",
+          "description": "Article URL: https://unit42.paloaltonetworks.com/azure-container-instances/\nComments URL: https://news.ycombinator.com/item?id=28496349\nPoints: 18\n# Comments: 2",
+          "link": "https://unit42.paloaltonetworks.com/azure-container-instances/",
+          "publishedOn": "2021-09-11T21:45:24.000Z",
+          "wordCount": 3577,
+          "title": "Cross-Account Container Takeover in Azure Container Instances"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28485115",
-          "author": "Borrible",
-          "description": "Article URL: https://www.atlasobscura.com/articles/radioactive-atomic-gardening\nComments URL: https://news.ycombinator.com/item?id=28485115\nPoints: 52\n# Comments: 16",
-          "link": "https://www.atlasobscura.com/articles/radioactive-atomic-gardening",
-          "publishedOn": "2021-09-10T18:05:51.000Z",
-          "wordCount": 2694,
-          "title": "Atomic Gardening"
+          "id": "https://news.ycombinator.com/item?id=28496328",
+          "author": "rdli",
+          "description": "Article URL: https://www.youtube.com/watch?v=WXuK6gekU1Y\nComments URL: https://news.ycombinator.com/item?id=28496328\nPoints: 75\n# Comments: 8",
+          "link": "https://www.youtube.com/watch?v=WXuK6gekU1Y",
+          "publishedOn": "2021-09-11T21:43:17.000Z",
+          "wordCount": null,
+          "title": "AlphaGo: The Documentary"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28484850",
-          "author": "reikonomusha",
-          "description": "Article URL: https://coalton-lang.github.io/20211010-introducing-coalton/\nComments URL: https://news.ycombinator.com/item?id=28484850\nPoints: 108\n# Comments: 16",
-          "link": "https://coalton-lang.github.io/20211010-introducing-coalton/",
-          "publishedOn": "2021-09-10T17:42:36.000Z",
-          "wordCount": 2769,
-          "title": "Coalton: How to Have Our (Typed) Cake and (Safely) Eat It Too, in Common Lisp"
+          "id": "https://news.ycombinator.com/item?id=28495945",
+          "author": "the_economist",
+          "description": "Article URL: https://jobs.lever.co/buildzoom\nComments URL: https://news.ycombinator.com/item?id=28495945\nPoints: 1\n# Comments: 0",
+          "link": "https://jobs.lever.co/buildzoom",
+          "publishedOn": "2021-09-11T21:00:52.000Z",
+          "wordCount": 101,
+          "title": "BuildZoom (better way to build custom homes) Is hiring a Growth Associate"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28484681",
-          "author": "FiloSottile",
-          "description": "Article URL: https://www.whatsapp.com/security/WhatsApp_Security_Encrypted_Backups_Whitepaper.pdf\nComments URL: https://news.ycombinator.com/item?id=28484681\nPoints: 98\n# Comments: 56",
-          "link": "https://www.whatsapp.com/security/WhatsApp_Security_Encrypted_Backups_Whitepaper.pdf",
-          "publishedOn": "2021-09-10T17:28:36.000Z",
-          "wordCount": 13660,
-          "title": "WhatsApp – Security of End-to-End Encrypted Backups [pdf]"
+          "id": "https://news.ycombinator.com/item?id=28495941",
+          "author": "woodruffw",
+          "description": "Article URL: https://www.nytimes.com/2021/09/11/health/nursing-homes-schizophrenia-antipsychotics.html\nComments URL: https://news.ycombinator.com/item?id=28495941\nPoints: 123\n# Comments: 89",
+          "link": "https://www.nytimes.com/2021/09/11/health/nursing-homes-schizophrenia-antipsychotics.html",
+          "publishedOn": "2021-09-11T21:00:38.000Z",
+          "wordCount": 3887,
+          "title": "Phony Diagnoses Hide High Rates of Drugging at Nursing Homes"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28484373",
-          "author": "T-A",
-          "description": "Article URL: https://neuralmagic.com/blog/benchmark-yolov5-on-cpus-with-deepsparse/\nComments URL: https://news.ycombinator.com/item?id=28484373\nPoints: 88\n# Comments: 34",
-          "link": "https://neuralmagic.com/blog/benchmark-yolov5-on-cpus-with-deepsparse/",
-          "publishedOn": "2021-09-10T17:04:02.000Z",
-          "wordCount": 1972,
-          "title": "YOLOv5 on CPUs: Sparsifying to Achieve GPU-Level Performance"
+          "id": "https://news.ycombinator.com/item?id=28495914",
+          "author": "jakecyr",
+          "description": "Article URL: https://freebibleapi.com\nComments URL: https://news.ycombinator.com/item?id=28495914\nPoints: 19\n# Comments: 3",
+          "link": "https://freebibleapi.com",
+          "publishedOn": "2021-09-11T20:58:14.000Z",
+          "wordCount": 37,
+          "title": "Structured Bible Data API in Multiple Translations"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28483671",
+          "id": "https://news.ycombinator.com/item?id=28495912",
+          "author": "ColinWright",
+          "description": "Article URL: https://meta.ath0.com/2020/12/social-notwork/\nComments URL: https://news.ycombinator.com/item?id=28495912\nPoints: 116\n# Comments: 28",
+          "link": "https://meta.ath0.com/2020/12/social-notwork/",
+          "publishedOn": "2021-09-11T20:57:57.000Z",
+          "wordCount": 297,
+          "title": "Social Networks: It's worse than you think (2020)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28494920",
+          "author": "agomez314",
+          "description": "Article URL: https://www.nature.com/articles/s41562-021-01196-4\nComments URL: https://news.ycombinator.com/item?id=28494920\nPoints: 164\n# Comments: 120",
+          "link": "https://www.nature.com/articles/s41562-021-01196-4",
+          "publishedOn": "2021-09-11T19:11:05.000Z",
+          "wordCount": 12270,
+          "title": "The effects of remote work on collaboration among information workers"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28493901",
+          "author": "jkuria",
+          "description": "Article URL: https://www.economist.com/science-and-technology/2021/09/11/the-effects-of-a-warmer-world-are-visible-in-animals-bodies\nComments URL: https://news.ycombinator.com/item?id=28493901\nPoints: 66\n# Comments: 30",
+          "link": "https://www.economist.com/science-and-technology/2021/09/11/the-effects-of-a-warmer-world-are-visible-in-animals-bodies",
+          "publishedOn": "2021-09-11T17:33:06.000Z",
+          "wordCount": 941,
+          "title": "The effects of a warmer world are visible in animals’ bodies"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28493328",
           "author": "defaulty",
-          "description": "Article URL: https://blog.kewah.com/2021/write-more-but-shorter/\nComments URL: https://news.ycombinator.com/item?id=28483671\nPoints: 162\n# Comments: 73",
-          "link": "https://blog.kewah.com/2021/write-more-but-shorter/",
-          "publishedOn": "2021-09-10T16:16:48.000Z",
-          "wordCount": 281,
-          "title": "Write More, but Shorter"
+          "description": "Article URL: https://storybook.js.org/\nComments URL: https://news.ycombinator.com/item?id=28493328\nPoints: 127\n# Comments: 42",
+          "link": "https://storybook.js.org/",
+          "publishedOn": "2021-09-11T16:36:54.000Z",
+          "wordCount": 477,
+          "title": "Storybook: UI component explorer for front end developers"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28482895",
-          "author": "freddier",
-          "description": "Article URL: https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store\nComments URL: https://news.ycombinator.com/item?id=28482895\nPoints: 1106\n# Comments: 703",
-          "link": "https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store",
-          "publishedOn": "2021-09-10T15:26:35.000Z",
-          "wordCount": 1039,
-          "title": "Court issues permanent injunction in Epic vs. Apple case"
+          "id": "https://news.ycombinator.com/item?id=28493283",
+          "author": "ColinWright",
+          "description": "Article URL: https://kparc.com/\nComments URL: https://news.ycombinator.com/item?id=28493283\nPoints: 102\n# Comments: 43",
+          "link": "https://kparc.com/",
+          "publishedOn": "2021-09-11T16:31:38.000Z",
+          "wordCount": 112,
+          "title": "K Programming Language"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28493031",
+          "author": "TechBro8615",
+          "description": "Article URL: https://github.com/Jam3/math-as-code\nComments URL: https://news.ycombinator.com/item?id=28493031\nPoints: 115\n# Comments: 27",
+          "link": "https://github.com/Jam3/math-as-code",
+          "publishedOn": "2021-09-11T16:01:56.000Z",
+          "wordCount": 4466,
+          "title": "A cheat-sheet for mathematical notation in code form"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28492719",
+          "author": "smohnot",
+          "description": "Article URL: https://911realtime.org/\nComments URL: https://news.ycombinator.com/item?id=28492719\nPoints: 607\n# Comments: 318",
+          "link": "https://911realtime.org/",
+          "publishedOn": "2021-09-11T15:24:31.000Z",
+          "wordCount": 585,
+          "title": "September 11, 2001 media synced in real-time"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28492644",
+          "author": "YeGoblynQueenne",
+          "description": "Article URL: https://arxiv.org/abs/2106.11417\nComments URL: https://news.ycombinator.com/item?id=28492644\nPoints: 52\n# Comments: 7",
+          "link": "https://arxiv.org/abs/2106.11417",
+          "publishedOn": "2021-09-11T15:16:26.000Z",
+          "wordCount": 597,
+          "title": "Interpretable Model-Based Hierarchical RL Using Inductive Logic Programming"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28490755",
+          "author": "scns",
+          "description": "Article URL: https://crazymarvin.com/to-dont/\nComments URL: https://news.ycombinator.com/item?id=28490755\nPoints: 131\n# Comments: 37",
+          "link": "https://crazymarvin.com/to-dont/",
+          "publishedOn": "2021-09-11T10:13:27.000Z",
+          "wordCount": 166,
+          "title": "To Don't – The reverse to-do list"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28490656",
+          "author": "schleck8",
+          "description": "Article URL: https://geizhals.eu\nComments URL: https://news.ycombinator.com/item?id=28490656\nPoints: 267\n# Comments: 97",
+          "link": "https://geizhals.eu",
+          "publishedOn": "2021-09-11T09:43:03.000Z",
+          "wordCount": 668,
+          "title": "Geizhals – Tech Product Price Comparison and Tracking"
         }
       ]
     }
