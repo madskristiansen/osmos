@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=28497256",
-          "author": "aliabd",
-          "description": "Article URL: https://twitter.com/jasonrohrer/status/1419795724217331716\nComments URL: https://news.ycombinator.com/item?id=28497256\nPoints: 21\n# Comments: 1",
-          "link": "https://twitter.com/jasonrohrer/status/1419795724217331716",
-          "publishedOn": "2021-09-11T23:57:54.000Z",
-          "wordCount": 196,
-          "title": "Samantha considering the prospect of being monitored for violations by OpenAI"
+          "id": "https://news.ycombinator.com/item?id=28506220",
+          "author": "elcritch",
+          "description": "Article URL: https://github.com/treeform/pixie\nComments URL: https://news.ycombinator.com/item?id=28506220\nPoints: 17\n# Comments: 2",
+          "link": "https://github.com/treeform/pixie",
+          "publishedOn": "2021-09-12T23:43:15.000Z",
+          "wordCount": 1383,
+          "title": "Pixie – A full-featured 2D graphics library for Nim"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28497096",
-          "author": "jdkee",
-          "description": "Article URL: https://cloudintosh.sharedigm.com\nComments URL: https://news.ycombinator.com/item?id=28497096\nPoints: 13\n# Comments: 2",
-          "link": "https://cloudintosh.sharedigm.com",
-          "publishedOn": "2021-09-11T23:31:55.000Z",
-          "wordCount": 2,
-          "title": "Welcome to Cloudintosh"
+          "id": "https://news.ycombinator.com/item?id=28505643",
+          "author": "FridayoLeary",
+          "description": "Article URL: https://vault.fbi.gov/9-11-attacks-investigation-and-related-materials/9-11-material-released-in-response-to-executive-order-14040\nComments URL: https://news.ycombinator.com/item?id=28505643\nPoints: 46\n# Comments: 6",
+          "link": "https://vault.fbi.gov/9-11-attacks-investigation-and-related-materials/9-11-material-released-in-response-to-executive-order-14040",
+          "publishedOn": "2021-09-12T22:27:13.000Z",
+          "wordCount": 455,
+          "title": "9/11 Material Released in Response to Executive Order 14040"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28496973",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://www.ryanliptak.com/blog/code-coverage-zig-callgrind/\nComments URL: https://news.ycombinator.com/item?id=28496973\nPoints: 10\n# Comments: 0",
-          "link": "https://www.ryanliptak.com/blog/code-coverage-zig-callgrind/",
-          "publishedOn": "2021-09-11T23:12:03.000Z",
-          "wordCount": 3301,
-          "title": "Code Coverage for Zig with Callgrind"
+          "id": "https://news.ycombinator.com/item?id=28505408",
+          "author": "Datenstrom",
+          "description": "Article URL: https://jupyterbook.org/intro.html\nComments URL: https://news.ycombinator.com/item?id=28505408\nPoints: 44\n# Comments: 13",
+          "link": "https://jupyterbook.org/intro.html",
+          "publishedOn": "2021-09-12T21:57:38.000Z",
+          "wordCount": 787,
+          "title": "Jupyter Book"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28496650",
-          "author": "dkthehuman",
-          "description": "Article URL: https://my-room-in-3d.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=28496650\nPoints: 122\n# Comments: 20",
-          "link": "https://my-room-in-3d.vercel.app/",
-          "publishedOn": "2021-09-11T22:25:56.000Z",
-          "wordCount": 12,
-          "title": "My Room in 3D"
+          "id": "https://news.ycombinator.com/item?id=28505406",
+          "author": "pcr910303",
+          "description": "Article URL: https://fmentzer.github.io/posts/2020/dictionary/\nComments URL: https://news.ycombinator.com/item?id=28505406\nPoints: 107\n# Comments: 26",
+          "link": "https://fmentzer.github.io/posts/2020/dictionary/",
+          "publishedOn": "2021-09-12T21:57:14.000Z",
+          "wordCount": 2892,
+          "title": "Reverse-Engineering Apple Dictionary"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28496416",
-          "author": "GeekyBear",
-          "description": "Article URL: http://www.fosspatents.com/2021/09/no-epic-v-apple-injunction-absolutely.html\nComments URL: https://news.ycombinator.com/item?id=28496416\nPoints: 79\n# Comments: 54",
-          "link": "http://www.fosspatents.com/2021/09/no-epic-v-apple-injunction-absolutely.html",
-          "publishedOn": "2021-09-11T21:52:56.000Z",
-          "wordCount": 1822,
-          "title": "Epic vs. Apple injunction doesn't allow for alternative in-app payment mechanism"
+          "id": "https://news.ycombinator.com/item?id=28505377",
+          "author": "miles",
+          "description": "Article URL: https://www.startribune.com/mound-man-wins-65k-after-being-fired-for-refusing-to-be-fingerprinted-due-to-christian-faith/600095353/\nComments URL: https://news.ycombinator.com/item?id=28505377\nPoints: 58\n# Comments: 61",
+          "link": "https://www.startribune.com/mound-man-wins-65k-after-being-fired-for-refusing-to-be-fingerprinted-due-to-christian-faith/600095353/",
+          "publishedOn": "2021-09-12T21:54:03.000Z",
+          "wordCount": 1969,
+          "title": "Man wins $65K after being fired for refusing to be fingerprinted"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28496349",
+          "id": "https://news.ycombinator.com/item?id=28505050",
+          "author": "crbelaus",
+          "description": "Article URL: https://github.com/amule-project/amule/releases/tag/2.3.3\nComments URL: https://news.ycombinator.com/item?id=28505050\nPoints: 55\n# Comments: 7",
+          "link": "https://github.com/amule-project/amule/releases/tag/2.3.3",
+          "publishedOn": "2021-09-12T21:17:51.000Z",
+          "wordCount": 447,
+          "title": "AMule 2.3.3 – The “delayed too many times, but still not too late” version"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28504673",
+          "author": "loo",
+          "description": "Article URL: https://ergo.chat\nComments URL: https://news.ycombinator.com/item?id=28504673\nPoints: 41\n# Comments: 33",
+          "link": "https://ergo.chat",
+          "publishedOn": "2021-09-12T20:38:49.000Z",
+          "wordCount": 18,
+          "title": "Ergo IRC Server"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28504627",
+          "author": "xqcgrek2",
+          "description": "Article URL: https://www.currentmarketvaluation.com/models/buffett-indicator.php\nComments URL: https://news.ycombinator.com/item?id=28504627\nPoints: 55\n# Comments: 21",
+          "link": "https://www.currentmarketvaluation.com/models/buffett-indicator.php",
+          "publishedOn": "2021-09-12T20:31:42.000Z",
+          "wordCount": 2671,
+          "title": "The Buffett Indicator"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28504437",
+          "author": "infodocket",
+          "description": "Article URL: https://www.santafe.edu/news-center/news/researchers-reconstruct-major-branches-tree-language\nComments URL: https://news.ycombinator.com/item?id=28504437\nPoints: 18\n# Comments: 4",
+          "link": "https://www.santafe.edu/news-center/news/researchers-reconstruct-major-branches-tree-language",
+          "publishedOn": "2021-09-12T20:09:14.000Z",
+          "wordCount": 1030,
+          "title": "Researchers Reconstruct Major Branches in the Tree of Language"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28503820",
+          "author": "nixass",
+          "description": "Article URL: https://tribunemag.co.uk/2021/09/fossil-fuel-capitalism-is-cutting-our-lives-short\nComments URL: https://news.ycombinator.com/item?id=28503820\nPoints: 259\n# Comments: 215",
+          "link": "https://tribunemag.co.uk/2021/09/fossil-fuel-capitalism-is-cutting-our-lives-short",
+          "publishedOn": "2021-09-12T19:01:52.000Z",
+          "wordCount": 1267,
+          "title": "17B life years could be saved if air pollution was reduced to WHO standards"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28503546",
+          "author": "beepog",
+          "description": "Article URL: https://github.com/transmission/transmission/pull/1787\nComments URL: https://news.ycombinator.com/item?id=28503546\nPoints: 248\n# Comments: 93",
+          "link": "https://github.com/transmission/transmission/pull/1787",
+          "publishedOn": "2021-09-12T18:28:25.000Z",
+          "wordCount": 1356,
+          "title": "Transmission torrent client ported to C++"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28503487",
+          "author": "ingve",
+          "description": "Article URL: https://briancallahan.net/blog/20210911.html\nComments URL: https://news.ycombinator.com/item?id=28503487\nPoints: 96\n# Comments: 32",
+          "link": "https://briancallahan.net/blog/20210911.html",
+          "publishedOn": "2021-09-12T18:21:10.000Z",
+          "wordCount": 1644,
+          "title": "I got the J language working on OpenBSD"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28502849",
+          "author": "rwmj",
+          "description": "Article URL: https://www.os2museum.com/wp/learn-something-old-every-day-part-iii/\nComments URL: https://news.ycombinator.com/item?id=28502849\nPoints: 45\n# Comments: 11",
+          "link": "https://www.os2museum.com/wp/learn-something-old-every-day-part-iii/",
+          "publishedOn": "2021-09-12T17:04:38.000Z",
+          "wordCount": 2158,
+          "title": "Explaining how the MASM 2-pass assembler works"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28502794",
           "author": "arkadiyt",
-          "description": "Article URL: https://unit42.paloaltonetworks.com/azure-container-instances/\nComments URL: https://news.ycombinator.com/item?id=28496349\nPoints: 18\n# Comments: 2",
-          "link": "https://unit42.paloaltonetworks.com/azure-container-instances/",
-          "publishedOn": "2021-09-11T21:45:24.000Z",
-          "wordCount": 3577,
-          "title": "Cross-Account Container Takeover in Azure Container Instances"
+          "description": "Article URL: https://www.techspot.com/news/91174-germany-federal-police-agency-secretly-purchased-used-controversial.html\nComments URL: https://news.ycombinator.com/item?id=28502794\nPoints: 166\n# Comments: 45",
+          "link": "https://www.techspot.com/news/91174-germany-federal-police-agency-secretly-purchased-used-controversial.html",
+          "publishedOn": "2021-09-12T16:58:17.000Z",
+          "wordCount": 967,
+          "title": "Germany's federal police agency purchased and used 'Pegasus' spyware"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28496328",
-          "author": "rdli",
-          "description": "Article URL: https://www.youtube.com/watch?v=WXuK6gekU1Y\nComments URL: https://news.ycombinator.com/item?id=28496328\nPoints: 75\n# Comments: 8",
-          "link": "https://www.youtube.com/watch?v=WXuK6gekU1Y",
-          "publishedOn": "2021-09-11T21:43:17.000Z",
-          "wordCount": null,
-          "title": "AlphaGo: The Documentary"
+          "id": "https://news.ycombinator.com/item?id=28502484",
+          "author": "hliyan",
+          "description": "Article URL: http://c-faq.com/\nComments URL: https://news.ycombinator.com/item?id=28502484\nPoints: 90\n# Comments: 39",
+          "link": "http://c-faq.com/",
+          "publishedOn": "2021-09-12T16:20:54.000Z",
+          "wordCount": 522,
+          "title": "Comp.lang.c Frequently Asked Questions"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28495945",
-          "author": "the_economist",
-          "description": "Article URL: https://jobs.lever.co/buildzoom\nComments URL: https://news.ycombinator.com/item?id=28495945\nPoints: 1\n# Comments: 0",
-          "link": "https://jobs.lever.co/buildzoom",
-          "publishedOn": "2021-09-11T21:00:52.000Z",
-          "wordCount": 101,
-          "title": "BuildZoom (better way to build custom homes) Is hiring a Growth Associate"
+          "id": "https://news.ycombinator.com/item?id=28502414",
+          "author": "hihat",
+          "description": "Article URL: https://www.patkua.com/blog/how-many-people-can-someone-lead/\nComments URL: https://news.ycombinator.com/item?id=28502414\nPoints: 99\n# Comments: 50",
+          "link": "https://www.patkua.com/blog/how-many-people-can-someone-lead/",
+          "publishedOn": "2021-09-12T16:13:10.000Z",
+          "wordCount": 1912,
+          "title": "How Many People Can Someone Lead?"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28495941",
-          "author": "woodruffw",
-          "description": "Article URL: https://www.nytimes.com/2021/09/11/health/nursing-homes-schizophrenia-antipsychotics.html\nComments URL: https://news.ycombinator.com/item?id=28495941\nPoints: 123\n# Comments: 89",
-          "link": "https://www.nytimes.com/2021/09/11/health/nursing-homes-schizophrenia-antipsychotics.html",
-          "publishedOn": "2021-09-11T21:00:38.000Z",
-          "wordCount": 3887,
-          "title": "Phony Diagnoses Hide High Rates of Drugging at Nursing Homes"
+          "id": "https://news.ycombinator.com/item?id=28501505",
+          "author": "pkilgore",
+          "description": "Article URL: http://beam-wisdoms.clau.se/en/latest/index.html\nComments URL: https://news.ycombinator.com/item?id=28501505\nPoints: 281\n# Comments: 48",
+          "link": "http://beam-wisdoms.clau.se/en/latest/index.html",
+          "publishedOn": "2021-09-12T14:33:42.000Z",
+          "wordCount": 321,
+          "title": "Beam/Erlang/Elixir Concept Explanations"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28495914",
-          "author": "jakecyr",
-          "description": "Article URL: https://freebibleapi.com\nComments URL: https://news.ycombinator.com/item?id=28495914\nPoints: 19\n# Comments: 3",
-          "link": "https://freebibleapi.com",
-          "publishedOn": "2021-09-11T20:58:14.000Z",
-          "wordCount": 37,
-          "title": "Structured Bible Data API in Multiple Translations"
+          "id": "https://news.ycombinator.com/item?id=28501429",
+          "author": "zdw",
+          "description": "Article URL: https://robert.ocallahan.org/2021/09/emulating-amd-rsqrtss-etc-on-intel.html\nComments URL: https://news.ycombinator.com/item?id=28501429\nPoints: 69\n# Comments: 16",
+          "link": "https://robert.ocallahan.org/2021/09/emulating-amd-rsqrtss-etc-on-intel.html",
+          "publishedOn": "2021-09-12T14:25:16.000Z",
+          "wordCount": 1592,
+          "title": "Emulating AMD Approximate Arithmetic Instructions on Intel"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28495912",
-          "author": "ColinWright",
-          "description": "Article URL: https://meta.ath0.com/2020/12/social-notwork/\nComments URL: https://news.ycombinator.com/item?id=28495912\nPoints: 116\n# Comments: 28",
-          "link": "https://meta.ath0.com/2020/12/social-notwork/",
-          "publishedOn": "2021-09-11T20:57:57.000Z",
-          "wordCount": 297,
-          "title": "Social Networks: It's worse than you think (2020)"
+          "id": "https://news.ycombinator.com/item?id=28500577",
+          "author": "Anon84",
+          "description": "Article URL: https://physicsbaseddeeplearning.org/intro.html\nComments URL: https://news.ycombinator.com/item?id=28500577\nPoints: 165\n# Comments: 17",
+          "link": "https://physicsbaseddeeplearning.org/intro.html",
+          "publishedOn": "2021-09-12T12:36:03.000Z",
+          "wordCount": 715,
+          "title": "Physics-Based Deep Learning Book"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28494920",
-          "author": "agomez314",
-          "description": "Article URL: https://www.nature.com/articles/s41562-021-01196-4\nComments URL: https://news.ycombinator.com/item?id=28494920\nPoints: 164\n# Comments: 120",
-          "link": "https://www.nature.com/articles/s41562-021-01196-4",
-          "publishedOn": "2021-09-11T19:11:05.000Z",
-          "wordCount": 12270,
-          "title": "The effects of remote work on collaboration among information workers"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28493901",
-          "author": "jkuria",
-          "description": "Article URL: https://www.economist.com/science-and-technology/2021/09/11/the-effects-of-a-warmer-world-are-visible-in-animals-bodies\nComments URL: https://news.ycombinator.com/item?id=28493901\nPoints: 66\n# Comments: 30",
-          "link": "https://www.economist.com/science-and-technology/2021/09/11/the-effects-of-a-warmer-world-are-visible-in-animals-bodies",
-          "publishedOn": "2021-09-11T17:33:06.000Z",
-          "wordCount": 941,
-          "title": "The effects of a warmer world are visible in animals’ bodies"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28493328",
-          "author": "defaulty",
-          "description": "Article URL: https://storybook.js.org/\nComments URL: https://news.ycombinator.com/item?id=28493328\nPoints: 127\n# Comments: 42",
-          "link": "https://storybook.js.org/",
-          "publishedOn": "2021-09-11T16:36:54.000Z",
-          "wordCount": 477,
-          "title": "Storybook: UI component explorer for front end developers"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28493283",
-          "author": "ColinWright",
-          "description": "Article URL: https://kparc.com/\nComments URL: https://news.ycombinator.com/item?id=28493283\nPoints: 102\n# Comments: 43",
-          "link": "https://kparc.com/",
-          "publishedOn": "2021-09-11T16:31:38.000Z",
-          "wordCount": 112,
-          "title": "K Programming Language"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28493031",
-          "author": "TechBro8615",
-          "description": "Article URL: https://github.com/Jam3/math-as-code\nComments URL: https://news.ycombinator.com/item?id=28493031\nPoints: 115\n# Comments: 27",
-          "link": "https://github.com/Jam3/math-as-code",
-          "publishedOn": "2021-09-11T16:01:56.000Z",
-          "wordCount": 4466,
-          "title": "A cheat-sheet for mathematical notation in code form"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28492719",
-          "author": "smohnot",
-          "description": "Article URL: https://911realtime.org/\nComments URL: https://news.ycombinator.com/item?id=28492719\nPoints: 607\n# Comments: 318",
-          "link": "https://911realtime.org/",
-          "publishedOn": "2021-09-11T15:24:31.000Z",
-          "wordCount": 585,
-          "title": "September 11, 2001 media synced in real-time"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28492644",
-          "author": "YeGoblynQueenne",
-          "description": "Article URL: https://arxiv.org/abs/2106.11417\nComments URL: https://news.ycombinator.com/item?id=28492644\nPoints: 52\n# Comments: 7",
-          "link": "https://arxiv.org/abs/2106.11417",
-          "publishedOn": "2021-09-11T15:16:26.000Z",
-          "wordCount": 597,
-          "title": "Interpretable Model-Based Hierarchical RL Using Inductive Logic Programming"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28490755",
-          "author": "scns",
-          "description": "Article URL: https://crazymarvin.com/to-dont/\nComments URL: https://news.ycombinator.com/item?id=28490755\nPoints: 131\n# Comments: 37",
-          "link": "https://crazymarvin.com/to-dont/",
-          "publishedOn": "2021-09-11T10:13:27.000Z",
-          "wordCount": 166,
-          "title": "To Don't – The reverse to-do list"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28490656",
-          "author": "schleck8",
-          "description": "Article URL: https://geizhals.eu\nComments URL: https://news.ycombinator.com/item?id=28490656\nPoints: 267\n# Comments: 97",
-          "link": "https://geizhals.eu",
-          "publishedOn": "2021-09-11T09:43:03.000Z",
-          "wordCount": 668,
-          "title": "Geizhals – Tech Product Price Comparison and Tracking"
+          "id": "https://news.ycombinator.com/item?id=28500508",
+          "author": "mrfusion",
+          "description": "Article URL: https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/\nComments URL: https://news.ycombinator.com/item?id=28500508\nPoints: 432\n# Comments: 234",
+          "link": "https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/",
+          "publishedOn": "2021-09-12T12:22:47.000Z",
+          "wordCount": 1590,
+          "title": "Leaded Gas Was a Known Poison the Day It Was Invented (2016)"
         }
       ]
     }
