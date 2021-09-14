@@ -1,268 +1,268 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-13T00:54:26.880Z</id>
+    <id>urn:2021-09-14T00:56:37.844Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-13T00:54:26.880Z</updated>
+    <updated>2021-09-14T00:56:37.844Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Pixie – A full-featured 2D graphics library for Nim]]></title>
-        <id>https://news.ycombinator.com/item?id=28506220</id>
-        <link href="https://github.com/treeform/pixie"/>
-        <updated>2021-09-12T23:43:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/treeform/pixie
-Comments URL: https://news.ycombinator.com/item?id=28506220
-Points: 17
-# Comments: 2]]></summary>
+        <title type="html"><![CDATA[Why Monero]]></title>
+        <id>https://news.ycombinator.com/item?id=28517870</id>
+        <link href="https://benkaiser.dev/why-monero/"/>
+        <updated>2021-09-13T22:42:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://benkaiser.dev/why-monero/
+Comments URL: https://news.ycombinator.com/item?id=28517870
+Points: 84
+# Comments: 52]]></summary>
         <author>
-            <name>elcritch</name>
+            <name>benkaiser</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[9/11 Material Released in Response to Executive Order 14040]]></title>
-        <id>https://news.ycombinator.com/item?id=28505643</id>
-        <link href="https://vault.fbi.gov/9-11-attacks-investigation-and-related-materials/9-11-material-released-in-response-to-executive-order-14040"/>
-        <updated>2021-09-12T22:27:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://vault.fbi.gov/9-11-attacks-investigation-and-related-materials/9-11-material-released-in-response-to-executive-order-14040
-Comments URL: https://news.ycombinator.com/item?id=28505643
-Points: 46
+        <title type="html"><![CDATA[UK hotels adding service charge to room rate]]></title>
+        <id>https://news.ycombinator.com/item?id=28517606</id>
+        <link href="https://www.headforpoints.com/2021/09/13/uk-hotels-adding-service-charges-to-room-rate/"/>
+        <updated>2021-09-13T22:15:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.headforpoints.com/2021/09/13/uk-hotels-adding-service-charges-to-room-rate/
+Comments URL: https://news.ycombinator.com/item?id=28517606
+Points: 36
+# Comments: 38]]></summary>
+        <author>
+            <name>edward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox Browser: best for a free web]]></title>
+        <id>https://news.ycombinator.com/item?id=28517314</id>
+        <link href="https://www.mozilla.org/en-GB/firefox/new/"/>
+        <updated>2021-09-13T21:49:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.mozilla.org/en-GB/firefox/new/
+Comments URL: https://news.ycombinator.com/item?id=28517314
+Points: 38
 # Comments: 6]]></summary>
         <author>
-            <name>FridayoLeary</name>
+            <name>Borlands</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jupyter Book]]></title>
-        <id>https://news.ycombinator.com/item?id=28505408</id>
-        <link href="https://jupyterbook.org/intro.html"/>
-        <updated>2021-09-12T21:57:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jupyterbook.org/intro.html
-Comments URL: https://news.ycombinator.com/item?id=28505408
-Points: 44
-# Comments: 13]]></summary>
+        <title type="html"><![CDATA[Adam Curtis’ “Bitter Lake”: A Review]]></title>
+        <id>https://news.ycombinator.com/item?id=28517079</id>
+        <link href="https://im1776.com/2021/09/10/graveyard-empire/"/>
+        <updated>2021-09-13T21:25:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://im1776.com/2021/09/10/graveyard-empire/
+Comments URL: https://news.ycombinator.com/item?id=28517079
+Points: 27
+# Comments: 12]]></summary>
         <author>
-            <name>Datenstrom</name>
+            <name>chippy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reverse-Engineering Apple Dictionary]]></title>
-        <id>https://news.ycombinator.com/item?id=28505406</id>
-        <link href="https://fmentzer.github.io/posts/2020/dictionary/"/>
-        <updated>2021-09-12T21:57:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://fmentzer.github.io/posts/2020/dictionary/
-Comments URL: https://news.ycombinator.com/item?id=28505406
-Points: 107
-# Comments: 26]]></summary>
+        <title type="html"><![CDATA[Smart kids should skip high school (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=28516925</id>
+        <link href="https://www.sonyaellenmann.com/2015/09/why-skip-high-school.html"/>
+        <updated>2021-09-13T21:10:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sonyaellenmann.com/2015/09/why-skip-high-school.html
+Comments URL: https://news.ycombinator.com/item?id=28516925
+Points: 75
+# Comments: 128]]></summary>
         <author>
-            <name>pcr910303</name>
+            <name>exolymph</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Man wins $65K after being fired for refusing to be fingerprinted]]></title>
-        <id>https://news.ycombinator.com/item?id=28505377</id>
-        <link href="https://www.startribune.com/mound-man-wins-65k-after-being-fired-for-refusing-to-be-fingerprinted-due-to-christian-faith/600095353/"/>
-        <updated>2021-09-12T21:54:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.startribune.com/mound-man-wins-65k-after-being-fired-for-refusing-to-be-fingerprinted-due-to-christian-faith/600095353/
-Comments URL: https://news.ycombinator.com/item?id=28505377
-Points: 58
-# Comments: 61]]></summary>
+        <title type="html"><![CDATA[EasyPost (YC S13) is profitable and hiring]]></title>
+        <id>https://news.ycombinator.com/item?id=28516810</id>
+        <link href="https://www.easypost.com/careers"/>
+        <updated>2021-09-13T21:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.easypost.com/careers
+Comments URL: https://news.ycombinator.com/item?id=28516810
+Points: 1
+# Comments: 0]]></summary>
         <author>
-            <name>miles</name>
+            <name>jstreebin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMule 2.3.3 – The “delayed too many times, but still not too late” version]]></title>
-        <id>https://news.ycombinator.com/item?id=28505050</id>
-        <link href="https://github.com/amule-project/amule/releases/tag/2.3.3"/>
-        <updated>2021-09-12T21:17:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/amule-project/amule/releases/tag/2.3.3
-Comments URL: https://news.ycombinator.com/item?id=28505050
-Points: 55
-# Comments: 7]]></summary>
-        <author>
-            <name>crbelaus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ergo IRC Server]]></title>
-        <id>https://news.ycombinator.com/item?id=28504673</id>
-        <link href="https://ergo.chat"/>
-        <updated>2021-09-12T20:38:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ergo.chat
-Comments URL: https://news.ycombinator.com/item?id=28504673
-Points: 41
-# Comments: 33]]></summary>
-        <author>
-            <name>loo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Buffett Indicator]]></title>
-        <id>https://news.ycombinator.com/item?id=28504627</id>
-        <link href="https://www.currentmarketvaluation.com/models/buffett-indicator.php"/>
-        <updated>2021-09-12T20:31:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.currentmarketvaluation.com/models/buffett-indicator.php
-Comments URL: https://news.ycombinator.com/item?id=28504627
-Points: 55
-# Comments: 21]]></summary>
-        <author>
-            <name>xqcgrek2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Reconstruct Major Branches in the Tree of Language]]></title>
-        <id>https://news.ycombinator.com/item?id=28504437</id>
-        <link href="https://www.santafe.edu/news-center/news/researchers-reconstruct-major-branches-tree-language"/>
-        <updated>2021-09-12T20:09:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.santafe.edu/news-center/news/researchers-reconstruct-major-branches-tree-language
-Comments URL: https://news.ycombinator.com/item?id=28504437
-Points: 18
+        <title type="html"><![CDATA[Engineers grow pancreatic organoids that mimic the real thing]]></title>
+        <id>https://news.ycombinator.com/item?id=28516262</id>
+        <link href="https://news.mit.edu/2021/pancreatic-organoids-cancer-0913"/>
+        <updated>2021-09-13T20:15:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2021/pancreatic-organoids-cancer-0913
+Comments URL: https://news.ycombinator.com/item?id=28516262
+Points: 104
 # Comments: 4]]></summary>
         <author>
-            <name>infodocket</name>
+            <name>geox</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[17B life years could be saved if air pollution was reduced to WHO standards]]></title>
-        <id>https://news.ycombinator.com/item?id=28503820</id>
-        <link href="https://tribunemag.co.uk/2021/09/fossil-fuel-capitalism-is-cutting-our-lives-short"/>
-        <updated>2021-09-12T19:01:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tribunemag.co.uk/2021/09/fossil-fuel-capitalism-is-cutting-our-lives-short
-Comments URL: https://news.ycombinator.com/item?id=28503820
-Points: 259
-# Comments: 215]]></summary>
+        <title type="html"><![CDATA[Intuit to Acquire Mailchimp for $12B]]></title>
+        <id>https://news.ycombinator.com/item?id=28516219</id>
+        <link href="https://www.investors.intuit.com/news/news-details/2021/Intuit-to-Acquire-Mailchimp/default.aspx"/>
+        <updated>2021-09-13T20:12:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.investors.intuit.com/news/news-details/2021/Intuit-to-Acquire-Mailchimp/default.aspx
+Comments URL: https://news.ycombinator.com/item?id=28516219
+Points: 340
+# Comments: 221]]></summary>
+        <author>
+            <name>marc__1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NSO Group iMessage Zero-Click Exploit Captured in the Wild]]></title>
+        <id>https://news.ycombinator.com/item?id=28516095</id>
+        <link href="https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/"/>
+        <updated>2021-09-13T20:04:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/
+Comments URL: https://news.ycombinator.com/item?id=28516095
+Points: 475
+# Comments: 142]]></summary>
+        <author>
+            <name>jbegley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kite: An interactive visualization tool for graph theory]]></title>
+        <id>https://news.ycombinator.com/item?id=28516064</id>
+        <link href="https://erkal.github.io/kite/"/>
+        <updated>2021-09-13T20:01:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://erkal.github.io/kite/
+Comments URL: https://news.ycombinator.com/item?id=28516064
+Points: 78
+# Comments: 8]]></summary>
+        <author>
+            <name>homarp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla opens a center on Native American land, selling cars straight to consumers]]></title>
+        <id>https://news.ycombinator.com/item?id=28515623</id>
+        <link href="https://www.businessinsider.com/tesla-new-mexico-nambe-pueblo-tribal-land-direct-sales-ban-2021-9"/>
+        <updated>2021-09-13T19:24:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/tesla-new-mexico-nambe-pueblo-tribal-land-direct-sales-ban-2021-9
+Comments URL: https://news.ycombinator.com/item?id=28515623
+Points: 162
+# Comments: 132]]></summary>
         <author>
             <name>nixass</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Transmission torrent client ported to C++]]></title>
-        <id>https://news.ycombinator.com/item?id=28503546</id>
-        <link href="https://github.com/transmission/transmission/pull/1787"/>
-        <updated>2021-09-12T18:28:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/transmission/transmission/pull/1787
-Comments URL: https://news.ycombinator.com/item?id=28503546
-Points: 248
-# Comments: 93]]></summary>
-        <author>
-            <name>beepog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I got the J language working on OpenBSD]]></title>
-        <id>https://news.ycombinator.com/item?id=28503487</id>
-        <link href="https://briancallahan.net/blog/20210911.html"/>
-        <updated>2021-09-12T18:21:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://briancallahan.net/blog/20210911.html
-Comments URL: https://news.ycombinator.com/item?id=28503487
-Points: 96
-# Comments: 32]]></summary>
-        <author>
-            <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explaining how the MASM 2-pass assembler works]]></title>
-        <id>https://news.ycombinator.com/item?id=28502849</id>
-        <link href="https://www.os2museum.com/wp/learn-something-old-every-day-part-iii/"/>
-        <updated>2021-09-12T17:04:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.os2museum.com/wp/learn-something-old-every-day-part-iii/
-Comments URL: https://news.ycombinator.com/item?id=28502849
-Points: 45
+        <title type="html"><![CDATA[High Performance Organizations Reading List]]></title>
+        <id>https://news.ycombinator.com/item?id=28515579</id>
+        <link href="https://github.com/pdfernhout/High-Performance-Organizations-Reading-List"/>
+        <updated>2021-09-13T19:20:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/pdfernhout/High-Performance-Organizations-Reading-List
+Comments URL: https://news.ycombinator.com/item?id=28515579
+Points: 89
 # Comments: 11]]></summary>
         <author>
-            <name>rwmj</name>
+            <name>bfoks</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Germany's federal police agency purchased and used 'Pegasus' spyware]]></title>
-        <id>https://news.ycombinator.com/item?id=28502794</id>
-        <link href="https://www.techspot.com/news/91174-germany-federal-police-agency-secretly-purchased-used-controversial.html"/>
-        <updated>2021-09-12T16:58:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.techspot.com/news/91174-germany-federal-police-agency-secretly-purchased-used-controversial.html
-Comments URL: https://news.ycombinator.com/item?id=28502794
-Points: 166
-# Comments: 45]]></summary>
+        <title type="html"><![CDATA[YouTube takes down the Ig Nobel show because of a 1914 recording]]></title>
+        <id>https://news.ycombinator.com/item?id=28515457</id>
+        <link href="https://www.improbable.com/2021/09/13/youtube-the-ig-nobel-prizes-and-the-year-1914/"/>
+        <updated>2021-09-13T19:09:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.improbable.com/2021/09/13/youtube-the-ig-nobel-prizes-and-the-year-1914/
+Comments URL: https://news.ycombinator.com/item?id=28515457
+Points: 363
+# Comments: 150]]></summary>
         <author>
-            <name>arkadiyt</name>
+            <name>baoyu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Comp.lang.c Frequently Asked Questions]]></title>
-        <id>https://news.ycombinator.com/item?id=28502484</id>
-        <link href="http://c-faq.com/"/>
-        <updated>2021-09-12T16:20:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://c-faq.com/
-Comments URL: https://news.ycombinator.com/item?id=28502484
-Points: 90
-# Comments: 39]]></summary>
-        <author>
-            <name>hliyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Many People Can Someone Lead?]]></title>
-        <id>https://news.ycombinator.com/item?id=28502414</id>
-        <link href="https://www.patkua.com/blog/how-many-people-can-someone-lead/"/>
-        <updated>2021-09-12T16:13:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.patkua.com/blog/how-many-people-can-someone-lead/
-Comments URL: https://news.ycombinator.com/item?id=28502414
-Points: 99
-# Comments: 50]]></summary>
-        <author>
-            <name>hihat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beam/Erlang/Elixir Concept Explanations]]></title>
-        <id>https://news.ycombinator.com/item?id=28501505</id>
-        <link href="http://beam-wisdoms.clau.se/en/latest/index.html"/>
-        <updated>2021-09-12T14:33:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://beam-wisdoms.clau.se/en/latest/index.html
-Comments URL: https://news.ycombinator.com/item?id=28501505
-Points: 281
-# Comments: 48]]></summary>
-        <author>
-            <name>pkilgore</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emulating AMD Approximate Arithmetic Instructions on Intel]]></title>
-        <id>https://news.ycombinator.com/item?id=28501429</id>
-        <link href="https://robert.ocallahan.org/2021/09/emulating-amd-rsqrtss-etc-on-intel.html"/>
-        <updated>2021-09-12T14:25:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://robert.ocallahan.org/2021/09/emulating-amd-rsqrtss-etc-on-intel.html
-Comments URL: https://news.ycombinator.com/item?id=28501429
-Points: 69
-# Comments: 16]]></summary>
-        <author>
-            <name>zdw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physics-Based Deep Learning Book]]></title>
-        <id>https://news.ycombinator.com/item?id=28500577</id>
-        <link href="https://physicsbaseddeeplearning.org/intro.html"/>
-        <updated>2021-09-12T12:36:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://physicsbaseddeeplearning.org/intro.html
-Comments URL: https://news.ycombinator.com/item?id=28500577
-Points: 165
+        <title type="html"><![CDATA[Show HN: Video2WebP – convert videos to animated WebP in the browser]]></title>
+        <id>https://news.ycombinator.com/item?id=28515035</id>
+        <link href="https://video2webp.mattj.io"/>
+        <updated>2021-09-13T18:37:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://video2webp.mattj.io
+Comments URL: https://news.ycombinator.com/item?id=28515035
+Points: 35
 # Comments: 17]]></summary>
         <author>
-            <name>Anon84</name>
+            <name>devadvance</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Leaded Gas Was a Known Poison the Day It Was Invented (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=28500508</id>
-        <link href="https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/"/>
-        <updated>2021-09-12T12:22:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/
-Comments URL: https://news.ycombinator.com/item?id=28500508
-Points: 432
-# Comments: 234]]></summary>
+        <title type="html"><![CDATA[X Window System on a Floppy]]></title>
+        <id>https://news.ycombinator.com/item?id=28515025</id>
+        <link href="http://pupngo.dk/xwinflpy/xwoaf_rebuild.html"/>
+        <updated>2021-09-13T18:36:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://pupngo.dk/xwinflpy/xwoaf_rebuild.html
+Comments URL: https://news.ycombinator.com/item?id=28515025
+Points: 88
+# Comments: 47]]></summary>
         <author>
-            <name>mrfusion</name>
+            <name>marcodiego</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Crawl the Web with Scrapy]]></title>
+        <id>https://news.ycombinator.com/item?id=28514998</id>
+        <link href="https://www.babbling.fish/scraping-for-a-job/"/>
+        <updated>2021-09-13T18:34:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.babbling.fish/scraping-for-a-job/
+Comments URL: https://news.ycombinator.com/item?id=28514998
+Points: 116
+# Comments: 41]]></summary>
+        <author>
+            <name>babblingfish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers successfully potty-train cows]]></title>
+        <id>https://news.ycombinator.com/item?id=28514695</id>
+        <link href="https://www.science.org/content/article/barnyard-breakthrough-researchers-successfully-potty-train-cows"/>
+        <updated>2021-09-13T18:07:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.science.org/content/article/barnyard-breakthrough-researchers-successfully-potty-train-cows
+Comments URL: https://news.ycombinator.com/item?id=28514695
+Points: 180
+# Comments: 226]]></summary>
+        <author>
+            <name>cheese_goddess</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: TweeView – A Tree Visualisation of Twitter Conversations]]></title>
+        <id>https://news.ycombinator.com/item?id=28514298</id>
+        <link href="https://tweeview.ml/"/>
+        <updated>2021-09-13T17:38:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tweeview.ml/
+Comments URL: https://news.ycombinator.com/item?id=28514298
+Points: 45
+# Comments: 13]]></summary>
+        <author>
+            <name>edent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RaveDJ – AI Music Mashup Maker]]></title>
+        <id>https://news.ycombinator.com/item?id=28514159</id>
+        <link href="https://rave.dj/"/>
+        <updated>2021-09-13T17:26:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rave.dj/
+Comments URL: https://news.ycombinator.com/item?id=28514159
+Points: 56
+# Comments: 39]]></summary>
+        <author>
+            <name>ZeroCool2u</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RIP Jekyll (The Genesis of the Jamstack)]]></title>
+        <id>https://news.ycombinator.com/item?id=28514029</id>
+        <link href="https://www.bridgetownrb.com/future/rip-jekyll/"/>
+        <updated>2021-09-13T17:15:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bridgetownrb.com/future/rip-jekyll/
+Comments URL: https://news.ycombinator.com/item?id=28514029
+Points: 53
+# Comments: 74]]></summary>
+        <author>
+            <name>jaredcwhite</name>
         </author>
     </entry>
 </feed>

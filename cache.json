@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=28506220",
-          "author": "elcritch",
-          "description": "Article URL: https://github.com/treeform/pixie\nComments URL: https://news.ycombinator.com/item?id=28506220\nPoints: 17\n# Comments: 2",
-          "link": "https://github.com/treeform/pixie",
-          "publishedOn": "2021-09-12T23:43:15.000Z",
-          "wordCount": 1383,
-          "title": "Pixie – A full-featured 2D graphics library for Nim"
+          "id": "https://news.ycombinator.com/item?id=28517870",
+          "author": "benkaiser",
+          "description": "Article URL: https://benkaiser.dev/why-monero/\nComments URL: https://news.ycombinator.com/item?id=28517870\nPoints: 84\n# Comments: 52",
+          "link": "https://benkaiser.dev/why-monero/",
+          "publishedOn": "2021-09-13T22:42:59.000Z",
+          "wordCount": 1219,
+          "title": "Why Monero"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28505643",
-          "author": "FridayoLeary",
-          "description": "Article URL: https://vault.fbi.gov/9-11-attacks-investigation-and-related-materials/9-11-material-released-in-response-to-executive-order-14040\nComments URL: https://news.ycombinator.com/item?id=28505643\nPoints: 46\n# Comments: 6",
-          "link": "https://vault.fbi.gov/9-11-attacks-investigation-and-related-materials/9-11-material-released-in-response-to-executive-order-14040",
-          "publishedOn": "2021-09-12T22:27:13.000Z",
-          "wordCount": 455,
-          "title": "9/11 Material Released in Response to Executive Order 14040"
+          "id": "https://news.ycombinator.com/item?id=28517606",
+          "author": "edward",
+          "description": "Article URL: https://www.headforpoints.com/2021/09/13/uk-hotels-adding-service-charges-to-room-rate/\nComments URL: https://news.ycombinator.com/item?id=28517606\nPoints: 36\n# Comments: 38",
+          "link": "https://www.headforpoints.com/2021/09/13/uk-hotels-adding-service-charges-to-room-rate/",
+          "publishedOn": "2021-09-13T22:15:57.000Z",
+          "wordCount": 3136,
+          "title": "UK hotels adding service charge to room rate"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28505408",
-          "author": "Datenstrom",
-          "description": "Article URL: https://jupyterbook.org/intro.html\nComments URL: https://news.ycombinator.com/item?id=28505408\nPoints: 44\n# Comments: 13",
-          "link": "https://jupyterbook.org/intro.html",
-          "publishedOn": "2021-09-12T21:57:38.000Z",
-          "wordCount": 787,
-          "title": "Jupyter Book"
+          "id": "https://news.ycombinator.com/item?id=28517314",
+          "author": "Borlands",
+          "description": "Article URL: https://www.mozilla.org/en-GB/firefox/new/\nComments URL: https://news.ycombinator.com/item?id=28517314\nPoints: 38\n# Comments: 6",
+          "link": "https://www.mozilla.org/en-GB/firefox/new/",
+          "publishedOn": "2021-09-13T21:49:01.000Z",
+          "wordCount": 1364,
+          "title": "Firefox Browser: best for a free web"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28505406",
-          "author": "pcr910303",
-          "description": "Article URL: https://fmentzer.github.io/posts/2020/dictionary/\nComments URL: https://news.ycombinator.com/item?id=28505406\nPoints: 107\n# Comments: 26",
-          "link": "https://fmentzer.github.io/posts/2020/dictionary/",
-          "publishedOn": "2021-09-12T21:57:14.000Z",
-          "wordCount": 2892,
-          "title": "Reverse-Engineering Apple Dictionary"
+          "id": "https://news.ycombinator.com/item?id=28517079",
+          "author": "chippy",
+          "description": "Article URL: https://im1776.com/2021/09/10/graveyard-empire/\nComments URL: https://news.ycombinator.com/item?id=28517079\nPoints: 27\n# Comments: 12",
+          "link": "https://im1776.com/2021/09/10/graveyard-empire/",
+          "publishedOn": "2021-09-13T21:25:15.000Z",
+          "wordCount": 2375,
+          "title": "Adam Curtis’ “Bitter Lake”: A Review"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28505377",
-          "author": "miles",
-          "description": "Article URL: https://www.startribune.com/mound-man-wins-65k-after-being-fired-for-refusing-to-be-fingerprinted-due-to-christian-faith/600095353/\nComments URL: https://news.ycombinator.com/item?id=28505377\nPoints: 58\n# Comments: 61",
-          "link": "https://www.startribune.com/mound-man-wins-65k-after-being-fired-for-refusing-to-be-fingerprinted-due-to-christian-faith/600095353/",
-          "publishedOn": "2021-09-12T21:54:03.000Z",
-          "wordCount": 1969,
-          "title": "Man wins $65K after being fired for refusing to be fingerprinted"
+          "id": "https://news.ycombinator.com/item?id=28516925",
+          "author": "exolymph",
+          "description": "Article URL: https://www.sonyaellenmann.com/2015/09/why-skip-high-school.html\nComments URL: https://news.ycombinator.com/item?id=28516925\nPoints: 75\n# Comments: 128",
+          "link": "https://www.sonyaellenmann.com/2015/09/why-skip-high-school.html",
+          "publishedOn": "2021-09-13T21:10:59.000Z",
+          "wordCount": 926,
+          "title": "Smart kids should skip high school (2015)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28505050",
-          "author": "crbelaus",
-          "description": "Article URL: https://github.com/amule-project/amule/releases/tag/2.3.3\nComments URL: https://news.ycombinator.com/item?id=28505050\nPoints: 55\n# Comments: 7",
-          "link": "https://github.com/amule-project/amule/releases/tag/2.3.3",
-          "publishedOn": "2021-09-12T21:17:51.000Z",
-          "wordCount": 447,
-          "title": "AMule 2.3.3 – The “delayed too many times, but still not too late” version"
+          "id": "https://news.ycombinator.com/item?id=28516810",
+          "author": "jstreebin",
+          "description": "Article URL: https://www.easypost.com/careers\nComments URL: https://news.ycombinator.com/item?id=28516810\nPoints: 1\n# Comments: 0",
+          "link": "https://www.easypost.com/careers",
+          "publishedOn": "2021-09-13T21:00:26.000Z",
+          "wordCount": 381,
+          "title": "EasyPost (YC S13) is profitable and hiring"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28504673",
-          "author": "loo",
-          "description": "Article URL: https://ergo.chat\nComments URL: https://news.ycombinator.com/item?id=28504673\nPoints: 41\n# Comments: 33",
-          "link": "https://ergo.chat",
-          "publishedOn": "2021-09-12T20:38:49.000Z",
-          "wordCount": 18,
-          "title": "Ergo IRC Server"
+          "id": "https://news.ycombinator.com/item?id=28516262",
+          "author": "geox",
+          "description": "Article URL: https://news.mit.edu/2021/pancreatic-organoids-cancer-0913\nComments URL: https://news.ycombinator.com/item?id=28516262\nPoints: 104\n# Comments: 4",
+          "link": "https://news.mit.edu/2021/pancreatic-organoids-cancer-0913",
+          "publishedOn": "2021-09-13T20:15:33.000Z",
+          "wordCount": 1931,
+          "title": "Engineers grow pancreatic organoids that mimic the real thing"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28504627",
-          "author": "xqcgrek2",
-          "description": "Article URL: https://www.currentmarketvaluation.com/models/buffett-indicator.php\nComments URL: https://news.ycombinator.com/item?id=28504627\nPoints: 55\n# Comments: 21",
-          "link": "https://www.currentmarketvaluation.com/models/buffett-indicator.php",
-          "publishedOn": "2021-09-12T20:31:42.000Z",
-          "wordCount": 2671,
-          "title": "The Buffett Indicator"
+          "id": "https://news.ycombinator.com/item?id=28516219",
+          "author": "marc__1",
+          "description": "Article URL: https://www.investors.intuit.com/news/news-details/2021/Intuit-to-Acquire-Mailchimp/default.aspx\nComments URL: https://news.ycombinator.com/item?id=28516219\nPoints: 340\n# Comments: 221",
+          "link": "https://www.investors.intuit.com/news/news-details/2021/Intuit-to-Acquire-Mailchimp/default.aspx",
+          "publishedOn": "2021-09-13T20:12:45.000Z",
+          "wordCount": 2186,
+          "title": "Intuit to Acquire Mailchimp for $12B"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28504437",
-          "author": "infodocket",
-          "description": "Article URL: https://www.santafe.edu/news-center/news/researchers-reconstruct-major-branches-tree-language\nComments URL: https://news.ycombinator.com/item?id=28504437\nPoints: 18\n# Comments: 4",
-          "link": "https://www.santafe.edu/news-center/news/researchers-reconstruct-major-branches-tree-language",
-          "publishedOn": "2021-09-12T20:09:14.000Z",
-          "wordCount": 1030,
-          "title": "Researchers Reconstruct Major Branches in the Tree of Language"
+          "id": "https://news.ycombinator.com/item?id=28516095",
+          "author": "jbegley",
+          "description": "Article URL: https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/\nComments URL: https://news.ycombinator.com/item?id=28516095\nPoints: 475\n# Comments: 142",
+          "link": "https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/",
+          "publishedOn": "2021-09-13T20:04:09.000Z",
+          "wordCount": 1299,
+          "title": "NSO Group iMessage Zero-Click Exploit Captured in the Wild"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28503820",
+          "id": "https://news.ycombinator.com/item?id=28516064",
+          "author": "homarp",
+          "description": "Article URL: https://erkal.github.io/kite/\nComments URL: https://news.ycombinator.com/item?id=28516064\nPoints: 78\n# Comments: 8",
+          "link": "https://erkal.github.io/kite/",
+          "publishedOn": "2021-09-13T20:01:34.000Z",
+          "wordCount": 3,
+          "title": "Kite: An interactive visualization tool for graph theory"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28515623",
           "author": "nixass",
-          "description": "Article URL: https://tribunemag.co.uk/2021/09/fossil-fuel-capitalism-is-cutting-our-lives-short\nComments URL: https://news.ycombinator.com/item?id=28503820\nPoints: 259\n# Comments: 215",
-          "link": "https://tribunemag.co.uk/2021/09/fossil-fuel-capitalism-is-cutting-our-lives-short",
-          "publishedOn": "2021-09-12T19:01:52.000Z",
-          "wordCount": 1267,
-          "title": "17B life years could be saved if air pollution was reduced to WHO standards"
+          "description": "Article URL: https://www.businessinsider.com/tesla-new-mexico-nambe-pueblo-tribal-land-direct-sales-ban-2021-9\nComments URL: https://news.ycombinator.com/item?id=28515623\nPoints: 162\n# Comments: 132",
+          "link": "https://www.businessinsider.com/tesla-new-mexico-nambe-pueblo-tribal-land-direct-sales-ban-2021-9",
+          "publishedOn": "2021-09-13T19:24:10.000Z",
+          "wordCount": 1435,
+          "title": "Tesla opens a center on Native American land, selling cars straight to consumers"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28503546",
-          "author": "beepog",
-          "description": "Article URL: https://github.com/transmission/transmission/pull/1787\nComments URL: https://news.ycombinator.com/item?id=28503546\nPoints: 248\n# Comments: 93",
-          "link": "https://github.com/transmission/transmission/pull/1787",
-          "publishedOn": "2021-09-12T18:28:25.000Z",
-          "wordCount": 1356,
-          "title": "Transmission torrent client ported to C++"
+          "id": "https://news.ycombinator.com/item?id=28515579",
+          "author": "bfoks",
+          "description": "Article URL: https://github.com/pdfernhout/High-Performance-Organizations-Reading-List\nComments URL: https://news.ycombinator.com/item?id=28515579\nPoints: 89\n# Comments: 11",
+          "link": "https://github.com/pdfernhout/High-Performance-Organizations-Reading-List",
+          "publishedOn": "2021-09-13T19:20:16.000Z",
+          "wordCount": 19551,
+          "title": "High Performance Organizations Reading List"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28503487",
-          "author": "ingve",
-          "description": "Article URL: https://briancallahan.net/blog/20210911.html\nComments URL: https://news.ycombinator.com/item?id=28503487\nPoints: 96\n# Comments: 32",
-          "link": "https://briancallahan.net/blog/20210911.html",
-          "publishedOn": "2021-09-12T18:21:10.000Z",
-          "wordCount": 1644,
-          "title": "I got the J language working on OpenBSD"
+          "id": "https://news.ycombinator.com/item?id=28515457",
+          "author": "baoyu",
+          "description": "Article URL: https://www.improbable.com/2021/09/13/youtube-the-ig-nobel-prizes-and-the-year-1914/\nComments URL: https://news.ycombinator.com/item?id=28515457\nPoints: 363\n# Comments: 150",
+          "link": "https://www.improbable.com/2021/09/13/youtube-the-ig-nobel-prizes-and-the-year-1914/",
+          "publishedOn": "2021-09-13T19:09:49.000Z",
+          "wordCount": 349,
+          "title": "YouTube takes down the Ig Nobel show because of a 1914 recording"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28502849",
-          "author": "rwmj",
-          "description": "Article URL: https://www.os2museum.com/wp/learn-something-old-every-day-part-iii/\nComments URL: https://news.ycombinator.com/item?id=28502849\nPoints: 45\n# Comments: 11",
-          "link": "https://www.os2museum.com/wp/learn-something-old-every-day-part-iii/",
-          "publishedOn": "2021-09-12T17:04:38.000Z",
-          "wordCount": 2158,
-          "title": "Explaining how the MASM 2-pass assembler works"
+          "id": "https://news.ycombinator.com/item?id=28515035",
+          "author": "devadvance",
+          "description": "Article URL: https://video2webp.mattj.io\nComments URL: https://news.ycombinator.com/item?id=28515035\nPoints: 35\n# Comments: 17",
+          "link": "https://video2webp.mattj.io",
+          "publishedOn": "2021-09-13T18:37:35.000Z",
+          "wordCount": 177,
+          "title": "Show HN: Video2WebP – convert videos to animated WebP in the browser"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28502794",
-          "author": "arkadiyt",
-          "description": "Article URL: https://www.techspot.com/news/91174-germany-federal-police-agency-secretly-purchased-used-controversial.html\nComments URL: https://news.ycombinator.com/item?id=28502794\nPoints: 166\n# Comments: 45",
-          "link": "https://www.techspot.com/news/91174-germany-federal-police-agency-secretly-purchased-used-controversial.html",
-          "publishedOn": "2021-09-12T16:58:17.000Z",
-          "wordCount": 967,
-          "title": "Germany's federal police agency purchased and used 'Pegasus' spyware"
+          "id": "https://news.ycombinator.com/item?id=28515025",
+          "author": "marcodiego",
+          "description": "Article URL: http://pupngo.dk/xwinflpy/xwoaf_rebuild.html\nComments URL: https://news.ycombinator.com/item?id=28515025\nPoints: 88\n# Comments: 47",
+          "link": "http://pupngo.dk/xwinflpy/xwoaf_rebuild.html",
+          "publishedOn": "2021-09-13T18:36:51.000Z",
+          "wordCount": 919,
+          "title": "X Window System on a Floppy"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28502484",
-          "author": "hliyan",
-          "description": "Article URL: http://c-faq.com/\nComments URL: https://news.ycombinator.com/item?id=28502484\nPoints: 90\n# Comments: 39",
-          "link": "http://c-faq.com/",
-          "publishedOn": "2021-09-12T16:20:54.000Z",
-          "wordCount": 522,
-          "title": "Comp.lang.c Frequently Asked Questions"
+          "id": "https://news.ycombinator.com/item?id=28514998",
+          "author": "babblingfish",
+          "description": "Article URL: https://www.babbling.fish/scraping-for-a-job/\nComments URL: https://news.ycombinator.com/item?id=28514998\nPoints: 116\n# Comments: 41",
+          "link": "https://www.babbling.fish/scraping-for-a-job/",
+          "publishedOn": "2021-09-13T18:34:25.000Z",
+          "wordCount": 3000,
+          "title": "How to Crawl the Web with Scrapy"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28502414",
-          "author": "hihat",
-          "description": "Article URL: https://www.patkua.com/blog/how-many-people-can-someone-lead/\nComments URL: https://news.ycombinator.com/item?id=28502414\nPoints: 99\n# Comments: 50",
-          "link": "https://www.patkua.com/blog/how-many-people-can-someone-lead/",
-          "publishedOn": "2021-09-12T16:13:10.000Z",
-          "wordCount": 1912,
-          "title": "How Many People Can Someone Lead?"
+          "id": "https://news.ycombinator.com/item?id=28514695",
+          "author": "cheese_goddess",
+          "description": "Article URL: https://www.science.org/content/article/barnyard-breakthrough-researchers-successfully-potty-train-cows\nComments URL: https://news.ycombinator.com/item?id=28514695\nPoints: 180\n# Comments: 226",
+          "link": "https://www.science.org/content/article/barnyard-breakthrough-researchers-successfully-potty-train-cows",
+          "publishedOn": "2021-09-13T18:07:40.000Z",
+          "wordCount": 258,
+          "title": "Researchers successfully potty-train cows"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28501505",
-          "author": "pkilgore",
-          "description": "Article URL: http://beam-wisdoms.clau.se/en/latest/index.html\nComments URL: https://news.ycombinator.com/item?id=28501505\nPoints: 281\n# Comments: 48",
-          "link": "http://beam-wisdoms.clau.se/en/latest/index.html",
-          "publishedOn": "2021-09-12T14:33:42.000Z",
-          "wordCount": 321,
-          "title": "Beam/Erlang/Elixir Concept Explanations"
+          "id": "https://news.ycombinator.com/item?id=28514298",
+          "author": "edent",
+          "description": "Article URL: https://tweeview.ml/\nComments URL: https://news.ycombinator.com/item?id=28514298\nPoints: 45\n# Comments: 13",
+          "link": "https://tweeview.ml/",
+          "publishedOn": "2021-09-13T17:38:02.000Z",
+          "wordCount": 64,
+          "title": "Show HN: TweeView – A Tree Visualisation of Twitter Conversations"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28501429",
-          "author": "zdw",
-          "description": "Article URL: https://robert.ocallahan.org/2021/09/emulating-amd-rsqrtss-etc-on-intel.html\nComments URL: https://news.ycombinator.com/item?id=28501429\nPoints: 69\n# Comments: 16",
-          "link": "https://robert.ocallahan.org/2021/09/emulating-amd-rsqrtss-etc-on-intel.html",
-          "publishedOn": "2021-09-12T14:25:16.000Z",
-          "wordCount": 1592,
-          "title": "Emulating AMD Approximate Arithmetic Instructions on Intel"
+          "id": "https://news.ycombinator.com/item?id=28514159",
+          "author": "ZeroCool2u",
+          "description": "Article URL: https://rave.dj/\nComments URL: https://news.ycombinator.com/item?id=28514159\nPoints: 56\n# Comments: 39",
+          "link": "https://rave.dj/",
+          "publishedOn": "2021-09-13T17:26:24.000Z",
+          "wordCount": 8,
+          "title": "RaveDJ – AI Music Mashup Maker"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=28500577",
-          "author": "Anon84",
-          "description": "Article URL: https://physicsbaseddeeplearning.org/intro.html\nComments URL: https://news.ycombinator.com/item?id=28500577\nPoints: 165\n# Comments: 17",
-          "link": "https://physicsbaseddeeplearning.org/intro.html",
-          "publishedOn": "2021-09-12T12:36:03.000Z",
-          "wordCount": 715,
-          "title": "Physics-Based Deep Learning Book"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28500508",
-          "author": "mrfusion",
-          "description": "Article URL: https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/\nComments URL: https://news.ycombinator.com/item?id=28500508\nPoints: 432\n# Comments: 234",
-          "link": "https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/",
-          "publishedOn": "2021-09-12T12:22:47.000Z",
-          "wordCount": 1590,
-          "title": "Leaded Gas Was a Known Poison the Day It Was Invented (2016)"
+          "id": "https://news.ycombinator.com/item?id=28514029",
+          "author": "jaredcwhite",
+          "description": "Article URL: https://www.bridgetownrb.com/future/rip-jekyll/\nComments URL: https://news.ycombinator.com/item?id=28514029\nPoints: 53\n# Comments: 74",
+          "link": "https://www.bridgetownrb.com/future/rip-jekyll/",
+          "publishedOn": "2021-09-13T17:15:39.000Z",
+          "wordCount": 1456,
+          "title": "RIP Jekyll (The Genesis of the Jamstack)"
         }
       ]
     }
